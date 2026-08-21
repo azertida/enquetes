@@ -116,6 +116,16 @@
             margin-bottom: 26px;
         }
 
+        /* Rangée « type » : collée à celle des chaînes, en retrait visuel */
+        #filtres-type {
+            margin-bottom: 10px;
+        }
+
+        #filtres-type .filtre[aria-pressed="true"] {
+            background: var(--terracotta);
+            border-color: var(--terracotta);
+        }
+
         .filtre {
             font-family: inherit;
             font-size: 0.92em;
@@ -371,6 +381,7 @@
             <div class="meta" id="meta">Chargement…</div>
         </header>
 
+        <div class="filtres" id="filtres-type"></div>
         <div class="filtres" id="filtres"></div>
 
         <main id="contenu">
@@ -396,6 +407,7 @@
 
         let programmes = [];
         let chaineActive = null;   // null = toutes
+        let typeActif = null;      // null = tout, 'serie' ou 'telefilm'
 
         const FMT_JOUR = new Intl.DateTimeFormat('fr-FR', {
             weekday: 'long', day: 'numeric', month: 'long'
@@ -516,16 +528,16 @@
 
         function affiche() {
             const contenu = document.getElementById('contenu');
-            const liste = chaineActive
-                ? programmes.filter(p => p.channel === chaineActive)
-                : programmes;
+            const liste = programmes.filter(p =>
+                (!chaineActive || p.channel === chaineActive) &&
+                (!typeActif || p.origine === typeActif));
 
             if (!liste.length) {
                 contenu.innerHTML = `
                     <div class="vide">
                         <h2>Aucune enquête en vue</h2>
-                        <p>${chaineActive
-                            ? 'Rien sur cette chaîne dans les sept prochains jours.'
+                        <p>${(chaineActive || typeActif)
+                            ? 'Rien ne correspond à cette sélection sur les sept prochains jours.'
                             : 'Rien dans les sept prochains jours. Revenez demain.'}</p>
                     </div>`;
                 return;
@@ -548,6 +560,36 @@
                     </section>`;
             }
             contenu.innerHTML = html;
+        }
+
+        function construitFiltresType() {
+            const zone = document.getElementById('filtres-type');
+            const nbSeries = programmes.filter(p => p.origine === 'serie').length;
+            const nbFilms = programmes.length - nbSeries;
+
+            // Inutile de proposer un tri si tout relève de la même catégorie
+            if (!nbSeries || !nbFilms) { zone.innerHTML = ''; return; }
+
+            const boutons = [
+                ['Tout', null],
+                [`Séries (${nbSeries})`, 'serie'],
+                [`Téléfilms (${nbFilms})`, 'telefilm'],
+            ];
+
+            zone.innerHTML = boutons.map(([label, valeur]) => `
+                <button class="filtre" aria-pressed="${valeur === typeActif}"
+                        data-type="${valeur === null ? '' : valeur}">
+                    ${label}
+                </button>`).join('');
+
+            zone.querySelectorAll('.filtre').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    typeActif = btn.dataset.type || null;
+                    zone.querySelectorAll('.filtre').forEach(b =>
+                        b.setAttribute('aria-pressed', (b.dataset.type || null) === typeActif));
+                    affiche();
+                });
+            });
         }
 
         function construitFiltres(chaines) {
@@ -617,6 +659,7 @@
                     + `mis à jour le ${FMT_MAJ.format(maj).replace(':', ' h ')}`;
 
                 const chaines = [...new Set(programmes.map(p => p.channel))].sort();
+                construitFiltresType();
                 construitFiltres(chaines);
                 affiche();
             } catch (err) {
