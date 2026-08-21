@@ -2,8 +2,8 @@ name: Mise à jour quotidienne d'Enquêtes
 
 on:
   schedule:
-    - cron: '13 5 * * *'
-    - cron: '37 8 * * *'
+    - cron: '31 5 * * *'
+    - cron: '52 8 * * *'
   workflow_dispatch:
 
 jobs:
