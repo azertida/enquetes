@@ -283,6 +283,24 @@ def extract_programmes(tree, channel_ids_by_canonical, window_start, window_end,
         icon_el = prog.find("icon")
         icon = icon_el.get("src", "") if icon_el is not None else ""
 
+        # --- Métadonnées d'épisode (diagnostic : Pickx les remplit-il ?) ---
+        # <episode-num> peut apparaître plusieurs fois, avec des systèmes
+        # différents (xmltv_ns, onscreen…). On garde tout, indexé par système.
+        episode_nums = {}
+        for el in prog.findall("episode-num"):
+            systeme = el.get("system", "inconnu")
+            valeur = (el.text or "").strip()
+            if valeur:
+                episode_nums[systeme] = valeur
+
+        date_el = prog.find("date")
+        annee = (date_el.text or "").strip() if date_el is not None else ""
+
+        # Présence de la balise = déjà diffusé ; l'attribut donne parfois la date
+        deja_vu_el = prog.find("previously-shown")
+        deja_vu = deja_vu_el is not None
+        deja_vu_date = deja_vu_el.get("start", "") if deja_vu is not None and deja_vu_el is not None else ""
+
         programmes.append({
             "start": start_dt.isoformat(),
             "stop": stop_dt.isoformat(),
@@ -294,6 +312,10 @@ def extract_programmes(tree, channel_ids_by_canonical, window_start, window_end,
             "icon": icon,
             "origine": origine,
             "serie": serie,
+            "episode_nums": episode_nums,
+            "annee": annee,
+            "deja_diffuse": deja_vu,
+            "deja_diffuse_date": deja_vu_date,
         })
 
     # Déduplication : Pickx répète les programmes sur les variantes HD/SD/+1
@@ -372,6 +394,39 @@ def main():
     if jamais_vues:
         print(f"\n💤 Sans diffusion sur la fenêtre ({len(jamais_vues)}) :")
         print("   " + ", ".join(jamais_vues))
+
+    # --- Diagnostic : Pickx renseigne-t-il les métadonnées d'épisode ? ---
+    # Sortie de log uniquement, rien n'est affiché dans l'appli.
+    if programmes:
+        n = len(programmes)
+        avec_num = [p for p in programmes if p["episode_nums"]]
+        avec_annee = [p for p in programmes if p["annee"]]
+        avec_rediff = [p for p in programmes if p["deja_diffuse"]]
+        avec_rediff_date = [p for p in programmes if p["deja_diffuse_date"]]
+
+        print(f"\n🔬 Métadonnées d'épisode sur {n} programmes :")
+        print(f"   episode-num       : {len(avec_num):>3} ({len(avec_num)*100//n} %)")
+        print(f"   date (année)      : {len(avec_annee):>3} ({len(avec_annee)*100//n} %)")
+        print(f"   previously-shown  : {len(avec_rediff):>3} ({len(avec_rediff)*100//n} %)")
+        print(f"     dont avec date  : {len(avec_rediff_date):>3}")
+
+        systemes = {}
+        for p in avec_num:
+            for sys_nom in p["episode_nums"]:
+                systemes[sys_nom] = systemes.get(sys_nom, 0) + 1
+        if systemes:
+            print(f"   systèmes rencontrés : {systemes}")
+
+        for libelle, echantillon, champ in [
+            ("episode-num", avec_num, "episode_nums"),
+            ("année", avec_annee, "annee"),
+            ("previously-shown", avec_rediff, "deja_diffuse_date"),
+        ]:
+            if echantillon:
+                print(f"   — exemples {libelle} :")
+                for p in echantillon[:3]:
+                    detail = p[champ] or "(balise présente, sans date)"
+                    print(f"       {p['title'][:38]:38} {detail}")
 
     output = {
         "generated_at": now.isoformat(),
