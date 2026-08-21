@@ -1,1 +1,58 @@
+name: Mise à jour quotidienne d'Enquêtes
+
+on:
+  schedule:
+    - cron: '13 5 * * *'
+    - cron: '37 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Cloner le dépôt
+        uses: actions/checkout@v4
+      
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Configurer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Cloner iptv-org/epg
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git /tmp/epg
+          cd /tmp/epg
+          npm install --silent
+      
+      - name: Récupérer la grille Pickx (6 chaînes ciblées)
+        run: |
+          cd /tmp/epg
+          npm run grab -- --channels=$GITHUB_WORKSPACE/pickx_channels.xml --days=7 --output=/tmp/pickx_guide.xml
+          echo "Taille du fichier généré :"
+          ls -lh /tmp/pickx_guide.xml
+      
+      - name: Lancer la collecte
+        run: |
+          python3 enquetes.py --source=/tmp/pickx_guide.xml
+      
+      - name: Commit du enquetes.json si modifié
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add enquetes.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement dans enquetes.json"
+          else
+            git commit -m "🤖 Mise à jour automatique du enquetes"
+            git pull --rebase origin main
+            git push
+          fi
 
