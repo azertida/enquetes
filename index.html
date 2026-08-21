@@ -19,6 +19,28 @@
     <link rel="manifest" href="manifest.json">
 
     <style>
+        /* Polices auto-hébergées, sous-ensemblées (latin + latin étendu).
+           Aucune requête vers un tiers. */
+        @font-face {
+            font-family: 'Fraunces';
+            src: url('fraunces-600.woff2') format('woff2');
+            font-weight: 600; font-style: normal; font-display: swap;
+        }
+        @font-face {
+            font-family: 'Atkinson Hyperlegible';
+            src: url('atkinson-400.woff2') format('woff2');
+            font-weight: 400; font-style: normal; font-display: swap;
+        }
+        @font-face {
+            font-family: 'Atkinson Hyperlegible';
+            src: url('atkinson-700.woff2') format('woff2');
+            font-weight: 700; font-style: normal; font-display: swap;
+        }
+        @font-face {
+            font-family: 'Space Grotesk';
+            src: url('grotesk-700.woff2') format('woff2');
+            font-weight: 700; font-style: normal; font-display: swap;
+        }
         :root {
             --papier:     #F6F1E7;
             --papier-vif: #FFFCF6;
@@ -96,7 +118,7 @@
         .filtre {
             font-family: inherit;
             font-size: 0.92em;
-            font-weight: 600;
+            font-weight: 700;
             color: var(--encre);
             background: var(--papier-vif);
             border: 1.5px solid var(--trait);
@@ -215,6 +237,28 @@
             color: var(--encre-doux);
             margin-top: 9px;
         }
+
+        /* Résumé tronqué à trois lignes, dépliable */
+        .fiche-resume.tronque {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .btn-plus {
+            font-family: inherit;
+            font-size: 0.86em;
+            font-weight: 700;
+            color: var(--bleu-gris);
+            background: none;
+            border: none;
+            padding: 4px 0 0;
+            cursor: pointer;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .btn-plus:hover { color: var(--terracotta); }
 
         .fiche-actions {
             margin-top: 12px;
@@ -363,11 +407,27 @@
         }
 
         // Clé de journée en heure LOCALE — jamais toISOString()
+        //
+        // Règle de la « journée télé » : tout ce qui commence avant 2 h du
+        // matin appartient à la soirée de la veille. Un film à 00 h 45 dans
+        // la nuit de mardi à mercredi s'affiche donc sous « mardi ».
+        const HEURE_BASCULE = 2;
+
         function jourLogique(date) {
-            const a = date.getFullYear();
-            const m = String(date.getMonth() + 1).padStart(2, '0');
-            const j = String(date.getDate()).padStart(2, '0');
+            const d = new Date(date);
+            if (d.getHours() < HEURE_BASCULE) {
+                d.setDate(d.getDate() - 1);
+            }
+            const a = d.getFullYear();
+            const m = String(d.getMonth() + 1).padStart(2, '0');
+            const j = String(d.getDate()).padStart(2, '0');
             return `${a}-${m}-${j}`;
+        }
+
+        // Date d'affichage de l'intertitre, cohérente avec jourLogique
+        function dateDuJour(cle) {
+            const [a, m, j] = cle.split('-').map(Number);
+            return new Date(a, m - 1, j);
         }
 
         function duree(debutISO, finISO) {
@@ -394,6 +454,13 @@
                 description: p.description || ''
             };
 
+            // Résumé tronqué au-delà d'environ trois lignes
+            const resume = p.description
+                ? `<div class="fiche-resume${p.description.length > 150 ? ' tronque' : ''}">${echappe(p.description)}</div>`
+                  + (p.description.length > 150
+                     ? `<button class="btn-plus" onclick="basculeResume(this)">Lire plus</button>` : '')
+                : '';
+
             return `
                 <article class="fiche" data-partage="${echappe(JSON.stringify(partage))}">
                     <div class="fiche-tete">
@@ -406,7 +473,7 @@
                                 <span class="etiquette ${estSerie ? 'serie' : 'telefilm'}">${estSerie ? 'Série' : 'Téléfilm'}</span>
                                 <span class="fiche-duree">${duree(p.start, p.stop)}</span>
                             </div>
-                            ${p.description ? `<div class="fiche-resume">${echappe(p.description)}</div>` : ''}
+                            ${resume}
                             <div class="fiche-actions">
                                 <button class="btn-partage" onclick="partager(this)">Partager</button>
                             </div>
@@ -414,6 +481,13 @@
                     </div>
                 </article>
             `;
+        }
+
+        // Déplie ou replie un résumé
+        function basculeResume(btn) {
+            const resume = btn.previousElementSibling;
+            const replie = resume.classList.toggle('tronque');
+            btn.textContent = replie ? 'Lire plus' : 'Lire moins';
         }
 
         function affiche() {
@@ -443,10 +517,9 @@
 
             let html = '';
             for (const [cle, items] of parJour) {
-                const date = new Date(items[0].start);
                 html += `
                     <section class="jour">
-                        <h2 class="jour-titre">${capitale(FMT_JOUR.format(date))}</h2>
+                        <h2 class="jour-titre">${capitale(FMT_JOUR.format(dateDuJour(cle)))}</h2>
                         ${items.map(fiche).join('')}
                     </section>`;
             }
