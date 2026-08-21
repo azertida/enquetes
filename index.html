@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Enquêtes</title>
+
+    <!-- PWA : configuration commune -->
+    <meta name="description" content="Les séries policières et téléfilms du terroir franco-belges à venir sur 7 jours">
+    <meta name="theme-color" content="#F6F1E7">
+
+    <!-- iOS (Safari) : pas de manifest requis -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Enquêtes">
+    <link rel="apple-touch-icon" href="icon.png">
+
+    <!-- Android (Chrome) : manifest indispensable pour l'installation -->
+    <link rel="manifest" href="manifest.json">
+
+    <style>
+        :root {
+            --papier:     #F6F1E7;
+            --papier-vif: #FFFCF6;
+            --encre:      #2E2A26;
+            --encre-doux: #6B635A;
+            --terracotta: #C0673A;
+            --bleu-gris:  #5B7E96;
+            --trait:      #E0D7C7;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        html, body {
+            overflow-x: hidden;
+            max-width: 100%;
+        }
+
+        body {
+            font-family: 'Atkinson Hyperlegible', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: var(--papier);
+            color: var(--encre);
+            line-height: 1.55;
+            font-size: 17px;
+            padding: 20px 16px;
+            padding-top: max(20px, env(safe-area-inset-top));
+            padding-bottom: max(32px, env(safe-area-inset-bottom));
+        }
+
+        .container {
+            max-width: 760px;
+            margin: 0 auto;
+        }
+
+        /* ---------- En-tête ---------- */
+        header {
+            border-bottom: 2px solid var(--encre);
+            padding-bottom: 18px;
+            margin-bottom: 22px;
+        }
+
+        header h1 {
+            font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
+            font-size: 2.3em;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+            line-height: 1.1;
+            margin-bottom: 6px;
+        }
+
+        header .accroche {
+            color: var(--encre-doux);
+            font-size: 0.98em;
+        }
+
+        header .meta {
+            margin-top: 12px;
+            font-size: 0.86em;
+            color: var(--encre-doux);
+        }
+
+        /* ---------- Filtres chaînes : boutons visibles ---------- */
+        .filtres {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 26px;
+        }
+
+        .filtre {
+            font-family: inherit;
+            font-size: 0.92em;
+            font-weight: 600;
+            color: var(--encre);
+            background: var(--papier-vif);
+            border: 1.5px solid var(--trait);
+            border-radius: 999px;
+            padding: 9px 16px;
+            cursor: pointer;
+            -webkit-tap-highlight-color: transparent;
+            transition: background 0.15s ease, border-color 0.15s ease;
+        }
+
+        .filtre:hover { border-color: var(--bleu-gris); }
+
+        .filtre[aria-pressed="true"] {
+            background: var(--encre);
+            border-color: var(--encre);
+            color: var(--papier-vif);
+        }
+
+        /* ---------- Journée ---------- */
+        .jour {
+            margin-bottom: 30px;
+        }
+
+        .jour-titre {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 1.18em;
+            font-weight: 600;
+            color: var(--terracotta);
+            border-bottom: 1px solid var(--trait);
+            padding-bottom: 6px;
+            margin-bottom: 14px;
+        }
+
+        /* ---------- Fiche programme ---------- */
+        .fiche {
+            background: var(--papier-vif);
+            border: 1px solid var(--trait);
+            border-radius: 12px;
+            padding: 16px 18px;
+            margin-bottom: 12px;
+        }
+
+        .fiche-tete {
+            display: flex;
+            gap: 14px;
+            align-items: flex-start;
+        }
+
+        .fiche-heure {
+            font-family: 'Space Grotesk', 'DM Mono', ui-monospace, monospace;
+            font-size: 1.12em;
+            font-weight: 700;
+            color: var(--encre);
+            flex-shrink: 0;
+            padding-top: 1px;
+            min-width: 3.6em;
+        }
+
+        .fiche-corps { flex: 1; min-width: 0; }
+
+        .fiche-titre {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 1.12em;
+            font-weight: 600;
+            line-height: 1.3;
+            margin-bottom: 3px;
+        }
+
+        .fiche-sous-titre {
+            color: var(--encre-doux);
+            font-size: 0.93em;
+            font-style: italic;
+            margin-bottom: 8px;
+        }
+
+        .etiquettes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .etiquette {
+            font-size: 0.78em;
+            font-weight: 700;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            border-radius: 6px;
+            padding: 3px 9px;
+        }
+
+        .etiquette.chaine {
+            background: rgba(91, 126, 150, 0.14);
+            color: #3F5C70;
+        }
+
+        .etiquette.serie {
+            background: rgba(192, 103, 58, 0.14);
+            color: var(--terracotta);
+        }
+
+        .etiquette.telefilm {
+            background: rgba(46, 42, 38, 0.09);
+            color: var(--encre-doux);
+        }
+
+        .fiche-duree {
+            font-family: 'Space Grotesk', ui-monospace, monospace;
+            font-size: 0.84em;
+            color: var(--encre-doux);
+        }
+
+        .fiche-resume {
+            font-size: 0.94em;
+            color: var(--encre-doux);
+            margin-top: 9px;
+        }
+
+        .fiche-actions {
+            margin-top: 12px;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .btn-partage {
+            font-family: inherit;
+            font-size: 0.88em;
+            font-weight: 600;
+            color: var(--encre);
+            background: transparent;
+            border: 1.5px solid var(--trait);
+            border-radius: 8px;
+            padding: 7px 14px;
+            cursor: pointer;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .btn-partage:hover, .btn-partage:active {
+            border-color: var(--terracotta);
+            color: var(--terracotta);
+        }
+
+        /* ---------- États ---------- */
+        .attente, .vide, .erreur {
+            text-align: center;
+            padding: 44px 20px;
+            color: var(--encre-doux);
+        }
+
+        .vide h2, .erreur h2 {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 1.3em;
+            color: var(--encre);
+            margin-bottom: 8px;
+        }
+
+        .erreur { border: 1px solid var(--terracotta); border-radius: 12px; }
+
+        .rouage {
+            width: 34px;
+            height: 34px;
+            border: 3px solid var(--trait);
+            border-top-color: var(--terracotta);
+            border-radius: 50%;
+            animation: tourne 0.9s linear infinite;
+            margin: 0 auto 14px;
+        }
+
+        @keyframes tourne { to { transform: rotate(360deg); } }
+
+        /* ---------- Pied ---------- */
+        .avertissement {
+            font-size: 0.88em;
+            color: var(--encre-doux);
+            background: var(--papier-vif);
+            border-left: 3px solid var(--bleu-gris);
+            border-radius: 0 8px 8px 0;
+            padding: 13px 16px;
+            margin-top: 30px;
+        }
+
+        .barre-recharge {
+            text-align: center;
+            margin-top: 22px;
+        }
+
+        .btn-recharge {
+            font-family: inherit;
+            font-size: 0.94em;
+            font-weight: 600;
+            color: var(--encre);
+            background: var(--papier-vif);
+            border: 1.5px solid var(--trait);
+            border-radius: 10px;
+            padding: 11px 22px;
+            cursor: pointer;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .btn-recharge:active { border-color: var(--terracotta); }
+
+        @media (max-width: 480px) {
+            body { font-size: 16px; padding: 16px 12px; }
+            header h1 { font-size: 1.9em; }
+            .fiche { padding: 14px; }
+            .fiche-tete { gap: 11px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Enquêtes</h1>
+            <p class="accroche">Séries policières et téléfilms du terroir, sur sept jours</p>
+            <div class="meta" id="meta">Chargement…</div>
+        </header>
+
+        <div class="filtres" id="filtres"></div>
+
+        <main id="contenu">
+            <div class="attente">
+                <div class="rouage"></div>
+                <p>Chargement du programme…</p>
+            </div>
+        </main>
+
+        <p class="avertissement">
+            Enquêtes repère les séries policières franco-belges suivies et les
+            téléfilms du terroir. Certains inédits au titre inattendu peuvent
+            lui échapper&nbsp;: un coup d'œil au programme reste utile.
+        </p>
+
+        <div class="barre-recharge">
+            <button class="btn-recharge" id="btn-recharge">↻ Rafraîchir</button>
+        </div>
+    </div>
+
+    <script>
+        const SOURCE = 'enquetes.json';
+
+        let programmes = [];
+        let chaineActive = null;   // null = toutes
+
+        const FMT_JOUR = new Intl.DateTimeFormat('fr-FR', {
+            weekday: 'long', day: 'numeric', month: 'long'
+        });
+        const FMT_HEURE = new Intl.DateTimeFormat('fr-FR', {
+            hour: '2-digit', minute: '2-digit'
+        });
+        const FMT_MAJ = new Intl.DateTimeFormat('fr-FR', {
+            day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit'
+        });
+
+        function capitale(s) {
+            return s.charAt(0).toUpperCase() + s.slice(1);
+        }
+
+        function echappe(s) {
+            if (!s) return '';
+            return s.replace(/&/g, '&amp;').replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;').replace(/"/g, '&quot;')
+                    .replace(/'/g, '&#39;');
+        }
+
+        // Clé de journée en heure LOCALE — jamais toISOString()
+        function jourLogique(date) {
+            const a = date.getFullYear();
+            const m = String(date.getMonth() + 1).padStart(2, '0');
+            const j = String(date.getDate()).padStart(2, '0');
+            return `${a}-${m}-${j}`;
+        }
+
+        function duree(debutISO, finISO) {
+            const min = Math.round((new Date(finISO) - new Date(debutISO)) / 60000);
+            const h = Math.floor(min / 60), m = min % 60;
+            if (h === 0) return `${m} min`;
+            if (m === 0) return `${h} h`;
+            return `${h} h ${String(m).padStart(2, '0')}`;
+        }
+
+        function fiche(p) {
+            const debut = new Date(p.start);
+            const heure = FMT_HEURE.format(debut).replace(':', ' h ');
+            const estSerie = p.origine === 'serie';
+
+            // Le sous-titre n'est affiché que s'il apporte quelque chose
+            const sousTitre = (p.subtitle && p.subtitle !== p.title)
+                ? `<div class="fiche-sous-titre">${echappe(p.subtitle)}</div>` : '';
+
+            const partage = {
+                title: p.title,
+                channel: p.channel,
+                when: capitale(FMT_JOUR.format(debut)) + ' à ' + heure,
+                description: p.description || ''
+            };
+
+            return `
+                <article class="fiche" data-partage="${echappe(JSON.stringify(partage))}">
+                    <div class="fiche-tete">
+                        <div class="fiche-heure">${heure}</div>
+                        <div class="fiche-corps">
+                            <div class="fiche-titre">${echappe(p.title)}</div>
+                            ${sousTitre}
+                            <div class="etiquettes">
+                                <span class="etiquette chaine">${echappe(p.channel)}</span>
+                                <span class="etiquette ${estSerie ? 'serie' : 'telefilm'}">${estSerie ? 'Série' : 'Téléfilm'}</span>
+                                <span class="fiche-duree">${duree(p.start, p.stop)}</span>
+                            </div>
+                            ${p.description ? `<div class="fiche-resume">${echappe(p.description)}</div>` : ''}
+                            <div class="fiche-actions">
+                                <button class="btn-partage" onclick="partager(this)">Partager</button>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            `;
+        }
+
+        function affiche() {
+            const contenu = document.getElementById('contenu');
+            const liste = chaineActive
+                ? programmes.filter(p => p.channel === chaineActive)
+                : programmes;
+
+            if (!liste.length) {
+                contenu.innerHTML = `
+                    <div class="vide">
+                        <h2>Aucune enquête en vue</h2>
+                        <p>${chaineActive
+                            ? 'Rien sur cette chaîne dans les sept prochains jours.'
+                            : 'Rien dans les sept prochains jours. Revenez demain.'}</p>
+                    </div>`;
+                return;
+            }
+
+            // Regroupement par journée, en heure locale
+            const parJour = new Map();
+            liste.forEach(p => {
+                const cle = jourLogique(new Date(p.start));
+                if (!parJour.has(cle)) parJour.set(cle, []);
+                parJour.get(cle).push(p);
+            });
+
+            let html = '';
+            for (const [cle, items] of parJour) {
+                const date = new Date(items[0].start);
+                html += `
+                    <section class="jour">
+                        <h2 class="jour-titre">${capitale(FMT_JOUR.format(date))}</h2>
+                        ${items.map(fiche).join('')}
+                    </section>`;
+            }
+            contenu.innerHTML = html;
+        }
+
+        function construitFiltres(chaines) {
+            const zone = document.getElementById('filtres');
+            const boutons = [['Toutes', null], ...chaines.map(c => [c, c])];
+
+            zone.innerHTML = boutons.map(([label, valeur]) => `
+                <button class="filtre" aria-pressed="${valeur === chaineActive}"
+                        data-chaine="${valeur === null ? '' : echappe(valeur)}">
+                    ${echappe(label)}
+                </button>`).join('');
+
+            zone.querySelectorAll('.filtre').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    chaineActive = btn.dataset.chaine || null;
+                    zone.querySelectorAll('.filtre').forEach(b =>
+                        b.setAttribute('aria-pressed', (b.dataset.chaine || null) === chaineActive));
+                    affiche();
+                });
+            });
+        }
+
+        async function partager(btn) {
+            const fiche = btn.closest('.fiche');
+            const d = JSON.parse(fiche.dataset.partage);
+            const texte = `${d.title}\n${d.when} sur ${d.channel}\n\n${d.description}`;
+
+            if (navigator.share) {
+                try { await navigator.share({ title: d.title, text: texte }); }
+                catch (e) { /* annulé */ }
+            } else if (navigator.clipboard) {
+                try {
+                    await navigator.clipboard.writeText(texte);
+                    const avant = btn.textContent;
+                    btn.textContent = '✓ Copié';
+                    setTimeout(() => btn.textContent = avant, 2000);
+                } catch (e) { alert('Impossible de partager'); }
+            } else {
+                alert(texte);
+            }
+        }
+
+        async function charger() {
+            const contenu = document.getElementById('contenu');
+            const meta = document.getElementById('meta');
+
+            contenu.innerHTML = `
+                <div class="attente">
+                    <div class="rouage"></div>
+                    <p>Chargement du programme…</p>
+                </div>`;
+
+            try {
+                // Cache-busting : GitHub Pages met le JSON en cache trop longtemps
+                const rep = await fetch(SOURCE + '?t=' + Date.now());
+                if (!rep.ok) throw new Error('HTTP ' + rep.status);
+                const data = await rep.json();
+
+                programmes = data.programmes || [];
+
+                const maj = new Date(data.generated_at);
+                const nbSeries = programmes.filter(p => p.origine === 'serie').length;
+                const nbFilms = programmes.length - nbSeries;
+                meta.textContent =
+                    `${nbSeries} série${nbSeries > 1 ? 's' : ''}, `
+                    + `${nbFilms} téléfilm${nbFilms > 1 ? 's' : ''} · `
+                    + `mis à jour le ${FMT_MAJ.format(maj).replace(':', ' h ')}`;
+
+                const chaines = [...new Set(programmes.map(p => p.channel))].sort();
+                construitFiltres(chaines);
+                affiche();
+            } catch (err) {
+                console.error('Erreur de chargement :', err);
+                contenu.innerHTML = `
+                    <div class="erreur">
+                        <h2>Impossible de charger</h2>
+                        <p>Vérifiez votre connexion et réessayez.</p>
+                        <p style="margin-top:10px; font-size:0.85em; opacity:0.7;">${echappe(err.message)}</p>
+                    </div>`;
+            }
+        }
+
+        document.getElementById('btn-recharge').addEventListener('click', charger);
+        charger();
+
+        // Service worker « vide » : aucun cache, il sert uniquement à rendre
+        // l'appli installable sous Chrome/Android. Les données restent fraîches.
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service-worker.js')
+                .catch(err => console.log('Service worker non enregistré :', err));
+        }
+    </script>
+</body>
+</html>
