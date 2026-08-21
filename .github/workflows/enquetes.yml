@@ -1,1 +1,37 @@
+name: "Mise à jour quotidienne d'Enquêtes"
+
+on:
+  schedule:
+    - cron: '31 5 * * *'
+    - cron: '52 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Cloner le dépôt
+        uses: actions/checkout@v4
+      
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Configurer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Cloner iptv-org/epg
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git /tmp/epg
+          cd /tmp/epg
+          npm install --silent
+      
+      - name: Récupérer la grille Pickx (6 chaînes ciblées)
+        run: |
 
