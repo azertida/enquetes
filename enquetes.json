@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:35:35.753341+00:00",
+  "generated_at": "2026-08-21T19:43:51.908285+00:00",
   "window_start": "2026-08-21",
   "window_end": "2026-08-28",
   "source": "Pickx via iptv-org/epg",
@@ -29,10 +29,7 @@
       "episode_nums": {
         "xmltv_ns": "2.6.0/1",
         "onscreen": "S03E07"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-21T20:42:00+00:00",
@@ -48,10 +45,7 @@
       "episode_nums": {
         "xmltv_ns": "8.0.0/1",
         "onscreen": "S09E01"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-21T20:45:00+00:00",
@@ -67,10 +61,7 @@
       "episode_nums": {
         "xmltv_ns": "2.7.0/1",
         "onscreen": "S03E08"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-21T22:20:00+00:00",
@@ -86,10 +77,7 @@
       "episode_nums": {
         "xmltv_ns": "2.5.0/1",
         "onscreen": "S03E06"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-21T23:55:00+00:00",
@@ -105,10 +93,7 @@
       "episode_nums": {
         "xmltv_ns": "0.6.0/1",
         "onscreen": "S01E07"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-22T18:57:00+00:00",
@@ -124,10 +109,7 @@
       "episode_nums": {
         "xmltv_ns": "9.3.0/1",
         "onscreen": "S10E04"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-22T19:10:00+00:00",
@@ -143,10 +125,7 @@
       "episode_nums": {
         "xmltv_ns": "9.6.0/1",
         "onscreen": "S10E07"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-22T20:45:00+00:00",
@@ -162,10 +141,7 @@
       "episode_nums": {
         "xmltv_ns": "2.2.0/1",
         "onscreen": "S03E03"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-23T11:30:00+00:00",
@@ -181,10 +157,7 @@
       "episode_nums": {
         "xmltv_ns": "5.1.0/1",
         "onscreen": "S06E02"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-23T13:15:00+00:00",
@@ -200,10 +173,7 @@
       "episode_nums": {
         "xmltv_ns": "3.1.0/1",
         "onscreen": "S04E02"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T13:16:00+00:00",
@@ -219,10 +189,7 @@
       "episode_nums": {
         "xmltv_ns": "7.8.0/1",
         "onscreen": "S08E09"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T14:12:00+00:00",
@@ -238,10 +205,7 @@
       "episode_nums": {
         "xmltv_ns": "7.9.0/1",
         "onscreen": "S08E10"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T18:05:00+00:00",
@@ -257,10 +221,7 @@
       "episode_nums": {
         "xmltv_ns": "2.6.0/1",
         "onscreen": "S03E07"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T19:04:00+00:00",
@@ -276,10 +237,7 @@
       "episode_nums": {
         "xmltv_ns": "2.7.0/1",
         "onscreen": "S03E08"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T20:01:00+00:00",
@@ -295,10 +253,7 @@
       "episode_nums": {
         "xmltv_ns": "3.0.0/1",
         "onscreen": "S04E01"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T20:05:00+00:00",
@@ -314,10 +269,7 @@
       "episode_nums": {
         "xmltv_ns": "12.7.0/1",
         "onscreen": "S13E08"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T20:56:00+00:00",
@@ -333,10 +285,7 @@
       "episode_nums": {
         "xmltv_ns": "3.1.0/1",
         "onscreen": "S04E02"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-24T21:49:00+00:00",
@@ -352,10 +301,7 @@
       "episode_nums": {
         "xmltv_ns": "3.2.0/1",
         "onscreen": "S04E03"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-25T13:19:00+00:00",
@@ -371,10 +317,7 @@
       "episode_nums": {
         "xmltv_ns": "8.0.0/1",
         "onscreen": "S09E01"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-25T14:18:00+00:00",
@@ -390,10 +333,7 @@
       "episode_nums": {
         "xmltv_ns": "8.1.0/1",
         "onscreen": "S09E02"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T13:21:00+00:00",
@@ -409,10 +349,7 @@
       "episode_nums": {
         "xmltv_ns": "8.2.0/1",
         "onscreen": "S09E03"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T14:18:00+00:00",
@@ -428,10 +365,7 @@
       "episode_nums": {
         "xmltv_ns": "8.3.0/1",
         "onscreen": "S09E04"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T19:10:00+00:00",
@@ -447,10 +381,7 @@
       "episode_nums": {
         "xmltv_ns": "2.3.0/1",
         "onscreen": "S03E04"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T19:55:00+00:00",
@@ -466,10 +397,7 @@
       "episode_nums": {
         "xmltv_ns": "2.4.0/1",
         "onscreen": "S03E05"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T20:45:00+00:00",
@@ -485,10 +413,7 @@
       "episode_nums": {
         "xmltv_ns": "2.5.0/1",
         "onscreen": "S03E06"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T21:35:00+00:00",
@@ -504,10 +429,7 @@
       "episode_nums": {
         "xmltv_ns": "0.3.0/1",
         "onscreen": "S01E04"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T22:25:00+00:00",
@@ -523,10 +445,7 @@
       "episode_nums": {
         "xmltv_ns": "0.4.0/1",
         "onscreen": "S01E05"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-26T23:10:00+00:00",
@@ -542,10 +461,7 @@
       "episode_nums": {
         "xmltv_ns": "0.5.0/1",
         "onscreen": "S01E06"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-27T13:14:00+00:00",
@@ -561,10 +477,7 @@
       "episode_nums": {
         "xmltv_ns": "8.4.0/1",
         "onscreen": "S09E05"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     },
     {
       "start": "2026-08-27T14:12:00+00:00",
@@ -580,10 +493,7 @@
       "episode_nums": {
         "xmltv_ns": "8.5.0/1",
         "onscreen": "S09E06"
-      },
-      "annee": "",
-      "deja_diffuse": false,
-      "deja_diffuse_date": ""
+      }
     }
   ]
 }
