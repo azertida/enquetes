@@ -600,7 +600,7 @@
 
         function construitFiltres(chaines) {
             const zone = document.getElementById('filtres');
-            const boutons = [['Toutes', null], ...chaines.map(c => [c, c])];
+            const boutons = [['Toutes les chaînes', null], ...chaines.map(c => [c, c])];
 
             zone.innerHTML = boutons.map(([label, valeur]) => `
                 <button class="filtre" aria-pressed="${valeur === chaineActive}"
