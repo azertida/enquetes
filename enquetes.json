@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T19:43:51.908285+00:00",
-  "window_start": "2026-08-21",
-  "window_end": "2026-08-28",
+  "generated_at": "2026-08-22T05:54:30.840347+00:00",
+  "window_start": "2026-08-22",
+  "window_end": "2026-08-29",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,91 +13,11 @@
   ],
   "missing_channels": [],
   "series_count": 40,
-  "count": 30,
+  "count": 27,
   "programmes": [
     {
-      "start": "2026-08-21T19:10:00+00:00",
-      "stop": "2026-08-21T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "La reine des glaces",
-      "description": "Le capitaine Marleau enquête sur le meurtre d'une patineuse artistique. La victime, Lucie Engelberg, serait morte à la suite de coups violents. Pourtant, quelques heures plus tôt la jeune femme s'entraînait encore aux côtés d'une autre vedette de spectacle sur glace, Salomé Revel.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "2.6.0/1",
-        "onscreen": "S03E07"
-      }
-    },
-    {
-      "start": "2026-08-21T20:42:00+00:00",
-      "stop": "2026-08-21T22:19:00+00:00",
-      "channel": "La Une",
-      "title": "Cassandre",
-      "subtitle": "Un Homme Parfait",
-      "description": "Un pompier est retrouvé mort dans des circonstances suspectes.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "8.0.0/1",
-        "onscreen": "S09E01"
-      }
-    },
-    {
-      "start": "2026-08-21T20:45:00+00:00",
-      "stop": "2026-08-21T22:20:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Au nom du fils",
-      "description": "Le conducteur d'un train touristique est retrouvé mort, il s'agit de Robert Lanski. Il y a 5 ans déjà, il était responsable d'un accident ferroviaire qui avait coûté la mort d'un adolescent.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "2.7.0/1",
-        "onscreen": "S03E08"
-      }
-    },
-    {
-      "start": "2026-08-21T22:20:00+00:00",
-      "stop": "2026-08-21T23:55:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "L'Arbre aux esclaves",
-      "description": "Marleau prend des vacances bien méritées en Guadeloupe, où elle retrouve un de ses amis, Loïc. Elle espère bien profiter du soleil et de la plage, mais se ravise lorsqu'elle apprend qu'un musicien a été assassiné dans un club. Pour seconder les gendarmes, Marleau n'hésite pas à revoir son emploi du temps. Elle s'intéresse aux dernières personnes qui ont vu la victime. Il s'agit d'Anne Duplessis, une championne de voile qui ne s'en laisse pas conter et de sa fille, Océane. Pour l'heure, rien d'autre ne les relie au crime...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "2.5.0/1",
-        "onscreen": "S03E06"
-      }
-    },
-    {
-      "start": "2026-08-21T23:55:00+00:00",
-      "stop": "2026-08-22T01:25:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "À ciel ouvert",
-      "description": "Le parachute de la belle Alexandrine, parachutiste amateur, a été saboté. On se demande qui voulait sa mort. Peut-être son moniteur Carlos, dont elle était secrètement la maîtresse. Ou bien la femme de Carlos, Clémence, qui aurait agi par jalousie. À moins qu'il ne s'agisse de Clara, l'ex-femme de Carlos, et qui n'est autre que... la soeur jumelle de Clémence. Ca se complique pour Marleau. Deux sœurs donc, qui se ressemblent comme deux gouttes d'eau mais que la haine sépare, à cause de l'amour d'un même homme qui les a trompées l'une et l'autre.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "0.6.0/1",
-        "onscreen": "S01E07"
-      }
-    },
-    {
-      "start": "2026-08-22T18:57:00+00:00",
-      "stop": "2026-08-22T20:39:00+00:00",
+      "start": "2026-08-22T18:58:00+00:00",
+      "stop": "2026-08-22T20:38:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Sandhamn",
       "subtitle": "Linnea",
@@ -144,40 +64,8 @@
       }
     },
     {
-      "start": "2026-08-23T11:30:00+00:00",
-      "stop": "2026-08-23T13:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Les racines du mal",
-      "description": "Un groupe de campeurs découvre le corps d'une jeune femme.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "5.1.0/1",
-        "onscreen": "S06E02"
-      }
-    },
-    {
-      "start": "2026-08-23T13:15:00+00:00",
-      "stop": "2026-08-23T14:55:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Pour le meilleur et pour le pire",
-      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
-    {
-      "start": "2026-08-24T13:16:00+00:00",
-      "stop": "2026-08-24T14:12:00+00:00",
+      "start": "2026-08-24T13:14:00+00:00",
+      "stop": "2026-08-24T14:13:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Qui sème l'injustice moissonne le malheur",
@@ -192,7 +80,7 @@
       }
     },
     {
-      "start": "2026-08-24T14:12:00+00:00",
+      "start": "2026-08-24T14:13:00+00:00",
       "stop": "2026-08-24T15:15:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
@@ -209,7 +97,7 @@
     },
     {
       "start": "2026-08-24T18:05:00+00:00",
-      "stop": "2026-08-24T19:04:00+00:00",
+      "stop": "2026-08-24T19:05:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "À la folie",
@@ -224,8 +112,8 @@
       }
     },
     {
-      "start": "2026-08-24T19:04:00+00:00",
-      "stop": "2026-08-24T20:01:00+00:00",
+      "start": "2026-08-24T19:05:00+00:00",
+      "stop": "2026-08-24T20:04:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "Noces rouges",
@@ -240,8 +128,8 @@
       }
     },
     {
-      "start": "2026-08-24T20:01:00+00:00",
-      "stop": "2026-08-24T20:56:00+00:00",
+      "start": "2026-08-24T20:04:00+00:00",
+      "stop": "2026-08-24T21:01:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "En plein vol",
@@ -272,8 +160,8 @@
       }
     },
     {
-      "start": "2026-08-24T20:56:00+00:00",
-      "stop": "2026-08-24T21:49:00+00:00",
+      "start": "2026-08-24T21:01:00+00:00",
+      "stop": "2026-08-24T21:55:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "Puzzle",
@@ -288,8 +176,8 @@
       }
     },
     {
-      "start": "2026-08-24T21:49:00+00:00",
-      "stop": "2026-08-24T22:44:00+00:00",
+      "start": "2026-08-24T21:55:00+00:00",
+      "stop": "2026-08-24T22:48:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "En apparence",
@@ -493,6 +381,70 @@
       "episode_nums": {
         "xmltv_ns": "8.5.0/1",
         "onscreen": "S09E06"
+      }
+    },
+    {
+      "start": "2026-08-28T13:09:00+00:00",
+      "stop": "2026-08-28T14:06:00+00:00",
+      "channel": "La Une",
+      "title": "Candice Renoir",
+      "subtitle": "Qui va à la chasse perd sa place - 1ère partie",
+      "description": "Un dimanche, au petit matin. Le corps du président d'une association de chasse, lui-même chasseur émérite, est retrouvé, nu, et en partie dévoré, dans l'enclos aux sangliers de son domaine. Si les bêtes avaient eu le temps de terminer leur \"festin\", le corps n'aurait certainement jamais été découvert. Candice Renoir soupçonne tout le monde. A la manière d'Hercule Poirot, elle décide de réunir - et d'enfermer - tout son monde dans le grand salon du manoir du défunt, afin de démasquer logiquement le ou la coupable.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Candice Renoir",
+      "episode_nums": {
+        "xmltv_ns": "8.6.0/1",
+        "onscreen": "S09E07"
+      }
+    },
+    {
+      "start": "2026-08-28T14:06:00+00:00",
+      "stop": "2026-08-28T15:33:00+00:00",
+      "channel": "La Une",
+      "title": "Candice Renoir",
+      "subtitle": "Qui va à la chasse perd sa place - 2ème partie",
+      "description": "Candice Renoir enquête sur la mort horrible d'un amateur de chasse. Tous ses suspects sont réunis dans la même pièce d'un grand manoir. Parmi eux : un coupable. Cependant, en l'absence de preuves, seules la logique et la déduction permettront de le démasquer. Qui voulait la mort de la victime ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Candice Renoir",
+      "episode_nums": {
+        "xmltv_ns": "8.7.0/1",
+        "onscreen": "S09E08"
+      }
+    },
+    {
+      "start": "2026-08-28T22:15:00+00:00",
+      "stop": "2026-08-28T23:45:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "La reine des glaces",
+      "description": "Le capitaine Marleau enquête sur le meurtre d'une patineuse artistique. La victime, Lucie Engelberg, serait morte à la suite de coups violents. Pourtant, quelques heures plus tôt la jeune femme s'entraînait encore aux côtés d'une autre vedette de spectacle sur glace, Salomé Revel.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "2.6.0/1",
+        "onscreen": "S03E07"
+      }
+    },
+    {
+      "start": "2026-08-28T23:45:00+00:00",
+      "stop": "2026-08-29T01:15:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Au nom du fils",
+      "description": "Le conducteur d'un train touristique est retrouvé mort, il s'agit de Robert Lanski. Il y a 5 ans déjà, il était responsable d'un accident ferroviaire qui avait coûté la mort d'un adolescent.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "2.7.0/1",
+        "onscreen": "S03E08"
       }
     }
   ]
