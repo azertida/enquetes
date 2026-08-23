@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:14:37.694383+00:00",
+  "generated_at": "2026-08-23T20:51:17.483942+00:00",
   "window_start": "2026-08-23",
   "window_end": "2026-08-30",
   "source": "Pickx via iptv-org/epg",
@@ -12,9 +12,89 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 40,
-  "count": 27,
+  "series_count": 48,
+  "count": 44,
   "programmes": [
+    {
+      "start": "2026-08-23T00:00:00+00:00",
+      "stop": "2026-08-23T00:50:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "En mauvais therme - 1",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.8.0/1",
+        "onscreen": "S06E09"
+      }
+    },
+    {
+      "start": "2026-08-23T00:50:00+00:00",
+      "stop": "2026-08-23T01:45:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "En mauvais therme - 2",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.9.0/1",
+        "onscreen": "S06E10"
+      }
+    },
+    {
+      "start": "2026-08-23T23:45:00+00:00",
+      "stop": "2026-08-24T00:35:00+00:00",
+      "channel": "France 3",
+      "title": "Association criminelle",
+      "subtitle": "",
+      "description": "Emer et Christian sont à la recherche de Fionn Brannigan. L'homme a disparu de l'aéroport alors que sa sœur Bibi était partie chercher la police, à qui il voulait révéler tout ce qu'il savait. Selon Emer, il ne peut s'agir d'une coïncidence. Elle imagine évidemment le pire. Quand un corps est retrouvé dans les bois près de Charleroi, bien au sud d'Anvers, les enquêteurs craignent que ce soit Fionn.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Association criminelle",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-08-24T00:35:00+00:00",
+      "stop": "2026-08-24T01:25:00+00:00",
+      "channel": "France 3",
+      "title": "Association criminelle",
+      "subtitle": "",
+      "description": "Siobhan est bien décidée à récupérer les diamants qu'elle juge correspondre à sa part de la fortune familiale auprès de Bibi. Norah et son équipe trouvent de leur côté une piste pouvant mener jusqu'aux joyaux cachés. Christian, enfin, parvient à convaincre l'ami de Sana, la première victime, de lui expliquer ce qu'il s'est passé le soir de la mort de la jeune employée de Bibi...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Association criminelle",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-08-24T01:25:00+00:00",
+      "stop": "2026-08-24T02:20:00+00:00",
+      "channel": "France 3",
+      "title": "Association criminelle",
+      "subtitle": "",
+      "description": "Désespérés, Emer et Christian se lancent dans une véritable course contre la montre pour tenter de stopper l'organisation du dernier attentat à la bombe et découvrir qui est réellement derrière cette campagne terroriste. Emer se doute que Bibi n'a pas tout révélé. Elle demande à Norah de continuer à chercher le reste de la fortune...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Association criminelle",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
+      }
+    },
     {
       "start": "2026-08-24T13:14:00+00:00",
       "stop": "2026-08-24T14:13:00+00:00",
@@ -173,6 +253,102 @@
       "episode_nums": {
         "xmltv_ns": "8.1.0/1",
         "onscreen": "S09E02"
+      }
+    },
+    {
+      "start": "2026-08-25T19:10:00+00:00",
+      "stop": "2026-08-25T20:05:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Couple moteur - 1",
+      "description": "Dans une villa cossue, la commandante Clarissa Hoarau et le capitaine Kelly Kwaté découvrent un homme et une femme assassinés, surpris en pleine intimité extraconjugale. Très vite, les pistes se multiplient : le mari trompé, l'employé en conflit ou encore l'ex-femme instable sont potentiellement suspects. Mais c'est la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, qui ouvre une hypothèse glaçante...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "6.10.0/1",
+        "onscreen": "S07E11"
+      }
+    },
+    {
+      "start": "2026-08-25T20:05:00+00:00",
+      "stop": "2026-08-25T20:55:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Couple moteur - 2",
+      "description": "Pour les enquêteurs, la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, ouvre une hypothèse glaçante : l'impensable a peut-être eu lieu. Que s'est-il réellement passé pendant les longues séances d'entrainement sur l'immense circuit automobile familial ? L'enquête serait-elle sur le point de mettre au jour des secrets bien gardés ?...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "6.11.0/1",
+        "onscreen": "S07E12"
+      }
+    },
+    {
+      "start": "2026-08-25T20:55:00+00:00",
+      "stop": "2026-08-25T21:45:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 1",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.10.0/1",
+        "onscreen": "S06E11"
+      }
+    },
+    {
+      "start": "2026-08-25T21:45:00+00:00",
+      "stop": "2026-08-25T22:45:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 2",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.11.0/1",
+        "onscreen": "S06E12"
+      }
+    },
+    {
+      "start": "2026-08-25T23:17:00+00:00",
+      "stop": "2026-08-26T00:08:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 1",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.10.0/1",
+        "onscreen": "S06E11"
+      }
+    },
+    {
+      "start": "2026-08-26T00:08:00+00:00",
+      "stop": "2026-08-26T01:02:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 2",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.11.0/1",
+        "onscreen": "S06E12"
       }
     },
     {
@@ -336,6 +512,38 @@
       }
     },
     {
+      "start": "2026-08-28T12:05:00+00:00",
+      "stop": "2026-08-28T12:56:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 1",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.10.0/1",
+        "onscreen": "S06E11"
+      }
+    },
+    {
+      "start": "2026-08-28T12:56:00+00:00",
+      "stop": "2026-08-28T13:51:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 2",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.11.0/1",
+        "onscreen": "S06E12"
+      }
+    },
+    {
       "start": "2026-08-28T13:09:00+00:00",
       "stop": "2026-08-28T14:06:00+00:00",
       "channel": "La Une",
@@ -365,6 +573,38 @@
       "episode_nums": {
         "xmltv_ns": "8.7.0/1",
         "onscreen": "S09E08"
+      }
+    },
+    {
+      "start": "2026-08-28T19:10:00+00:00",
+      "stop": "2026-08-28T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "Le feu sacré",
+      "description": "Après la découverte du corps calciné de Zoé, une lycéenne apparemment sans histoire, les enquêteurs Oriane et Téva révèlent qu'elle menait une double vie, impliquée dans des pratiques ésotériques et de prétendus dons de guérison. Au sein de cette communauté rurale marquée par le secret et la méfiance, les investigations s'intensifient alors que plusieurs suspects sont eux-mêmes victimes de combustion spontanée, forçant les enquêteurs à démêler croyances et réalités pour élucider le mystère entourant Zoé.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-08-28T20:45:00+00:00",
+      "stop": "2026-08-28T22:15:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "À l'instinct",
+      "description": "Lieutenant de police à Cayenne, la capitale de sa Guyane natale, Teva Royer aime se fier à son instinct pour éclaircir les zones d'ombre des affaires sur lesquelles il enquête. Un jour, il est amené à se rendre à Nantes pour mener des investigations sur la mort suspecte de la fille d'un riche homme d'affaires, dont le corps vient d'être retrouvé. Arrivé sur place, Teva fait connaissance avec Ana Kerjouan, la pragmatique capitaine de police judiciaire avec laquelle il va faire équipe pour tenter de résoudre l'énigme. Le binôme va vite tirer profit de sa complémentarité et en faire une arme redoutable pour l'enquête...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
       }
     },
     {
@@ -445,6 +685,38 @@
       "episode_nums": {
         "xmltv_ns": "8.4.0/1",
         "onscreen": "S09E05"
+      }
+    },
+    {
+      "start": "2026-08-29T22:20:00+00:00",
+      "stop": "2026-08-29T23:10:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Couple moteur - 1",
+      "description": "Dans une villa cossue, la commandante Clarissa Hoarau et le capitaine Kelly Kwaté découvrent un homme et une femme assassinés, surpris en pleine intimité extraconjugale. Très vite, les pistes se multiplient : le mari trompé, l'employé en conflit ou encore l'ex-femme instable sont potentiellement suspects. Mais c'est la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, qui ouvre une hypothèse glaçante...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "6.10.0/1",
+        "onscreen": "S07E11"
+      }
+    },
+    {
+      "start": "2026-08-29T23:10:00+00:00",
+      "stop": "2026-08-30T00:00:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Couple moteur - 2",
+      "description": "Pour les enquêteurs, la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, ouvre une hypothèse glaçante : l'impensable a peut-être eu lieu. Que s'est-il réellement passé pendant les longues séances d'entrainement sur l'immense circuit automobile familial ? L'enquête serait-elle sur le point de mettre au jour des secrets bien gardés ?...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "6.11.0/1",
+        "onscreen": "S07E12"
       }
     }
   ]
