@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:13:36.588132+00:00",
+  "generated_at": "2026-08-24T09:32:36.887415+00:00",
   "window_start": "2026-08-24",
   "window_end": "2026-08-31",
   "source": "Pickx via iptv-org/epg",
@@ -16,7 +16,7 @@
   "count": 42,
   "programmes": [
     {
-      "start": "2026-08-24T13:14:00+00:00",
+      "start": "2026-08-24T13:16:00+00:00",
       "stop": "2026-08-24T14:13:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
@@ -33,7 +33,7 @@
     },
     {
       "start": "2026-08-24T14:13:00+00:00",
-      "stop": "2026-08-24T15:15:00+00:00",
+      "stop": "2026-08-24T15:14:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Comme on fait son lit on se couche",
