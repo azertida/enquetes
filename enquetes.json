@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T20:51:17.483942+00:00",
-  "window_start": "2026-08-23",
-  "window_end": "2026-08-30",
+  "generated_at": "2026-08-24T06:04:58.551339+00:00",
+  "window_start": "2026-08-24",
+  "window_end": "2026-08-31",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,54 +15,6 @@
   "series_count": 48,
   "count": 44,
   "programmes": [
-    {
-      "start": "2026-08-23T00:00:00+00:00",
-      "stop": "2026-08-23T00:50:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "En mauvais therme - 1",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.8.0/1",
-        "onscreen": "S06E09"
-      }
-    },
-    {
-      "start": "2026-08-23T00:50:00+00:00",
-      "stop": "2026-08-23T01:45:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "En mauvais therme - 2",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.9.0/1",
-        "onscreen": "S06E10"
-      }
-    },
-    {
-      "start": "2026-08-23T23:45:00+00:00",
-      "stop": "2026-08-24T00:35:00+00:00",
-      "channel": "France 3",
-      "title": "Association criminelle",
-      "subtitle": "",
-      "description": "Emer et Christian sont à la recherche de Fionn Brannigan. L'homme a disparu de l'aéroport alors que sa sœur Bibi était partie chercher la police, à qui il voulait révéler tout ce qu'il savait. Selon Emer, il ne peut s'agir d'une coïncidence. Elle imagine évidemment le pire. Quand un corps est retrouvé dans les bois près de Charleroi, bien au sud d'Anvers, les enquêteurs craignent que ce soit Fionn.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Association criminelle",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
     {
       "start": "2026-08-24T00:35:00+00:00",
       "stop": "2026-08-24T01:25:00+00:00",
@@ -717,6 +669,54 @@
       "episode_nums": {
         "xmltv_ns": "6.11.0/1",
         "onscreen": "S07E12"
+      }
+    },
+    {
+      "start": "2026-08-30T00:00:00+00:00",
+      "stop": "2026-08-30T00:50:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 1",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.10.0/1",
+        "onscreen": "S06E11"
+      }
+    },
+    {
+      "start": "2026-08-30T00:50:00+00:00",
+      "stop": "2026-08-30T01:45:00+00:00",
+      "channel": "France 3",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Mort en réserve - 2",
+      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "5.11.0/1",
+        "onscreen": "S06E12"
+      }
+    },
+    {
+      "start": "2026-08-30T22:40:00+00:00",
+      "stop": "2026-08-31T00:10:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "Le feu sacré",
+      "description": "Après la découverte du corps calciné de Zoé, une lycéenne apparemment sans histoire, les enquêteurs Oriane et Téva révèlent qu'elle menait une double vie, impliquée dans des pratiques ésotériques et de prétendus dons de guérison. Au sein de cette communauté rurale marquée par le secret et la méfiance, les investigations s'intensifient alors que plusieurs suspects sont eux-mêmes victimes de combustion spontanée, forçant les enquêteurs à démêler croyances et réalités pour élucider le mystère entourant Zoé.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
       }
     }
   ]
