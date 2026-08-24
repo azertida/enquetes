@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:04:58.551339+00:00",
+  "generated_at": "2026-08-24T07:13:36.588132+00:00",
   "window_start": "2026-08-24",
   "window_end": "2026-08-31",
   "source": "Pickx via iptv-org/epg",
@@ -12,41 +12,9 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 48,
-  "count": 44,
+  "series_count": 47,
+  "count": 42,
   "programmes": [
-    {
-      "start": "2026-08-24T00:35:00+00:00",
-      "stop": "2026-08-24T01:25:00+00:00",
-      "channel": "France 3",
-      "title": "Association criminelle",
-      "subtitle": "",
-      "description": "Siobhan est bien décidée à récupérer les diamants qu'elle juge correspondre à sa part de la fortune familiale auprès de Bibi. Norah et son équipe trouvent de leur côté une piste pouvant mener jusqu'aux joyaux cachés. Christian, enfin, parvient à convaincre l'ami de Sana, la première victime, de lui expliquer ce qu'il s'est passé le soir de la mort de la jeune employée de Bibi...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Association criminelle",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-08-24T01:25:00+00:00",
-      "stop": "2026-08-24T02:20:00+00:00",
-      "channel": "France 3",
-      "title": "Association criminelle",
-      "subtitle": "",
-      "description": "Désespérés, Emer et Christian se lancent dans une véritable course contre la montre pour tenter de stopper l'organisation du dernier attentat à la bombe et découvrir qui est réellement derrière cette campagne terroriste. Emer se doute que Bibi n'a pas tout révélé. Elle demande à Norah de continuer à chercher le reste de la fortune...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Association criminelle",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
     {
       "start": "2026-08-24T13:14:00+00:00",
       "stop": "2026-08-24T14:13:00+00:00",
