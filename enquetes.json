@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T09:32:36.887415+00:00",
-  "window_start": "2026-08-24",
-  "window_end": "2026-08-31",
+  "generated_at": "2026-08-25T05:59:12.341687+00:00",
+  "window_start": "2026-08-25",
+  "window_end": "2026-09-01",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -16,136 +16,8 @@
   "count": 42,
   "programmes": [
     {
-      "start": "2026-08-24T13:16:00+00:00",
-      "stop": "2026-08-24T14:13:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Qui sème l'injustice moissonne le malheur",
-      "description": "Candice et son équipe sont appelés à l'Ecole supérieure des métiers de l'aéronautique. Le corps de l'instructrice Anne Rossignol a été découvert à l'intérieur d'une maquette grandeur nature d'un Boeing 747. Parallèlement, l'équipe se prépare à accueillir l'IGPN pour un audit. Candice, fragilisée par son enlèvement, et Antoine, qui a retrouvé la mémoire, ne savent plus où ils en sont. qui explique aux autres interloqués que c'est un code entre navigants pour dire qu'il y a un cadavre dans l'avion... Si elle a toujours rêvé d'être une hôtesse de l'air, Candice soulève des coïncidences troublantes. Deux navigants, deux altercations, une pension de réversion, et bientôt deux cadavres... Quelle est la clé de ces liens et alibis presque trop parfaits entre personnels navigants? Côté vie privée, ça pourrait, ça devrait enfin, planer pour Candice. Mais non, Candice, fragilisée par son récent enlèvement, et Antoine qui a retrouvé sa mémoire, sont encombrés tous les deux par leurs souvenirs...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "7.8.0/1",
-        "onscreen": "S08E09"
-      }
-    },
-    {
-      "start": "2026-08-24T14:13:00+00:00",
-      "stop": "2026-08-24T15:14:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Comme on fait son lit on se couche",
-      "description": "Deux agents de l'IGPN se sont installés dans le bureau d'Antoine. Candice part à la pêche aux informations, mais trouve porte close. Les deux membres de la police des polices fouillent partout et vont jusqu'à retourner le contenu des tiroirs du bureau de Candice. L'ambiance est tendue au sein de la BSU, mais l'équipe fait front et reste soudée. Aurait-elle à faire face à plus blonde qu'elle ? Ou cette fliquette de l'IGPN qui vient explorer jusqu'aux fonds de ses tiroirs serait-elle plus forte? L'ambiance s'alourdit à la BSU, le duo de l'IGPN furète partout et a le chic notamment pour débarquer à n'importe quel moment dans l'open-space... Même les toilettes ou une scène de crime ne sont plus des endroits sûrs... Habituellement, les audits sont effectués par des administratifs, quand l'IGPN se déplace, c'est qu'il y a un souci. En effet, ils cherchent à savoir si Candice a bel et bien déposé le téléphone à Répar'tout lors de l'affaire Martines. Et surtout, ils demandent à voir les armes de chacun et à comptabiliser les cartouches...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "7.9.0/1",
-        "onscreen": "S08E10"
-      }
-    },
-    {
-      "start": "2026-08-24T18:05:00+00:00",
-      "stop": "2026-08-24T19:05:00+00:00",
-      "channel": "Tipik",
-      "title": "Balthazar",
-      "subtitle": "À la folie",
-      "description": "Scène de carnage dans une maison de banlieue parisienne. Dans la piscine recouverte de ballons flotte le corps d'un homme, disparu depuis la veille au soir alors qu'il promenait son chien. Le suspect est rapidement identifié : il s'agit... d'un clown, qui nargue la police en diffusant des vidéos du meurtre sur Internet. Et lorsque Balthazar découvre que le clown a fait manger à la victime son propre chien, et qu'il récidive avec un couple retrouvé torturé et noyé, les enquêteurs paniquent : ils ont affaire à un véritable psychopathe dont le plan leur échappe totalement... Balthazar, en parallèle, prépare un grand événement alors qu'Hélène n'accepte pas la situation et que le duo se fissure. Jusqu'à ce que Janvier, le meurtrier de Lise, déclare qu'il accepte de parler. Balthazar va-t-il enfin avoir accès à la vérité ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Balthazar",
-      "episode_nums": {
-        "xmltv_ns": "2.6.0/1",
-        "onscreen": "S03E07"
-      }
-    },
-    {
-      "start": "2026-08-24T19:05:00+00:00",
-      "stop": "2026-08-24T20:04:00+00:00",
-      "channel": "Tipik",
-      "title": "Balthazar",
-      "subtitle": "Noces rouges",
-      "description": "Rien ne se passe comme prévu pour Balthazar et Hélène. Alors que Janvier est en route pour le palais de Justice, il parvient à s'échapper. Aussitôt s'engage une course contre la montre pour retrouver le dangereux tueur en série. Une traque qui va finir dans un bain de sang alors que Balthazar s'apprête à vivre le jour le plus heureux de sa vie. Mais a-t-il encore droit au bonheur ? Le destin va-t-il lui accorder un peu de répit ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Balthazar",
-      "episode_nums": {
-        "xmltv_ns": "2.7.0/1",
-        "onscreen": "S03E08"
-      }
-    },
-    {
-      "start": "2026-08-24T20:04:00+00:00",
-      "stop": "2026-08-24T21:01:00+00:00",
-      "channel": "Tipik",
-      "title": "Balthazar",
-      "subtitle": "En plein vol",
-      "description": "Balthazar s'éclate sur un circuit de conduite sur glace, à moitié ivre, après un week-end de fête. Des fêtes qu'il enchaîne depuis l'arrestation de Maya et le départ d'Hélène il y a 7 mois. Mais il doit filer, son avion l'attend. Après le décollage, il rassure sa voisine enceinte, Julia, quand un passager est pris de convulsions. Balthazar diagnostique un empoisonnement, et sa vie est en jeu. Avec les moyens du bord et l'aide d'une infirmière, Camille, il stabilise le malade... quand le co-pilote et une demi-douzaine de passagers sont à leur tour pris des mêmes violentes convulsions. Ils ont été empoisonnés. Et le tueur est dans l'avion.Entre une infirmière qui voyage sous un faux nom, des passagers paniqués, plusieurs urgences vitales, des tueurs de sang-froid, un avion qui menace de s'écraser et sa rencontre explosive avec une flic avec laquelle il va devoir collaborer, Balthazar va devoir faire preuve de beaucoup de sang-froid et d'imagination pour gérer la situation...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Balthazar",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-08-24T20:05:00+00:00",
-      "stop": "2026-08-24T21:05:00+00:00",
-      "channel": "France 2",
-      "title": "Meurtres au paradis",
-      "subtitle": "Le troisième passager",
-      "description": "C'est l'énigme la plus déconcertante rencontrée par l'équipe : un passager monte à bord d'un avion à destination de la Dominique, puis semble disparaître en plein vol, avant d'être retrouvé sur le sol de Sainte-Marie, tué par balle. Le pilote et l'hôtesse de l'air nient avoir vu la victime dans leur avion, ce qui éveille les soupçons des enquêteurs. Deux autres suspects sont retrouvés à Sainte-Marie. Il s'avère que la victime était impliquée dans une histoire d'amour compliquée. Neville commence à se demander s'il est en train de perdre la tête, doutant sérieusement de lui-même pour la première fois, jusqu'à ce que toutes les pièces du puzzle s'emboîtent enfin...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Meurtres au paradis",
-      "episode_nums": {
-        "xmltv_ns": "12.7.0/1",
-        "onscreen": "S13E08"
-      }
-    },
-    {
-      "start": "2026-08-24T21:01:00+00:00",
-      "stop": "2026-08-24T21:55:00+00:00",
-      "channel": "Tipik",
-      "title": "Balthazar",
-      "subtitle": "Puzzle",
-      "description": "Alors que Balthazar détourne les questions de son psychologue qui veut le faire parler de la nuit tragique de son mariage, il reçoit un appel. Un chien a ramené une étrange trouvaille à son maître : un pied humain. Balthazar, rejoint Delgado et Camille, la nouvelle Capitaine. Et son premier examen calme tout le monde : le pied a été découpé sur un homme encore vivant... Après autopsie de ce pied, Balthazar parvient à dresser un portrait-robot de la victime. Et Camille l'identifie. Ils se précipitent chez lui mais arrivent trop tard. L'homme a été massacré après qu'on lui ait tranché le pied. Camille reçoit un appel : une deuxième victime vient d'être signalée. Mais lui, on lui a pris la tête.Qui s'attaque sauvagement à ces victimes que rien ne relie ? Que compte faire le tueur de ses sinistres trophées ? Ce que Balthazar et Camille vont découvrir dépasse de loin l'entendement, et va sceller dans le sang leur nouvelle collaboration...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Balthazar",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
-    {
-      "start": "2026-08-24T21:55:00+00:00",
-      "stop": "2026-08-24T22:48:00+00:00",
-      "channel": "Tipik",
-      "title": "Balthazar",
-      "subtitle": "En apparence",
-      "description": "Branché sur la radio de la police pour tromper sa solitude et ses angoisses, Balthazar s'invite sur une scène d'enlèvement. Anaïs, 6 ans, a disparu. Sa soeur Lucie, son frère et ses parents sont morts d'inquiétude. Dans la chambre de la petite, les yeux des peluches ont tous été arrachés... Les premiers éléments les amènent à une découverte inquiétante : une camionnette repérée le jour de l'enlèvement est celle d'un pédophile récemment sorti de prison qui a parlé avec la petite fille sur Internet... L'homme avoue avoir eu rendez-vous avec Anaïs, mais elle n'est jamais venue. Et Balthazar prouvequ'il n'a pas pu l'enlever. Quelqu'un l'a piégé en se faisant passer pour la fillette sur Internet, afin de faire accuser le criminel de l'enlèvement. Et l'auteur des messages est identifié en la personne d'un jeune homme instable, pion dans le même établissement que la soeur d'Anaïs...Balthazar et Camille doivent aller vite, la vie d'une petite fille est en jeu.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Balthazar",
-      "episode_nums": {
-        "xmltv_ns": "3.2.0/1",
-        "onscreen": "S04E03"
-      }
-    },
-    {
-      "start": "2026-08-25T13:19:00+00:00",
-      "stop": "2026-08-25T14:18:00+00:00",
+      "start": "2026-08-25T13:17:00+00:00",
+      "stop": "2026-08-25T14:19:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Petite négligence accouche d'un grand mal",
@@ -160,8 +32,8 @@
       }
     },
     {
-      "start": "2026-08-25T14:18:00+00:00",
-      "stop": "2026-08-25T15:20:00+00:00",
+      "start": "2026-08-25T14:19:00+00:00",
+      "stop": "2026-08-25T15:23:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Rien ne sert de courir",
@@ -272,8 +144,8 @@
       }
     },
     {
-      "start": "2026-08-26T13:21:00+00:00",
-      "stop": "2026-08-26T14:18:00+00:00",
+      "start": "2026-08-26T13:17:00+00:00",
+      "stop": "2026-08-26T14:16:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Nécessité fait loi",
@@ -288,8 +160,8 @@
       }
     },
     {
-      "start": "2026-08-26T14:18:00+00:00",
-      "stop": "2026-08-26T15:19:00+00:00",
+      "start": "2026-08-26T14:16:00+00:00",
+      "stop": "2026-08-26T15:20:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Qui sème le vent récolte la tempête",
@@ -400,8 +272,8 @@
       }
     },
     {
-      "start": "2026-08-27T13:14:00+00:00",
-      "stop": "2026-08-27T14:12:00+00:00",
+      "start": "2026-08-27T13:15:00+00:00",
+      "stop": "2026-08-27T14:13:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Souvent l'un voit son bien où l'autre voit son mal",
@@ -416,8 +288,8 @@
       }
     },
     {
-      "start": "2026-08-27T14:12:00+00:00",
-      "stop": "2026-08-27T15:14:00+00:00",
+      "start": "2026-08-27T14:13:00+00:00",
+      "stop": "2026-08-27T15:15:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "La beauté ne se voit qu'avec les yeux de l'âme",
@@ -429,6 +301,22 @@
       "episode_nums": {
         "xmltv_ns": "8.5.0/1",
         "onscreen": "S09E06"
+      }
+    },
+    {
+      "start": "2026-08-27T19:05:00+00:00",
+      "stop": "2026-08-27T20:40:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Les petits meurtres d'Agatha Christie",
+      "subtitle": "Mourir sur scène",
+      "description": "Pendant la tournée des stars de variété Nelly & Sky, un guitariste meurt, écrasé par un projecteur. C'est Sky qui était visé, comme le prouve rapidement une deuxième tentative de meurtre. Pour protéger la vedette, Gréco impose Beretta comme guitariste pour les prochains concerts... Un gros challenge pour l'inspecteur... Rose découvre, horrifiée, que le meurtrier pourrait bien être un de ses patients! En effet, Rico, musicien très perturbé psychologiquement, est persuadé que Sky lui a volé une chanson et a juré de se venger....",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Petits Meurtres",
+      "episode_nums": {
+        "xmltv_ns": "2.3.0/1",
+        "onscreen": "S03E04"
       }
     },
     {
@@ -464,7 +352,7 @@
       }
     },
     {
-      "start": "2026-08-28T13:09:00+00:00",
+      "start": "2026-08-28T13:08:00+00:00",
       "stop": "2026-08-28T14:06:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
@@ -481,7 +369,7 @@
     },
     {
       "start": "2026-08-28T14:06:00+00:00",
-      "stop": "2026-08-28T15:33:00+00:00",
+      "stop": "2026-08-28T15:06:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Qui va à la chasse perd sa place - 2ème partie",
@@ -685,6 +573,118 @@
       "episode_nums": {
         "xmltv_ns": "0.4.0/1",
         "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-08-31T13:14:00+00:00",
+      "stop": "2026-08-31T14:11:00+00:00",
+      "channel": "La Une",
+      "title": "Candice Renoir",
+      "subtitle": "Qui vit dans la haine ne connaît point le repos",
+      "description": "Une jeune femme en sang débarque au commissariat après avoir été attaquée au couteau dans la rue. Jeune étudiante en médecine, la victime est victime de cyberharcèlement à la suite d'un post qui n'a visiblement pas plu au sujet du port du masque. Chrystelle Da Sylva, devenue spécialiste de la Toile, vient prêter main-forte à l'équipe. Candice, alias Calamity, reine de la gâchette, va débusquer dans son antre un gourou antisémite qui, tel Charles Manson, instrumentalise ses adeptes et distribue des cibles à attaquer.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Candice Renoir",
+      "episode_nums": {
+        "xmltv_ns": "8.8.0/1",
+        "onscreen": "S09E09"
+      }
+    },
+    {
+      "start": "2026-08-31T14:11:00+00:00",
+      "stop": "2026-08-31T15:14:00+00:00",
+      "channel": "La Une",
+      "title": "Candice Renoir",
+      "subtitle": "Mieux vaut faire envie que pitié",
+      "description": "Sur la scène du Fa-Si-La-Si-Do, une artiste burlesque assez ronde livre une performance à la fois drôle et sexy qui lui vaut des applaudissements enthousiastes de Candice et Nathalie. Le lendemain matin, Candice apprend qu'un corps sans vie a été retrouvé au cabaret, elle est prise d'un mauvais pressentiment... qui se confirme lorsqu'elle arrive sur place : Amélie gît sur le sol, une flaque de sang derrière sa tête.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Candice Renoir",
+      "episode_nums": {
+        "xmltv_ns": "8.9.0/1",
+        "onscreen": "S09E10"
+      }
+    },
+    {
+      "start": "2026-08-31T18:50:00+00:00",
+      "stop": "2026-08-31T19:52:00+00:00",
+      "channel": "Tipik",
+      "title": "Balthazar",
+      "subtitle": "Nature morte",
+      "description": "Suite à ses frasques permanentes, on a collé à Balthazar une consoeur légiste chargée de l'évaluer : la froide Olivia Vésinet. Il est donc ravi d'être appelé sur une scène de crime pour la fuir. Dans une casse auto, on retrouve trois jeunes hommes battus à mort. Caché à proximité, terrorisé, un garçon du même âge, Kevin.Kevin affirme avoir vu un homme masqué massacrer ses amis. Et il avoue aussi que la bande venait de cambrioler une maison d'architecte. Butin qui n'a pas été retrouvé sur la scène de crime. Et si l'homme cambriolé, marchand d'art, les avait assassinés pour récupérer son bien ? L'homme, arrogant, provoque les enquêteurs. Mais pourquoi cet homme aurait-il massacré trois gamins pour les babioles qu'ils lui ont volées ? A moins que ces babioles renferment en réalité unterrible secret... Balthazar va être prêt à tout, et même à braver la loi, pour faire cesser les agissements de ce dangereux psychopathe...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Balthazar",
+      "episode_nums": {
+        "xmltv_ns": "3.3.0/1",
+        "onscreen": "S04E04"
+      }
+    },
+    {
+      "start": "2026-08-31T19:52:00+00:00",
+      "stop": "2026-08-31T20:57:00+00:00",
+      "channel": "Tipik",
+      "title": "Balthazar",
+      "subtitle": "Dernier recours",
+      "description": "Alors qu'il fait tout pour éviter le Docteur Vésinet, Balthazar, accompagné d'Eddy et Fatim, donne un cours à la fac de médecine... quand il est pris en otage par un de ses élèves, William, qui veut qu'on innocente son père, incarcéré pour le meurtre de sa mère. Malgré les aveux de son père, le jeune homme est persuadé qu'il est innocent et exige de Balthazar qu'il étudie le dossier. Alors que Camille, Olivia et Delgado suivent la situation avec le RAID et Justine, la soeur de William, depuis le couloir de la fac, Balthazar tente de désamorcer le jeune garçon qui finit par lâcher son arme, prêt à se rendre.Mais Balthazar l'interrompt au dernier moment : il y a bien quelque chose qui cloche dans le rapport d'autopsie...Le père de William a-t-il réellement tué sa mère, comme il l'a avoué aux enquêteurs ? Ou s'agit-il d'une erreur judiciaire comme le prétend William ? Balthazar, face au preneur d'otages et à un petit groupe d'élèves, doit absolument rester maître de la situation...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Balthazar",
+      "episode_nums": {
+        "xmltv_ns": "3.4.0/1",
+        "onscreen": "S04E05"
+      }
+    },
+    {
+      "start": "2026-08-31T20:57:00+00:00",
+      "stop": "2026-08-31T21:54:00+00:00",
+      "channel": "Tipik",
+      "title": "Balthazar",
+      "subtitle": "Eros et Thanatos",
+      "description": "Grosse pression à l'IML de Paris. Une équipe de documentaristes est là pour réaliser un reportage sur le fleuron de la médecine légale... alors que l'ambiance de l'IML a viré au polaire. Eddy et Fatim ne s'adressent la parole que pour se disputer, Camille déteste les caméras et entre Olivia et Balthazar, c'est la guerre ouverte. Alors que chacun tente d'instrumentaliser la présence des journalistes pour régler ses comptes, un squelette est découvert. Un homme, tué à coups de pierre et dont le corps a été bouilli. La disparition de la victime il y a 5 jours, fait écho à la disparition d'un autre homme pile un an plus tôt. Et sur les 2 vidéosurveillances réalisées au moment de leur disparition, une silhouette masquée fait tourner une bouteille qui désigne sa victime. Le tueur laisse le soin au hasard de trouver ses proies.C'est une découverte de Balthazar qui rebat les cartes : la pierre qui a servi à massacrer les victimes est issue d'une grotte bien particulière...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Balthazar",
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
+      }
+    },
+    {
+      "start": "2026-08-31T21:54:00+00:00",
+      "stop": "2026-08-31T22:53:00+00:00",
+      "channel": "Tipik",
+      "title": "Balthazar",
+      "subtitle": "Souviens-toi",
+      "description": "La guerre s'envenime entre Vésinet et Balthazar. Et lorsqu'elle l'envoie sur une sombre affaire de vaches assassinées dans un village qu'il déteste, ça ne s'arrange pas. Heureusement, Camille est là pour l'accompagner. Et il va avoir besoin de soutien. Car ce village, c'est le sien, dans lequel il a grandi et qu'il a fui sans se retourner il y a plus de 20 ans. Alors qu'il retrouve son passé, ses parents et ses mauvais souvenirs, et qu'il introduit Camille au monde de son enfance, Balthazar doit aussi affronter la mort de son amie Sabrina, gendarme, a priori victime du même tueur que celui qui s'attaque aux vaches. Le tueur est-il monté d'un cran ? Sabrina avait-elle découvert son identité ?Balthazar refuse de laisser à un autre cette enquête qui le ramène à son passé. Que cache ce village en apparence bucolique ? Et quels sont ces souvenirs qui assaillent Balthazar et, petit à petit, menacent de le rendre fou ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Balthazar",
+      "episode_nums": {
+        "xmltv_ns": "3.6.0/1",
+        "onscreen": "S04E07"
+      }
+    },
+    {
+      "start": "2026-08-31T22:53:00+00:00",
+      "stop": "2026-08-31T23:50:00+00:00",
+      "channel": "Tipik",
+      "title": "Balthazar",
+      "subtitle": "Si ce n'est toi",
+      "description": "Tout a tourné au drame pour Balthazar. Inculpé pour un double homicide par Camille et Delgado, il est en cellule, menottes aux poignets, dévasté. Est-il ce monstre qu'on lui décrit ? Et quels sont ces souvenirs qui continuent de le harceler ? Mais ne serait-on pas en train de le manipuler ? Personne ne peut lui donner les réponses qu'il cherche, et Balthazar n'a pas le choix. Pour comprendre ce qui lui arrive et qui le persécute, il doit s'évader, et devenir un fugitif. Pour Camille, cette évasion est une trahison. Et elle décide, coûte que coûte, de le retrouver. Seul, recherché par la police, Balthazar tente de remonter le fil de l'enquête pour comprendre qui est derrière cette machination. Mais cette course poursuite entre Balthazar et la police va l'emmener bien plus loin que ce qu'il imaginait. Face à lui-même, face à Maya, face au docteur Vésinet, face à son passé. Pour, enfin, remettre en question tout ce en quoi il croyait.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Balthazar",
+      "episode_nums": {
+        "xmltv_ns": "3.7.0/1",
+        "onscreen": "S04E08"
       }
     }
   ]
