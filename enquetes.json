@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T09:22:34.119077+00:00",
-  "window_start": "2026-08-25",
-  "window_end": "2026-09-01",
+  "generated_at": "2026-08-26T06:00:24.314026+00:00",
+  "window_start": "2026-08-26",
+  "window_end": "2026-09-02",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,118 +15,6 @@
   "series_count": 47,
   "count": 42,
   "programmes": [
-    {
-      "start": "2026-08-25T13:17:00+00:00",
-      "stop": "2026-08-25T14:19:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Petite négligence accouche d'un grand mal",
-      "description": "Candice est réduite à effectuer des tâches administratives. Elle est sanctionnée pour avoir couvert Antoine et doit faire l'inventaire des scellés. Elle essaie de faire bonne figure devant les membres de l'équipe qui tour à tour viennent lui rendre visite.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.0.0/1",
-        "onscreen": "S09E01"
-      }
-    },
-    {
-      "start": "2026-08-25T14:19:00+00:00",
-      "stop": "2026-08-25T15:23:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Rien ne sert de courir",
-      "description": "Candice est toujours confinée dans le petit bureau au niveau de l'accueil. Antoine envoie Val est sur les lieux d'un accident de la route dont le conducteur a été tué sur le coup.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.1.0/1",
-        "onscreen": "S09E02"
-      }
-    },
-    {
-      "start": "2026-08-25T19:10:00+00:00",
-      "stop": "2026-08-25T20:05:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Couple moteur - 1",
-      "description": "Dans une villa cossue, la commandante Clarissa Hoarau et le capitaine Kelly Kwaté découvrent un homme et une femme assassinés, surpris en pleine intimité extraconjugale. Très vite, les pistes se multiplient : le mari trompé, l'employé en conflit ou encore l'ex-femme instable sont potentiellement suspects. Mais c'est la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, qui ouvre une hypothèse glaçante...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "6.10.0/1",
-        "onscreen": "S07E11"
-      }
-    },
-    {
-      "start": "2026-08-25T20:05:00+00:00",
-      "stop": "2026-08-25T20:55:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Couple moteur - 2",
-      "description": "Pour les enquêteurs, la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, ouvre une hypothèse glaçante : l'impensable a peut-être eu lieu. Que s'est-il réellement passé pendant les longues séances d'entrainement sur l'immense circuit automobile familial ? L'enquête serait-elle sur le point de mettre au jour des secrets bien gardés ?...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "6.11.0/1",
-        "onscreen": "S07E12"
-      }
-    },
-    {
-      "start": "2026-08-25T20:55:00+00:00",
-      "stop": "2026-08-25T21:45:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Mort en réserve - 1",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.10.0/1",
-        "onscreen": "S06E11"
-      }
-    },
-    {
-      "start": "2026-08-25T21:45:00+00:00",
-      "stop": "2026-08-25T22:45:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Mort en réserve - 2",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.11.0/1",
-        "onscreen": "S06E12"
-      }
-    },
-    {
-      "start": "2026-08-25T23:17:00+00:00",
-      "stop": "2026-08-26T00:08:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Mort en réserve - 1",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.10.0/1",
-        "onscreen": "S06E11"
-      }
-    },
     {
       "start": "2026-08-26T00:08:00+00:00",
       "stop": "2026-08-26T01:02:00+00:00",
@@ -144,7 +32,7 @@
       }
     },
     {
-      "start": "2026-08-26T13:17:00+00:00",
+      "start": "2026-08-26T13:16:00+00:00",
       "stop": "2026-08-26T14:16:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
@@ -685,6 +573,118 @@
       "episode_nums": {
         "xmltv_ns": "3.7.0/1",
         "onscreen": "S04E08"
+      }
+    },
+    {
+      "start": "2026-09-01T07:39:00+00:00",
+      "stop": "2026-09-01T08:28:00+00:00",
+      "channel": "Tipik",
+      "title": "Candice Renoir",
+      "subtitle": "Qui vit dans la haine ne connaît point le repos",
+      "description": "Une jeune femme en sang débarque au commissariat après avoir été attaquée au couteau dans la rue. Jeune étudiante en médecine, la victime est victime de cyberharcèlement à la suite d'un post qui n'a visiblement pas plu au sujet du port du masque. Chrystelle Da Sylva, devenue spécialiste de la Toile, vient prêter main-forte à l'équipe. Candice, alias Calamity, reine de la gâchette, va débusquer dans son antre un gourou antisémite qui, tel Charles Manson, instrumentalise ses adeptes et distribue des cibles à attaquer.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Candice Renoir",
+      "episode_nums": {
+        "xmltv_ns": "8.8.0/1",
+        "onscreen": "S09E09"
+      }
+    },
+    {
+      "start": "2026-09-01T08:28:00+00:00",
+      "stop": "2026-09-01T09:18:00+00:00",
+      "channel": "Tipik",
+      "title": "Candice Renoir",
+      "subtitle": "Mieux vaut faire envie que pitié",
+      "description": "Sur la scène du Fa-Si-La-Si-Do, une artiste burlesque assez ronde livre une performance à la fois drôle et sexy qui lui vaut des applaudissements enthousiastes de Candice et Nathalie. Le lendemain matin, Candice apprend qu'un corps sans vie a été retrouvé au cabaret, elle est prise d'un mauvais pressentiment... qui se confirme lorsqu'elle arrive sur place : Amélie gît sur le sol, une flaque de sang derrière sa tête.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Candice Renoir",
+      "episode_nums": {
+        "xmltv_ns": "8.9.0/1",
+        "onscreen": "S09E10"
+      }
+    },
+    {
+      "start": "2026-09-01T19:10:00+00:00",
+      "stop": "2026-09-01T19:55:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Zone interdite - 1ère partie",
+      "description": "Une jeune femme, Manon Torres, est retrouvée morte au large de Castan, paisible village de la Côte Bleue. Très vite, l'enquête dévoile les secrets d'une petite communauté divisée, entre pêche traditionnelle et braconnage d'oursins. Mais alors que l'ADN retrouvé sous les ongles de la victime pourrait mettre le duo de juges sur la piste du tueur, le résultat sème le trouble. Le suspect présente en effet une correspondance génétique avec Constance...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.0.0/1",
+        "onscreen": "S11E01"
+      }
+    },
+    {
+      "start": "2026-09-01T19:55:00+00:00",
+      "stop": "2026-09-01T20:45:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Un avenir tout tracé",
+      "description": "Un jeune garçon est retrouvé tué par balle dans une ruelle aux abords de son lycée. C'est un drame et un traumatisme pour ses camarades et pour tout le corps pédagogique de l'établissement. Le juge Delcourt et Constance Meyer vont tenter de comprendre comment ce jeune homme aussi brillant, qui semblait résister au déterminisme social, a été mêlé à une affaire qui l'a visiblement totalement dépassé...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "9.0.0/1",
+        "onscreen": "S10E01"
+      }
+    },
+    {
+      "start": "2026-09-01T20:45:00+00:00",
+      "stop": "2026-09-01T21:35:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Le sauveur",
+      "description": "Un homme est retrouvé mort dans une forêt dans la campagne environnant Marseille. C'est un drame pour les habitants de la région car c'était le médecin généraliste qui s'était installé depuis peu dans cette zone de désert médical.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "8.0.0/1",
+        "onscreen": "S09E01"
+      }
+    },
+    {
+      "start": "2026-09-01T21:35:00+00:00",
+      "stop": "2026-09-01T22:25:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Cabaret",
+      "description": "Un homme, discret père de famille a été assassiné, poussé dans un précipice. L'enquête mène Constance et Boris dans le monde noctambule du spectacle et des cabarets.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "8.1.0/1",
+        "onscreen": "S09E02"
+      }
+    },
+    {
+      "start": "2026-09-01T23:12:00+00:00",
+      "stop": "2026-09-02T00:50:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Les petits meurtres d'Agatha Christie",
+      "subtitle": "Mourir sur scène",
+      "description": "Pendant la tournée des stars de variété Nelly & Sky, un guitariste meurt, écrasé par un projecteur. C'est Sky qui était visé, comme le prouve rapidement une deuxième tentative de meurtre. Pour protéger la vedette, Gréco impose Beretta comme guitariste pour les prochains concerts... Un gros challenge pour l'inspecteur... Rose découvre, horrifiée, que le meurtrier pourrait bien être un de ses patients! En effet, Rico, musicien très perturbé psychologiquement, est persuadé que Sky lui a volé une chanson et a juré de se venger....",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Petits Meurtres",
+      "episode_nums": {
+        "xmltv_ns": "2.3.0/1",
+        "onscreen": "S03E04"
       }
     }
   ]
