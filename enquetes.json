@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T09:27:31.981541+00:00",
-  "window_start": "2026-08-26",
-  "window_end": "2026-09-02",
+  "generated_at": "2026-08-27T12:56:44.325776+00:00",
+  "window_start": "2026-08-27",
+  "window_end": "2026-09-03",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,155 +13,11 @@
   ],
   "missing_channels": [],
   "series_count": 47,
-  "count": 42,
+  "count": 35,
   "programmes": [
     {
-      "start": "2026-08-26T00:08:00+00:00",
-      "stop": "2026-08-26T01:02:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Mort en réserve - 2",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.11.0/1",
-        "onscreen": "S06E12"
-      }
-    },
-    {
-      "start": "2026-08-26T13:16:00+00:00",
-      "stop": "2026-08-26T14:16:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Nécessité fait loi",
-      "description": "Antoine est à l'école préparatoire des Beaux-Arts de Sète pour y déloger des protestataires. Quatre silhouettes cagoulées, littéralement pendues par le cou au toit du bâtiment, arborent une pancarte portant le motif de leur condamnation à mort par le système. Cette scène choc qui fait déjà beaucoup de bruit sur les réseaux sociaux, mais le coup d'éclat tourne au drame lorsque l'un des agents constate que l'une des silhouettes, professeur de photographie, est bel et bien mort \"pendu haut et court\". Un ennemi du professeur aurait-il profité de l'occasion pour l'assassiner ? Ou bien cette mort n'est-elle pas du tout prématurée ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.2.0/1",
-        "onscreen": "S09E03"
-      }
-    },
-    {
-      "start": "2026-08-26T14:16:00+00:00",
-      "stop": "2026-08-26T15:20:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Qui sème le vent récolte la tempête",
-      "description": "Un appel est transféré à Candice par le standard. Au bout du fil, un homme qui se prétend en danger de mort et explique être en possession de documents incriminant la société pharmaceutique Occi-Vitale, responsable de rejets de benzène dans l'environnement ce qui a causé plusieurs cas de leucémie chez des enfants. Tout ce qui compte pour lui est que sa famille soit mise à l'abri. Candice assiste, impuissante à l'assassinat d'Aurélien en direct, au téléphone. Elle l'entend hurler avant que le silence ne retombe, définitivement...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.3.0/1",
-        "onscreen": "S09E04"
-      }
-    },
-    {
-      "start": "2026-08-26T19:10:00+00:00",
-      "stop": "2026-08-26T19:55:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Camélia",
-      "description": "Un squelette est retrouvé dans le jardin d'une maison. La nouvelle propriétaire est sous le choc. Rapidement, l'équipe des Invisibles soupçonne le neveu de l'ancien propriétaire, qui a repris la maison au moment de la mort de ce dernier.Enzo, tout juste sorti de prison, semble avoir une idée bien précise en tête. Il se rapproche de cette jeune femme qui chante dans la rue, et use de ses charmes pour l'attirer dans ce qui ressemble à un piège.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.3.0/1",
-        "onscreen": "S03E04"
-      }
-    },
-    {
-      "start": "2026-08-26T19:55:00+00:00",
-      "stop": "2026-08-26T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Stardust",
-      "description": "Les restes d'une fête sauvage, dans un bunker. Et un jeune homme, parmi les cadavres de bouteilles et les mégôts, mort. Que s'est-il passé ? Parmi la centaine de jeunes présents, personne ne semble avoir rien vu. Rapidement, l'équipe découvre chez \"Stardust\", le profil d'un jeune homme mystérieux.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.4.0/1",
-        "onscreen": "S03E05"
-      }
-    },
-    {
-      "start": "2026-08-26T20:45:00+00:00",
-      "stop": "2026-08-26T21:35:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Fleur",
-      "description": "Sur le bord d'un échangeur autoroutier, un chien aboit. A ses côtés, un cadavre. Enfin, pas vraiment. Car quand l'équipe des Invisibles débarque sur la scène de crime, Darius s'aperçoit que la victime, Fleur, respire encore. Elle est dans un état déplorable, et plongée dans le coma une fois arrivée à l'hôpital. L'équipe devra trouver les réponses ailleurs...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.5.0/1",
-        "onscreen": "S03E06"
-      }
-    },
-    {
-      "start": "2026-08-26T21:35:00+00:00",
-      "stop": "2026-08-26T22:25:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Citadelle",
-      "description": "Une femme est retrouvée morte sous le pont de la Citadelle. Particularité, elle est vêtue d'une robe de mariée. Une fois de plus, l'identité de la victime est un mystère complet. Pourtant, si cette femme était sur le point de se marier, il y a forcément des gens qui la cherchent partout.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
-    {
-      "start": "2026-08-26T22:25:00+00:00",
-      "stop": "2026-08-26T23:10:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Cordeliers",
-      "description": "L'équipe de Darius doit enquêter pour identifier une dépouille réduite à l'état de cendres. Si le cadavre paraît trop abîmé pour pouvoir livrer des indices, les causes de la mort ne font aucun doute. Une affaire similaire s'étant produite il y peu, la brigade est amenée à collaborer avec les hommes du commandant Christera, avec lesquels les rapports sont pour le moins tendus. Une collaboration pour le moins explosive va donc se mettre en place entre les deux équipes.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-08-26T23:10:00+00:00",
-      "stop": "2026-08-27T00:05:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Garenne",
-      "description": "Un directeur de camp de vacances veut marquer l'inauguration de ses nouveaux locaux. Il choisit d'organiser une fête où le point d'orgue sera la démolition symbolique des murs des anciens bâtiments. Une fois à l'oeuvre, les amis ne tardent pas à faire une terrible découverte : un corps se cache parmi les débris... Etrange quand on sait que depuis 50 ans, aucun vacancier n'a jamais manqué à l'appel... Alors, qui est-il ? On l'appellera GARENNE, comme le camp de vacances où on l'a retrouvé.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
-    {
-      "start": "2026-08-27T13:15:00+00:00",
-      "stop": "2026-08-27T14:13:00+00:00",
+      "start": "2026-08-27T13:16:00+00:00",
+      "stop": "2026-08-27T14:14:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Souvent l'un voit son bien où l'autre voit son mal",
@@ -176,8 +32,8 @@
       }
     },
     {
-      "start": "2026-08-27T14:13:00+00:00",
-      "stop": "2026-08-27T15:15:00+00:00",
+      "start": "2026-08-27T14:14:00+00:00",
+      "stop": "2026-08-27T15:16:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "La beauté ne se voit qu'avec les yeux de l'âme",
@@ -240,8 +96,8 @@
       }
     },
     {
-      "start": "2026-08-28T13:08:00+00:00",
-      "stop": "2026-08-28T14:06:00+00:00",
+      "start": "2026-08-28T13:16:00+00:00",
+      "stop": "2026-08-28T14:16:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Qui va à la chasse perd sa place - 1ère partie",
@@ -256,8 +112,8 @@
       }
     },
     {
-      "start": "2026-08-28T14:06:00+00:00",
-      "stop": "2026-08-28T15:06:00+00:00",
+      "start": "2026-08-28T14:16:00+00:00",
+      "stop": "2026-08-28T15:18:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Qui va à la chasse perd sa place - 2ème partie",
@@ -682,6 +538,38 @@
       "icon": "",
       "origine": "serie",
       "serie": "Les Petits Meurtres",
+      "episode_nums": {
+        "xmltv_ns": "2.3.0/1",
+        "onscreen": "S03E04"
+      }
+    },
+    {
+      "start": "2026-09-02T14:16:00+00:00",
+      "stop": "2026-09-02T15:11:00+00:00",
+      "channel": "La Une",
+      "title": "Les enquêtes de Murdoch",
+      "subtitle": "Le crime du Toronto Express",
+      "description": "Lorsque leur train déraille, Ogden et Brackenreid soupçonnent un sabotage pour cacher un meurtre.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "14.3.0/1",
+        "onscreen": "S15E04"
+      }
+    },
+    {
+      "start": "2026-09-02T22:20:00+00:00",
+      "stop": "2026-09-02T23:55:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Pace e salute",
+      "description": "Au coeur d'un village corse, le corps sans vie d'un ancien médecin généraliste est découvert, au côté de son épouse inconsciente. Marleau soupçonne leur fille, Lesia, chirurgienne revenue de Paris pour prendre la suite de son père, de cacher quelque chose. Elle comprend que son retour a créé des inimitiés, dont celle de son ancien fiancé qui aurait dû reprendre le cabinet.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
       "episode_nums": {
         "xmltv_ns": "2.3.0/1",
         "onscreen": "S03E04"
