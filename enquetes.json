@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:46:02.359872+00:00",
+  "generated_at": "2026-08-28T17:38:21.160418+00:00",
   "window_start": "2026-08-28",
   "window_end": "2026-09-04",
   "source": "Pickx via iptv-org/epg",
@@ -465,7 +465,7 @@
     },
     {
       "start": "2026-09-01T21:35:00+00:00",
-      "stop": "2026-09-01T22:25:00+00:00",
+      "stop": "2026-09-01T22:30:00+00:00",
       "channel": "France 3",
       "title": "La stagiaire",
       "subtitle": "Cabaret",
