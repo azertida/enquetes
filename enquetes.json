@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T19:17:07.340930+00:00",
-  "window_start": "2026-08-27",
-  "window_end": "2026-09-03",
+  "generated_at": "2026-08-28T11:46:02.359872+00:00",
+  "window_start": "2026-08-28",
+  "window_end": "2026-09-04",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,56 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 47,
-  "count": 35,
+  "count": 34,
   "programmes": [
-    {
-      "start": "2026-08-27T13:16:00+00:00",
-      "stop": "2026-08-27T14:14:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Souvent l'un voit son bien où l'autre voit son mal",
-      "description": "La ville de Sète essuie les conséquences de la tempête. La BSU est privée d'électricité. Bond en arrière pour la brigade. Mais pas le temps de se plaindre, l'équipe est appelée sur une scène de crime. Mais pas le temps de se plaindre, l'équipe est appelée sur une scène de crime. Un psychiatre, a été retrouvé assassiné dans une ruelle alors qu'il rejoignait sa voiture garée au bord du canal. L'enquête s'oriente autour des stages de \"réorientation sexuelle\", mais est ce vraiment la résolution?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.4.0/1",
-        "onscreen": "S09E05"
-      }
-    },
-    {
-      "start": "2026-08-27T14:14:00+00:00",
-      "stop": "2026-08-27T15:16:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "La beauté ne se voit qu'avec les yeux de l'âme",
-      "description": "Le corps d'une femme est retrouvé dans la luxueuse piscine d'une villa du Mont-Saint-Clair. Les enquêteurs découvrent son visage, tailladé et lacéré. Une visite de la villa confirme l'identité de la défunte.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.5.0/1",
-        "onscreen": "S09E06"
-      }
-    },
-    {
-      "start": "2026-08-27T19:05:00+00:00",
-      "stop": "2026-08-27T20:40:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Les petits meurtres d'Agatha Christie",
-      "subtitle": "Mourir sur scène",
-      "description": "Pendant la tournée des stars de variété Nelly & Sky, un guitariste meurt, écrasé par un projecteur. C'est Sky qui était visé, comme le prouve rapidement une deuxième tentative de meurtre. Pour protéger la vedette, Gréco impose Beretta comme guitariste pour les prochains concerts... Un gros challenge pour l'inspecteur... Rose découvre, horrifiée, que le meurtrier pourrait bien être un de ses patients! En effet, Rico, musicien très perturbé psychologiquement, est persuadé que Sky lui a volé une chanson et a juré de se venger....",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Petits Meurtres",
-      "episode_nums": {
-        "xmltv_ns": "2.3.0/1",
-        "onscreen": "S03E04"
-      }
-    },
     {
       "start": "2026-08-28T12:05:00+00:00",
       "stop": "2026-08-28T12:56:00+00:00",
@@ -192,8 +144,8 @@
       }
     },
     {
-      "start": "2026-08-29T18:59:00+00:00",
-      "stop": "2026-08-29T20:39:00+00:00",
+      "start": "2026-08-29T19:00:00+00:00",
+      "stop": "2026-08-29T20:41:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Sandhamn",
       "subtitle": "Rakel",
@@ -432,8 +384,8 @@
       }
     },
     {
-      "start": "2026-09-01T07:39:00+00:00",
-      "stop": "2026-09-01T08:28:00+00:00",
+      "start": "2026-09-01T07:16:00+00:00",
+      "stop": "2026-09-01T08:10:00+00:00",
       "channel": "Tipik",
       "title": "Candice Renoir",
       "subtitle": "Qui vit dans la haine ne connaît point le repos",
@@ -448,8 +400,8 @@
       }
     },
     {
-      "start": "2026-09-01T08:28:00+00:00",
-      "stop": "2026-09-01T09:18:00+00:00",
+      "start": "2026-09-01T08:10:00+00:00",
+      "stop": "2026-09-01T09:08:00+00:00",
       "channel": "Tipik",
       "title": "Candice Renoir",
       "subtitle": "Mieux vaut faire envie que pitié",
@@ -573,6 +525,38 @@
       "episode_nums": {
         "xmltv_ns": "2.3.0/1",
         "onscreen": "S03E04"
+      }
+    },
+    {
+      "start": "2026-09-03T08:25:00+00:00",
+      "stop": "2026-09-03T09:17:00+00:00",
+      "channel": "Tipik",
+      "title": "Les enquêtes de Murdoch",
+      "subtitle": "Le crime du Toronto Express",
+      "description": "Lorsque leur train déraille, Ogden et Brackenreid soupçonnent un sabotage pour cacher un meurtre.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "14.3.0/1",
+        "onscreen": "S15E04"
+      }
+    },
+    {
+      "start": "2026-09-03T19:05:00+00:00",
+      "stop": "2026-09-03T20:41:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Les secrets du Finistère",
+      "subtitle": "Le garçon qui marchait sur les vagues",
+      "description": "Un surfeur a été tué d'une balle dans le coeur à La Torche. Quand le capitaine Laubier découvre sur l'ordinateur de la victime la vidéo d'un cours de Le Dantec sur la ville engloutie d'Ys, il la contacte. Les intuitions de la jeune femme la mènent sur des pistes inattendues.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
       }
     }
   ]
