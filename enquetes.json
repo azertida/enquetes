@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T20:26:31.122544+00:00",
-  "window_start": "2026-08-28",
-  "window_end": "2026-09-04",
+  "generated_at": "2026-08-29T09:36:20.991963+00:00",
+  "window_start": "2026-08-29",
+  "window_end": "2026-09-05",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,136 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 47,
-  "count": 34,
+  "count": 30,
   "programmes": [
-    {
-      "start": "2026-08-28T12:05:00+00:00",
-      "stop": "2026-08-28T12:56:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Mort en réserve - 1",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.10.0/1",
-        "onscreen": "S06E11"
-      }
-    },
-    {
-      "start": "2026-08-28T12:56:00+00:00",
-      "stop": "2026-08-28T13:51:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Mort en réserve - 2",
-      "description": "Sous les tropiques entre la Nouvelle-Calédonie et La Réunion, la brigade soudée OPJ résout des enquêtes sous la direction de la commandante Clarissa Hoarau.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "5.11.0/1",
-        "onscreen": "S06E12"
-      }
-    },
-    {
-      "start": "2026-08-28T13:16:00+00:00",
-      "stop": "2026-08-28T14:16:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Qui va à la chasse perd sa place - 1ère partie",
-      "description": "Un dimanche, au petit matin. Le corps du président d'une association de chasse, lui-même chasseur émérite, est retrouvé, nu, et en partie dévoré, dans l'enclos aux sangliers de son domaine. Si les bêtes avaient eu le temps de terminer leur \"festin\", le corps n'aurait certainement jamais été découvert. Candice Renoir soupçonne tout le monde. A la manière d'Hercule Poirot, elle décide de réunir - et d'enfermer - tout son monde dans le grand salon du manoir du défunt, afin de démasquer logiquement le ou la coupable.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.6.0/1",
-        "onscreen": "S09E07"
-      }
-    },
-    {
-      "start": "2026-08-28T14:16:00+00:00",
-      "stop": "2026-08-28T15:18:00+00:00",
-      "channel": "La Une",
-      "title": "Candice Renoir",
-      "subtitle": "Qui va à la chasse perd sa place - 2ème partie",
-      "description": "Candice Renoir enquête sur la mort horrible d'un amateur de chasse. Tous ses suspects sont réunis dans la même pièce d'un grand manoir. Parmi eux : un coupable. Cependant, en l'absence de preuves, seules la logique et la déduction permettront de le démasquer. Qui voulait la mort de la victime ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.7.0/1",
-        "onscreen": "S09E08"
-      }
-    },
-    {
-      "start": "2026-08-28T19:10:00+00:00",
-      "stop": "2026-08-28T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "Le feu sacré",
-      "description": "Après la découverte du corps calciné de Zoé, une lycéenne apparemment sans histoire, les enquêteurs Oriane et Téva révèlent qu'elle menait une double vie, impliquée dans des pratiques ésotériques et de prétendus dons de guérison. Au sein de cette communauté rurale marquée par le secret et la méfiance, les investigations s'intensifient alors que plusieurs suspects sont eux-mêmes victimes de combustion spontanée, forçant les enquêteurs à démêler croyances et réalités pour élucider le mystère entourant Zoé.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "À l'instinct",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-08-28T20:45:00+00:00",
-      "stop": "2026-08-28T22:15:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "À l'instinct",
-      "description": "Lieutenant de police à Cayenne, la capitale de sa Guyane natale, Teva Royer aime se fier à son instinct pour éclaircir les zones d'ombre des affaires sur lesquelles il enquête. Un jour, il est amené à se rendre à Nantes pour mener des investigations sur la mort suspecte de la fille d'un riche homme d'affaires, dont le corps vient d'être retrouvé. Arrivé sur place, Teva fait connaissance avec Ana Kerjouan, la pragmatique capitaine de police judiciaire avec laquelle il va faire équipe pour tenter de résoudre l'énigme. Le binôme va vite tirer profit de sa complémentarité et en faire une arme redoutable pour l'enquête...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "À l'instinct",
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-08-28T22:15:00+00:00",
-      "stop": "2026-08-28T23:45:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "La reine des glaces",
-      "description": "Le capitaine Marleau enquête sur le meurtre d'une patineuse artistique. La victime, Lucie Engelberg, serait morte à la suite de coups violents. Pourtant, quelques heures plus tôt la jeune femme s'entraînait encore aux côtés d'une autre vedette de spectacle sur glace, Salomé Revel.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "2.6.0/1",
-        "onscreen": "S03E07"
-      }
-    },
-    {
-      "start": "2026-08-28T23:45:00+00:00",
-      "stop": "2026-08-29T01:15:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Au nom du fils",
-      "description": "Le conducteur d'un train touristique est retrouvé mort, il s'agit de Robert Lanski. Il y a 5 ans déjà, il était responsable d'un accident ferroviaire qui avait coûté la mort d'un adolescent.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "2.7.0/1",
-        "onscreen": "S03E08"
-      }
-    },
     {
       "start": "2026-08-29T19:00:00+00:00",
       "stop": "2026-08-29T20:41:00+00:00",
@@ -272,8 +144,8 @@
       }
     },
     {
-      "start": "2026-08-31T13:14:00+00:00",
-      "stop": "2026-08-31T14:11:00+00:00",
+      "start": "2026-08-31T13:15:00+00:00",
+      "stop": "2026-08-31T14:12:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Qui vit dans la haine ne connaît point le repos",
@@ -288,8 +160,8 @@
       }
     },
     {
-      "start": "2026-08-31T14:11:00+00:00",
-      "stop": "2026-08-31T15:14:00+00:00",
+      "start": "2026-08-31T14:12:00+00:00",
+      "stop": "2026-08-31T15:17:00+00:00",
       "channel": "La Une",
       "title": "Candice Renoir",
       "subtitle": "Mieux vaut faire envie que pitié",
@@ -305,7 +177,7 @@
     },
     {
       "start": "2026-08-31T18:50:00+00:00",
-      "stop": "2026-08-31T19:52:00+00:00",
+      "stop": "2026-08-31T19:54:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "Nature morte",
@@ -320,8 +192,8 @@
       }
     },
     {
-      "start": "2026-08-31T19:52:00+00:00",
-      "stop": "2026-08-31T20:57:00+00:00",
+      "start": "2026-08-31T19:54:00+00:00",
+      "stop": "2026-08-31T20:58:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "Dernier recours",
@@ -336,8 +208,8 @@
       }
     },
     {
-      "start": "2026-08-31T20:57:00+00:00",
-      "stop": "2026-08-31T21:54:00+00:00",
+      "start": "2026-08-31T20:58:00+00:00",
+      "stop": "2026-08-31T21:56:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "Eros et Thanatos",
@@ -352,8 +224,8 @@
       }
     },
     {
-      "start": "2026-08-31T21:54:00+00:00",
-      "stop": "2026-08-31T22:53:00+00:00",
+      "start": "2026-08-31T21:56:00+00:00",
+      "stop": "2026-08-31T22:52:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "Souviens-toi",
@@ -368,8 +240,8 @@
       }
     },
     {
-      "start": "2026-08-31T22:53:00+00:00",
-      "stop": "2026-08-31T23:50:00+00:00",
+      "start": "2026-08-31T22:52:00+00:00",
+      "stop": "2026-08-31T23:46:00+00:00",
       "channel": "Tipik",
       "title": "Balthazar",
       "subtitle": "Si ce n'est toi",
@@ -384,8 +256,8 @@
       }
     },
     {
-      "start": "2026-09-01T07:16:00+00:00",
-      "stop": "2026-09-01T08:10:00+00:00",
+      "start": "2026-09-01T07:34:00+00:00",
+      "stop": "2026-09-01T08:30:00+00:00",
       "channel": "Tipik",
       "title": "Candice Renoir",
       "subtitle": "Qui vit dans la haine ne connaît point le repos",
@@ -400,8 +272,8 @@
       }
     },
     {
-      "start": "2026-09-01T08:10:00+00:00",
-      "stop": "2026-09-01T09:08:00+00:00",
+      "start": "2026-09-01T08:30:00+00:00",
+      "stop": "2026-09-01T09:31:00+00:00",
       "channel": "Tipik",
       "title": "Candice Renoir",
       "subtitle": "Mieux vaut faire envie que pitié",
@@ -557,6 +429,70 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-04T12:05:00+00:00",
+      "stop": "2026-09-04T13:40:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Les petits meurtres d'Agatha Christie",
+      "subtitle": "Mourir sur scène",
+      "description": "Pendant la tournée des stars de variété Nelly & Sky, un guitariste meurt, écrasé par un projecteur. C'est Sky qui était visé, comme le prouve rapidement une deuxième tentative de meurtre. Pour protéger la vedette, Gréco impose Beretta comme guitariste pour les prochains concerts... Un gros challenge pour l'inspecteur... Rose découvre, horrifiée, que le meurtrier pourrait bien être un de ses patients! En effet, Rico, musicien très perturbé psychologiquement, est persuadé que Sky lui a volé une chanson et a juré de se venger....",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Petits Meurtres",
+      "episode_nums": {
+        "xmltv_ns": "2.3.0/1",
+        "onscreen": "S03E04"
+      }
+    },
+    {
+      "start": "2026-09-04T19:10:00+00:00",
+      "stop": "2026-09-04T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "Dans les limbes",
+      "description": "Deux corps sont découverts en même temps, enfouis dans le jardin d'une famille d'accueil de la banlieue huppée de Lyon. Un cadavre tout récent, celui du père de la famille, et un cadavre d'adolescent, quasi-intégralement décomposé. Il s'agit d'un jeune homme accueilli dans la famille il y a une quinzaine d'années et porté disparu, croit-on, après une fugue. Dans une famille nombreuse et pleine de secrets, Téva et Oriane vont recoller les morceaux du puzzle familial et faire jaillir la vérité qui sape les fondations de ce foyer...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-09-04T20:45:00+00:00",
+      "stop": "2026-09-04T22:20:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "Le feu sacré",
+      "description": "Après la découverte du corps calciné de Zoé, une lycéenne apparemment sans histoire, les enquêteurs Oriane et Téva révèlent qu'elle menait une double vie, impliquée dans des pratiques ésotériques et de prétendus dons de guérison. Au sein de cette communauté rurale marquée par le secret et la méfiance, les investigations s'intensifient alors que plusieurs suspects sont eux-mêmes victimes de combustion spontanée, forçant les enquêteurs à démêler croyances et réalités pour élucider le mystère entourant Zoé.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-09-04T22:20:00+00:00",
+      "stop": "2026-09-04T23:45:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "À l'instinct",
+      "description": "Lieutenant de police à Cayenne, la capitale de sa Guyane natale, Teva Royer aime se fier à son instinct pour éclaircir les zones d'ombre des affaires sur lesquelles il enquête. Un jour, il est amené à se rendre à Nantes pour mener des investigations sur la mort suspecte de la fille d'un riche homme d'affaires, dont le corps vient d'être retrouvé. Arrivé sur place, Teva fait connaissance avec Ana Kerjouan, la pragmatique capitaine de police judiciaire avec laquelle il va faire équipe pour tenter de résoudre l'énigme. Le binôme va vite tirer profit de sa complémentarité et en faire une arme redoutable pour l'enquête...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
       }
     }
   ]
