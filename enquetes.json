@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T14:02:19.814228+00:00",
-  "window_start": "2026-08-29",
-  "window_end": "2026-09-05",
+  "generated_at": "2026-08-30T10:36:30.158479+00:00",
+  "window_start": "2026-08-30",
+  "window_end": "2026-09-06",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 47,
-  "count": 30,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-08-29T19:00:00+00:00",
-      "stop": "2026-08-29T20:41:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Sandhamn",
-      "subtitle": "Rakel",
-      "description": "La nouvelle cheffe de la police, Rakel, et Nora sont devenues amies. Le fils de Rakel tue accidentellement un homme à qui il devait de l'argent. En cherchant à aider son fils à dissimuler le meurtre, Rakel se retrouve personnellement impliquée dans l'affaire. Elle met tout en œuvre pour pousser Alexander et Valpen à abandonner leur enquête. De son côté, Nora invite Alexander à déjeuner dans une nouvelle tentative de réconciliation. Mais leur rendez-vous est loin de se dérouler comme elle l'espérait.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.4.0/1",
-        "onscreen": "S10E05"
-      }
-    },
-    {
-      "start": "2026-08-29T19:10:00+00:00",
-      "stop": "2026-08-29T20:40:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Fontainebleau",
-      "description": "Un pilote de quad est retrouvé mort en forêt de Fontainebleau, tué par un cavalier mystérieux évoquant la légende du Grand Veneur. L'enquêtrice Pauline Laroche, de retour dans sa ville natale, doit collaborer avec Nicolas Dupret, un gendarme équestre qu'elle a blessé par le passé. Tandis que les meurtres se multiplient, tous deux doivent affronter leurs traumatismes pour arrêter un tueur qui semble vouloir protéger la forêt à tout prix...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "12.5.0/1",
-        "onscreen": "S13E06"
-      }
-    },
-    {
-      "start": "2026-08-29T20:40:00+00:00",
-      "stop": "2026-08-29T22:20:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Blois",
-      "description": "Lors d'une reconstitution historique au Château de Blois, le duc de Guise, Arthur, âgé de 20 ans, est accusé du meurtre d'Henry III, l'industriel du groupe pharmaceutique Bellion.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "8.4.0/1",
-        "onscreen": "S09E05"
-      }
-    },
-    {
-      "start": "2026-08-29T22:20:00+00:00",
-      "stop": "2026-08-29T23:10:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Couple moteur - 1",
-      "description": "Dans une villa cossue, la commandante Clarissa Hoarau et le capitaine Kelly Kwaté découvrent un homme et une femme assassinés, surpris en pleine intimité extraconjugale. Très vite, les pistes se multiplient : le mari trompé, l'employé en conflit ou encore l'ex-femme instable sont potentiellement suspects. Mais c'est la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, qui ouvre une hypothèse glaçante...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "6.10.0/1",
-        "onscreen": "S07E11"
-      }
-    },
-    {
-      "start": "2026-08-29T23:10:00+00:00",
-      "stop": "2026-08-30T00:00:00+00:00",
-      "channel": "France 3",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Couple moteur - 2",
-      "description": "Pour les enquêteurs, la disparition de Mattéo, jeune pilote de course et fils de l'homme assassiné, ouvre une hypothèse glaçante : l'impensable a peut-être eu lieu. Que s'est-il réellement passé pendant les longues séances d'entrainement sur l'immense circuit automobile familial ? L'enquête serait-elle sur le point de mettre au jour des secrets bien gardés ?...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "6.11.0/1",
-        "onscreen": "S07E12"
-      }
-    },
     {
       "start": "2026-08-30T00:00:00+00:00",
       "stop": "2026-08-30T00:50:00+00:00",
@@ -493,6 +413,102 @@
       "episode_nums": {
         "xmltv_ns": "0.0.0/1",
         "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-09-05T19:10:00+00:00",
+      "stop": "2026-09-05T20:40:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres au Puy-en-Velay",
+      "description": "La lieutenant Marion Cazale, 35 ans, se rend en pleine nuit dans la cathédrale pour faire un voeu sur la \"Pierre des Fièvres\", dont la légende rapporte qu'elle guérit de tous les maux. Elle y découvre le cadavre d'une jeune femme allongée, comme endormie. Même le légiste ne parvient pas à définir les raisons de son décès. Elle aurait le syndrome du coeur brisé. Qu'allait-elle demander à la pierre sacrée ? Et Marion ? Notre héroïne est en situation de handicap, elle est en train de perdre la vue des suites d'un diabète de type 1. La jeune lieutenant va faire équipe avec le capitaine Jiménez, 45 ans, récemment muté au Puy par sa hiérarchie, après avoir commis une bavure qui l'empêche de dormir...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "10.6.0/1",
+        "onscreen": "S11E07"
+      }
+    },
+    {
+      "start": "2026-09-05T19:14:00+00:00",
+      "stop": "2026-09-05T20:55:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Sandhamn",
+      "subtitle": "Amanda",
+      "description": "Un braquage tourne mal et se transforme en enlèvement involontaire lorsque les malfaiteurs s'emparent d'un bateau sans se rendre compte que la petite fille du propriétaire se trouve encore à bord. Alexander et Valpen sont les premiers à intervenir, mais ne parviennent pas à empêcher la fuite des braqueurs. Nora découvre qu'une fenêtre a été brisée dans la maison de son voisin. En s'en approchant, elle se retrouve au cœur des événements. De leur côté, Nora et Alexander ont commencé, chacun de leur côté, à regarder des bagues de fiançailles. Ils seront bientôt prêts à se marier.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.5.0/1",
+        "onscreen": "S10E06"
+      }
+    },
+    {
+      "start": "2026-09-05T21:04:00+00:00",
+      "stop": "2026-09-05T21:57:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Dimitri - 1 (Sauver Charlie)",
+      "description": "Le port industriel de La Réunion est en ébullition. Un des vigiles a posé des explosifs pour faire sauter un container. Cet ex-militaire souffre-t-il d'un syndrome post-traumatique ou est-il juste un père dépassé qui tente de venir en aide à sa fille ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-09-05T21:57:00+00:00",
+      "stop": "2026-09-05T22:56:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Dimitri - 2 (Sauver Charlie)",
+      "description": "Pendant que Clarissa tente de comprendre les motivations de Dimitri, elle enquête en parallèle sur la prostitution étudiante qui sévit sur l'île. Son équipe s'interroge sur le rapport qui pourrait exister entre ces réseaux et le pillage d'un stock d'armes de l'armée française.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-09-05T22:15:00+00:00",
+      "stop": "2026-09-05T23:50:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Figeac",
+      "description": "Pour la première fois depuis un an, Manon retourne à Figeac pour un bref séjour. Après la disparition d'Alexandre, son mari, dans un accident de la route, elle a préféré s'installer à Toulouse et poursuivre son activité de lieutenant de police dans la ville rose. Le temps d'une journée, pour commémorer le souvenir d'Alexandre, Manon retrouve ceux qui l'avaient presque adoptée. Et les retrouvailles ne sont pas simples Sauf avec Olivier Peyrusse, le frère d'Alexandre. Olivier est un des anciens collègues de Manon. Et comme toute son équipe, il regrette profondément que Manon soit partie. Alors quand Monique Neyrolle, chef d'une famille de propriétaires terriens, est retrouvée momifiée au musée de Figeac, Manon accepte de suivre son beau-frère sur les lieux du crime pour saluer les autres gendarmes.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "8.8.0/1",
+        "onscreen": "S09E09"
+      }
+    },
+    {
+      "start": "2026-09-05T23:50:00+00:00",
+      "stop": "2026-09-06T01:20:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Arles",
+      "description": "Sarah Cortes est issue d'une famille de manadiers qui élève des taureaux depuis plusieurs générations. Sarah doit se marier à la fin de la semaine avec Louis qu'elle connaît depuis toujours. Le commandant Lucas Pujol est un jeune officier modèle surdiplômé. Entre Sarah et Lucas, une amitié est née comme une évidence, entre le feu et la glace. Deux opposés qui s'attirent sans pour autant reconnaître leurs sentiments, des sentiments certainement plus profonds. Dans les gradins des arènes d'Arles, c'est l'élection de la nouvelle reine de la ville. Mais à l'annonce de son nom, Aline Garnier, ne se présente pas. Soudain la calèche censée emmener la reine pour sa présentation au public, déboule en trombe dans les arènes. Pas de reine à son bord, mais un corps inerte : celui du président de l'association de l'élection. La reine Aline, en vraie Arlésienne, a disparu, ne laissant qu'un pic à cheveux ensanglanté derrière elle.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "10.0.0/1",
+        "onscreen": "S11E01"
       }
     }
   ]
