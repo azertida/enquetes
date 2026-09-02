@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T13:44:00.860931+00:00",
-  "window_start": "2026-09-01",
-  "window_end": "2026-09-08",
+  "generated_at": "2026-09-02T09:50:01.582088+00:00",
+  "window_start": "2026-09-02",
+  "window_end": "2026-09-09",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,120 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 47,
-  "count": 22,
+  "count": 19,
   "programmes": [
-    {
-      "start": "2026-09-01T07:35:00+00:00",
-      "stop": "2026-09-01T08:30:00+00:00",
-      "channel": "Tipik",
-      "title": "Candice Renoir",
-      "subtitle": "Qui vit dans la haine ne connaît point le repos",
-      "description": "Une jeune femme en sang débarque au commissariat après avoir été attaquée au couteau dans la rue. Jeune étudiante en médecine, la victime est victime de cyberharcèlement à la suite d'un post qui n'a visiblement pas plu au sujet du port du masque. Chrystelle Da Sylva, devenue spécialiste de la Toile, vient prêter main-forte à l'équipe. Candice, alias Calamity, reine de la gâchette, va débusquer dans son antre un gourou antisémite qui, tel Charles Manson, instrumentalise ses adeptes et distribue des cibles à attaquer.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.8.0/1",
-        "onscreen": "S09E09"
-      }
-    },
-    {
-      "start": "2026-09-01T08:30:00+00:00",
-      "stop": "2026-09-01T09:31:00+00:00",
-      "channel": "Tipik",
-      "title": "Candice Renoir",
-      "subtitle": "Mieux vaut faire envie que pitié",
-      "description": "Sur la scène du Fa-Si-La-Si-Do, une artiste burlesque assez ronde livre une performance à la fois drôle et sexy qui lui vaut des applaudissements enthousiastes de Candice et Nathalie. Le lendemain matin, Candice apprend qu'un corps sans vie a été retrouvé au cabaret, elle est prise d'un mauvais pressentiment... qui se confirme lorsqu'elle arrive sur place : Amélie gît sur le sol, une flaque de sang derrière sa tête.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "8.9.0/1",
-        "onscreen": "S09E10"
-      }
-    },
-    {
-      "start": "2026-09-01T19:10:00+00:00",
-      "stop": "2026-09-01T19:55:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Zone interdite - 1ère partie",
-      "description": "Une jeune femme, Manon Torres, est retrouvée morte au large de Castan, paisible village de la Côte Bleue. Très vite, l'enquête dévoile les secrets d'une petite communauté divisée, entre pêche traditionnelle et braconnage d'oursins. Mais alors que l'ADN retrouvé sous les ongles de la victime pourrait mettre le duo de juges sur la piste du tueur, le résultat sème le trouble. Le suspect présente en effet une correspondance génétique avec Constance...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.0.0/1",
-        "onscreen": "S11E01"
-      }
-    },
-    {
-      "start": "2026-09-01T19:55:00+00:00",
-      "stop": "2026-09-01T20:45:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Un avenir tout tracé",
-      "description": "Un jeune garçon est retrouvé tué par balle dans une ruelle aux abords de son lycée. C'est un drame et un traumatisme pour ses camarades et pour tout le corps pédagogique de l'établissement. Le juge Delcourt et Constance Meyer vont tenter de comprendre comment ce jeune homme aussi brillant, qui semblait résister au déterminisme social, a été mêlé à une affaire qui l'a visiblement totalement dépassé...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "9.0.0/1",
-        "onscreen": "S10E01"
-      }
-    },
-    {
-      "start": "2026-09-01T20:45:00+00:00",
-      "stop": "2026-09-01T21:35:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Le sauveur",
-      "description": "Un homme est retrouvé mort dans une forêt dans la campagne environnant Marseille. C'est un drame pour les habitants de la région car c'était le médecin généraliste qui s'était installé depuis peu dans cette zone de désert médical.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "8.0.0/1",
-        "onscreen": "S09E01"
-      }
-    },
-    {
-      "start": "2026-09-01T21:35:00+00:00",
-      "stop": "2026-09-01T22:30:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Cabaret",
-      "description": "Un homme, discret père de famille a été assassiné, poussé dans un précipice. L'enquête mène Constance et Boris dans le monde noctambule du spectacle et des cabarets.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "8.1.0/1",
-        "onscreen": "S09E02"
-      }
-    },
-    {
-      "start": "2026-09-01T23:12:00+00:00",
-      "stop": "2026-09-02T00:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Les petits meurtres d'Agatha Christie",
-      "subtitle": "Mourir sur scène",
-      "description": "Pendant la tournée des stars de variété Nelly & Sky, un guitariste meurt, écrasé par un projecteur. C'est Sky qui était visé, comme le prouve rapidement une deuxième tentative de meurtre. Pour protéger la vedette, Gréco impose Beretta comme guitariste pour les prochains concerts... Un gros challenge pour l'inspecteur... Rose découvre, horrifiée, que le meurtrier pourrait bien être un de ses patients! En effet, Rico, musicien très perturbé psychologiquement, est persuadé que Sky lui a volé une chanson et a juré de se venger....",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Petits Meurtres",
-      "episode_nums": {
-        "xmltv_ns": "2.3.0/1",
-        "onscreen": "S03E04"
-      }
-    },
     {
       "start": "2026-09-02T14:22:00+00:00",
       "stop": "2026-09-02T15:17:00+00:00",
@@ -365,6 +253,70 @@
       "episode_nums": {
         "xmltv_ns": "9.6.0/1",
         "onscreen": "S10E07"
+      }
+    },
+    {
+      "start": "2026-09-08T19:10:00+00:00",
+      "stop": "2026-09-08T20:00:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Zone interdite - 2ème partie",
+      "description": "L'enquête se poursuit à Castan pour retrouver le meurtrier de Manon Torrès. Clément Dajet, le petit ami de la victime, est arrêté. Mais alors que tout semble l'accuser, Constance est convaincue de son innocence. En marge de l'instruction dont elle a été écartée, elle décide de poursuivre l'enquête, épaulée par sa famille. Constance remonte la piste d'un nouvel amant de Manon. Boris et Constance vont devoir naviguer entre rivalités amoureuses, mensonges et braconnage...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.1.0/1",
+        "onscreen": "S11E02"
+      }
+    },
+    {
+      "start": "2026-09-08T20:00:00+00:00",
+      "stop": "2026-09-08T20:50:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "La mort et son double",
+      "description": "Alors que Constance et Boris s'apprêtent à annoncer le meurtre d'une jeune fille à sa famille, ils ont la stupéfaction de se retrouver nez à nez avec la victime, bien vivante. Qui est le cadavre retrouvé quelques heures plus tôt dans les Calanques marseillaises ? Inquiète pour son mari, Constance pousse Barth à réfléchir à un nouveau sens à donner à sa vie. Initialement plus que sceptique, le procureur Quiring prend goût à son nouveau rôle de prof de fac.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "9.1.0/1",
+        "onscreen": "S10E02"
+      }
+    },
+    {
+      "start": "2026-09-08T20:50:00+00:00",
+      "stop": "2026-09-08T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Deuxième vie",
+      "description": "La mort d'une femme retraitée dans d'étranges circonstances mène Constance et Boris à enquêter sur les colocataires de la victime, tous retraités et résidents d'une maison partagée.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "8.2.0/1",
+        "onscreen": "S09E03"
+      }
+    },
+    {
+      "start": "2026-09-08T21:40:00+00:00",
+      "stop": "2026-09-08T22:30:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Zone interdite - 1ère partie",
+      "description": "Une jeune femme, Manon Torres, est retrouvée morte au large de Castan, paisible village de la Côte Bleue. Très vite, l'enquête dévoile les secrets d'une petite communauté divisée, entre pêche traditionnelle et braconnage d'oursins. Mais alors que l'ADN retrouvé sous les ongles de la victime pourrait mettre le duo de juges sur la piste du tueur, le résultat sème le trouble. Le suspect présente en effet une correspondance génétique avec Constance...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.0.0/1",
+        "onscreen": "S11E01"
       }
     }
   ]
