@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T13:00:36.156042+00:00",
-  "window_start": "2026-09-02",
-  "window_end": "2026-09-09",
+  "generated_at": "2026-09-03T10:01:53.414901+00:00",
+  "window_start": "2026-09-03",
+  "window_end": "2026-09-10",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,43 +13,11 @@
   ],
   "missing_channels": [],
   "series_count": 47,
-  "count": 19,
+  "count": 18,
   "programmes": [
     {
-      "start": "2026-09-02T14:22:00+00:00",
-      "stop": "2026-09-02T15:17:00+00:00",
-      "channel": "La Une",
-      "title": "Les enquêtes de Murdoch",
-      "subtitle": "Le crime du Toronto Express",
-      "description": "Lorsque leur train déraille, Ogden et Brackenreid soupçonnent un sabotage pour cacher un meurtre.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "14.3.0/1",
-        "onscreen": "S15E04"
-      }
-    },
-    {
-      "start": "2026-09-02T22:20:00+00:00",
-      "stop": "2026-09-02T23:55:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Pace e salute",
-      "description": "Au coeur d'un village corse, le corps sans vie d'un ancien médecin généraliste est découvert, au côté de son épouse inconsciente. Marleau soupçonne leur fille, Lesia, chirurgienne revenue de Paris pour prendre la suite de son père, de cacher quelque chose. Elle comprend que son retour a créé des inimitiés, dont celle de son ancien fiancé qui aurait dû reprendre le cabinet.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "2.3.0/1",
-        "onscreen": "S03E04"
-      }
-    },
-    {
-      "start": "2026-09-03T08:25:00+00:00",
-      "stop": "2026-09-03T09:17:00+00:00",
+      "start": "2026-09-03T08:27:00+00:00",
+      "stop": "2026-09-03T09:21:00+00:00",
       "channel": "Tipik",
       "title": "Les enquêtes de Murdoch",
       "subtitle": "Le crime du Toronto Express",
@@ -317,6 +285,22 @@
       "episode_nums": {
         "xmltv_ns": "10.0.0/1",
         "onscreen": "S11E01"
+      }
+    },
+    {
+      "start": "2026-09-09T22:20:00+00:00",
+      "stop": "2026-09-09T23:55:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "Dans les limbes",
+      "description": "Deux corps sont découverts en même temps, enfouis dans le jardin d'une famille d'accueil de la banlieue huppée de Lyon. Un cadavre tout récent, celui du père de la famille, et un cadavre d'adolescent, quasi-intégralement décomposé. Il s'agit d'un jeune homme accueilli dans la famille il y a une quinzaine d'années et porté disparu, croit-on, après une fugue. Dans une famille nombreuse et pleine de secrets, Téva et Oriane vont recoller les morceaux du puzzle familial et faire jaillir la vérité qui sape les fondations de ce foyer...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
       }
     }
   ]
