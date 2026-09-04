@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T13:02:35.266883+00:00",
-  "window_start": "2026-09-03",
-  "window_end": "2026-09-10",
+  "generated_at": "2026-09-04T09:56:14.670639+00:00",
+  "window_start": "2026-09-04",
+  "window_end": "2026-09-11",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,38 +15,6 @@
   "series_count": 47,
   "count": 18,
   "programmes": [
-    {
-      "start": "2026-09-03T08:27:00+00:00",
-      "stop": "2026-09-03T09:21:00+00:00",
-      "channel": "Tipik",
-      "title": "Les enquêtes de Murdoch",
-      "subtitle": "Le crime du Toronto Express",
-      "description": "Lorsque leur train déraille, Ogden et Brackenreid soupçonnent un sabotage pour cacher un meurtre.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "14.3.0/1",
-        "onscreen": "S15E04"
-      }
-    },
-    {
-      "start": "2026-09-03T19:05:00+00:00",
-      "stop": "2026-09-03T20:41:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Les secrets du Finistère",
-      "subtitle": "Le garçon qui marchait sur les vagues",
-      "description": "Un surfeur a été tué d'une balle dans le coeur à La Torche. Quand le capitaine Laubier découvre sur l'ordinateur de la victime la vidéo d'un cours de Le Dantec sur la ville engloutie d'Ys, il la contacte. Les intuitions de la jeune femme la mènent sur des pistes inattendues.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
     {
       "start": "2026-09-04T12:05:00+00:00",
       "stop": "2026-09-04T13:40:00+00:00",
@@ -128,8 +96,8 @@
       }
     },
     {
-      "start": "2026-09-05T19:14:00+00:00",
-      "stop": "2026-09-05T20:55:00+00:00",
+      "start": "2026-09-05T19:19:00+00:00",
+      "stop": "2026-09-05T21:00:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Sandhamn",
       "subtitle": "Amanda",
@@ -301,6 +269,38 @@
       "episode_nums": {
         "xmltv_ns": "0.3.0/1",
         "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-09-10T12:05:00+00:00",
+      "stop": "2026-09-10T12:58:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Dimitri - 1 (Sauver Charlie)",
+      "description": "Le port industriel de La Réunion est en ébullition. Un des vigiles a posé des explosifs pour faire sauter un container. Cet ex-militaire souffre-t-il d'un syndrome post-traumatique ou est-il juste un père dépassé qui tente de venir en aide à sa fille ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-09-10T12:58:00+00:00",
+      "stop": "2026-09-10T13:51:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Dimitri - 2 (Sauver Charlie)",
+      "description": "Pendant que Clarissa tente de comprendre les motivations de Dimitri, elle enquête en parallèle sur la prostitution étudiante qui sévit sur l'île. Son équipe s'interroge sur le rapport qui pourrait exister entre ces réseaux et le pillage d'un stock d'armes de l'armée française.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
       }
     }
   ]
