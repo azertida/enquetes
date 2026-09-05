@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T12:58:09.542791+00:00",
-  "window_start": "2026-09-04",
-  "window_end": "2026-09-11",
+  "generated_at": "2026-09-05T09:14:08.697343+00:00",
+  "window_start": "2026-09-05",
+  "window_end": "2026-09-12",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,70 +15,6 @@
   "series_count": 47,
   "count": 18,
   "programmes": [
-    {
-      "start": "2026-09-04T12:05:00+00:00",
-      "stop": "2026-09-04T13:40:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Les petits meurtres d'Agatha Christie",
-      "subtitle": "Mourir sur scène",
-      "description": "Pendant la tournée des stars de variété Nelly & Sky, un guitariste meurt, écrasé par un projecteur. C'est Sky qui était visé, comme le prouve rapidement une deuxième tentative de meurtre. Pour protéger la vedette, Gréco impose Beretta comme guitariste pour les prochains concerts... Un gros challenge pour l'inspecteur... Rose découvre, horrifiée, que le meurtrier pourrait bien être un de ses patients! En effet, Rico, musicien très perturbé psychologiquement, est persuadé que Sky lui a volé une chanson et a juré de se venger....",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Petits Meurtres",
-      "episode_nums": {
-        "xmltv_ns": "2.3.0/1",
-        "onscreen": "S03E04"
-      }
-    },
-    {
-      "start": "2026-09-04T19:10:00+00:00",
-      "stop": "2026-09-04T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "Dans les limbes",
-      "description": "Deux corps sont découverts en même temps, enfouis dans le jardin d'une famille d'accueil de la banlieue huppée de Lyon. Un cadavre tout récent, celui du père de la famille, et un cadavre d'adolescent, quasi-intégralement décomposé. Il s'agit d'un jeune homme accueilli dans la famille il y a une quinzaine d'années et porté disparu, croit-on, après une fugue. Dans une famille nombreuse et pleine de secrets, Téva et Oriane vont recoller les morceaux du puzzle familial et faire jaillir la vérité qui sape les fondations de ce foyer...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "À l'instinct",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
-    {
-      "start": "2026-09-04T20:45:00+00:00",
-      "stop": "2026-09-04T22:20:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "Le feu sacré",
-      "description": "Après la découverte du corps calciné de Zoé, une lycéenne apparemment sans histoire, les enquêteurs Oriane et Téva révèlent qu'elle menait une double vie, impliquée dans des pratiques ésotériques et de prétendus dons de guérison. Au sein de cette communauté rurale marquée par le secret et la méfiance, les investigations s'intensifient alors que plusieurs suspects sont eux-mêmes victimes de combustion spontanée, forçant les enquêteurs à démêler croyances et réalités pour élucider le mystère entourant Zoé.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "À l'instinct",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-09-04T22:20:00+00:00",
-      "stop": "2026-09-04T23:45:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "À l'instinct",
-      "description": "Lieutenant de police à Cayenne, la capitale de sa Guyane natale, Teva Royer aime se fier à son instinct pour éclaircir les zones d'ombre des affaires sur lesquelles il enquête. Un jour, il est amené à se rendre à Nantes pour mener des investigations sur la mort suspecte de la fille d'un riche homme d'affaires, dont le corps vient d'être retrouvé. Arrivé sur place, Teva fait connaissance avec Ana Kerjouan, la pragmatique capitaine de police judiciaire avec laquelle il va faire équipe pour tenter de résoudre l'énigme. Le binôme va vite tirer profit de sa complémentarité et en faire une arme redoutable pour l'enquête...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "À l'instinct",
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
     {
       "start": "2026-09-05T19:10:00+00:00",
       "stop": "2026-09-05T20:40:00+00:00",
@@ -96,8 +32,8 @@
       }
     },
     {
-      "start": "2026-09-05T19:19:00+00:00",
-      "stop": "2026-09-05T21:00:00+00:00",
+      "start": "2026-09-05T19:16:00+00:00",
+      "stop": "2026-09-05T20:57:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Sandhamn",
       "subtitle": "Amanda",
@@ -301,6 +237,67 @@
       "episode_nums": {
         "xmltv_ns": "3.1.0/1",
         "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-09-11T18:56:00+00:00",
+      "stop": "2026-09-11T20:38:00+00:00",
+      "channel": "La Une",
+      "title": "Le voyageur",
+      "subtitle": "",
+      "description": "Traquer les meurtriers pour rendre justice aux familles démunies, c'est un devoir pour Thomas Bareski., ancienne pointure de la crim'. Depuis 2 ans, Thomas s'est mis en disponibilité de la police et s'est affranchi de la société de consommation pour suivre les meurtriers partout où ils se trouvent ! Itinérant, vivant dans son Van, sans attache, et amoureux de la nature, Thomas BARESKI n'est pas seulement un homme pas comme les autres, mais surtout un policier hors norme qui va jusqu'à modifier son mode de vie pour mener à bien sa mission.Depuis 2 ans, l'agent BARESKI s'est mis en disponibilité de la Police et s'est affranchi des codes de la société de consommation pour suivre les meurtriers partout où ils se trouvent... Une chose est sûre : lorsque son van se gare dans la ville de Montallier pour enquêter sur une série de disparitions de jeunes filles, la méthode BARESKI détonne...",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-09-11T19:10:00+00:00",
+      "stop": "2026-09-11T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "En eaux profondes",
+      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-11T20:45:00+00:00",
+      "stop": "2026-09-11T22:20:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "Dans les limbes",
+      "description": "Deux corps sont découverts en même temps, enfouis dans le jardin d'une famille d'accueil de la banlieue huppée de Lyon. Un cadavre tout récent, celui du père de la famille, et un cadavre d'adolescent, quasi-intégralement décomposé. Il s'agit d'un jeune homme accueilli dans la famille il y a une quinzaine d'années et porté disparu, croit-on, après une fugue. Dans une famille nombreuse et pleine de secrets, Téva et Oriane vont recoller les morceaux du puzzle familial et faire jaillir la vérité qui sape les fondations de ce foyer...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-09-11T22:20:00+00:00",
+      "stop": "2026-09-11T23:50:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "Le feu sacré",
+      "description": "Après la découverte du corps calciné de Zoé, une lycéenne apparemment sans histoire, les enquêteurs Oriane et Téva révèlent qu'elle menait une double vie, impliquée dans des pratiques ésotériques et de prétendus dons de guérison. Au sein de cette communauté rurale marquée par le secret et la méfiance, les investigations s'intensifient alors que plusieurs suspects sont eux-mêmes victimes de combustion spontanée, forçant les enquêteurs à démêler croyances et réalités pour élucider le mystère entourant Zoé.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
       }
     }
   ]
