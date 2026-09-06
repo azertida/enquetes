@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:35:46.298089+00:00",
+  "generated_at": "2026-09-06T10:29:39.106216+00:00",
   "window_start": "2026-09-06",
   "window_end": "2026-09-13",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 47,
-  "count": 17,
+  "series_count": 48,
+  "count": 21,
   "programmes": [
     {
       "start": "2026-09-06T01:20:00+00:00",
@@ -29,6 +29,70 @@
       "episode_nums": {
         "xmltv_ns": "9.6.0/1",
         "onscreen": "S10E07"
+      }
+    },
+    {
+      "start": "2026-09-06T06:10:00+00:00",
+      "stop": "2026-09-06T07:06:00+00:00",
+      "channel": "Tipik",
+      "title": "Le meilleur d'entre nous",
+      "subtitle": "Episode 1",
+      "description": "2022. Abel Guérin, brillant biathlète admiré de tous, est retrouvé mort sur le pas de tir d'entrainement, abattu d'une balle de carabine en pleine tête. Awa Sissako, jeune capitaine de la métropole voisine, est dépêchée sur l'affaire pour épauler le lieutenant Achille Salvi. Au fur et à mesure que l'enquête avance, le tableau du sportif idéal se délite.... Awa Sissoko, jeune capitaine opérant dans la métropole voisine, est dépêchée sur l'affaire pour épauler le lieutenant Achille Salvi, de la gendarmerie locale. Il est vrai que Abel jouissait d'une popularité hors normes... mais au fur et à mesure que l'enquête avance, le tableau du sportif idéal se délite. Une affaire d'agression sexuelle étouffée sur une jeune athlète suisse, une relation conflictuelle avec son frère, une mère étouffante, un coach très exigeant et une relation de couple... totalement factice : très vite Awa comprend que l'entourage d'Abel, en surface très coopératif, leur cache bien des choses.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Meilleur d'entre nous",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-09-06T07:06:00+00:00",
+      "stop": "2026-09-06T08:04:00+00:00",
+      "channel": "Tipik",
+      "title": "Le meilleur d'entre nous",
+      "subtitle": "Episode 2",
+      "description": "Les enquêteurs identifient une autre victime de harcèlement sexuel au sein de l'équipe. Jean, l'entraineur, s'avère être un redoutable prédateur sexuel, et le jour de sa mort, Abel, qui venait de tout découvrir, a tenté de le confronter ! L'assassin du jeune athlète semble alors tout désigné... Jean, le coach de l'équipe, est un redoutable prédateur sexuel, et Abel, a qui Lena s'était confiée le matin même de sa mort, a tenté de le confronter ! L'assassin du jeune athlète semble alors tout désigné. Une nouvelle terrible pour Justine, dont Achille découvre avec effroi qu'elle était la maitresse de l'entraineur. De son côté, Nelly, la mère d'Abel, reçoit la visite de Frédérik Mayor, un journaliste se présentant comme le réalisateur d'un documentaire sur Abel. Le reporter semble s'intéresser de très près à la vie privée du défunt... En parallèle, la relation d'Abel avec son frère Benoît commence à intriguer Awa. Que cache ce frère cadet qui vit reclus en pleine montagne avec ses chiens de traineaux ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Meilleur d'entre nous",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-06T08:04:00+00:00",
+      "stop": "2026-09-06T09:02:00+00:00",
+      "channel": "Tipik",
+      "title": "Le meilleur d'entre nous",
+      "subtitle": "Episode 3",
+      "description": "La rivalité entre les deux frères devient évidente aux yeux des enquêteurs... d'autant plus lorsqu'ils découvrent que Manon, la soi-disant fiancée idéale d'Abel, entretenait une relation clandestine avec son frère ! La suspicion à l'égard de Benoît devient d'autant plus forte lorsque Jean, suspect n°1, est retrouvé mort dans la salle réfrigérée de l'armurerie... d'autant plus lorsqu'ils découvrent que Manon, la \"fiancée idéale\" d'Abel, entretenait une relation clandestine avec son frère, Benoît ! Abel était-il au courant ? Pourquoi continuait-il à jouer le jeu du couple parfait avec Manon ? La suspicion à l'égard de Benoît devient d'autant plus forte lorsque Jean, suspect n°1, est retrouvé mort dans la salle réfrigérée de l'armurerie. Or, si les deux meurtres sont liés, l'assassin d'Abel court toujours... Cette relation fraternelle intrigue d'autant plus Awa qu'elle est elle-même confrontée à ses propres démons familiaux. Il y a dix ans, son frère Oumar, âgé de quinze ans à l'époque, a été précipité du haut d'une tour de leur cité, une sombre histoire de trafic de drogue. Awa ne s'est jamais pardonné d'avoir ignoré les mauvaises fréquentations et la détresse de son frère, et s'inquiète aujourd'hui de voir sa petite soeur tomber dans les mêmes travers...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Meilleur d'entre nous",
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
+      }
+    },
+    {
+      "start": "2026-09-06T09:02:00+00:00",
+      "stop": "2026-09-06T10:00:00+00:00",
+      "channel": "Tipik",
+      "title": "Le meilleur d'entre nous",
+      "subtitle": "Episode 4",
+      "description": "La découverte de l'homosexualité d'Abel donne un nouveau tournant à l'enquête. Emmanuel était son amant, mais Abel voyait aussi le journaliste Frédérik Mayor, plutôt du genre jaloux... Lorsque l'arme du crime est retrouvée à son domicile, le journaliste est placé en garde à vue : l'affaire semble bouclée. Pourtant, quelque chose chiffonne Awa... La situation était explosive entre le journaliste et son amant. Un nouveau coupable se dessine. Lorsque l'arme du crime est retrouvée par la police à son domicile, le journaliste est placé en garde à vue. Mais il continue de clamer son innocence... Pour Achille, le coupable est tout désigné et l'enquête est close. Pourtant, quelque chose chiffonne Awa... Il lui semble avoir déjà vu l'arme du crime sur une photo prise chez la mère d'Abel. Mais Achille ne partage pas ce doute et semble très bien s'accommoder de ce nouveau coupable... Quelque chose cloche. En parallèle, Kayla est harcelée par des dealeurs qui pourraient bien vouloir attenter à ses jours!",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Meilleur d'entre nous",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
       }
     },
     {
