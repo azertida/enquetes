@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T12:09:15.308793+00:00",
-  "window_start": "2026-09-05",
-  "window_end": "2026-09-12",
+  "generated_at": "2026-09-06T09:35:46.298089+00:00",
+  "window_start": "2026-09-06",
+  "window_end": "2026-09-13",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,104 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 47,
-  "count": 18,
+  "count": 17,
   "programmes": [
-    {
-      "start": "2026-09-05T19:10:00+00:00",
-      "stop": "2026-09-05T20:40:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres au Puy-en-Velay",
-      "description": "Dans les gorges du Verdon, enquête sur le meurtre d'un homme de 78 ans, retrouvé mort sur le barrage de Castillon dans une position étrange.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "10.6.0/1",
-        "onscreen": "S11E07"
-      }
-    },
-    {
-      "start": "2026-09-05T19:16:00+00:00",
-      "stop": "2026-09-05T20:57:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Sandhamn",
-      "subtitle": "Amanda",
-      "description": "Un braquage tourne mal et se transforme en enlèvement involontaire lorsque les malfaiteurs s'emparent d'un bateau sans se rendre compte que la petite fille du propriétaire se trouve encore à bord. Alexander et Valpen sont les premiers à intervenir, mais ne parviennent pas à empêcher la fuite des braqueurs. Nora découvre qu'une fenêtre a été brisée dans la maison de son voisin. En s'en approchant, elle se retrouve au cœur des événements. De leur côté, Nora et Alexander ont commencé, chacun de leur côté, à regarder des bagues de fiançailles. Ils seront bientôt prêts à se marier.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.5.0/1",
-        "onscreen": "S10E06"
-      }
-    },
-    {
-      "start": "2026-09-05T21:04:00+00:00",
-      "stop": "2026-09-05T21:57:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Dimitri - 1 (Sauver Charlie)",
-      "description": "Le port industriel de La Réunion est en ébullition. Un des vigiles a posé des explosifs pour faire sauter un container. Cet ex-militaire souffre-t-il d'un syndrome post-traumatique ou est-il juste un père dépassé qui tente de venir en aide à sa fille ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-09-05T21:57:00+00:00",
-      "stop": "2026-09-05T22:56:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Dimitri - 2 (Sauver Charlie)",
-      "description": "Pendant que Clarissa tente de comprendre les motivations de Dimitri, elle enquête en parallèle sur la prostitution étudiante qui sévit sur l'île. Son équipe s'interroge sur le rapport qui pourrait exister entre ces réseaux et le pillage d'un stock d'armes de l'armée française.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
-    {
-      "start": "2026-09-05T22:15:00+00:00",
-      "stop": "2026-09-05T23:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Figeac",
-      "description": "Pour la première fois depuis un an, Manon retourne à Figeac pour un bref séjour. Après la disparition d'Alexandre, son mari, dans un accident de la route, elle a préféré s'installer à Toulouse et poursuivre son activité de lieutenant de police dans la ville rose. Le temps d'une journée, pour commémorer le souvenir d'Alexandre, Manon retrouve ceux qui l'avaient presque adoptée. Et les retrouvailles ne sont pas simples Sauf avec Olivier Peyrusse, le frère d'Alexandre. Olivier est un des anciens collègues de Manon. Et comme toute son équipe, il regrette profondément que Manon soit partie. Alors quand Monique Neyrolle, chef d'une famille de propriétaires terriens, est retrouvée momifiée au musée de Figeac, Manon accepte de suivre son beau-frère sur les lieux du crime pour saluer les autres gendarmes.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "8.8.0/1",
-        "onscreen": "S09E09"
-      }
-    },
-    {
-      "start": "2026-09-05T23:50:00+00:00",
-      "stop": "2026-09-06T01:20:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Arles",
-      "description": "Sarah Cortes est issue d'une famille de manadiers qui élève des taureaux depuis plusieurs générations. Sarah doit se marier à la fin de la semaine avec Louis qu'elle connaît depuis toujours. Le commandant Lucas Pujol est un jeune officier modèle surdiplômé. Entre Sarah et Lucas, une amitié est née comme une évidence, entre le feu et la glace. Deux opposés qui s'attirent sans pour autant reconnaître leurs sentiments, des sentiments certainement plus profonds. Dans les gradins des arènes d'Arles, c'est l'élection de la nouvelle reine de la ville. Mais à l'annonce de son nom, Aline Garnier, ne se présente pas. Soudain la calèche censée emmener la reine pour sa présentation au public, déboule en trombe dans les arènes. Pas de reine à son bord, mais un corps inerte : celui du président de l'association de l'élection. La reine Aline, en vraie Arlésienne, a disparu, ne laissant qu'un pic à cheveux ensanglanté derrière elle.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "10.0.0/1",
-        "onscreen": "S11E01"
-      }
-    },
     {
       "start": "2026-09-06T01:20:00+00:00",
       "stop": "2026-09-06T02:55:00+00:00",
@@ -298,6 +202,86 @@
       "episode_nums": {
         "xmltv_ns": "0.4.0/1",
         "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-09-12T18:50:00+00:00",
+      "stop": "2026-09-12T20:32:00+00:00",
+      "channel": "La Une",
+      "title": "Alex Hugo",
+      "subtitle": "La chute d'Icare",
+      "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "11.1.0/1",
+        "onscreen": "S12E02"
+      }
+    },
+    {
+      "start": "2026-09-12T19:10:00+00:00",
+      "stop": "2026-09-12T20:40:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Château-Thierry",
+      "description": "À Château-Thierry, pays de Jean de La Fontaine, le président du tribunal est retrouvé mort sur les marches du palais de justice. Sur le corps, le meurtrier a laissé des indices faisant référence à la fable \"Les Animaux malades de la peste\". L'enquête est confiée au capitaine Laetitia Alfonsi, qui n'est autre que la fille illégitime de la victime. Lorsque Thibault, le fils légitime, vient la menacer de révéler son lien de parenté, elle se voit obligée de faire équipe avec ce demi-frère arrogant. Un deuxième meurtre inspiré par la fable va précipiter la collaboration de ce duo inattendu. Ensemble, frère et soeur apprendront à faire équipe et peut-être même à se voir comme une famille.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "10.7.0/1",
+        "onscreen": "S11E08"
+      }
+    },
+    {
+      "start": "2026-09-12T20:40:00+00:00",
+      "stop": "2026-09-12T22:15:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Orléans",
+      "description": "Durant la procession des fêtes de Jeanne d'Arc, Clotilde Duvivier, la jeune fille qui incarnait Jeanne d'Arc, est assassinée d'un carreau d'arbalète en plein cœur. Une partie de phrase en latin est inscrite sur le carreau en question. Le commandant Charlotte Marat va enquêter sur l'affaire avec l'aide de son gendre Philippe Cransac, lui-même policier...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "4.3.0/1",
+        "onscreen": "S05E04"
+      }
+    },
+    {
+      "start": "2026-09-12T20:53:00+00:00",
+      "stop": "2026-09-12T21:45:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Bianca - 1 (Une enquête intime)",
+      "description": "Mère de famille séparée au contact tranchant, la capitaine Bianca Loretti fait face à un mystère de taille : pourquoi des photos volées d'elle et de sa famille ont-elles été trouvées sur l'ordinateur d'une pédiatre assassinée ? C'est sur ce motif personnel qu'elle est en cosaisine avec la brigade de la commandant Clarissa Hoarau, et plus particulièrement avec le lieutenant Jackson Bellerose. Plus l'enquête avance et plus il paraît évident qu'elle ne pourra pas épargner son fils.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.2.0/1",
+        "onscreen": "S04E03"
+      }
+    },
+    {
+      "start": "2026-09-12T21:45:00+00:00",
+      "stop": "2026-09-12T22:42:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Bianca - 2 (Une enquête intime)",
+      "description": "Clarissa et Bianca enquêtent sur la mort de la pédiatre. Plus les indices s'accumulent, plus il paraît évident que Bianca ne pourra pas épargner son fils. Jackson se sent de plus en plus concerné par sa détresse.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.3.0/1",
+        "onscreen": "S04E04"
       }
     }
   ]
