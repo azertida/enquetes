@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:29:39.106216+00:00",
+  "generated_at": "2026-09-06T10:36:24.493706+00:00",
   "window_start": "2026-09-06",
   "window_end": "2026-09-13",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 48,
-  "count": 21,
+  "series_count": 49,
+  "count": 25,
   "programmes": [
     {
       "start": "2026-09-06T01:20:00+00:00",
@@ -160,6 +160,38 @@
       }
     },
     {
+      "start": "2026-09-09T19:10:00+00:00",
+      "stop": "2026-09-09T19:55:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Alba et Charlotte",
+      "description": "Esther Bazin, commandante de police à Nantes, arrête enfin le tueur qu'elle traquait sans relâche depuis trois ans, au détriment de sa vie de famille. Malgré ce succès, elle démissionne le jour même pour retrouver les siens. Mais, à son retour, son mari Mathias a disparu, ne laissant qu'un mot, et la police refuse d'enquêter. Mathias est majeur, s'il a disparu, c'est peut-être volontairement. Désemparée, Esther rencontre Frankie et Douma, deux bénévoles du GRDV, un groupe qui enquête officieusement sur les disparitions volontaires...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-09-09T19:55:00+00:00",
+      "stop": "2026-09-09T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Léna",
+      "description": "Esther poursuit l'enquête sur la disparition de Mathias avec Frankie. Une piste les mène jusqu'à une avocate que son mari aurait consultée sous un faux prétexte de divorce. Pendant ce temps, Douma supporte les échecs de son équipe de basket et voit d'un mauvais oeil l'arrivée d'Esther dans l'univers du GRDV. Lorsque Yanis signale la disparition inquiétante de sa mère, Frankie propose d'intégrer Esther au groupe pour renforcer l'enquête. Méfiant, Douma accepte malgré tout son aide, à condition qu'elle fasse ses preuves au sein de l'équipe...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
       "start": "2026-09-09T22:20:00+00:00",
       "stop": "2026-09-09T23:55:00+00:00",
       "channel": "France 2",
@@ -205,6 +237,38 @@
       "episode_nums": {
         "xmltv_ns": "3.1.0/1",
         "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-09-10T18:29:00+00:00",
+      "stop": "2026-09-10T19:31:00+00:00",
+      "channel": "La Une",
+      "title": "Les évaporés",
+      "subtitle": "Samuel",
+      "description": "Samuel, journaliste au coeur d'un couple très exposé, disparaît soudainement après un étrange appel téléphonique. Le GRDV enquête à la demande de son épouse, mais se heurte à un entourage fermé et peu coopératif. Parallèlement, Esther compte utiliser Absi pour infiltrer un club privé et progresser dans l'affaire de la disparition de Mathias. Elle tente aussi de renouer avec son fils Théo, tandis que Douma prend sous son aile Nawaz, un jeune joueur sans toit. De son côté, Frankie s'interroge sur la place qu'elle est prête à accorder à Boris dans sa vie.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-09-10T19:31:00+00:00",
+      "stop": "2026-09-10T20:36:00+00:00",
+      "channel": "La Une",
+      "title": "Les évaporés",
+      "subtitle": "Antoine",
+      "description": "Le GRDV rouvre le dossier d'Antoine, disparu depuis quinze ans, après que sa mère affirme l'avoir revu récemment. Esther, Frankie et Douma enquêtent sur cette réapparition troublante, entre doute, pistes incertaines et vérité enfouie. En parallèle, Esther se rapproche dangereusement de la vérité sur Mathias, tandis que Théo suit seul une piste : à ses risques et périls. Douma découvre aussi la disparition de Nawaz, pendant que Frankie doit prendre une décision importante au sujet de Boris. Dans un final sous haute tension, tout s'accélère et les certitudes volent en éclats.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
       }
     },
     {
