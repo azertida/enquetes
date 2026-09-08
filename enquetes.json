@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T14:29:57.836919+00:00",
-  "window_start": "2026-09-07",
-  "window_end": "2026-09-14",
+  "generated_at": "2026-09-08T09:58:58.785479+00:00",
+  "window_start": "2026-09-08",
+  "window_end": "2026-09-15",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,7 +13,7 @@
   ],
   "missing_channels": [],
   "series_count": 49,
-  "count": 20,
+  "count": 21,
   "programmes": [
     {
       "start": "2026-09-08T19:10:00+00:00",
@@ -177,7 +177,7 @@
     },
     {
       "start": "2026-09-10T19:31:00+00:00",
-      "stop": "2026-09-10T20:36:00+00:00",
+      "stop": "2026-09-10T20:35:00+00:00",
       "channel": "La Une",
       "title": "Les évaporés",
       "subtitle": "Antoine",
@@ -330,6 +330,22 @@
       "episode_nums": {
         "xmltv_ns": "3.3.0/1",
         "onscreen": "S04E04"
+      }
+    },
+    {
+      "start": "2026-09-14T20:09:00+00:00",
+      "stop": "2026-09-14T21:50:00+00:00",
+      "channel": "La Une",
+      "title": "Alex Hugo",
+      "subtitle": "La chute d'Icare",
+      "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "11.1.0/1",
+        "onscreen": "S12E02"
       }
     }
   ]
