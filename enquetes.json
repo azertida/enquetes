@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T13:06:32.819517+00:00",
-  "window_start": "2026-09-08",
-  "window_end": "2026-09-15",
+  "generated_at": "2026-09-09T10:01:39.513183+00:00",
+  "window_start": "2026-09-09",
+  "window_end": "2026-09-16",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 49,
-  "count": 21,
+  "count": 22,
   "programmes": [
-    {
-      "start": "2026-09-08T19:10:00+00:00",
-      "stop": "2026-09-08T20:00:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Zone interdite - 2ème partie",
-      "description": "L'enquête se poursuit à Castan pour retrouver le meurtrier de Manon Torrès. Clément Dajet, le petit ami de la victime, est arrêté. Mais alors que tout semble l'accuser, Constance est convaincue de son innocence. En marge de l'instruction dont elle a été écartée, elle décide de poursuivre l'enquête, épaulée par sa famille. Constance remonte la piste d'un nouvel amant de Manon. Boris et Constance vont devoir naviguer entre rivalités amoureuses, mensonges et braconnage...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.1.0/1",
-        "onscreen": "S11E02"
-      }
-    },
-    {
-      "start": "2026-09-08T20:00:00+00:00",
-      "stop": "2026-09-08T20:50:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "La mort et son double",
-      "description": "Alors que Constance et Boris s'apprêtent à annoncer le meurtre d'une jeune fille à sa famille, ils ont la stupéfaction de se retrouver nez à nez avec la victime, bien vivante. Qui est le cadavre retrouvé quelques heures plus tôt dans les Calanques marseillaises ? Inquiète pour son mari, Constance pousse Barth à réfléchir à un nouveau sens à donner à sa vie. Initialement plus que sceptique, le procureur Quiring prend goût à son nouveau rôle de prof de fac.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "9.1.0/1",
-        "onscreen": "S10E02"
-      }
-    },
-    {
-      "start": "2026-09-08T20:50:00+00:00",
-      "stop": "2026-09-08T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Deuxième vie",
-      "description": "La mort d'une femme retraitée dans d'étranges circonstances mène Constance et Boris à enquêter sur les colocataires de la victime, tous retraités et résidents d'une maison partagée.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "8.2.0/1",
-        "onscreen": "S09E03"
-      }
-    },
-    {
-      "start": "2026-09-08T21:40:00+00:00",
-      "stop": "2026-09-08T22:30:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Zone interdite - 1ère partie",
-      "description": "Une jeune femme, Manon Torres, est retrouvée morte au large de Castan, paisible village de la Côte Bleue. Très vite, l'enquête dévoile les secrets d'une petite communauté divisée, entre pêche traditionnelle et braconnage d'oursins. Mais alors que l'ADN retrouvé sous les ongles de la victime pourrait mettre le duo de juges sur la piste du tueur, le résultat sème le trouble. Le suspect présente en effet une correspondance génétique avec Constance...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.0.0/1",
-        "onscreen": "S11E01"
-      }
-    },
     {
       "start": "2026-09-09T19:10:00+00:00",
       "stop": "2026-09-09T19:55:00+00:00",
@@ -160,8 +96,8 @@
       }
     },
     {
-      "start": "2026-09-10T18:29:00+00:00",
-      "stop": "2026-09-10T19:31:00+00:00",
+      "start": "2026-09-10T18:32:00+00:00",
+      "stop": "2026-09-10T19:33:00+00:00",
       "channel": "La Une",
       "title": "Les évaporés",
       "subtitle": "Samuel",
@@ -176,8 +112,8 @@
       }
     },
     {
-      "start": "2026-09-10T19:31:00+00:00",
-      "stop": "2026-09-10T20:35:00+00:00",
+      "start": "2026-09-10T19:33:00+00:00",
+      "stop": "2026-09-10T20:39:00+00:00",
       "channel": "La Une",
       "title": "Les évaporés",
       "subtitle": "Antoine",
@@ -254,7 +190,7 @@
     },
     {
       "start": "2026-09-12T18:50:00+00:00",
-      "stop": "2026-09-12T20:32:00+00:00",
+      "stop": "2026-09-12T20:34:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -346,6 +282,86 @@
       "episode_nums": {
         "xmltv_ns": "11.1.0/1",
         "onscreen": "S12E02"
+      }
+    },
+    {
+      "start": "2026-09-15T19:10:00+00:00",
+      "stop": "2026-09-15T20:00:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Lien de course",
+      "description": "Constance et Boris enquêtent sur le décès suspect de Jeanne Brunet, entraîneure handisport, retrouvée morte dans un vestiaire. Accident, rivalité, vengeance ? Dans ce milieu ultra-compétitif où la confiance est indispensable, tous les regards se tournent vers Margaux Rossi, jeune parathlète vouée à une carrière prometteuse. Constance et Boris devront faire preuve de finesse pour démêler les jalousies et les ambitions qui ont pu conduire au drame...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.2.0/1",
+        "onscreen": "S11E03"
+      }
+    },
+    {
+      "start": "2026-09-15T20:00:00+00:00",
+      "stop": "2026-09-15T20:55:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Amour fantome",
+      "description": "Le décès de Séverine Larcher, une jeune médiatrice familiale a priori sans histoires, suscite de nombreuses interrogations dans l'esprit de Constance et Boris, qui tentent de découvrir des éléments qui leur permettraient d'élucider les mystères qui entourent cette mort des plus suspectes. Leurs investigations les conduisent bientôt au coeur de la psyché humaine...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "9.2.0/1",
+        "onscreen": "S10E03"
+      }
+    },
+    {
+      "start": "2026-09-15T20:55:00+00:00",
+      "stop": "2026-09-15T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Impact",
+      "description": "Les juges vont devoir déterrer un crime du passé pour résoudre le mystère autour de la mort d'un jeune père de famille, perturbé et meurtri par un secret qu'il n'avait révélé à personne.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "8.3.0/1",
+        "onscreen": "S09E04"
+      }
+    },
+    {
+      "start": "2026-09-15T21:40:00+00:00",
+      "stop": "2026-09-15T22:35:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Zone interdite - 2ème partie",
+      "description": "L'enquête se poursuit à Castan pour retrouver le meurtrier de Manon Torrès. Clément Dajet, le petit ami de la victime, est arrêté. Mais alors que tout semble l'accuser, Constance est convaincue de son innocence. En marge de l'instruction dont elle a été écartée, elle décide de poursuivre l'enquête, épaulée par sa famille. Constance remonte la piste d'un nouvel amant de Manon. Boris et Constance vont devoir naviguer entre rivalités amoureuses, mensonges et braconnage...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.1.0/1",
+        "onscreen": "S11E02"
+      }
+    },
+    {
+      "start": "2026-09-15T22:00:00+00:00",
+      "stop": "2026-09-15T23:30:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "En eaux profondes",
+      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
       }
     }
   ]
