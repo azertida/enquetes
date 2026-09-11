@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T13:09:30.785038+00:00",
-  "window_start": "2026-09-10",
-  "window_end": "2026-09-17",
+  "generated_at": "2026-09-11T09:56:33.492058+00:00",
+  "window_start": "2026-09-11",
+  "window_end": "2026-09-18",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,75 +13,11 @@
   ],
   "missing_channels": [],
   "series_count": 49,
-  "count": 22,
+  "count": 23,
   "programmes": [
     {
-      "start": "2026-09-10T12:05:00+00:00",
-      "stop": "2026-09-10T12:58:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Dimitri - 1 (Sauver Charlie)",
-      "description": "Le port industriel de La Réunion est en ébullition. Un des vigiles a posé des explosifs pour faire sauter un container. Cet ex-militaire souffre-t-il d'un syndrome post-traumatique ou est-il juste un père dépassé qui tente de venir en aide à sa fille ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-09-10T12:58:00+00:00",
-      "stop": "2026-09-10T13:51:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Dimitri - 2 (Sauver Charlie)",
-      "description": "Pendant que Clarissa tente de comprendre les motivations de Dimitri, elle enquête en parallèle sur la prostitution étudiante qui sévit sur l'île. Son équipe s'interroge sur le rapport qui pourrait exister entre ces réseaux et le pillage d'un stock d'armes de l'armée française.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
-    {
-      "start": "2026-09-10T18:32:00+00:00",
-      "stop": "2026-09-10T19:34:00+00:00",
-      "channel": "La Une",
-      "title": "Les évaporés",
-      "subtitle": "Samuel",
-      "description": "Samuel, journaliste au coeur d'un couple très exposé, disparaît soudainement après un étrange appel téléphonique. Le GRDV enquête à la demande de son épouse, mais se heurte à un entourage fermé et peu coopératif. Parallèlement, Esther compte utiliser Absi pour infiltrer un club privé et progresser dans l'affaire de la disparition de Mathias. Elle tente aussi de renouer avec son fils Théo, tandis que Douma prend sous son aile Nawaz, un jeune joueur sans toit. De son côté, Frankie s'interroge sur la place qu'elle est prête à accorder à Boris dans sa vie.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-09-10T19:34:00+00:00",
-      "stop": "2026-09-10T20:39:00+00:00",
-      "channel": "La Une",
-      "title": "Les évaporés",
-      "subtitle": "Antoine",
-      "description": "Le GRDV rouvre le dossier d'Antoine, disparu depuis quinze ans, après que sa mère affirme l'avoir revu récemment. Esther, Frankie et Douma enquêtent sur cette réapparition troublante, entre doute, pistes incertaines et vérité enfouie. En parallèle, Esther se rapproche dangereusement de la vérité sur Mathias, tandis que Théo suit seul une piste : à ses risques et périls. Douma découvre aussi la disparition de Nawaz, pendant que Frankie doit prendre une décision importante au sujet de Boris. Dans un final sous haute tension, tout s'accélère et les certitudes volent en éclats.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
-    {
-      "start": "2026-09-11T18:57:00+00:00",
-      "stop": "2026-09-11T20:39:00+00:00",
+      "start": "2026-09-11T18:58:00+00:00",
+      "stop": "2026-09-11T20:40:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
       "subtitle": "",
@@ -141,8 +77,8 @@
       }
     },
     {
-      "start": "2026-09-12T18:50:00+00:00",
-      "stop": "2026-09-12T20:34:00+00:00",
+      "start": "2026-09-12T18:51:00+00:00",
+      "stop": "2026-09-12T20:33:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -221,8 +157,8 @@
       }
     },
     {
-      "start": "2026-09-14T20:09:00+00:00",
-      "stop": "2026-09-14T21:50:00+00:00",
+      "start": "2026-09-14T20:15:00+00:00",
+      "stop": "2026-09-14T21:56:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -322,7 +258,7 @@
       "channel": "France 2",
       "title": "Les évaporés",
       "subtitle": "Georges",
-      "description": "Georges, 75 ans, disparaît mystérieusement sur le quai de Pornic lors d'un voyage organisé avec d'autres personnes âgées. Le GRDV enquête auprès des membres du groupe, des habitués du port et des encadrants, dont Jordan, un jeune homme proche de Georges. Peu à peu, ils découvrent que ce vieil homme apparemment bienveillant cache en réalité un passé trouble revenu le rattraper. En parallèle, Esther, Frankie et Douma suivent une piste menant à Christophe Absi, que Mathias semblait chercher à atteindre via son avocate. Douma, quant à lui, affronte des difficultés dans sa vie de couple et avec son équipe de basket, tandis que Frankie fait la connaissance de Boris...",
+      "description": "Georges, 75 ans, disparaît mystérieusement sur le quai de Pornic lors d'un voyage organisé avec d'autres personnes âgées. Le GRDV enquête auprès des membres du groupe.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -338,7 +274,7 @@
       "channel": "France 2",
       "title": "Les évaporés",
       "subtitle": "Manon",
-      "description": "Eugène Laborde sollicite le GRDV après la disparition de sa petite-fille Manon, introuvable depuis cinq semaines. Majeure, Manon n'est pas recherchée par la police, bien qu'elle ait disparu lors d'un enterrement de vie de jeune fille. En essayant de retrouver sa trace, Esther, Frankie et Douma voient ressurgir de vieux démons qui mettent Esther à rude épreuve. Parallèlement, Esther approfondit la piste de Christophe Absi, persuadée que Mathias avait de sérieux problèmes avec lui. Obstinée, elle est prête à tout pour avancer, quitte à se heurter à ses anciens collègues et à l'inquiétude croissante de Douma...",
+      "description": "Eugène Laborde sollicite le GRDV après la disparition de sa petite-fille Manon, introuvable depuis cinq semaines. Majeure, Manon n'est pas recherchée par la police.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -362,6 +298,80 @@
       "episode_nums": {
         "xmltv_ns": "10.1.0/1",
         "onscreen": "S11E02"
+      }
+    },
+    {
+      "start": "2026-09-17T12:05:00+00:00",
+      "stop": "2026-09-17T12:58:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "",
+      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-09-17T12:58:00+00:00",
+      "stop": "2026-09-17T13:51:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "",
+      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-09-17T18:34:00+00:00",
+      "stop": "2026-09-17T19:35:00+00:00",
+      "channel": "La Une",
+      "title": "Simon Coleman",
+      "subtitle": "Échecs et meurtre",
+      "description": "Lors d'une exhibition d'échecs à Aix-en-Provence, le jeune prodige Julien Roussel s'effondre en pleine partie et meurt sous les yeux du public. Très vite, Simon Coleman soupçonne un empoisonnement. Pour les besoins de l'enquête, Simon plonge dans l'univers feutré des grands maîtres et découvre qu'ici, non seulement chaque coup est calculé, mais que la moindre erreur peut être fatale...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-09-17T19:10:00+00:00",
+      "stop": "2026-09-17T20:45:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Colmar",
+      "description": "Un chirurgien arrive à Colmar pour enquêter sur la mort de son fils policier. Il découvre un meurtre étrange et tente de prouver l'innocence de son fils accusé de drogue.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "6.0.0/1",
+        "onscreen": "S07E01"
+      }
+    },
+    {
+      "start": "2026-09-17T19:35:00+00:00",
+      "stop": "2026-09-17T20:38:00+00:00",
+      "channel": "La Une",
+      "title": "Simon Coleman",
+      "subtitle": "Double faute",
+      "description": "Simon et Chloé sont envoyés au tennis club d'Aix en Provence. Pas pour une partie de double acharnée, mais pour le meurtre du directeur du club ! Cet entraineur de futurs champions a été assassiné à l'issue d'une partie de padel qui a mal tourné. Qui est le meurtrier ? Un mauvais perdant, un espoir déçu, quelqu'un qui n'a rien à voir avec la petite balle jaune... Les deux enquêteurs vont devoir serrer le jeu.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
       }
     }
   ]
