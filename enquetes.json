@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:26:32.961406+00:00",
+  "generated_at": "2026-09-12T18:20:40.541286+00:00",
   "window_start": "2026-09-12",
   "window_end": "2026-09-19",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 49,
-  "count": 23,
+  "series_count": 52,
+  "count": 27,
   "programmes": [
     {
       "start": "2026-09-12T18:51:00+00:00",
@@ -96,8 +96,8 @@
       }
     },
     {
-      "start": "2026-09-14T20:10:00+00:00",
-      "stop": "2026-09-14T21:52:00+00:00",
+      "start": "2026-09-14T20:13:00+00:00",
+      "stop": "2026-09-14T21:55:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -109,6 +109,22 @@
       "episode_nums": {
         "xmltv_ns": "11.1.0/1",
         "onscreen": "S12E02"
+      }
+    },
+    {
+      "start": "2026-09-15T18:16:00+00:00",
+      "stop": "2026-09-15T19:16:00+00:00",
+      "channel": "La Une",
+      "title": "Le mystère de la chambre jaune",
+      "subtitle": "Episode 5",
+      "description": "Alors que Darzac est arrêté, Jo découvre à côté du corps de Mathilde un chrysanthème. Avec Sainclair, ils réalisent que c'est la signature du tueur en série Roussel, dont le cadavre a été découvert par Larsan dix ans auparavant. Ils se demandent si Darzac pourrait être un imitateur et décident de fouiller sa maison avant que la police ne s'y rende. Ils découvrent que Darzac a fait de nombreuses recherches sur Roussel Pour Jo, ces recherches récentes sont la preuve qu'il cherchait à comprendre le lien entre Mathilde et Roussel tandis que la police l'arrête. Jo apprend par la juge Marquet le décès de Mathilde. Alors qu'elle l'apprend à Darzac, il lui dit de faire des recherches sur le passé de Mathilde à Los Angeles. Jo découvre dans la chambre jaune que l'agression dont Mathilde a été victime n'a pas eu lieu le soir mais dans l'après-midi, ce qui explique l'absence de l'agresseur le soir.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Mystère de la chambre jaune",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
       }
     },
     {
@@ -125,6 +141,22 @@
       "episode_nums": {
         "xmltv_ns": "10.2.0/1",
         "onscreen": "S11E03"
+      }
+    },
+    {
+      "start": "2026-09-15T19:16:00+00:00",
+      "stop": "2026-09-15T20:18:00+00:00",
+      "channel": "La Une",
+      "title": "Le mystère de la chambre jaune",
+      "subtitle": "Episode 6",
+      "description": "Jo tente de prévenir Sainclair que Larsan est Roussel mais c'est trop tard : Larsan/Roussel a déjà kidnappé Sainclair. Il veut faire venir Jo à lui avant de s'enfuir. Jo part à la rescousse de Sainclair. En parrallèle, la juge Marquet prépare ses équipes pour l'arrestation de Larsan. On découvre qu'en réalité Mathilde n'est pas morte mais que ce plan avait été manigancé avec la complicité de Marquet pour la protéger. Jo tente de secourir Sainclair, sous la menace de Larsan. Il lui révèle que c'est lui son père et que sa mère est Mathilde, ce qui la boulverse. Larsan tente de la manipuler et de la rallier à lui, mais Jo refuse et prend le dessus, aidant la police à l'arrêter. e de la Chambre Jaune, plus unis que jamais.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Mystère de la chambre jaune",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
       }
     },
     {
@@ -298,6 +330,22 @@
       }
     },
     {
+      "start": "2026-09-17T19:15:00+00:00",
+      "stop": "2026-09-17T20:10:00+00:00",
+      "channel": "TF1",
+      "title": "Le mystère de la chambre jaune",
+      "subtitle": "Episode 5",
+      "description": "Après une nouvelle agression visant Mathilde, les soupçons se portent sur Darzac. Joséphine refuse de croire à sa culpabilité et suit une piste inattendue : un chrysanthème découvert dans la crypte la mène vers Roussel, un tueur en série pourtant décédé depuis des années.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Mystère de la chambre jaune",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
       "start": "2026-09-17T19:35:00+00:00",
       "stop": "2026-09-17T20:38:00+00:00",
       "channel": "La Une",
@@ -311,6 +359,22 @@
       "episode_nums": {
         "xmltv_ns": "3.1.0/1",
         "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-09-17T20:10:00+00:00",
+      "stop": "2026-09-17T21:22:00+00:00",
+      "channel": "TF1",
+      "title": "Le mystère de la chambre jaune",
+      "subtitle": "Episode 6",
+      "description": "Joséphine découvre qui menace Mathilde, mais Sinclair est pris en otage avant qu'elle ne puisse alerter quiconque. Sans autre choix, elle se lance seule à sa rencontre, risquant sa propre vie pour le sauver.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Mystère de la chambre jaune",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
       }
     },
     {
