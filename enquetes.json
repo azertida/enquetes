@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:20:40.541286+00:00",
+  "generated_at": "2026-09-12T18:43:28.661126+00:00",
   "window_start": "2026-09-12",
   "window_end": "2026-09-19",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 52,
-  "count": 27,
+  "series_count": 53,
+  "count": 31,
   "programmes": [
     {
       "start": "2026-09-12T18:51:00+00:00",
@@ -45,6 +45,22 @@
       "episode_nums": {
         "xmltv_ns": "10.7.0/1",
         "onscreen": "S11E08"
+      }
+    },
+    {
+      "start": "2026-09-12T20:38:00+00:00",
+      "stop": "2026-09-12T21:36:00+00:00",
+      "channel": "La Une",
+      "title": "Brigade Anonyme",
+      "subtitle": "Roméo",
+      "description": "Casta, hanté par le ravisseur de sa fille Alia, voit son passé ressurgir lorsque la juge d'instruction Sandra Kohl less convoque. Une disparition pourrait être liée à l'enlèvement d'Alia. En parallèle, Roméo, un jeune passionné de motocross, disparaît mystérieusement après une virée nocturne. Ses amis se lancent dans une quête désespérée pour le retrouver, ils font appel à la Brigade Anonyme pour obtenir de l'aide.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Brigade anonyme",
+      "episode_nums": {
+        "xmltv_ns": "1.0.0/1",
+        "onscreen": "S02E01"
       }
     },
     {
@@ -80,6 +96,22 @@
       }
     },
     {
+      "start": "2026-09-12T21:36:00+00:00",
+      "stop": "2026-09-12T22:36:00+00:00",
+      "channel": "La Une",
+      "title": "Brigade Anonyme",
+      "subtitle": "Romy",
+      "description": "Alia Castaneda reçoit des messages menaçants d'un mystérieux inconnu. Casta, doit plus que jamais protéger sa fille, alors que la juge Kohl le tient volontairement à distance de l'enquête. Parallèlement, Romy, une influenceuse de 16 ans, est kidnappée juste avant une séance de dédicace pour son livre. Ses parents, dévastés, reçoivent une vidéo glaçante de leur fille et font appel aux anonymes pour les aider à la retrouver.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Brigade anonyme",
+      "episode_nums": {
+        "xmltv_ns": "1.1.0/1",
+        "onscreen": "S02E02"
+      }
+    },
+    {
       "start": "2026-09-12T21:45:00+00:00",
       "stop": "2026-09-12T22:42:00+00:00",
       "channel": "TV5 Monde",
@@ -93,6 +125,38 @@
       "episode_nums": {
         "xmltv_ns": "3.3.0/1",
         "onscreen": "S04E04"
+      }
+    },
+    {
+      "start": "2026-09-13T18:53:00+00:00",
+      "stop": "2026-09-13T19:51:00+00:00",
+      "channel": "La Une",
+      "title": "Brigade Anonyme",
+      "subtitle": "Suzanne",
+      "description": "La juge Kohl, convaincue d'avoir affaire à un potentiel tueur en série, doit mettre de côté ses différends avec Casta. Ils doivent unir leurs forces pour avancer ensemble dans l'enquête. Dans le même temps, le monde du chef étoilé David Lange bascule dans l'horreur lorsque sa fille Suzanne disparaît. David, mis en cause, s'allie à la Brigade Anonyme pour prouver son innocence. Ils s'engagent alors dans une course contre la montre pour la retrouver avant qu'il ne soit trop tard.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Brigade anonyme",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
+    },
+    {
+      "start": "2026-09-13T19:51:00+00:00",
+      "stop": "2026-09-13T20:51:00+00:00",
+      "channel": "La Une",
+      "title": "Brigade Anonyme",
+      "subtitle": "Carmen",
+      "description": "La juge Kohl s'engage sans relâche dans une chasse à l'homme, pour arrêter le tueur en série. Simultanément, Carmen, une étudiante en médecine, disparaît mystérieusement. Sa colocataire sollicite l'aide de la Brigade Anonyme. Mais l'enquête prend un tournant inattendu lorsque Casta est arrêté. Charlie et Nass poursuivent leurs recherches, déterminés à retrouver Carmen sans lui.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Brigade anonyme",
+      "episode_nums": {
+        "xmltv_ns": "1.3.0/1",
+        "onscreen": "S02E04"
       }
     },
     {
