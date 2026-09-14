@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T13:29:26.724638+00:00",
-  "window_start": "2026-09-13",
-  "window_end": "2026-09-20",
+  "generated_at": "2026-09-14T10:54:17.397516+00:00",
+  "window_start": "2026-09-14",
+  "window_end": "2026-09-21",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,40 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 53,
-  "count": 31,
+  "count": 32,
   "programmes": [
-    {
-      "start": "2026-09-13T18:53:00+00:00",
-      "stop": "2026-09-13T19:51:00+00:00",
-      "channel": "La Une",
-      "title": "Brigade Anonyme",
-      "subtitle": "Suzanne",
-      "description": "La juge Kohl, convaincue d'avoir affaire à un potentiel tueur en série, doit mettre de côté ses différends avec Casta. Ils doivent unir leurs forces pour avancer ensemble dans l'enquête. Dans le même temps, le monde du chef étoilé David Lange bascule dans l'horreur lorsque sa fille Suzanne disparaît. David, mis en cause, s'allie à la Brigade Anonyme pour prouver son innocence. Ils s'engagent alors dans une course contre la montre pour la retrouver avant qu'il ne soit trop tard.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Brigade anonyme",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
-    {
-      "start": "2026-09-13T19:51:00+00:00",
-      "stop": "2026-09-13T20:51:00+00:00",
-      "channel": "La Une",
-      "title": "Brigade Anonyme",
-      "subtitle": "Carmen",
-      "description": "La juge Kohl s'engage sans relâche dans une chasse à l'homme, pour arrêter le tueur en série. Simultanément, Carmen, une étudiante en médecine, disparaît mystérieusement. Sa colocataire sollicite l'aide de la Brigade Anonyme. Mais l'enquête prend un tournant inattendu lorsque Casta est arrêté. Charlie et Nass poursuivent leurs recherches, déterminés à retrouver Carmen sans lui.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Brigade anonyme",
-      "episode_nums": {
-        "xmltv_ns": "1.3.0/1",
-        "onscreen": "S02E04"
-      }
-    },
     {
       "start": "2026-09-14T20:13:00+00:00",
       "stop": "2026-09-14T21:55:00+00:00",
@@ -495,6 +463,51 @@
       "origine": "serie",
       "serie": "OPJ",
       "episode_nums": {}
+    },
+    {
+      "start": "2026-09-20T18:51:00+00:00",
+      "stop": "2026-09-20T20:34:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Laguiole",
+      "subtitle": "",
+      "description": "Laguiole, dans l'Aubrac. Ludivine, une écrivaine locale et son ami coutelier, découvrent le cadavre d'un homme, pendu et torturé à la manière du \" Voleur d'Alpuech \". Ludivine est d'autant plus troublée par cette découverte qu'elle a écrit un livre sur ce voleur qui sévissait il y a plus de deux cents ans aux dépens des notables de la région. L'enquête est confiée au gendarme local Victor, la quarantaine, et à sa filleule gendarme Julie, 25 ans, qui sort de Saint-Cyr. Ils identifient aussitôt la victime comme étant Laguarrigue, propriétaire d'une célèbre fonderie de couteaux, et surtout ils apprennent qu'un inconnu déguisé en Voleur d'Alpuech a été vu roder la nuit du meurtre...",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-09-20T22:55:00+00:00",
+      "stop": "2026-09-20T23:55:00+00:00",
+      "channel": "France 2",
+      "title": "Les invisibles",
+      "subtitle": "Cassel partie 1",
+      "description": "L'équipe des Invisibles se retrouve sur un cas hors du commun. Il s'agit du cadavre d'un prêtre retrouvé au milieu de nulle part. Contre toute attente, on découvre sur le cadavre un élément qui relie la victime à Darius. Ce dernier décide alors de rassembler son équipe pour tenter de percer ce mystère.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Invisibles",
+      "episode_nums": {
+        "xmltv_ns": "2.0.0/1",
+        "onscreen": "S03E01"
+      }
+    },
+    {
+      "start": "2026-09-20T23:55:00+00:00",
+      "stop": "2026-09-21T00:50:00+00:00",
+      "channel": "France 2",
+      "title": "Les invisibles",
+      "subtitle": "Cassel partie 2",
+      "description": "La famille Marquet s'installe dans un immeuble à l'histoire plus que sombre. Une histoire qui pourrait bien éclairer le lien entre le prêtre retrouvé mort et Darius. Virginie, la mère, tente de faire bonne figure, mais elle voit bien que quelque chose d'étrange est en train de se passer au sein de sa famille : sa fille Lucie a un comportement étrange, et Virginie est la première à comprendre que chaque membre de sa famille cache un secret. Pour résoudre cette énigme complexe qui le concerne au plus près, Darius s'entoure de sa famille. Marijo, Ben, Duchesse reprennent du service pour aider leur patron...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Invisibles",
+      "episode_nums": {
+        "xmltv_ns": "2.1.0/1",
+        "onscreen": "S03E02"
+      }
     }
   ]
 }
