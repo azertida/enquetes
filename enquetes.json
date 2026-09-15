@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T15:17:04.365399+00:00",
-  "window_start": "2026-09-14",
-  "window_end": "2026-09-21",
+  "generated_at": "2026-09-15T10:18:24.930062+00:00",
+  "window_start": "2026-09-15",
+  "window_end": "2026-09-22",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,27 +13,11 @@
   ],
   "missing_channels": [],
   "series_count": 53,
-  "count": 32,
+  "count": 33,
   "programmes": [
     {
-      "start": "2026-09-14T20:13:00+00:00",
-      "stop": "2026-09-14T21:55:00+00:00",
-      "channel": "La Une",
-      "title": "Alex Hugo",
-      "subtitle": "La chute d'Icare",
-      "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "11.1.0/1",
-        "onscreen": "S12E02"
-      }
-    },
-    {
-      "start": "2026-09-15T18:16:00+00:00",
-      "stop": "2026-09-15T19:16:00+00:00",
+      "start": "2026-09-15T18:15:00+00:00",
+      "stop": "2026-09-15T19:13:00+00:00",
       "channel": "La Une",
       "title": "Le mystère de la chambre jaune",
       "subtitle": "Episode 5",
@@ -64,8 +48,8 @@
       }
     },
     {
-      "start": "2026-09-15T19:16:00+00:00",
-      "stop": "2026-09-15T20:18:00+00:00",
+      "start": "2026-09-15T19:13:00+00:00",
+      "stop": "2026-09-15T20:17:00+00:00",
       "channel": "La Une",
       "title": "Le mystère de la chambre jaune",
       "subtitle": "Episode 6",
@@ -316,7 +300,7 @@
       "channel": "France 2",
       "title": "Capitaine Marleau",
       "subtitle": "Port d'attache",
-      "description": "Une femme est retrouvée morte à bord d'un bac qui relie les deux berges de la Seine, en Normandie. Face à Marleau les pistes se multiplient : le coupable serait-il le jeune Argann, tout juste évadé de prison et qui avait des raisons d'en vouloir à la victime ? A-t-elle été tuée parce qu'elle militait contre la construction d'un pont qui aurait sonné la fin du bac ? Les tags d'un poète anonyme laissent bientôt supposer qu'une histoire d'amour contrarié serait la cause du meurtre. Marleau découvre alors que Vickie, artiste prometteuse et jeune soeur de la victime, entretient une liaison secrète avec Félix, le capitaine du bac. Or pourquoi se cacher, si on n'a rien à se reprocher ?...",
+      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -507,6 +491,38 @@
       "episode_nums": {
         "xmltv_ns": "2.1.0/1",
         "onscreen": "S03E02"
+      }
+    },
+    {
+      "start": "2026-09-21T00:50:00+00:00",
+      "stop": "2026-09-21T01:50:00+00:00",
+      "channel": "France 2",
+      "title": "Les invisibles",
+      "subtitle": "Vauban",
+      "description": "Un homme est découvert dans un square, tabassé. L'équipe des Invisibles, récémment reconstituée, s'empare du dossier. Très vite, la piste d'un musicien nomade, d'un gitan, se dessine. En parallèle, Jeanne, une jeune adolescente, est terrifiée. Sans vouloir s'expliquer auprès du groupe, elle semble se cacher dans cette association féministe, où l'art et l'entraide sont les valeurs quotidiennes. En vérité, Jeanne semble fuir quelque chose. Et quand elle reçoit un mystérieux SMS lui donnant rendez-vous le lendemain, c'est la panique. Que fuit-elle ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Invisibles",
+      "episode_nums": {
+        "xmltv_ns": "2.2.0/1",
+        "onscreen": "S03E03"
+      }
+    },
+    {
+      "start": "2026-09-21T22:42:00+00:00",
+      "stop": "2026-09-21T23:29:00+00:00",
+      "channel": "TF1",
+      "title": "New York, Unité Spéciale",
+      "subtitle": "Meurtre sur Internet",
+      "description": "Une jeune fille se présente à l'Unité Spéciale pour les Victimes et affirme qu'elle a été violée par un homme rencontré sur Internet. L'inspecteur Munch se fait alors passer pour un enfant sur Internet, afin d'arrêter le coupable... Il découvre par la même occasion tout un réseau de pédophilie...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.17.0/1",
+        "onscreen": "S01E18"
       }
     }
   ]
