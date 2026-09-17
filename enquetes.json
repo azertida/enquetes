@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T13:46:33.147207+00:00",
-  "window_start": "2026-09-16",
-  "window_end": "2026-09-23",
+  "generated_at": "2026-09-17T10:17:21.400334+00:00",
+  "window_start": "2026-09-17",
+  "window_end": "2026-09-24",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,54 +15,6 @@
   "series_count": 53,
   "count": 33,
   "programmes": [
-    {
-      "start": "2026-09-16T19:10:00+00:00",
-      "stop": "2026-09-16T19:55:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Georges",
-      "description": "Georges, 75 ans, disparaît mystérieusement sur le quai de Pornic lors d'un voyage organisé avec d'autres personnes âgées. Le GRDV enquête auprès des membres du groupe.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.2.0/1",
-        "onscreen": "S01E03"
-      }
-    },
-    {
-      "start": "2026-09-16T19:55:00+00:00",
-      "stop": "2026-09-16T20:50:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Manon",
-      "description": "Eugène Laborde sollicite le GRDV après la disparition de sa petite-fille Manon, introuvable depuis cinq semaines. Majeure, Manon n'est pas recherchée par la police.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
-    {
-      "start": "2026-09-16T20:50:00+00:00",
-      "stop": "2026-09-16T22:25:00+00:00",
-      "channel": "France 2",
-      "title": "Candice Renoir",
-      "subtitle": "Des bonbons ou la vie !",
-      "description": "Désormais enquêtrice à la financière, Candice s'y ennuie ferme. A l'approche d'Halloween, elle accompagne Antoine choisir des citrouilles pour faire plaisir à sa fille, Suzanne. Attirée par un stand de confitures tenue par une sorcière, Candice oublie de surveiller la petite et, quelques secondes plus tard, un enfant est enlevé, sous les yeux de Suzanne, par Jack O' Lantern, l'épouvantail !Une enquête à haut risque marquée par la nuit d'Halloween et cernée de masques : satanisme, spiritisme, manquements familiaux, les pistes sont nombreuses et semées d'embuches pour Candice. Avec l'obstacle de ne plus avoir droit au terrain. Car, même si tout nous ramène à une usine de bonbons, la financière n'est pas la BSU. Une remise en cause et un changement de vie en perspective ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Candice Renoir",
-      "episode_nums": {
-        "xmltv_ns": "10.1.0/1",
-        "onscreen": "S11E02"
-      }
-    },
     {
       "start": "2026-09-17T12:05:00+00:00",
       "stop": "2026-09-17T12:58:00+00:00",
@@ -90,8 +42,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-09-17T18:34:00+00:00",
-      "stop": "2026-09-17T19:35:00+00:00",
+      "start": "2026-09-17T18:32:00+00:00",
+      "stop": "2026-09-17T19:30:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
       "subtitle": "Échecs et meurtre",
@@ -122,8 +74,8 @@
       }
     },
     {
-      "start": "2026-09-17T19:12:00+00:00",
-      "stop": "2026-09-17T20:14:00+00:00",
+      "start": "2026-09-17T19:14:00+00:00",
+      "stop": "2026-09-17T20:17:00+00:00",
       "channel": "TF1",
       "title": "Le mystère de la chambre jaune",
       "subtitle": "Episode 5",
@@ -138,8 +90,8 @@
       }
     },
     {
-      "start": "2026-09-17T19:35:00+00:00",
-      "stop": "2026-09-17T20:38:00+00:00",
+      "start": "2026-09-17T19:30:00+00:00",
+      "stop": "2026-09-17T20:31:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
       "subtitle": "Double faute",
@@ -154,8 +106,8 @@
       }
     },
     {
-      "start": "2026-09-17T20:14:00+00:00",
-      "stop": "2026-09-17T21:22:00+00:00",
+      "start": "2026-09-17T20:17:00+00:00",
+      "stop": "2026-09-17T21:25:00+00:00",
       "channel": "TF1",
       "title": "Le mystère de la chambre jaune",
       "subtitle": "Episode 6",
@@ -171,7 +123,7 @@
     },
     {
       "start": "2026-09-18T18:57:00+00:00",
-      "stop": "2026-09-18T20:39:00+00:00",
+      "stop": "2026-09-18T20:38:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur - Le village assassiné",
       "subtitle": "",
@@ -337,8 +289,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-09-20T18:51:00+00:00",
-      "stop": "2026-09-20T20:34:00+00:00",
+      "start": "2026-09-20T18:54:00+00:00",
+      "stop": "2026-09-20T20:42:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Laguiole",
       "subtitle": "",
@@ -398,8 +350,8 @@
       }
     },
     {
-      "start": "2026-09-21T22:42:00+00:00",
-      "stop": "2026-09-21T23:29:00+00:00",
+      "start": "2026-09-21T22:44:00+00:00",
+      "stop": "2026-09-21T23:31:00+00:00",
       "channel": "TF1",
       "title": "New York, Unité Spéciale",
       "subtitle": "Meurtre sur Internet",
@@ -523,6 +475,54 @@
       "episode_nums": {
         "xmltv_ns": "10.2.0/1",
         "onscreen": "S11E03"
+      }
+    },
+    {
+      "start": "2026-09-23T19:10:00+00:00",
+      "stop": "2026-09-23T20:05:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Samuel",
+      "description": "Le journaliste Samuel Boyer, dont le couple est très médiatisé, disparaît soudainement après un étrange appel téléphonique reçu sur le tournage d'une émission. Le GRDV enquête à la demande de son épouse Nathalie, mais se heurte à un entourage fermé et peu coopératif. Parallèlement, Esther compte utiliser Absi pour infiltrer un club privé et progresser dans l'affaire de la disparition de Mathias. Elle tente aussi de renouer avec son fils Théo, tandis que Douma prend sous son aile Nawaz, un jeune joueur sans abri. De son côté, Frankie s'interroge sur la place qu'elle est prête à accorder à Boris dans sa vie...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-09-23T20:05:00+00:00",
+      "stop": "2026-09-23T21:00:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Antoine",
+      "description": "Le GRDV rouvre le dossier d'Antoine, disparu depuis quinze ans, après que sa mère a affirmé l'avoir revu récemment. Esther, Frankie et Douma enquêtent sur cette réapparition troublante, entre doutes, pistes incertaines et vérité enfouie. En parallèle, Esther se rapproche dangereusement de la vérité sur Mathias, tandis que Théo suit seul une piste, à ses risques et périls. Douma découvre aussi la disparition de Nawaz, pendant que Frankie doit prendre une décision importante au sujet de Boris...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
+      }
+    },
+    {
+      "start": "2026-09-23T21:00:00+00:00",
+      "stop": "2026-09-23T22:35:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "En eaux profondes",
+      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "À l'instinct",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
       }
     }
   ]
