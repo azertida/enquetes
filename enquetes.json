@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T13:49:27.992486+00:00",
-  "window_start": "2026-09-17",
-  "window_end": "2026-09-24",
+  "generated_at": "2026-09-18T09:59:00.554614+00:00",
+  "window_start": "2026-09-18",
+  "window_end": "2026-09-25",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,114 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 53,
-  "count": 33,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-09-17T12:05:00+00:00",
-      "stop": "2026-09-17T12:58:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "",
-      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-09-17T12:58:00+00:00",
-      "stop": "2026-09-17T13:51:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "",
-      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-09-17T18:32:00+00:00",
-      "stop": "2026-09-17T19:30:00+00:00",
-      "channel": "La Une",
-      "title": "Simon Coleman",
-      "subtitle": "Échecs et meurtre",
-      "description": "Lors d'une exhibition d'échecs à Aix-en-Provence, le jeune prodige Julien Roussel s'effondre en pleine partie et meurt sous les yeux du public. Très vite, Simon Coleman soupçonne un empoisonnement. Pour les besoins de l'enquête, Simon plonge dans l'univers feutré des grands maîtres et découvre qu'ici, non seulement chaque coup est calculé, mais que la moindre erreur peut être fatale...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-09-17T19:10:00+00:00",
-      "stop": "2026-09-17T20:45:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Colmar",
-      "description": "Un chirurgien arrive à Colmar pour enquêter sur la mort de son fils policier. Il découvre un meurtre étrange et tente de prouver l'innocence de son fils accusé de drogue.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "6.0.0/1",
-        "onscreen": "S07E01"
-      }
-    },
-    {
-      "start": "2026-09-17T19:14:00+00:00",
-      "stop": "2026-09-17T20:17:00+00:00",
-      "channel": "TF1",
-      "title": "Le mystère de la chambre jaune",
-      "subtitle": "Episode 5",
-      "description": "Après une nouvelle agression visant Mathilde, les soupçons se portent sur Darzac. Joséphine refuse de croire à sa culpabilité et suit une piste inattendue : un chrysanthème découvert dans la crypte la mène vers Roussel, un tueur en série pourtant décédé depuis des années.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Mystère de la chambre jaune",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-09-17T19:30:00+00:00",
-      "stop": "2026-09-17T20:31:00+00:00",
-      "channel": "La Une",
-      "title": "Simon Coleman",
-      "subtitle": "Double faute",
-      "description": "Simon et Chloé sont envoyés au tennis club d'Aix en Provence. Pas pour une partie de double acharnée, mais pour le meurtre du directeur du club ! Cet entraineur de futurs champions a été assassiné à l'issue d'une partie de padel qui a mal tourné. Qui est le meurtrier ? Un mauvais perdant, un espoir déçu, quelqu'un qui n'a rien à voir avec la petite balle jaune... Les deux enquêteurs vont devoir serrer le jeu.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
-    {
-      "start": "2026-09-17T20:17:00+00:00",
-      "stop": "2026-09-17T21:25:00+00:00",
-      "channel": "TF1",
-      "title": "Le mystère de la chambre jaune",
-      "subtitle": "Episode 6",
-      "description": "Joséphine découvre qui menace Mathilde, mais Sinclair est pris en otage avant qu'elle ne puisse alerter quiconque. Sans autre choix, elle se lance seule à sa rencontre, risquant sa propre vie pour le sauver.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Mystère de la chambre jaune",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
     {
       "start": "2026-09-18T18:57:00+00:00",
       "stop": "2026-09-18T20:38:00+00:00",
@@ -289,8 +183,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-09-20T18:54:00+00:00",
-      "stop": "2026-09-20T20:42:00+00:00",
+      "start": "2026-09-20T18:53:00+00:00",
+      "stop": "2026-09-20T20:41:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Laguiole",
       "subtitle": "",
@@ -523,6 +417,80 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-24T12:05:00+00:00",
+      "stop": "2026-09-24T12:58:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "",
+      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-09-24T12:58:00+00:00",
+      "stop": "2026-09-24T13:51:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "",
+      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-09-24T18:33:00+00:00",
+      "stop": "2026-09-24T19:34:00+00:00",
+      "channel": "La Une",
+      "title": "Simon Coleman",
+      "subtitle": "Dernière confession",
+      "description": "Une jeune religieuse a été retrouvée morte empoisonnée, au pied de son piano dans la chapelle du couvent. Simon et Chloé mènent l'enquête parmi les petites sœurs de la vierge Marie. Entre secrets inavouables et crimes oubliés, les voix du seigneur sont impénétrables sauf pour notre duo de choc.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.2.0/1",
+        "onscreen": "S04E03"
+      }
+    },
+    {
+      "start": "2026-09-24T19:10:00+00:00",
+      "stop": "2026-09-24T20:50:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Tahiti",
+      "description": "Au lieu-dit de Teahupoo, sur l'île de Tahiti, il n'y a pas que des surfeurs attirés par \"la vague la plus dangereuse du monde\". Il y a aussi un meurtrier, inspiré par l'ancien culte de l'île. Le corps mutilé d'un homme a en effet été découvert dans le temple sacré d'Oro, le dieu de la guerre. Mareva Umaga, une jeune gendarme tahitienne va devoir faire équipe sur cette affaire avec Philippe Toussaint, fraichement muté sur l'île. Le duo va devoir se faire confiance pour arrêter à temps, celui qui décidé de réveiller la colère d'Oro, avant qu'il ne fasse d'autres victimes...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "6.3.0/1",
+        "onscreen": "S07E04"
+      }
+    },
+    {
+      "start": "2026-09-24T19:34:00+00:00",
+      "stop": "2026-09-24T20:37:00+00:00",
+      "channel": "La Une",
+      "title": "Simon Coleman",
+      "subtitle": "Entre chien et loup",
+      "description": "Dans un centre canin réputé, un dresseur reconnu est retrouvé mort, victime d'un mode opératoire aussi discret qu'inquiétant. L'enquête de Simon Coleman met au jour un univers en apparence exemplaire, où se croisent notables, animaux de compagnie et passions dévorantes. Mais derrière les concours d'agility et les chiens bien dressés, émergent des pratiques illégales et des secrets dangereux. Très vite, Simon comprend que ce meurtre n'est que la partie visible d'un drame bien plus sombre.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.3.0/1",
+        "onscreen": "S04E04"
       }
     }
   ]
