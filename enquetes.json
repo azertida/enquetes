@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T13:12:20.905347+00:00",
-  "window_start": "2026-09-18",
-  "window_end": "2026-09-25",
+  "generated_at": "2026-09-19T09:40:52.950857+00:00",
+  "window_start": "2026-09-19",
+  "window_end": "2026-09-26",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,11 @@
   ],
   "missing_channels": [],
   "series_count": 53,
-  "count": 31,
+  "count": 30,
   "programmes": [
     {
-      "start": "2026-09-18T18:57:00+00:00",
-      "stop": "2026-09-18T20:38:00+00:00",
-      "channel": "La Une",
-      "title": "Le voyageur - Le village assassiné",
-      "subtitle": "",
-      "description": "Thomas Bareski arrive dans un village des Vosges qui, six années après le violent assassinat non résolu de la famille Schal, la mère, le père et les deux enfants, est devenu un village fantôme. Grâce à quelques irréductibles, Bareski relancera une enquête qui permettra à cette bourgade de retrouver enfin la paix.",
-      "category": "Cinéma",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-09-18T19:10:00+00:00",
-      "stop": "2026-09-18T20:50:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Port d'attache",
-      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.16.0/1",
-        "onscreen": "S04E17"
-      }
-    },
-    {
-      "start": "2026-09-18T20:50:00+00:00",
-      "stop": "2026-09-18T22:30:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Sang et lumière",
-      "description": "Maggie, une ancienne journaliste, épouse du maire d'un village de Dordogne qui compte bon nombre d'expatriés britanniques parmi ses habitants, a été enlevée. Du sang a également été retrouvé dans sa voiture, ce qui suscite beaucoup d'inquiétude. Marleau mène l'enquête, avec l'aide d'un détective anglais à la retraite dont elle se serait bien passée. Les investigations révèlent que tout le village en voulait à Maggie, une femme détestable. Les suspects ne manquent pas, parmi lesquels l'hôtelier local et sa fille.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
-    {
-      "start": "2026-09-18T22:30:00+00:00",
-      "stop": "2026-09-19T00:00:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "La reine des glaces",
-      "description": "Le capitaine Marleau enquête sur le meurtre d'une patineuse artistique. La victime, Lucie Engelberg, serait morte à la suite de coups violents. Pourtant, quelques heures plus tôt la jeune femme s'entraînait encore aux côtés d'une autre vedette de spectacle sur glace, Salomé Revel.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "2.6.0/1",
-        "onscreen": "S03E07"
-      }
-    },
-    {
-      "start": "2026-09-19T18:52:00+00:00",
-      "stop": "2026-09-19T20:33:00+00:00",
+      "start": "2026-09-19T18:55:00+00:00",
+      "stop": "2026-09-19T20:37:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La Vallée des oubliés",
@@ -109,8 +48,8 @@
       }
     },
     {
-      "start": "2026-09-19T20:37:00+00:00",
-      "stop": "2026-09-19T21:32:00+00:00",
+      "start": "2026-09-19T20:42:00+00:00",
+      "stop": "2026-09-19T21:39:00+00:00",
       "channel": "La Une",
       "title": "Brigade Anonyme",
       "subtitle": "Suzanne",
@@ -141,21 +80,24 @@
       }
     },
     {
-      "start": "2026-09-19T20:53:00+00:00",
-      "stop": "2026-09-19T21:45:00+00:00",
+      "start": "2026-09-19T21:04:00+00:00",
+      "stop": "2026-09-19T21:52:00+00:00",
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
-      "subtitle": "",
-      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "subtitle": "Ambition mortelle - 1",
+      "description": "La danseuse d'un concours de gommance (scène musicale réunionnaise) se tue devant la police. Il apparaît qu'elle a été intoxiquée, mais était-ce bien elle qui était visée ? La victime morte dans ses bras, l'affaire touche tout particulièrement Tahia, nouvelle venue à la brigade. Les décès s'enchaînent autour du concours artistique. Qui sont les ambitieux prêts à tout pour gagner et avoir la chance de sortir un album ? À trop vouloir bien faire, la jeune recrue de la brigade perd pied.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
       "serie": "OPJ",
-      "episode_nums": {}
+      "episode_nums": {
+        "xmltv_ns": "3.4.0/1",
+        "onscreen": "S04E05"
+      }
     },
     {
-      "start": "2026-09-19T21:32:00+00:00",
-      "stop": "2026-09-19T22:21:00+00:00",
+      "start": "2026-09-19T21:39:00+00:00",
+      "stop": "2026-09-19T22:33:00+00:00",
       "channel": "La Une",
       "title": "Brigade Anonyme",
       "subtitle": "Carmen",
@@ -170,21 +112,24 @@
       }
     },
     {
-      "start": "2026-09-19T21:45:00+00:00",
-      "stop": "2026-09-19T22:42:00+00:00",
+      "start": "2026-09-19T21:52:00+00:00",
+      "stop": "2026-09-19T22:48:00+00:00",
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
-      "subtitle": "",
-      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "subtitle": "Ambition mortelle - 2",
+      "description": "L'enquête s'oriente vers les rivaux artistiques de la victime. Qui sont les ambitieux prêts à tout pour gagner et avoir la chance de sortir un album ? À trop vouloir bien faire, Tahia perd pied.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
       "serie": "OPJ",
-      "episode_nums": {}
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
+      }
     },
     {
       "start": "2026-09-20T18:53:00+00:00",
-      "stop": "2026-09-20T20:41:00+00:00",
+      "stop": "2026-09-20T20:42:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Laguiole",
       "subtitle": "",
@@ -244,8 +189,8 @@
       }
     },
     {
-      "start": "2026-09-21T22:44:00+00:00",
-      "stop": "2026-09-21T23:31:00+00:00",
+      "start": "2026-09-21T22:45:00+00:00",
+      "stop": "2026-09-21T23:32:00+00:00",
       "channel": "TF1",
       "title": "New York, Unité Spéciale",
       "subtitle": "Meurtre sur Internet",
@@ -421,29 +366,35 @@
     },
     {
       "start": "2026-09-24T12:05:00+00:00",
-      "stop": "2026-09-24T12:58:00+00:00",
+      "stop": "2026-09-24T12:53:00+00:00",
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
-      "subtitle": "",
-      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "subtitle": "Ambition mortelle - 1",
+      "description": "La danseuse d'un concours de gommance (scène musicale réunionnaise) se tue devant la police. Il apparaît qu'elle a été intoxiquée, mais était-ce bien elle qui était visée ? La victime morte dans ses bras, l'affaire touche tout particulièrement Tahia, nouvelle venue à la brigade. Les décès s'enchaînent autour du concours artistique. Qui sont les ambitieux prêts à tout pour gagner et avoir la chance de sortir un album ? À trop vouloir bien faire, la jeune recrue de la brigade perd pied.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
       "serie": "OPJ",
-      "episode_nums": {}
+      "episode_nums": {
+        "xmltv_ns": "3.4.0/1",
+        "onscreen": "S04E05"
+      }
     },
     {
-      "start": "2026-09-24T12:58:00+00:00",
-      "stop": "2026-09-24T13:51:00+00:00",
+      "start": "2026-09-24T12:53:00+00:00",
+      "stop": "2026-09-24T13:47:00+00:00",
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
-      "subtitle": "",
-      "description": "Tuez Willy (1) Le corps d'un certain Willy est retrouvé dans une voiture, sans doute trafiquée pour provoquer l'accident. Clarissa enquête sur une affaire de prédateur sexuel, alors que Jackson doit protéger l'unique témoin d'une autre affaire. Raphaël rejoint définitivement la brigade au poste de commissaire, mais les relations avec Clarissa sont tendues.",
+      "subtitle": "Ambition mortelle - 2",
+      "description": "L'enquête s'oriente vers les rivaux artistiques de la victime. Qui sont les ambitieux prêts à tout pour gagner et avoir la chance de sortir un album ? À trop vouloir bien faire, Tahia perd pied.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
       "serie": "OPJ",
-      "episode_nums": {}
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
+      }
     },
     {
       "start": "2026-09-24T18:33:00+00:00",
@@ -467,7 +418,7 @@
       "channel": "France 3",
       "title": "Meurtres à...",
       "subtitle": "Meurtres à Tahiti",
-      "description": "Au lieu-dit de Teahupoo, sur l'île de Tahiti, il n'y a pas que des surfeurs attirés par \"la vague la plus dangereuse du monde\". Il y a aussi un meurtrier, inspiré par l'ancien culte de l'île. Le corps mutilé d'un homme a en effet été découvert dans le temple sacré d'Oro, le dieu de la guerre. Mareva Umaga, une jeune gendarme tahitienne va devoir faire équipe sur cette affaire avec Philippe Toussaint, fraichement muté sur l'île. Le duo va devoir se faire confiance pour arrêter à temps, celui qui décidé de réveiller la colère d'Oro, avant qu'il ne fasse d'autres victimes...",
+      "description": "Sur l'île de Tahiti, le corps mutilé d'un homme a été découvert dans le temple sacré d'Oro, un ancien dieu de la guerre. La police mène l'enquête.",
       "category": "Séries",
       "icon": "",
       "origine": "telefilm",
@@ -491,6 +442,54 @@
       "episode_nums": {
         "xmltv_ns": "3.3.0/1",
         "onscreen": "S04E04"
+      }
+    },
+    {
+      "start": "2026-09-25T19:10:00+00:00",
+      "stop": "2026-09-25T20:45:00+00:00",
+      "channel": "France 3",
+      "title": "Les secrets du Finistère",
+      "subtitle": "Le chant des sirènes",
+      "description": "Après la découverte du corps sans vie d'une femme ressemblant étrangement à une sirène, le commandant Jérémy Laubier fait appel à Morgane Le Dantec, devenue professeur de faculté spécialisée dans les mythes et légendes bretonnes, pour l'aider dans son enquête. La découverte d'un bateau de pêche artisanale dérivant sans âme qui vive à bord complexifie encore l'enquête quand l'ADN de la sirène est retrouvé à bord. Quel est le lien entre cette adepte du Mermaiding et ce marin-pêcheur mystérieusement disparu ? Si beaucoup le pensent noyé, Morgane sait qu'il est encore vie et qu'il est la clé de tous ces mystères. C'est donc ce lien que doit découvrir Jérémy qui, même s'il ne croit toujours pas aux intuitions de Morgane, doit bien reconnaître qu'elle est souvent en avance sur l'enquête traditionnelle...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-25T20:45:00+00:00",
+      "stop": "2026-09-25T22:20:00+00:00",
+      "channel": "France 3",
+      "title": "Les secrets du Finistère",
+      "subtitle": "La disparue de Douarnenez",
+      "description": "De retour dans sa Bretagne natale, Morgane Le Dantec, capitaine de gendarmerie, est confrontée à la découverte d'ossements humains après la chute d'un chêne sacré lors d'une tempête. La victime était adepte du druidisme, auquel Morgane a été initiée à l'adolescence par sa marraine, la troublante Katell. Douée d'une capacité de prescience parfois déroutante qu'elle a toujours occultée et qui va se réveiller peu à peu au fil de son enquête, Morgane va devoir renouer avec ses amis de jeunesse, qui tous semblent avoir quelque chose à cacher...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-09-25T22:25:00+00:00",
+      "stop": "2026-09-26T00:00:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Sang et lumière",
+      "description": "Maggie, une ancienne journaliste, épouse du maire d'un village de Dordogne qui compte bon nombre d'expatriés britanniques parmi ses habitants, a été enlevée. Du sang a également été retrouvé dans sa voiture, ce qui suscite beaucoup d'inquiétude. Marleau mène l'enquête, avec l'aide d'un détective anglais à la retraite dont elle se serait bien passée. Les investigations révèlent que tout le village en voulait à Maggie, une femme détestable. Les suspects ne manquent pas, parmi lesquels l'hôtelier local et sa fille.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
       }
     }
   ]
