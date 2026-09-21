@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T13:14:36.725408+00:00",
-  "window_start": "2026-09-20",
-  "window_end": "2026-09-27",
+  "generated_at": "2026-09-21T10:59:24.650916+00:00",
+  "window_start": "2026-09-21",
+  "window_end": "2026-09-28",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,53 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 53,
-  "count": 28,
+  "count": 27,
   "programmes": [
-    {
-      "start": "2026-09-20T18:53:00+00:00",
-      "stop": "2026-09-20T20:42:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Laguiole",
-      "subtitle": "",
-      "description": "Laguiole, dans l'Aubrac. Ludivine, une écrivaine locale et son ami coutelier, découvrent le cadavre d'un homme, pendu et torturé à la manière du \" Voleur d'Alpuech \". Ludivine est d'autant plus troublée par cette découverte qu'elle a écrit un livre sur ce voleur qui sévissait il y a plus de deux cents ans aux dépens des notables de la région. L'enquête est confiée au gendarme local Victor, la quarantaine, et à sa filleule gendarme Julie, 25 ans, qui sort de Saint-Cyr. Ils identifient aussitôt la victime comme étant Laguarrigue, propriétaire d'une célèbre fonderie de couteaux, et surtout ils apprennent qu'un inconnu déguisé en Voleur d'Alpuech a été vu roder la nuit du meurtre...",
-      "category": "Cinéma",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-09-20T22:55:00+00:00",
-      "stop": "2026-09-20T23:55:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Cassel partie 1",
-      "description": "L'équipe des Invisibles se retrouve sur un cas hors du commun. Il s'agit du cadavre d'un prêtre retrouvé au milieu de nulle part. Contre toute attente, on découvre sur le cadavre un élément qui relie la victime à Darius. Ce dernier décide alors de rassembler son équipe pour tenter de percer ce mystère.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.0.0/1",
-        "onscreen": "S03E01"
-      }
-    },
-    {
-      "start": "2026-09-20T23:55:00+00:00",
-      "stop": "2026-09-21T00:50:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Cassel partie 2",
-      "description": "La famille Marquet s'installe dans un immeuble à l'histoire plus que sombre. Une histoire qui pourrait bien éclairer le lien entre le prêtre retrouvé mort et Darius. Virginie, la mère, tente de faire bonne figure, mais elle voit bien que quelque chose d'étrange est en train de se passer au sein de sa famille : sa fille Lucie a un comportement étrange, et Virginie est la première à comprendre que chaque membre de sa famille cache un secret. Pour résoudre cette énigme complexe qui le concerne au plus près, Darius s'entoure de sa famille. Marijo, Ben, Duchesse reprennent du service pour aider leur patron...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.1.0/1",
-        "onscreen": "S03E02"
-      }
-    },
     {
       "start": "2026-09-21T00:50:00+00:00",
       "stop": "2026-09-21T01:50:00+00:00",
@@ -458,6 +413,38 @@
       "episode_nums": {
         "xmltv_ns": "3.7.0/1",
         "onscreen": "S04E08"
+      }
+    },
+    {
+      "start": "2026-09-27T18:50:00+00:00",
+      "stop": "2026-09-27T19:51:00+00:00",
+      "channel": "La Une",
+      "title": "Soeurs",
+      "subtitle": "L'échange",
+      "description": "Des jumelles que tout oppose : Elisabeth, avocate de renom, célibataire et citadine échange sa vie le temps d'une soirée avec Elodie, sa jumelle, subalterne gardienne d'un domaine appartenant à la riche famille Balint. Alors qu'Elisabeth s'endort tranquillement dans la petite maison de gardien de sa soeur, Elodie, à l'issue de la soirée est victime d'un accident tragique provoquant sa mort. La police est formelle, il s'agit d'un assassinat. C'est la déflagration pour Elisabeth. Elle se sent responsable de la mort d'Elodie qui est morte à sa place. De plus, elle se sent en danger : quelqu'un veut la tuer. Elle se retrouve piégée dans l'identité de sa soeur. Elle va devoir affronter une vie qui n'est pas la sienne : un mari, la famille Balint et une enquête criminelle. Très vite, elle comprend qu'elle est prise dans un terrible engrenage.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Soeurs",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-09-27T19:51:00+00:00",
+      "stop": "2026-09-27T20:51:00+00:00",
+      "channel": "La Une",
+      "title": "Soeurs",
+      "subtitle": "Pourquoi moi?",
+      "description": "Tandis que l'enquête se resserre autour d'elle, Élisabeth, sous l'identité de sa soeur jumelle Élodie, découvre que quelqu'un au domaine connaît son secret. En cherchant des réponses, elle retrouve son ancien associé Farid, caché dans une cité, mais quelques heures plus tard : il est retrouvé mort. Déterminée à comprendre, elle met la main sur une clé USB qui révèle une vaste affaire de blanchiment d'argent impliquant Farid et l'inquiétant Manuel Ferrera (ancien client du cabinet). Prête à l'affronter, Élisabeth s'engage dans un dangereux face-à-face qui la mène au coeur d'une machination mortelle.Plongée dans un face-à-face dangereux avec Ferrera, elle se rapproche d'une vérité terrifiante. Jusqu'à une découverte macabre qui bouleverse tout, rebat les cartes... et annonce le pire à venir.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Soeurs",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
       }
     }
   ]
