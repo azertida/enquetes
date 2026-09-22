@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T15:22:31.604731+00:00",
-  "window_start": "2026-09-21",
-  "window_end": "2026-09-28",
+  "generated_at": "2026-09-22T10:13:44.325884+00:00",
+  "window_start": "2026-09-22",
+  "window_end": "2026-09-29",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,40 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 53,
-  "count": 27,
+  "count": 25,
   "programmes": [
-    {
-      "start": "2026-09-21T00:50:00+00:00",
-      "stop": "2026-09-21T01:50:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Vauban",
-      "description": "Un homme est découvert dans un square, tabassé. L'équipe des Invisibles, récémment reconstituée, s'empare du dossier. Très vite, la piste d'un musicien nomade, d'un gitan, se dessine. En parallèle, Jeanne, une jeune adolescente, est terrifiée. Sans vouloir s'expliquer auprès du groupe, elle semble se cacher dans cette association féministe, où l'art et l'entraide sont les valeurs quotidiennes. En vérité, Jeanne semble fuir quelque chose. Et quand elle reçoit un mystérieux SMS lui donnant rendez-vous le lendemain, c'est la panique. Que fuit-elle ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.2.0/1",
-        "onscreen": "S03E03"
-      }
-    },
-    {
-      "start": "2026-09-21T22:46:00+00:00",
-      "stop": "2026-09-21T23:33:00+00:00",
-      "channel": "TF1",
-      "title": "New York, Unité Spéciale",
-      "subtitle": "Meurtre sur Internet",
-      "description": "Une adolescente de seize ans affirme avoir été violée par un homme rencontré via internet. Puis.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.17.0/1",
-        "onscreen": "S01E18"
-      }
-    },
     {
       "start": "2026-09-22T00:05:00+00:00",
       "stop": "2026-09-22T00:55:00+00:00",
