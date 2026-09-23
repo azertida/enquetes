@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:53:30.366817+00:00",
+  "generated_at": "2026-09-23T20:10:01.301308+00:00",
   "window_start": "2026-09-23",
   "window_end": "2026-09-30",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 53,
-  "count": 24,
+  "series_count": 54,
+  "count": 27,
   "programmes": [
     {
       "start": "2026-09-23T19:10:00+00:00",
@@ -314,6 +314,54 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-28T19:10:00+00:00",
+      "stop": "2026-09-28T19:55:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 1",
+      "description": "Thompson, trafiquant d'art élégant, sort de prison et enlève Jean-Pierre Séguret, professeur d'histoire à la retraite, à l'issue son anniversaire en famille. Pour le libérer, il exige que Françoise.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Aventurières",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-09-28T19:55:00+00:00",
+      "stop": "2026-09-28T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 2",
+      "description": "Grâce aux connaissances pointues de Sophie sur la Renaissance, elle découvre que \"Léda et le cygne\" aurait été offert par Louis XIV à Madame de Maintenon et caché à Marly-le-Roi.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Aventurières",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-28T20:45:00+00:00",
+      "stop": "2026-09-28T21:35:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 3",
+      "description": "Sophie explore les mémoires d'Arnold de Ville et déduit que \"Léda et le cygne\" pourrait être caché dans un des globes de Coronelli exposés à la BNF.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Aventurières",
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
       }
     },
     {
