@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T13:42:03.466613+00:00",
-  "window_start": "2026-09-22",
-  "window_end": "2026-09-29",
+  "generated_at": "2026-09-23T10:13:16.168048+00:00",
+  "window_start": "2026-09-23",
+  "window_end": "2026-09-30",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,120 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 53,
-  "count": 25,
+  "count": 24,
   "programmes": [
-    {
-      "start": "2026-09-22T00:05:00+00:00",
-      "stop": "2026-09-22T00:55:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Camélia",
-      "description": "Un squelette est retrouvé dans le jardin d'une maison. La nouvelle propriétaire est sous le choc. Rapidement, l'équipe des Invisibles soupçonne le neveu de l'ancien propriétaire, qui a repris la maison au moment de la mort de ce dernier.Enzo, tout juste sorti de prison, semble avoir une idée bien précise en tête. Il se rapproche de cette jeune femme qui chante dans la rue, et use de ses charmes pour l'attirer dans ce qui ressemble à un piège.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.3.0/1",
-        "onscreen": "S03E04"
-      }
-    },
-    {
-      "start": "2026-09-22T00:55:00+00:00",
-      "stop": "2026-09-22T01:45:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Stardust",
-      "description": "Les restes d'une fête sauvage, dans un bunker. Et un jeune homme, parmi les cadavres de bouteilles et les mégôts, mort. Que s'est-il passé ? Parmi la centaine de jeunes présents, personne ne semble avoir rien vu. Rapidement, l'équipe découvre chez \"Stardust\", le profil d'un jeune homme mystérieux.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.4.0/1",
-        "onscreen": "S03E05"
-      }
-    },
-    {
-      "start": "2026-09-22T01:45:00+00:00",
-      "stop": "2026-09-22T02:30:00+00:00",
-      "channel": "France 2",
-      "title": "Les invisibles",
-      "subtitle": "Fleur",
-      "description": "Sur le bord d'un échangeur autoroutier, un chien aboit. A ses côtés, un cadavre. Enfin, pas vraiment. Car quand l'équipe des Invisibles débarque sur la scène de crime, Darius s'aperçoit que la victime, Fleur, respire encore. Elle est dans un état déplorable, et plongée dans le coma une fois arrivée à l'hôpital. L'équipe devra trouver les réponses ailleurs...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Invisibles",
-      "episode_nums": {
-        "xmltv_ns": "2.5.0/1",
-        "onscreen": "S03E06"
-      }
-    },
-    {
-      "start": "2026-09-22T19:10:00+00:00",
-      "stop": "2026-09-22T20:00:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Aux origines",
-      "description": "Roméo est un artiste de rue de renom, natif de Marseille. Son corps est retrouvé dans une friche. Qui pourrait en vouloir à ce graffeur à la renommée internationale ? L'enquête mène Constance et Boris vers une école de street art au coeur d'une mystérieuse histoire de famille et de plagiat. Solène demande de l'aide à Boris pour savoir comment gérer l'adolescence tumultueuse de Raphaëlle...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.3.0/1",
-        "onscreen": "S11E04"
-      }
-    },
-    {
-      "start": "2026-09-22T20:00:00+00:00",
-      "stop": "2026-09-22T20:45:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Une pour toutes !",
-      "description": "Une jeune femme, militante contre les violences sexistes au travail, est retrouvée assassinée. Constance et Boris devront démêler le vrai du faux et rester neutres face aux apparences. Hébergée temporairement par les Meyer aux Tamaris, Lola disparaît sans crier gare. Constance convainc Quiring de recruter Ludo comme assistant au palais.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "9.3.0/1",
-        "onscreen": "S10E04"
-      }
-    },
-    {
-      "start": "2026-09-22T20:45:00+00:00",
-      "stop": "2026-09-22T21:35:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Les larmes du clown",
-      "description": "Un homme, grimé et déguisé en clown s'est effondré sur le rebord d'une route succombant à une large blessure à la tête. Constance et Boris découvriront derrière la victime, un homme fragile aux personnalités multiples.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "8.4.0/1",
-        "onscreen": "S09E05"
-      }
-    },
-    {
-      "start": "2026-09-22T21:35:00+00:00",
-      "stop": "2026-09-22T22:30:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Lien de course",
-      "description": "Constance et Boris enquêtent sur le décès suspect de Jeanne Brunet, entraîneure handisport, retrouvée morte dans un vestiaire. Accident, rivalité, vengeance ? Dans ce milieu ultra-compétitif où la confiance est indispensable, tous les regards se tournent vers Margaux Rossi, jeune parathlète vouée à une carrière prometteuse. Constance et Boris devront faire preuve de finesse pour démêler les jalousies et les ambitions qui ont pu conduire au drame...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.2.0/1",
-        "onscreen": "S11E03"
-      }
-    },
     {
       "start": "2026-09-23T19:10:00+00:00",
       "stop": "2026-09-23T20:05:00+00:00",
@@ -208,8 +96,8 @@
       }
     },
     {
-      "start": "2026-09-24T18:33:00+00:00",
-      "stop": "2026-09-24T19:34:00+00:00",
+      "start": "2026-09-24T18:32:00+00:00",
+      "stop": "2026-09-24T19:29:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
       "subtitle": "Dernière confession",
@@ -240,8 +128,8 @@
       }
     },
     {
-      "start": "2026-09-24T19:34:00+00:00",
-      "stop": "2026-09-24T20:37:00+00:00",
+      "start": "2026-09-24T19:29:00+00:00",
+      "stop": "2026-09-24T20:29:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
       "subtitle": "Entre chien et loup",
@@ -352,6 +240,19 @@
       }
     },
     {
+      "start": "2026-09-26T20:36:00+00:00",
+      "stop": "2026-09-26T22:12:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Laguiole",
+      "subtitle": "",
+      "description": "Laguiole, dans l'Aubrac. Ludivine, une écrivaine locale et son ami coutelier, découvrent le cadavre d'un homme, pendu et torturé à la manière du \" Voleur d'Alpuech \". Ludivine est d'autant plus troublée par cette découverte qu'elle a écrit un livre sur ce voleur qui sévissait il y a plus de deux cents ans aux dépens des notables de la région. L'enquête est confiée au gendarme local Victor, la quarantaine, et à sa filleule gendarme Julie, 25 ans, qui sort de Saint-Cyr. Ils identifient aussitôt la victime comme étant Laguarrigue, propriétaire d'une célèbre fonderie de couteaux, et surtout ils apprennent qu'un inconnu déguisé en Voleur d'Alpuech a été vu roder la nuit du meurtre...",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
       "start": "2026-09-26T21:14:00+00:00",
       "stop": "2026-09-26T22:04:00+00:00",
       "channel": "TV5 Monde",
@@ -413,6 +314,86 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-09-29T19:10:00+00:00",
+      "stop": "2026-09-29T20:00:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Dernière danse",
+      "description": "Constance et Boris enquêtent sur la mort de Léa Chaudray, jeune professeure de Pole dance. Plongés dans un milieu très exotique pour eux, ils doivent démêler le vrai du faux. Lorsqu'ils apprennent que la jeune professeure était influenceuse à ses heures, et que certaines de ses vidéos ont été effacées, ils comprennent qu'elle a avait peut-être quelque chose à se reprocher. De son côté, Ludo est paralysé par le trac alors que son grand oral se rapproche...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.4.0/1",
+        "onscreen": "S11E05"
+      }
+    },
+    {
+      "start": "2026-09-29T20:00:00+00:00",
+      "stop": "2026-09-29T20:50:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Un poids trop lourd",
+      "description": "Une demeure luxueuse, une famille fortunée, des secrets bien gardés et des non-dits : Constance et Boris devront faire preuve de discernement pour retrouver l'assassin du fils aîné de Serge Lafont, à la tête d'une grande entreprise de transport. Barth et Constance découvrent des informations sensibles sur Lola pendant que Boris cherche à renouer avec Solène, qui le bat froid, à son grand désarroi.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "9.4.0/1",
+        "onscreen": "S10E05"
+      }
+    },
+    {
+      "start": "2026-09-29T20:50:00+00:00",
+      "stop": "2026-09-29T21:35:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Errance",
+      "description": "Les juges Delcourt et Meyer devront retrouver la trace de l'homme qu'il était avant de devenir SDF.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "8.5.0/1",
+        "onscreen": "S09E06"
+      }
+    },
+    {
+      "start": "2026-09-29T21:35:00+00:00",
+      "stop": "2026-09-29T22:25:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Aux origines",
+      "description": "Roméo est un artiste de rue de renom, natif de Marseille. Son corps est retrouvé dans une friche. Qui pourrait en vouloir à ce graffeur à la renommée internationale ? L'enquête mène Constance et Boris vers une école de street art au coeur d'une mystérieuse histoire de famille et de plagiat. Solène demande de l'aide à Boris pour savoir comment gérer l'adolescence tumultueuse de Raphaëlle...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.3.0/1",
+        "onscreen": "S11E04"
+      }
+    },
+    {
+      "start": "2026-09-29T23:05:00+00:00",
+      "stop": "2026-09-30T00:38:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Les secrets du Finistère",
+      "subtitle": "La disparue de Douarnenez",
+      "description": "De retour dans sa Bretagne natale, la capitaine Morgane Ledantec est confrontée à la découverte d'ossements humains suite à la chute d'un chêne sacré lors d'une tempête. La victime était adepte du druidisme. Morgane va devoir renouer avec ses amis de jeunesse, qui semblent tous avoir quelque chose à cacher.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
       }
     }
   ]
