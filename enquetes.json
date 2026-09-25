@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T13:50:29.745900+00:00",
-  "window_start": "2026-09-24",
-  "window_end": "2026-10-01",
+  "generated_at": "2026-09-25T10:27:03.037272+00:00",
+  "window_start": "2026-09-25",
+  "window_end": "2026-10-02",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 29,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-09-24T12:05:00+00:00",
-      "stop": "2026-09-24T12:53:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Ambition mortelle - 1",
-      "description": "La danseuse d'un concours de gommance (scène musicale réunionnaise) se tue devant la police. Il apparaît qu'elle a été intoxiquée, mais était-ce bien elle qui était visée ? La victime morte dans ses bras, l'affaire touche tout particulièrement Tahia, nouvelle venue à la brigade. Les décès s'enchaînent autour du concours artistique. Qui sont les ambitieux prêts à tout pour gagner et avoir la chance de sortir un album ? À trop vouloir bien faire, la jeune recrue de la brigade perd pied.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.4.0/1",
-        "onscreen": "S04E05"
-      }
-    },
-    {
-      "start": "2026-09-24T12:53:00+00:00",
-      "stop": "2026-09-24T13:47:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Ambition mortelle - 2",
-      "description": "L'enquête s'oriente vers les rivaux artistiques de la victime. Qui sont les ambitieux prêts à tout pour gagner et avoir la chance de sortir un album ? À trop vouloir bien faire, Tahia perd pied.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.5.0/1",
-        "onscreen": "S04E06"
-      }
-    },
-    {
-      "start": "2026-09-24T18:32:00+00:00",
-      "stop": "2026-09-24T19:29:00+00:00",
-      "channel": "La Une",
-      "title": "Simon Coleman",
-      "subtitle": "Dernière confession",
-      "description": "Une jeune religieuse a été retrouvée morte empoisonnée, au pied de son piano dans la chapelle du couvent. Simon et Chloé mènent l'enquête parmi les petites sœurs de la vierge Marie. Entre secrets inavouables et crimes oubliés, les voix du seigneur sont impénétrables sauf pour notre duo de choc.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.2.0/1",
-        "onscreen": "S04E03"
-      }
-    },
-    {
-      "start": "2026-09-24T19:10:00+00:00",
-      "stop": "2026-09-24T20:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Tahiti",
-      "description": "Sur l'île de Tahiti, le corps mutilé d'un homme a été découvert dans le temple sacré d'Oro, un ancien dieu de la guerre. La police mène l'enquête.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "6.3.0/1",
-        "onscreen": "S07E04"
-      }
-    },
-    {
-      "start": "2026-09-24T19:29:00+00:00",
-      "stop": "2026-09-24T20:30:00+00:00",
-      "channel": "La Une",
-      "title": "Simon Coleman",
-      "subtitle": "Entre chien et loup",
-      "description": "Dans un centre canin réputé, un dresseur reconnu est retrouvé mort, victime d'un mode opératoire aussi discret qu'inquiétant. L'enquête de Simon Coleman met au jour un univers en apparence exemplaire, où se croisent notables, animaux de compagnie et passions dévorantes. Mais derrière les concours d'agility et les chiens bien dressés, émergent des pratiques illégales et des secrets dangereux. Très vite, Simon comprend que ce meurtre n'est que la partie visible d'un drame bien plus sombre.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.3.0/1",
-        "onscreen": "S04E04"
-      }
-    },
     {
       "start": "2026-09-25T19:10:00+00:00",
       "stop": "2026-09-25T20:45:00+00:00",
@@ -474,6 +394,118 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-10-01T00:05:00+00:00",
+      "stop": "2026-10-01T00:50:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Georges",
+      "description": "Georges, 75 ans, disparaît mystérieusement sur le quai de Pornic lors d'un voyage organisé avec d'autres personnes âgées. Le GRDV enquête auprès des membres du groupe.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
+      }
+    },
+    {
+      "start": "2026-10-01T12:05:00+00:00",
+      "stop": "2026-10-01T12:55:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Team building - 1",
+      "description": "Clarissa et son équipe retrouvent le corps d'une jeune chercheuse en biologie marine, retrouvée au fond d'un ravin lors d'une randonnée organisée par son entreprise. Plus les policiers creusent et plus l'image de la grande et belle famille professionnelle, vendue par les salariés, se fissure.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.6.0/1",
+        "onscreen": "S04E07"
+      }
+    },
+    {
+      "start": "2026-10-01T12:55:00+00:00",
+      "stop": "2026-10-01T13:45:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Team building - 2",
+      "description": "L'affaire semble bouclée. Un membre de l'entreprise reconnaît avoir tué la victime en apprenant qu'elle voulait le licencier. Mais Gaspard est persuadé qu'on l'a manipulé pour qu'il passe à l'acte. Qui pourrait trouver un bénéfice dans ce plan machiavélique ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.7.0/1",
+        "onscreen": "S04E08"
+      }
+    },
+    {
+      "start": "2026-10-01T14:16:00+00:00",
+      "stop": "2026-10-01T14:45:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "Le Secret Du Poisson Géant",
+      "description": "Le secret du poisson géant Dans le Var, le lac de Saint-Cassien, riche en biodiversité, attire les passionnés de pêche, en quête d'un poisson de plus de 2 mètres. Introduit illégalement, ce prédateur a bouleversé l'écosystème avant de s'autoréguler, suscitant l'intérêt des spécialistes qui étudient son impact sur la faune locale.",
+      "category": "Documentaire",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.100.0/1",
+        "onscreen": "S01E101"
+      }
+    },
+    {
+      "start": "2026-10-01T18:33:00+00:00",
+      "stop": "2026-10-01T19:29:00+00:00",
+      "channel": "La Une",
+      "title": "Simon Coleman",
+      "subtitle": "EVJF",
+      "description": "Un enterrement de vie de jeune fille vire au cauchemar lorsque Jessica, une des participantes, est retrouvée morte au pied d'un ravin, en pleine nature. Très vite, l'enquête de Simon Coleman révèle que derrière l'apparente légèreté de ce week-end entre amies, rivalités, jalousies et secrets enfouis refont surface. Chaque membre du groupe pourrait avoir une bonne raison de vouloir faire taire la victime.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.4.0/1",
+        "onscreen": "S04E05"
+      }
+    },
+    {
+      "start": "2026-10-01T19:10:00+00:00",
+      "stop": "2026-10-01T20:50:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Amiens",
+      "description": "Au coeur des hortillonnages d'Amiens, sur une nacelle de manège en forme de Nautilus, flotte le corps sans vie de Charlotte Jelenski. Qui aurait pu s'en prendre à cette femme apparemment sans histoires, qui était aux manettes d'un ambitieux projet de parc d'attraction sur le thème de l'œuvre de Jules Verne ? Pour résoudre cette affaire, le capitaine Louis Monet, victime d'un burn out après le suicide de sa coéquipière, fait équipe avec une nouvelle adjointe Léa Barnier, de trente ans sa cadette. Ensemble, il vont devoir démêler le vrai du faux et confronter leurs méthodes.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "8.9.0/1",
+        "onscreen": "S09E10"
+      }
+    },
+    {
+      "start": "2026-10-01T19:29:00+00:00",
+      "stop": "2026-10-01T20:35:00+00:00",
+      "channel": "La Une",
+      "title": "Simon Coleman",
+      "subtitle": "Fouilles mortelles",
+      "description": "Fin de journée sur un chantier de fouilles archéologique près d'Aix : Damien Lagrange, archéologue star, reste seul à travailler quand la nuit tombe. Quelques heures plus tard, il est retrouvé mort au milieu des tranchées, victime d'un coup porté avec un outil du site. Chargé de l'enquête, Simon Coleman découvre un univers miné par les rivalités, les ambitions déçues et des incidents troublants survenus avant le drame. Entre collègues jaloux, liaisons cachées, sabotages mystérieux et trafic d'antiquités, Simon va vite comprendre que chacun semble avoir un secret enfoui...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
       }
     }
   ]
