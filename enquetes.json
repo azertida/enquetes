@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T14:12:45.220400+00:00",
-  "window_start": "2026-09-25",
-  "window_end": "2026-10-02",
+  "generated_at": "2026-09-26T10:05:37.370782+00:00",
+  "window_start": "2026-09-26",
+  "window_end": "2026-10-03",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,59 +13,11 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 31,
+  "count": 32,
   "programmes": [
     {
-      "start": "2026-09-25T19:10:00+00:00",
-      "stop": "2026-09-25T20:45:00+00:00",
-      "channel": "France 3",
-      "title": "Les secrets du Finistère",
-      "subtitle": "Le chant des sirènes",
-      "description": "Après la découverte du corps sans vie d'une femme ressemblant étrangement à une sirène, le commandant Jérémy Laubier fait appel à Morgane Le Dantec, devenue professeur de faculté spécialisée dans les mythes et légendes bretonnes, pour l'aider dans son enquête. La découverte d'un bateau de pêche artisanale dérivant sans âme qui vive à bord complexifie encore l'enquête quand l'ADN de la sirène est retrouvé à bord. Quel est le lien entre cette adepte du Mermaiding et ce marin-pêcheur mystérieusement disparu ? Si beaucoup le pensent noyé, Morgane sait qu'il est encore vie et qu'il est la clé de tous ces mystères. C'est donc ce lien que doit découvrir Jérémy qui, même s'il ne croit toujours pas aux intuitions de Morgane, doit bien reconnaître qu'elle est souvent en avance sur l'enquête traditionnelle...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
-    {
-      "start": "2026-09-25T20:45:00+00:00",
-      "stop": "2026-09-25T22:20:00+00:00",
-      "channel": "France 3",
-      "title": "Les secrets du Finistère",
-      "subtitle": "La disparue de Douarnenez",
-      "description": "De retour dans sa Bretagne natale, Morgane Le Dantec, capitaine de gendarmerie, est confrontée à la découverte d'ossements humains après la chute d'un chêne sacré lors d'une tempête. La victime était adepte du druidisme, auquel Morgane a été initiée à l'adolescence par sa marraine, la troublante Katell. Douée d'une capacité de prescience parfois déroutante qu'elle a toujours occultée et qui va se réveiller peu à peu au fil de son enquête, Morgane va devoir renouer avec ses amis de jeunesse, qui tous semblent avoir quelque chose à cacher...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-09-25T22:25:00+00:00",
-      "stop": "2026-09-26T00:00:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Sang et lumière",
-      "description": "Maggie, une ancienne journaliste, épouse du maire d'un village de Dordogne qui compte bon nombre d'expatriés britanniques parmi ses habitants, a été enlevée. Du sang a également été retrouvé dans sa voiture, ce qui suscite beaucoup d'inquiétude. Marleau mène l'enquête, avec l'aide d'un détective anglais à la retraite dont elle se serait bien passée. Les investigations révèlent que tout le village en voulait à Maggie, une femme détestable. Les suspects ne manquent pas, parmi lesquels l'hôtelier local et sa fille.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
-    {
       "start": "2026-09-26T18:50:00+00:00",
-      "stop": "2026-09-26T20:32:00+00:00",
+      "stop": "2026-09-26T20:33:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La vallée des vautours",
@@ -85,7 +37,7 @@
       "channel": "France 3",
       "title": "Cassandre",
       "subtitle": "Ni vu, ni connu",
-      "description": "Dans des thermes, le corps sans vie d'un homme est découvert dans une cabine de douche. Inconnu des registres de l'établissement, la victime ne porte aucun papier d'identité. Seules ses empreintes digitales permettent de l'identifier : Philippe Danton, un médecin impliqué dans des détournements d'argent en 2012 et ayant depuis disparu des radars. L'équipe de Cassandre plonge dans une enquête complexe : Danton a en effet vécu plusieurs vies parallèles pour échapper à son passé trouble. Rapidement, les suspects se multiplient...",
+      "description": "Cassandre mène une enquête pour le moins complexe sur la mort d'un jeune homme, qui semble avoir été commis par un quinquagénaire sans aucun mobile.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -112,25 +64,12 @@
       }
     },
     {
-      "start": "2026-09-26T20:36:00+00:00",
-      "stop": "2026-09-26T22:12:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Laguiole",
-      "subtitle": "",
-      "description": "Laguiole, dans l'Aubrac. Ludivine, une écrivaine locale et son ami coutelier, découvrent le cadavre d'un homme, pendu et torturé à la manière du \" Voleur d'Alpuech \". Ludivine est d'autant plus troublée par cette découverte qu'elle a écrit un livre sur ce voleur qui sévissait il y a plus de deux cents ans aux dépens des notables de la région. L'enquête est confiée au gendarme local Victor, la quarantaine, et à sa filleule gendarme Julie, 25 ans, qui sort de Saint-Cyr. Ils identifient aussitôt la victime comme étant Laguarrigue, propriétaire d'une célèbre fonderie de couteaux, et surtout ils apprennent qu'un inconnu déguisé en Voleur d'Alpuech a été vu roder la nuit du meurtre...",
-      "category": "Cinéma",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
       "start": "2026-09-26T21:14:00+00:00",
       "stop": "2026-09-26T22:04:00+00:00",
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Team building - 1",
-      "description": "Clarissa et son équipe retrouvent le corps d'une jeune chercheuse en biologie marine, retrouvée au fond d'un ravin lors d'une randonnée organisée par son entreprise. Plus les policiers creusent et plus l'image de la grande et belle famille professionnelle, vendue par les salariés, se fissure.",
+      "description": "Clarissa et son équipe retrouvent le corps d'une jeune chercheuse en biologie marine, retrouvée au fond d'un ravin lors d'une randonnée organisée par son entreprise.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -146,7 +85,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Team building - 2",
-      "description": "L'affaire semble bouclée. Un membre de l'entreprise reconnaît avoir tué la victime en apprenant qu'elle voulait le licencier. Mais Gaspard est persuadé qu'on l'a manipulé pour qu'il passe à l'acte. Qui pourrait trouver un bénéfice dans ce plan machiavélique ?",
+      "description": "L'affaire semble bouclée. Un membre de l'entreprise reconnaît avoir tué la victime en apprenant qu'elle voulait le licencier. Mais Gaspard est persuadé qu'on l'a manipulé pour qu'il passe à l'acte.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -157,8 +96,8 @@
       }
     },
     {
-      "start": "2026-09-27T18:50:00+00:00",
-      "stop": "2026-09-27T19:51:00+00:00",
+      "start": "2026-09-27T18:53:00+00:00",
+      "stop": "2026-09-27T19:53:00+00:00",
       "channel": "La Une",
       "title": "Soeurs",
       "subtitle": "L'échange",
@@ -173,8 +112,8 @@
       }
     },
     {
-      "start": "2026-09-27T19:51:00+00:00",
-      "stop": "2026-09-27T20:51:00+00:00",
+      "start": "2026-09-27T19:53:00+00:00",
+      "stop": "2026-09-27T20:56:00+00:00",
       "channel": "La Une",
       "title": "Soeurs",
       "subtitle": "Pourquoi moi?",
@@ -306,7 +245,7 @@
       "channel": "TV5 Monde",
       "title": "Les secrets du Finistère",
       "subtitle": "La disparue de Douarnenez",
-      "description": "De retour dans sa Bretagne natale, la capitaine Morgane Ledantec est confrontée à la découverte d'ossements humains suite à la chute d'un chêne sacré lors d'une tempête. La victime était adepte du druidisme. Morgane va devoir renouer avec ses amis de jeunesse, qui semblent tous avoir quelque chose à cacher.",
+      "description": "De retour dans sa Bretagne natale, Morgane Le Dantec, capitaine de gendarmerie, est confrontée à la découverte d'ossements humains après la chute d'un chêne sacré lors d'une tempête.",
       "category": "Séries",
       "icon": "",
       "origine": "telefilm",
@@ -333,8 +272,8 @@
       }
     },
     {
-      "start": "2026-09-30T19:15:00+00:00",
-      "stop": "2026-09-30T20:01:00+00:00",
+      "start": "2026-09-30T19:13:00+00:00",
+      "stop": "2026-09-30T20:00:00+00:00",
       "channel": "TF1",
       "title": "Tracker",
       "subtitle": "Le secret de Riley",
@@ -418,7 +357,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Team building - 1",
-      "description": "Clarissa et son équipe retrouvent le corps d'une jeune chercheuse en biologie marine, retrouvée au fond d'un ravin lors d'une randonnée organisée par son entreprise. Plus les policiers creusent et plus l'image de la grande et belle famille professionnelle, vendue par les salariés, se fissure.",
+      "description": "Clarissa et son équipe retrouvent le corps d'une jeune chercheuse en biologie marine, retrouvée au fond d'un ravin lors d'une randonnée organisée par son entreprise.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -434,7 +373,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Team building - 2",
-      "description": "L'affaire semble bouclée. Un membre de l'entreprise reconnaît avoir tué la victime en apprenant qu'elle voulait le licencier. Mais Gaspard est persuadé qu'on l'a manipulé pour qu'il passe à l'acte. Qui pourrait trouver un bénéfice dans ce plan machiavélique ?",
+      "description": "L'affaire semble bouclée. Un membre de l'entreprise reconnaît avoir tué la victime en apprenant qu'elle voulait le licencier. Mais Gaspard est persuadé qu'on l'a manipulé pour qu'il passe à l'acte.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -450,7 +389,7 @@
       "channel": "TV5 Monde",
       "title": "Secrets de Nos Vallées",
       "subtitle": "Le Secret Du Poisson Géant",
-      "description": "Le secret du poisson géant Dans le Var, le lac de Saint-Cassien, riche en biodiversité, attire les passionnés de pêche, en quête d'un poisson de plus de 2 mètres. Introduit illégalement, ce prédateur a bouleversé l'écosystème avant de s'autoréguler, suscitant l'intérêt des spécialistes qui étudient son impact sur la faune locale.",
+      "description": "Le secret du poisson géant Dans le Var, le lac de Saint-Cassien, riche en biodiversité, attire les passionnés de pêche, en quête d'un poisson de plus de 2 mètres. Introduit illégalement.",
       "category": "Documentaire",
       "icon": "",
       "origine": "telefilm",
@@ -506,6 +445,86 @@
       "episode_nums": {
         "xmltv_ns": "3.5.0/1",
         "onscreen": "S04E06"
+      }
+    },
+    {
+      "start": "2026-10-02T02:00:00+00:00",
+      "stop": "2026-10-02T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "Le Secret Du Poisson Géant",
+      "description": "Le secret du poisson géant Dans le Var, le lac de Saint-Cassien, riche en biodiversité, attire les passionnés de pêche, en quête d'un poisson de plus de 2 mètres. Introduit illégalement.",
+      "category": "Documentaire",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.100.0/1",
+        "onscreen": "S01E101"
+      }
+    },
+    {
+      "start": "2026-10-02T18:56:00+00:00",
+      "stop": "2026-10-02T20:36:00+00:00",
+      "channel": "La Une",
+      "title": "Le voyageur",
+      "subtitle": "Le Roi Nu",
+      "description": "Kandinsky a eu la confirmation par la commissaire qu'un seul prédateur a commis les nombreux crimes répertoriés dans le mystérieux cahier trouvé dans le van. Kandinsky commence sa traque. Mais de chasseur, il va devenir la proie d'un redoutable prédateur.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
+    },
+    {
+      "start": "2026-10-02T19:10:00+00:00",
+      "stop": "2026-10-02T20:50:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "L'ami français",
+      "description": "Joseph Nyandoro, un ex-président africain poussé par ses proches à reprendre le pouvoir, vit dans en exil dans un village français auquel il est très attaché. Un de ses amis au village, Josselin Gramont est alors tué par arme à feu...mais par qui ? et pourquoi ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.11.0/1",
+        "onscreen": "S04E12"
+      }
+    },
+    {
+      "start": "2026-10-02T20:50:00+00:00",
+      "stop": "2026-10-02T22:30:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "A contre-courant",
+      "description": "Grégoire, grand reporter exilé sur une île bretonne, reçoit ses anciens amis de lycée pour un weekend de retrouvailles. Mais l'ambiance festive se tend lorsqu'il leur présente sa fiancée, la jolie Carla, qui est beaucoup plus jeune et qui, surtout, est la fille de Max et Florence, deux des membres de la bande. Le lendemain le bateau de Grégoire explose, provoquant la mort de leur ami Micka. Max a-t-il voulu, de colère, détruire le bateau, tuant malencontreusement Micka ? Marleau la terrienne débarque et découvre que ce groupe partage quelques douloureux secrets. Mais une évidence s'impose : Grégoire s'est fait beaucoup d'ennemis au gré de ses enquêtes journalistiques...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.10.0/1",
+        "onscreen": "S04E11"
+      }
+    },
+    {
+      "start": "2026-10-02T22:30:00+00:00",
+      "stop": "2026-10-03T00:10:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Port d'attache",
+      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.16.0/1",
+        "onscreen": "S04E17"
       }
     }
   ]
