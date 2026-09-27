@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T13:25:01.991743+00:00",
-  "window_start": "2026-09-26",
-  "window_end": "2026-10-03",
+  "generated_at": "2026-09-27T10:40:44.893972+00:00",
+  "window_start": "2026-09-27",
+  "window_end": "2026-10-04",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,86 +15,6 @@
   "series_count": 54,
   "count": 32,
   "programmes": [
-    {
-      "start": "2026-09-26T18:50:00+00:00",
-      "stop": "2026-09-26T20:33:00+00:00",
-      "channel": "La Une",
-      "title": "Alex Hugo",
-      "subtitle": "La vallée des vautours",
-      "description": "Un couple d'Anglais et un randonneur sont froidement abattus dans un lieu isolé dominant la petite ville de Lusagne. Compte tenu de la nationalité des victimes, Brian Davies, inspecteur chevronné de la police britannique, se retrouve dépêché sur les lieux pour assister le commandant Alex Hugo dans son enquête. Si les deux hommes parviennent difficilement à concilier leurs méthodes d'investigation, ils vont peu à peu nouer une certaine complicité. Alors qu'ils peinent à identifier un suspect crédible, Alex et Brian finissent par découvrir une piste inattendue.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "9.0.0/1",
-        "onscreen": "S10E01"
-      }
-    },
-    {
-      "start": "2026-09-26T19:10:00+00:00",
-      "stop": "2026-09-26T20:35:00+00:00",
-      "channel": "France 3",
-      "title": "Cassandre",
-      "subtitle": "Ni vu, ni connu",
-      "description": "Cassandre mène une enquête pour le moins complexe sur la mort d'un jeune homme, qui semble avoir été commis par un quinquagénaire sans aucun mobile.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "8.3.0/1",
-        "onscreen": "S09E04"
-      }
-    },
-    {
-      "start": "2026-09-26T20:35:00+00:00",
-      "stop": "2026-09-26T22:10:00+00:00",
-      "channel": "France 3",
-      "title": "Cassandre",
-      "subtitle": "Le secret d'Angèle",
-      "description": "Le corps d'une jeune lycéenne en internat est retrouvé dans un cimetière ! Comment a-t-elle pu se retrouver là ? C'est face à une proviseure sous le choc que Cassandre nous plonge dans le milieu de l'internat public. Si la proviseure ne ménage pas ses efforts pour lutter contre les préjugés du genre « les bourges » du général et les « cas sociaux » de la partie pro, la réalité était-elle si idyllique ? Cassandre ne tarde pas à découvrir une Angèle à la personnalité complexe, contrairement à ses camarades de dortoir, jeunes gens en vraies difficultés, Angèle était une fille issue d'un milieu tranquille et naviguait entre deux mondes. S'attirait-elle des inimitiés à cause de sa position ? Qui était vraiment Angèle ? C'est dans les coulisses du lycée que Cassandre et son équipe devront enquêter pour trouver la vérité, loin des préjugés et des faux-semblants.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "4.3.0/1",
-        "onscreen": "S05E04"
-      }
-    },
-    {
-      "start": "2026-09-26T21:14:00+00:00",
-      "stop": "2026-09-26T22:04:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Team building - 1",
-      "description": "Clarissa et son équipe retrouvent le corps d'une jeune chercheuse en biologie marine, retrouvée au fond d'un ravin lors d'une randonnée organisée par son entreprise.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.6.0/1",
-        "onscreen": "S04E07"
-      }
-    },
-    {
-      "start": "2026-09-26T22:04:00+00:00",
-      "stop": "2026-09-26T22:57:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Team building - 2",
-      "description": "L'affaire semble bouclée. Un membre de l'entreprise reconnaît avoir tué la victime en apprenant qu'elle voulait le licencier. Mais Gaspard est persuadé qu'on l'a manipulé pour qu'il passe à l'acte.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.7.0/1",
-        "onscreen": "S04E08"
-      }
-    },
     {
       "start": "2026-09-27T18:53:00+00:00",
       "stop": "2026-09-27T19:53:00+00:00",
@@ -272,7 +192,7 @@
       }
     },
     {
-      "start": "2026-09-30T19:13:00+00:00",
+      "start": "2026-09-30T19:12:00+00:00",
       "stop": "2026-09-30T20:00:00+00:00",
       "channel": "TF1",
       "title": "Tracker",
@@ -525,6 +445,86 @@
       "episode_nums": {
         "xmltv_ns": "3.16.0/1",
         "onscreen": "S04E17"
+      }
+    },
+    {
+      "start": "2026-10-03T18:50:00+00:00",
+      "stop": "2026-10-03T20:40:00+00:00",
+      "channel": "La Une",
+      "title": "Capitaine Marleau",
+      "subtitle": "Présumés coupables",
+      "description": "Virginie Pérodain dirigeait un programme de réinsertion d'anciens détenus. Est-ce pour ça qu'on l'a tuée? Marleau doit d'urgence retrouver Jacques Aliberti, un ex-braqueur que la victime a aidé à sa sortie de prison. Il a été vu avec elle peu avant sa mort. Mais l'homme est introuvable... Marleau suit la piste d'un contentieux entre Jacques et Virginie, et doit se confronter à Anne Aliberti, la fille du fugitif devenue magistrate malgré une enfance houleuse dans le sillage de son père. Anne va-t-elle collaborer avec la gendarme, ou lui mettre des bâtons dans les roues ? Pourtant en cherchant à protéger son père, Anne met en péril sa carrière et son couple.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "4.11.0/1",
+        "onscreen": "S05E12"
+      }
+    },
+    {
+      "start": "2026-10-03T19:10:00+00:00",
+      "stop": "2026-10-03T20:45:00+00:00",
+      "channel": "France 3",
+      "title": "Cassandre",
+      "subtitle": "L'étoile du berger",
+      "description": "Une dentiste est retrouvée morte dans des alpages. Très vite le nom du procureur Chappaz est évoqué lors de l'enquête et il se retrouve impliqué dans ce meurtre, un cold case resurgissant du passé où il était alors juge d'instruction. Cassandre et son équipe sont désemparés lorsque tout semble accuser le procureur du meurtre de la jeune femme. Ils vont devoir rapidement démêler tous les fils de l'enquête pour sauver sa peau, alors que le doute pourrait s'installer.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Cassandre",
+      "episode_nums": {
+        "xmltv_ns": "7.0.0/1",
+        "onscreen": "S08E01"
+      }
+    },
+    {
+      "start": "2026-10-03T20:45:00+00:00",
+      "stop": "2026-10-03T22:20:00+00:00",
+      "channel": "France 3",
+      "title": "Cassandre",
+      "subtitle": "Les inconnus du Sapenay",
+      "description": "Cassandre mène une enquête pour le moins complexe sur la mort d'un jeune homme, qui semble avoir été commis par un quinquagénaire sans aucun mobile.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Cassandre",
+      "episode_nums": {
+        "xmltv_ns": "8.2.0/1",
+        "onscreen": "S09E03"
+      }
+    },
+    {
+      "start": "2026-10-03T20:56:00+00:00",
+      "stop": "2026-10-03T21:44:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Abusés - 1",
+      "description": "Un arnaqueur déguisé en pirate est retrouvé pendu, les mains tranchées : une exécution digne de la piraterie. L'homme faisait miroiter à des touristes naïfs le mythique trésor de la Buse. L'un d'eux a-t-il cherché à se venger de la duperie ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.8.0/1",
+        "onscreen": "S04E09"
+      }
+    },
+    {
+      "start": "2026-10-03T21:44:00+00:00",
+      "stop": "2026-10-03T22:37:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Abusés - 2",
+      "description": "La découverte d'une pièce d'or d'époque relance les spéculations sur le trésor caché par le célèbre pirate réunionnais. La victime a-t-elle fini par mettre réellement la main sur le butin ? Est-ce pour protéger le trésor qu'on lui a tranché les mains ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.9.0/1",
+        "onscreen": "S04E10"
       }
     }
   ]
