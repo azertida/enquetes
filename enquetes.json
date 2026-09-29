@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T17:04:22.490627+00:00",
-  "window_start": "2026-09-28",
-  "window_end": "2026-10-05",
+  "generated_at": "2026-09-29T11:29:47.425368+00:00",
+  "window_start": "2026-09-29",
+  "window_end": "2026-10-06",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,54 +15,6 @@
   "series_count": 54,
   "count": 34,
   "programmes": [
-    {
-      "start": "2026-09-28T19:10:00+00:00",
-      "stop": "2026-09-28T19:55:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 1",
-      "description": "Thompson, trafiquant d'art élégant, sort de prison et enlève Jean-Pierre Séguret, professeur d'histoire à la retraite, à l'issue son anniversaire en famille. Pour le libérer, il exige que Françoise.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Aventurières",
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-09-28T19:55:00+00:00",
-      "stop": "2026-09-28T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 2",
-      "description": "Grâce aux connaissances pointues de Sophie sur la Renaissance, elle découvre que \"Léda et le cygne\" aurait été offert par Louis XIV à Madame de Maintenon et caché à Marly-le-Roi.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Aventurières",
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
-    {
-      "start": "2026-09-28T20:45:00+00:00",
-      "stop": "2026-09-28T21:35:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 3",
-      "description": "Sophie explore les mémoires d'Arnold de Ville et déduit que \"Léda et le cygne\" pourrait être caché dans un des globes de Coronelli exposés à la BNF.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Aventurières",
-      "episode_nums": {
-        "xmltv_ns": "0.2.0/1",
-        "onscreen": "S01E03"
-      }
-    },
     {
       "start": "2026-09-29T19:10:00+00:00",
       "stop": "2026-09-29T20:00:00+00:00",
@@ -288,8 +240,8 @@
       }
     },
     {
-      "start": "2026-10-01T18:33:00+00:00",
-      "stop": "2026-10-01T19:29:00+00:00",
+      "start": "2026-10-01T18:32:00+00:00",
+      "stop": "2026-10-01T19:33:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
       "subtitle": "EVJF",
@@ -320,7 +272,7 @@
       }
     },
     {
-      "start": "2026-10-01T19:29:00+00:00",
+      "start": "2026-10-01T19:33:00+00:00",
       "stop": "2026-10-01T20:35:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
@@ -353,7 +305,7 @@
     },
     {
       "start": "2026-10-02T18:56:00+00:00",
-      "stop": "2026-10-02T20:36:00+00:00",
+      "stop": "2026-10-02T20:37:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
       "subtitle": "Le Roi Nu",
@@ -469,7 +421,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Abusés - 1",
-      "description": "Un arnaqueur déguisé en pirate est retrouvé pendu, les mains tranchées : une exécution digne de la piraterie. L'homme faisait miroiter à des touristes naïfs le mythique trésor de la Buse. L'un d'eux a-t-il cherché à se venger de la duperie ?",
+      "description": "Un arnaqueur déguisé en pirate est retrouvé pendu, les mains tranchées : une exécution digne de la piraterie. L'homme faisait miroiter à des touristes naïfs le mythique trésor de la Buse.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -485,7 +437,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Abusés - 2",
-      "description": "La découverte d'une pièce d'or d'époque relance les spéculations sur le trésor caché par le célèbre pirate réunionnais. La victime a-t-elle fini par mettre réellement la main sur le butin ? Est-ce pour protéger le trésor qu'on lui a tranché les mains ?",
+      "description": "La découverte d'une pièce d'or d'époque relance les spéculations sur le trésor caché par le célèbre pirate réunionnais. La victime a-t-elle fini par mettre réellement la main sur le butin .",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -557,6 +509,54 @@
       "episode_nums": {
         "xmltv_ns": "0.3.0/1",
         "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-10-05T19:10:00+00:00",
+      "stop": "2026-10-05T19:55:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 4",
+      "description": "Guidées par un codex trouvé dans un globe de Coronelli, Françoise et Sophie suivent la piste de Vaux-le-Vicomte. Convaincues que le tableau s'y cache, elles profitent d'une sortie scolaire organisée par Sophie pour s'introduire dans les souterrains du château. Entre-temps, Nader découvre grâce à Oscar que Sophie est impliquée et déploie ses hommes pour l'arrêter...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Aventurières",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-10-05T19:55:00+00:00",
+      "stop": "2026-10-05T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 5",
+      "description": "JP réussit à fuir de l'hôpital et retrouve Françoise, elle aussi libérée. Ensemble, ils découvrent que Sophie a été enlevée et décident de la secourir. A leur grande surprise, Juliette, leur petite-fille, les accompagne, ayant suivi JP depuis l'hôpital. Les grands-parents ordonnent à Juliette de se mettre en sécurité chez son père et partent retrouver Sophie. Avant l'intervention, Françoise confie à JP ses doutes : Thompson pourrait être le père biologique de Sophie, mais JP affirme qu'il l'a élevée et reste son vrai père. En localisant la planque de Thomspon, ils sont arrêtés par ses hommes de main. Sous la menace, la famille tente de déchiffrer l'Homme de Vitruve et découvre le mot \"Salamandra\", emblème de François Ier...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Aventurières",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-10-05T20:45:00+00:00",
+      "stop": "2026-10-05T21:35:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 6",
+      "description": "Nader met les Séguret et Oscar en prison, mais ces derniers réussissent à se libérer. Emouvantes retrouvailles entre Oscar et ses anciens mentors, mais Nader soupçonne une taupe au Ministère et pense à Lardennois. Les Séguret simulent une prise d'otage pour tromper Nader. Tandis que Sophie et Thompson poursuivent l'énigme menant au Leda, ils découvrent que le lieu des amours de Vinci et de son jeune modèle Salaï Mandra se situe dans une abbaye d'Ile-de-France. Lors de la confrontation, Oscar révèle sa trahison et prend les Séguret en otages. Thomson s'empare de Sophie et du tableau trouvé sur une île du parc. Juliette neutralise Oscar et attend Nader...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Aventurières",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
       }
     }
   ]
