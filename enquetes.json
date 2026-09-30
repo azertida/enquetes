@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T15:09:44.328044+00:00",
-  "window_start": "2026-09-29",
-  "window_end": "2026-10-06",
+  "generated_at": "2026-09-30T11:18:28.032666+00:00",
+  "window_start": "2026-09-30",
+  "window_end": "2026-10-07",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 34,
+  "count": 33,
   "programmes": [
-    {
-      "start": "2026-09-29T19:10:00+00:00",
-      "stop": "2026-09-29T20:00:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Dernière danse",
-      "description": "Constance et Boris enquêtent sur la mort de Léa Chaudray, jeune professeure de Pole dance. Plongés dans un milieu très exotique pour eux, ils doivent démêler le vrai du faux. Lorsqu'ils apprennent que la jeune professeure était influenceuse à ses heures, et que certaines de ses vidéos ont été effacées, ils comprennent qu'elle a avait peut-être quelque chose à se reprocher. De son côté, Ludo est paralysé par le trac alors que son grand oral se rapproche...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.4.0/1",
-        "onscreen": "S11E05"
-      }
-    },
-    {
-      "start": "2026-09-29T20:00:00+00:00",
-      "stop": "2026-09-29T20:50:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Un poids trop lourd",
-      "description": "Une demeure luxueuse, une famille fortunée, des secrets bien gardés et des non-dits : Constance et Boris devront faire preuve de discernement pour retrouver l'assassin du fils aîné de Serge Lafont, à la tête d'une grande entreprise de transport. Barth et Constance découvrent des informations sensibles sur Lola pendant que Boris cherche à renouer avec Solène, qui le bat froid, à son grand désarroi.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "9.4.0/1",
-        "onscreen": "S10E05"
-      }
-    },
-    {
-      "start": "2026-09-29T20:50:00+00:00",
-      "stop": "2026-09-29T21:35:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Errance",
-      "description": "Les juges Delcourt et Meyer devront retrouver la trace de l'homme qu'il était avant de devenir SDF.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "8.5.0/1",
-        "onscreen": "S09E06"
-      }
-    },
-    {
-      "start": "2026-09-29T21:35:00+00:00",
-      "stop": "2026-09-29T22:25:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Aux origines",
-      "description": "Roméo est un artiste de rue de renom, natif de Marseille. Son corps est retrouvé dans une friche. Qui pourrait en vouloir à ce graffeur à la renommée internationale ? L'enquête mène Constance et Boris vers une école de street art au coeur d'une mystérieuse histoire de famille et de plagiat. Solène demande de l'aide à Boris pour savoir comment gérer l'adolescence tumultueuse de Raphaëlle...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.3.0/1",
-        "onscreen": "S11E04"
-      }
-    },
-    {
-      "start": "2026-09-29T23:05:00+00:00",
-      "stop": "2026-09-30T00:38:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Les secrets du Finistère",
-      "subtitle": "La disparue de Douarnenez",
-      "description": "De retour dans sa Bretagne natale, Morgane Le Dantec, capitaine de gendarmerie, est confrontée à la découverte d'ossements humains après la chute d'un chêne sacré lors d'une tempête.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
     {
       "start": "2026-09-30T19:10:00+00:00",
       "stop": "2026-09-30T20:00:00+00:00",
@@ -240,8 +160,8 @@
       }
     },
     {
-      "start": "2026-10-01T18:32:00+00:00",
-      "stop": "2026-10-01T19:33:00+00:00",
+      "start": "2026-10-01T18:31:00+00:00",
+      "stop": "2026-10-01T19:27:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
       "subtitle": "EVJF",
@@ -272,8 +192,8 @@
       }
     },
     {
-      "start": "2026-10-01T19:33:00+00:00",
-      "stop": "2026-10-01T20:35:00+00:00",
+      "start": "2026-10-01T19:27:00+00:00",
+      "stop": "2026-10-01T20:29:00+00:00",
       "channel": "La Une",
       "title": "Simon Coleman",
       "subtitle": "Fouilles mortelles",
@@ -369,7 +289,7 @@
     },
     {
       "start": "2026-10-03T18:50:00+00:00",
-      "stop": "2026-10-03T20:40:00+00:00",
+      "stop": "2026-10-03T20:42:00+00:00",
       "channel": "La Une",
       "title": "Capitaine Marleau",
       "subtitle": "Présumés coupables",
@@ -557,6 +477,70 @@
       "episode_nums": {
         "xmltv_ns": "0.5.0/1",
         "onscreen": "S01E06"
+      }
+    },
+    {
+      "start": "2026-10-06T19:10:00+00:00",
+      "stop": "2026-10-06T20:00:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Virages dangereux",
+      "description": "Alors qu'il roulait à moto sur une départementale, Victor Brabant, 24 ans, est percuté par une voiture roulant à pleine vitesse et meurt sur le coup. La garde forestière, témoin du drame, est formelle : il ne s'agit pas d'un accident mais bien d'un homicide volontaire. Constance et Boris font connaissance avec le club de motards et la famille de la victime et découvrent bientôt que la moto que conduisait Victor n'était pas la sienne. Et si le meurtrier s'était trompé de cible ?...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.5.0/1",
+        "onscreen": "S11E06"
+      }
+    },
+    {
+      "start": "2026-10-06T20:00:00+00:00",
+      "stop": "2026-10-06T20:45:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Le bien par le mal",
+      "description": "Un procureur de la république et ancien camarade d'école de Quiring est retrouvé mort dans d'étranges circonstances. L'enquête sur ce drame va mener Constance à risquer sa propre vie pour découvrir la vérité. Pendant ce temps, Barth et Antoine préparent la défense de Lola, qui doit passer en jugement.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "9.5.0/1",
+        "onscreen": "S10E06"
+      }
+    },
+    {
+      "start": "2026-10-06T20:45:00+00:00",
+      "stop": "2026-10-06T21:35:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Dernière danse",
+      "description": "Constance et Boris enquêtent sur la mort de Léa Chaudray, jeune professeure de Pole dance. Plongés dans un milieu très exotique pour eux, ils doivent démêler le vrai du faux. Lorsqu'ils apprennent que la jeune professeure était influenceuse à ses heures, et que certaines de ses vidéos ont été effacées, ils comprennent qu'elle a avait peut-être quelque chose à se reprocher. De son côté, Ludo est paralysé par le trac alors que son grand oral se rapproche...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.4.0/1",
+        "onscreen": "S11E05"
+      }
+    },
+    {
+      "start": "2026-10-06T21:35:00+00:00",
+      "stop": "2026-10-06T22:25:00+00:00",
+      "channel": "France 3",
+      "title": "La stagiaire",
+      "subtitle": "Virages dangereux",
+      "description": "Alors qu'il roulait à moto sur une départementale, Victor Brabant, 24 ans, est percuté par une voiture roulant à pleine vitesse et meurt sur le coup. La garde forestière, témoin du drame, est formelle : il ne s'agit pas d'un accident mais bien d'un homicide volontaire. Constance et Boris font connaissance avec le club de motards et la famille de la victime et découvrent bientôt que la moto que conduisait Victor n'était pas la sienne. Et si le meurtrier s'était trompé de cible ?...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "La Stagiaire",
+      "episode_nums": {
+        "xmltv_ns": "10.5.0/1",
+        "onscreen": "S11E06"
       }
     }
   ]
