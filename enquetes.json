@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T15:25:00.800975+00:00",
-  "window_start": "2026-09-30",
-  "window_end": "2026-10-07",
+  "generated_at": "2026-10-01T11:45:54.635317+00:00",
+  "window_start": "2026-10-01",
+  "window_end": "2026-10-08",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 33,
+  "count": 32,
   "programmes": [
-    {
-      "start": "2026-09-30T19:10:00+00:00",
-      "stop": "2026-09-30T20:00:00+00:00",
-      "channel": "France 2",
-      "title": "Soeurs",
-      "subtitle": "L'échange",
-      "description": "Elisabeth, avocate de renom, célibataire et citadine, échange sa vie le temps d'une soirée avec Elodie, sa jumelle, gardienne d'un domaine appartenant à la riche famille Balint. Alors qu'Elisabeth s'endort tranquillement dans la petite maison de gardien de sa soeur, Elodie, à l'issue de la soirée est victime d'un accident mortel. La police est formelle, il s'agit d'un assassinat. C'est une déflagration pour Elisabeth Elle se sent responsable du décès d'Elodie et comprend que quelqu'un veut la tuer. Piégée dans l'identité de sa soeur, elle va devoir affronter une vie qui n'est pas la sienne : un mari, la famille Balint et une enquête criminelle...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-09-30T19:12:00+00:00",
-      "stop": "2026-09-30T20:00:00+00:00",
-      "channel": "TF1",
-      "title": "Tracker",
-      "subtitle": "Le secret de Riley",
-      "description": "Une nouvelle piste dans l'affaire qui hante Colter depuis des années, à savoir la disparition de Gina Picket, le pousse à refaire équipe avec Keaton, le policier à la retraite, pour traquer un tueur en série.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "1.17.0/1",
-        "onscreen": "S02E18"
-      }
-    },
-    {
-      "start": "2026-09-30T20:00:00+00:00",
-      "stop": "2026-09-30T20:55:00+00:00",
-      "channel": "France 2",
-      "title": "Soeurs",
-      "subtitle": "Pourquoi moi?",
-      "description": "Tandis que l'enquête se resserre autour d'elle, Elisabeth, sous l'identité de sa jumelle, découvre que quelqu'un au domaine connaît son secret. En cherchant des réponses, elle retrouve son ancien associé Farid, caché dans une cité. Quelques heures plus tard, ce dernier est retrouvé mort. Déterminée à comprendre, Elisabeth récupère une clé USB qui révèle une vaste affaire de blanchiment d'argent impliquant Farid et l'inquiétant Manuel Ferrera, un ancien client. Prête à l'affronter, Elisabeth s'engage dans un dangereux face-à-face qui la mène au coeur d'une machination mortelle...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
-    {
-      "start": "2026-09-30T22:35:00+00:00",
-      "stop": "2026-09-30T23:20:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Alba et Charlotte",
-      "description": "Esther Bazin, commandante de police à Nantes, arrête enfin le tueur qu'elle traquait sans relâche depuis trois ans, au détriment de sa vie de famille. Malgré ce succès.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-09-30T23:20:00+00:00",
-      "stop": "2026-10-01T00:05:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Léna",
-      "description": "Esther poursuit l'enquête sur la disparition de Mathias avec Frankie. Une piste les mène jusqu'à une avocate que son mari aurait consultée sous un faux prétexte de divorce. Pendant ce temps, Douma supporte les échecs de son équipe de basket et voit d'un mauvais oeil l'arrivée d'Esther dans l'univers du GRDV. Lorsque Yanis signale la disparition inquiétante de sa mère, Frankie propose d'intégrer Esther au groupe pour renforcer l'enquête. Méfiant, Douma accepte malgré tout son aide, à condition qu'elle fasse ses preuves au sein de l'équipe...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
     {
       "start": "2026-10-01T00:05:00+00:00",
       "stop": "2026-10-01T00:50:00+00:00",
@@ -384,7 +304,7 @@
       }
     },
     {
-      "start": "2026-10-04T15:35:00+00:00",
+      "start": "2026-10-04T15:34:00+00:00",
       "stop": "2026-10-04T16:32:00+00:00",
       "channel": "La Une",
       "title": "Munch",
@@ -541,6 +461,70 @@
       "episode_nums": {
         "xmltv_ns": "10.5.0/1",
         "onscreen": "S11E06"
+      }
+    },
+    {
+      "start": "2026-10-07T19:10:00+00:00",
+      "stop": "2026-10-07T20:00:00+00:00",
+      "channel": "France 2",
+      "title": "Soeurs",
+      "subtitle": "L'autre vie d'Elodie",
+      "description": "En fouillant dans le passé d'Elodie, Elisabeth découvre l'amour secret de sa soeur pour Niels. Entre argent caché, trahisons et envies de fuite, l'image d'Elodie s'effondre. Les soupçons de la police se tournent vers Valentin, dont le lien ambigu avec Elisabeth refait surface. Au petit matin, une descente policière au domaine menace de tout faire exploser...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Soeurs",
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
+      }
+    },
+    {
+      "start": "2026-10-07T20:00:00+00:00",
+      "stop": "2026-10-07T20:50:00+00:00",
+      "channel": "France 2",
+      "title": "Soeurs",
+      "subtitle": "Le piège",
+      "description": "Alors que la police resserre son étau sur le domaine Balint, Elisabeth, toujours sous l'identité de sa soeur Elodie, voit son secret menacé d'éclater. Les perquisitions et les tests ADN se multiplient, tandis que le passé trouble d'Elodie refait surface : son histoire passionnelle avec Niels, ses trahisons et son implication dans un dangereux trafic...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Soeurs",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-10-07T22:30:00+00:00",
+      "stop": "2026-10-07T23:20:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Manon",
+      "description": "Eugène Laborde sollicite le GRDV après la disparition de sa petite-fille Manon, introuvable depuis cinq semaines. Majeure, Manon n'est pas recherchée par la police.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-10-07T23:20:00+00:00",
+      "stop": "2026-10-08T00:15:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Samuel",
+      "description": "Le journaliste Samuel Boyer, dont le couple est très médiatisé, disparaît soudainement après un étrange appel téléphonique reçu sur le tournage d'une émission. Le GRDV enquête à la demande de son épouse Nathalie, mais se heurte à un entourage fermé et peu coopératif. Parallèlement, Esther compte utiliser Absi pour infiltrer un club privé et progresser dans l'affaire de la disparition de Mathias. Elle tente aussi de renouer avec son fils Théo, tandis que Douma prend sous son aile Nawaz, un jeune joueur sans abri. De son côté, Frankie s'interroge sur la place qu'elle est prête à accorder à Boris dans sa vie...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
       }
     }
   ]
