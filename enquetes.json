@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T15:45:30.260618+00:00",
-  "window_start": "2026-10-01",
-  "window_end": "2026-10-08",
+  "generated_at": "2026-10-02T11:15:29.836127+00:00",
+  "window_start": "2026-10-02",
+  "window_end": "2026-10-09",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,120 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 32,
+  "count": 30,
   "programmes": [
-    {
-      "start": "2026-10-01T00:05:00+00:00",
-      "stop": "2026-10-01T00:50:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Georges",
-      "description": "Georges, 75 ans, disparaît mystérieusement sur le quai de Pornic lors d'un voyage organisé avec d'autres personnes âgées. Le GRDV enquête auprès des membres du groupe.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.2.0/1",
-        "onscreen": "S01E03"
-      }
-    },
-    {
-      "start": "2026-10-01T12:05:00+00:00",
-      "stop": "2026-10-01T12:55:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Team building - 1",
-      "description": "Clarissa et son équipe retrouvent le corps d'une jeune chercheuse en biologie marine, retrouvée au fond d'un ravin lors d'une randonnée organisée par son entreprise.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.6.0/1",
-        "onscreen": "S04E07"
-      }
-    },
-    {
-      "start": "2026-10-01T12:55:00+00:00",
-      "stop": "2026-10-01T13:45:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Team building - 2",
-      "description": "L'affaire semble bouclée. Un membre de l'entreprise reconnaît avoir tué la victime en apprenant qu'elle voulait le licencier. Mais Gaspard est persuadé qu'on l'a manipulé pour qu'il passe à l'acte.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.7.0/1",
-        "onscreen": "S04E08"
-      }
-    },
-    {
-      "start": "2026-10-01T14:16:00+00:00",
-      "stop": "2026-10-01T14:45:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Secrets de Nos Vallées",
-      "subtitle": "Le Secret Du Poisson Géant",
-      "description": "Le secret du poisson géant Dans le Var, le lac de Saint-Cassien, riche en biodiversité, attire les passionnés de pêche, en quête d'un poisson de plus de 2 mètres. Introduit illégalement.",
-      "category": "Documentaire",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.100.0/1",
-        "onscreen": "S01E101"
-      }
-    },
-    {
-      "start": "2026-10-01T18:31:00+00:00",
-      "stop": "2026-10-01T19:27:00+00:00",
-      "channel": "La Une",
-      "title": "Simon Coleman",
-      "subtitle": "EVJF",
-      "description": "Un enterrement de vie de jeune fille vire au cauchemar lorsque Jessica, une des participantes, est retrouvée morte au pied d'un ravin, en pleine nature. Très vite, l'enquête de Simon Coleman révèle que derrière l'apparente légèreté de ce week-end entre amies, rivalités, jalousies et secrets enfouis refont surface. Chaque membre du groupe pourrait avoir une bonne raison de vouloir faire taire la victime.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.4.0/1",
-        "onscreen": "S04E05"
-      }
-    },
-    {
-      "start": "2026-10-01T19:10:00+00:00",
-      "stop": "2026-10-01T20:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Amiens",
-      "description": "Au coeur des hortillonnages d'Amiens, sur une nacelle de manège en forme de Nautilus, flotte le corps sans vie de Charlotte Jelenski. Qui aurait pu s'en prendre à cette femme apparemment sans histoires, qui était aux manettes d'un ambitieux projet de parc d'attraction sur le thème de l'œuvre de Jules Verne ? Pour résoudre cette affaire, le capitaine Louis Monet, victime d'un burn out après le suicide de sa coéquipière, fait équipe avec une nouvelle adjointe Léa Barnier, de trente ans sa cadette. Ensemble, il vont devoir démêler le vrai du faux et confronter leurs méthodes.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "8.9.0/1",
-        "onscreen": "S09E10"
-      }
-    },
-    {
-      "start": "2026-10-01T19:27:00+00:00",
-      "stop": "2026-10-01T20:29:00+00:00",
-      "channel": "La Une",
-      "title": "Simon Coleman",
-      "subtitle": "Fouilles mortelles",
-      "description": "Fin de journée sur un chantier de fouilles archéologique près d'Aix : Damien Lagrange, archéologue star, reste seul à travailler quand la nuit tombe. Quelques heures plus tard, il est retrouvé mort au milieu des tranchées, victime d'un coup porté avec un outil du site. Chargé de l'enquête, Simon Coleman découvre un univers miné par les rivalités, les ambitions déçues et des incidents troublants survenus avant le drame. Entre collègues jaloux, liaisons cachées, sabotages mystérieux et trafic d'antiquités, Simon va vite comprendre que chacun semble avoir un secret enfoui...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.5.0/1",
-        "onscreen": "S04E06"
-      }
-    },
     {
       "start": "2026-10-02T02:00:00+00:00",
       "stop": "2026-10-02T02:30:00+00:00",
@@ -144,8 +32,8 @@
       }
     },
     {
-      "start": "2026-10-02T18:56:00+00:00",
-      "stop": "2026-10-02T20:37:00+00:00",
+      "start": "2026-10-02T18:57:00+00:00",
+      "stop": "2026-10-02T20:38:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
       "subtitle": "Le Roi Nu",
@@ -304,8 +192,8 @@
       }
     },
     {
-      "start": "2026-10-04T15:34:00+00:00",
-      "stop": "2026-10-04T16:32:00+00:00",
+      "start": "2026-10-04T15:37:00+00:00",
+      "stop": "2026-10-04T16:36:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Tel père, tel fils",
@@ -320,8 +208,8 @@
       }
     },
     {
-      "start": "2026-10-04T18:49:00+00:00",
-      "stop": "2026-10-04T19:47:00+00:00",
+      "start": "2026-10-04T18:51:00+00:00",
+      "stop": "2026-10-04T19:48:00+00:00",
       "channel": "La Une",
       "title": "Soeurs",
       "subtitle": "L'autre vie d'Elodie",
@@ -336,7 +224,7 @@
       }
     },
     {
-      "start": "2026-10-04T19:47:00+00:00",
+      "start": "2026-10-04T19:48:00+00:00",
       "stop": "2026-10-04T20:47:00+00:00",
       "channel": "La Une",
       "title": "Soeurs",
@@ -525,6 +413,86 @@
       "episode_nums": {
         "xmltv_ns": "0.4.0/1",
         "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-10-08T00:15:00+00:00",
+      "stop": "2026-10-08T01:05:00+00:00",
+      "channel": "France 2",
+      "title": "Les évaporés",
+      "subtitle": "Antoine",
+      "description": "Le GRDV rouvre le dossier d'Antoine, disparu depuis quinze ans, après que sa mère a affirmé l'avoir revu récemment. Esther, Frankie et Douma enquêtent sur cette réapparition troublante, entre doutes, pistes incertaines et vérité enfouie. En parallèle, Esther se rapproche dangereusement de la vérité sur Mathias, tandis que Théo suit seul une piste, à ses risques et périls. Douma découvre aussi la disparition de Nawaz, pendant que Frankie doit prendre une décision importante au sujet de Boris...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Évaporés",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
+      }
+    },
+    {
+      "start": "2026-10-08T12:05:00+00:00",
+      "stop": "2026-10-08T12:53:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Abusés - 1",
+      "description": "Un arnaqueur déguisé en pirate est retrouvé pendu, les mains tranchées : une exécution digne de la piraterie. L'homme faisait miroiter à des touristes naïfs le mythique trésor de la Buse.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.8.0/1",
+        "onscreen": "S04E09"
+      }
+    },
+    {
+      "start": "2026-10-08T12:53:00+00:00",
+      "stop": "2026-10-08T13:46:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Abusés - 2",
+      "description": "La découverte d'une pièce d'or d'époque relance les spéculations sur le trésor caché par le célèbre pirate réunionnais. La victime a-t-elle fini par mettre réellement la main sur le butin .",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.9.0/1",
+        "onscreen": "S04E10"
+      }
+    },
+    {
+      "start": "2026-10-08T14:16:00+00:00",
+      "stop": "2026-10-08T14:45:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "Fario, Le Secret de la Montagne",
+      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie. Romain Passeron suit le cycle des truites remontant la rivière et découvre un savoir-faire ancestral : le réempoissonnement des lacs d'altitude.",
+      "category": "Documentaire",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.101.0/1",
+        "onscreen": "S01E102"
+      }
+    },
+    {
+      "start": "2026-10-08T19:10:00+00:00",
+      "stop": "2026-10-08T20:50:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à",
+      "subtitle": "Meurtres dans le Jura",
+      "description": "Anna Buisson, capitaine de gendarmerie à Moirans, dans le Jura, et Eymeric Massoni-Tournault, de la Section de recherches de la gendarmerie de Lyon, débutent cette enquête difficile. C'est alors qu'un second meurtre se produit. Pour élucider ces affaires, les enquêteurs doivent fouiller dans les secrets des familles concernées...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "6.5.0/1",
+        "onscreen": "S07E06"
       }
     }
   ]
