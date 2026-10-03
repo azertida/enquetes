@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T15:06:31.206219+00:00",
-  "window_start": "2026-10-02",
-  "window_end": "2026-10-09",
+  "generated_at": "2026-10-03T10:32:16.178920+00:00",
+  "window_start": "2026-10-03",
+  "window_end": "2026-10-10",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 30,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-10-02T02:00:00+00:00",
-      "stop": "2026-10-02T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Secrets de Nos Vallées",
-      "subtitle": "Le Secret Du Poisson Géant",
-      "description": "Le secret du poisson géant Dans le Var, le lac de Saint-Cassien, riche en biodiversité, attire les passionnés de pêche, en quête d'un poisson de plus de 2 mètres. Introduit illégalement.",
-      "category": "Documentaire",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.100.0/1",
-        "onscreen": "S01E101"
-      }
-    },
-    {
-      "start": "2026-10-02T18:57:00+00:00",
-      "stop": "2026-10-02T20:38:00+00:00",
-      "channel": "La Une",
-      "title": "Le voyageur",
-      "subtitle": "Le Roi Nu",
-      "description": "Kandinsky a eu la confirmation par la commissaire qu'un seul prédateur a commis les nombreux crimes répertoriés dans le mystérieux cahier trouvé dans le van. Kandinsky commence sa traque. Mais de chasseur, il va devenir la proie d'un redoutable prédateur.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
-    {
-      "start": "2026-10-02T19:10:00+00:00",
-      "stop": "2026-10-02T20:50:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "L'ami français",
-      "description": "Joseph Nyandoro, un ex-président africain poussé par ses proches à reprendre le pouvoir, vit dans en exil dans un village français auquel il est très attaché. Un de ses amis au village, Josselin Gramont est alors tué par arme à feu...mais par qui ? et pourquoi ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.11.0/1",
-        "onscreen": "S04E12"
-      }
-    },
-    {
-      "start": "2026-10-02T20:50:00+00:00",
-      "stop": "2026-10-02T22:30:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "A contre-courant",
-      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.10.0/1",
-        "onscreen": "S04E11"
-      }
-    },
-    {
-      "start": "2026-10-02T22:30:00+00:00",
-      "stop": "2026-10-03T00:10:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Port d'attache",
-      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.16.0/1",
-        "onscreen": "S04E17"
-      }
-    },
     {
       "start": "2026-10-03T18:50:00+00:00",
       "stop": "2026-10-03T20:42:00+00:00",
@@ -469,7 +389,7 @@
       "channel": "TV5 Monde",
       "title": "Secrets de Nos Vallées",
       "subtitle": "Fario, Le Secret de la Montagne",
-      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie. Romain Passeron suit le cycle des truites remontant la rivière et découvre un savoir-faire ancestral : le réempoissonnement des lacs d'altitude.",
+      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie.",
       "category": "Documentaire",
       "icon": "",
       "origine": "telefilm",
@@ -493,6 +413,99 @@
       "episode_nums": {
         "xmltv_ns": "6.5.0/1",
         "onscreen": "S07E06"
+      }
+    },
+    {
+      "start": "2026-10-09T02:00:00+00:00",
+      "stop": "2026-10-09T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "Fario, Le Secret de la Montagne",
+      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie.",
+      "category": "Documentaire",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.101.0/1",
+        "onscreen": "S01E102"
+      }
+    },
+    {
+      "start": "2026-10-09T12:27:00+00:00",
+      "stop": "2026-10-09T14:02:00+00:00",
+      "channel": "TF1",
+      "title": "Meurtre à Noël",
+      "subtitle": "",
+      "description": "Diana est à la tête d'une entreprise florissante à San Francisco. Alors que les affaires vont bon train durant la saison des fêtes, sa tante est retrouvée morte, vraisemblablement victime d'une chute dans l'escalier. Mais Diana n'y croit pas. Elle se rend dans la ville de sa tante et commence à mener sa propre enquête pour déterminer s'il s'agit vraiment d'un accident.",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-10-09T19:10:00+00:00",
+      "stop": "2026-10-09T19:55:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Échecs et meurtre",
+      "description": "Lors d'un match exhibition d'échecs à Aix-en-Provence, le jeune prodige Julien Roussel s'effondre en pleine partie et meurt sous les yeux du public. Très vite, Simon Coleman soupçonne un empoisonnement. Pour les besoins de l'enquête, Simon plonge dans l'univers feutré des grands maîtres et découvre qu'ici, non seulement chaque coup est calculé, mais que la moindre erreur peut être fatale...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-10-09T19:55:00+00:00",
+      "stop": "2026-10-09T20:50:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Double faute",
+      "description": "Simon et Chloé sont envoyés au tennis club d'Aix en Provence pour le meurtre du directeur du club. Cet entraineur de futurs champions a été assassiné à l'issue d'une partie de padel qui a mal tourné. Qui est le meurtrier : un mauvais perdant, un espoir déçu, quelqu'un qui n'a rien à voir avec la petite balle jaune ? Les deux enquêteurs vont devoir serrer le jeu...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-10-09T20:50:00+00:00",
+      "stop": "2026-10-09T22:30:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Port d'attache",
+      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.16.0/1",
+        "onscreen": "S04E17"
+      }
+    },
+    {
+      "start": "2026-10-09T22:30:00+00:00",
+      "stop": "2026-10-10T00:10:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "A contre-courant",
+      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.10.0/1",
+        "onscreen": "S04E11"
       }
     }
   ]
