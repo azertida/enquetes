@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T13:58:30.460526+00:00",
-  "window_start": "2026-10-03",
-  "window_end": "2026-10-10",
+  "generated_at": "2026-10-04T11:13:46.740368+00:00",
+  "window_start": "2026-10-04",
+  "window_end": "2026-10-11",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,86 +15,6 @@
   "series_count": 54,
   "count": 31,
   "programmes": [
-    {
-      "start": "2026-10-03T18:50:00+00:00",
-      "stop": "2026-10-03T20:42:00+00:00",
-      "channel": "La Une",
-      "title": "Capitaine Marleau",
-      "subtitle": "Présumés coupables",
-      "description": "Virginie Pérodain dirigeait un programme de réinsertion d'anciens détenus. Est-ce pour ça qu'on l'a tuée? Marleau doit d'urgence retrouver Jacques Aliberti, un ex-braqueur que la victime a aidé à sa sortie de prison. Il a été vu avec elle peu avant sa mort. Mais l'homme est introuvable... Marleau suit la piste d'un contentieux entre Jacques et Virginie, et doit se confronter à Anne Aliberti, la fille du fugitif devenue magistrate malgré une enfance houleuse dans le sillage de son père. Anne va-t-elle collaborer avec la gendarme, ou lui mettre des bâtons dans les roues ? Pourtant en cherchant à protéger son père, Anne met en péril sa carrière et son couple.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "4.11.0/1",
-        "onscreen": "S05E12"
-      }
-    },
-    {
-      "start": "2026-10-03T19:10:00+00:00",
-      "stop": "2026-10-03T20:45:00+00:00",
-      "channel": "France 3",
-      "title": "Cassandre",
-      "subtitle": "L'étoile du berger",
-      "description": "Une dentiste est retrouvée morte dans des alpages. Très vite le nom du procureur Chappaz est évoqué lors de l'enquête et il se retrouve impliqué dans ce meurtre, un cold case resurgissant du passé où il était alors juge d'instruction. Cassandre et son équipe sont désemparés lorsque tout semble accuser le procureur du meurtre de la jeune femme. Ils vont devoir rapidement démêler tous les fils de l'enquête pour sauver sa peau, alors que le doute pourrait s'installer.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "7.0.0/1",
-        "onscreen": "S08E01"
-      }
-    },
-    {
-      "start": "2026-10-03T20:45:00+00:00",
-      "stop": "2026-10-03T22:20:00+00:00",
-      "channel": "France 3",
-      "title": "Cassandre",
-      "subtitle": "Les inconnus du Sapenay",
-      "description": "Cassandre mène une enquête pour le moins complexe sur la mort d'un jeune homme, qui semble avoir été commis par un quinquagénaire sans aucun mobile.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "8.2.0/1",
-        "onscreen": "S09E03"
-      }
-    },
-    {
-      "start": "2026-10-03T20:56:00+00:00",
-      "stop": "2026-10-03T21:44:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Abusés - 1",
-      "description": "Un arnaqueur déguisé en pirate est retrouvé pendu, les mains tranchées : une exécution digne de la piraterie. L'homme faisait miroiter à des touristes naïfs le mythique trésor de la Buse.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.8.0/1",
-        "onscreen": "S04E09"
-      }
-    },
-    {
-      "start": "2026-10-03T21:44:00+00:00",
-      "stop": "2026-10-03T22:37:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Abusés - 2",
-      "description": "La découverte d'une pièce d'or d'époque relance les spéculations sur le trésor caché par le célèbre pirate réunionnais. La victime a-t-elle fini par mettre réellement la main sur le butin .",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.9.0/1",
-        "onscreen": "S04E10"
-      }
-    },
     {
       "start": "2026-10-04T13:40:00+00:00",
       "stop": "2026-10-04T15:20:00+00:00",
@@ -112,8 +32,8 @@
       }
     },
     {
-      "start": "2026-10-04T15:37:00+00:00",
-      "stop": "2026-10-04T16:36:00+00:00",
+      "start": "2026-10-04T15:36:00+00:00",
+      "stop": "2026-10-04T16:35:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Tel père, tel fils",
@@ -129,7 +49,7 @@
     },
     {
       "start": "2026-10-04T18:51:00+00:00",
-      "stop": "2026-10-04T19:48:00+00:00",
+      "stop": "2026-10-04T19:49:00+00:00",
       "channel": "La Une",
       "title": "Soeurs",
       "subtitle": "L'autre vie d'Elodie",
@@ -144,8 +64,8 @@
       }
     },
     {
-      "start": "2026-10-04T19:48:00+00:00",
-      "stop": "2026-10-04T20:47:00+00:00",
+      "start": "2026-10-04T19:49:00+00:00",
+      "stop": "2026-10-04T20:48:00+00:00",
       "channel": "La Une",
       "title": "Soeurs",
       "subtitle": "Le piège",
@@ -506,6 +426,86 @@
       "episode_nums": {
         "xmltv_ns": "3.10.0/1",
         "onscreen": "S04E11"
+      }
+    },
+    {
+      "start": "2026-10-10T18:52:00+00:00",
+      "stop": "2026-10-10T20:49:00+00:00",
+      "channel": "La Une",
+      "title": "Capitaine Marleau",
+      "subtitle": "Le secret d'Alba",
+      "description": "Éloi Solana est-il mort parce qu'il était catholique? Au cœur du pays cathare, les guerres de religions ont laissé des traces... Conflit religieux? Ou banal règlement de comptes? Marleau relève le défi que lui lance l'irréductible Comtesse Alba de Bernac, figure incontournable de la Communauté Protestante. Si les voies du Seigneur sont impénétrables, les secrets de famille le sont encore davantage...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.12.0/1",
+        "onscreen": "S04E13"
+      }
+    },
+    {
+      "start": "2026-10-10T19:10:00+00:00",
+      "stop": "2026-10-10T20:45:00+00:00",
+      "channel": "France 3",
+      "title": "Cassandre",
+      "subtitle": "Dernière danse",
+      "description": "La directrice d'une école de danse urbaine a été poussée par l'une des fenêtres de l'établissement. Les professeurs et les étudiants sont sous le choc. Une ancienne danseuse étoile de l'Opéra de Paris et sa fille notamment, semblent avoir un rapport très particulier avec le mari de la victime. Cassandre et son équipe vont devoir comprendre les liens entre tous les gens de cette école. Quel secret aurait pu coûter la vie à cette malheureuse directrice ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Cassandre",
+      "episode_nums": {
+        "xmltv_ns": "7.1.0/1",
+        "onscreen": "S08E02"
+      }
+    },
+    {
+      "start": "2026-10-10T20:45:00+00:00",
+      "stop": "2026-10-10T22:20:00+00:00",
+      "channel": "France 3",
+      "title": "Cassandre",
+      "subtitle": "Ni vu, ni connu",
+      "description": "Cassandre mène une enquête pour le moins complexe sur la mort d'un jeune homme, qui semble avoir été commis par un quinquagénaire sans aucun mobile.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Cassandre",
+      "episode_nums": {
+        "xmltv_ns": "8.3.0/1",
+        "onscreen": "S09E04"
+      }
+    },
+    {
+      "start": "2026-10-10T21:04:00+00:00",
+      "stop": "2026-10-10T21:52:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Quitte ou double - 1",
+      "description": "En poursuivant un voleur à la tire qui se réfugie dans une benne à ordure, Jackson découvre le cadavre d'une jeune femme au visage lacéré. L'enquête s'oriente logiquement vers un acte de vengeance.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.10.0/1",
+        "onscreen": "S04E11"
+      }
+    },
+    {
+      "start": "2026-10-10T21:52:00+00:00",
+      "stop": "2026-10-10T22:47:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Quitte ou double - 2",
+      "description": "Alors qu'on suspecte l'ex-petit ami de la victime qui la harcelait depuis plusieurs mois, l'enquête connaît un rebondissement inattendu. Les enquêteurs identifient un sosie de leur victime. Cette dernière leur apprend qu'on a récemment essayé d'usurper son identité.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.11.0/1",
+        "onscreen": "S04E12"
       }
     }
   ]
