@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T14:27:16.849392+00:00",
-  "window_start": "2026-10-04",
-  "window_end": "2026-10-11",
+  "generated_at": "2026-10-05T12:31:19.278772+00:00",
+  "window_start": "2026-10-05",
+  "window_end": "2026-10-12",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 31,
+  "count": 28,
   "programmes": [
-    {
-      "start": "2026-10-04T13:40:00+00:00",
-      "stop": "2026-10-04T15:20:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Colmar",
-      "description": "Un chirurgien arrive à Colmar pour enquêter sur la mort de son fils policier. Il découvre un meurtre étrange et tente de prouver l'innocence de son fils accusé de drogue.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "6.0.0/1",
-        "onscreen": "S07E01"
-      }
-    },
-    {
-      "start": "2026-10-04T15:36:00+00:00",
-      "stop": "2026-10-04T16:35:00+00:00",
-      "channel": "La Une",
-      "title": "Munch",
-      "subtitle": "Tel père, tel fils",
-      "description": "Munch est une avocate hors norme, qui s'attache à défendre des innocents que tout accuse. Face à une erreur judiciaire elle est capable de franchir toutes les lignes, même celles de d'illégalité, pour prouver leur innocence. Munch doit assister un adolescent, accusé du meurtre d'un de ses copains. Un ado rebelle qui préfère défier ses juges plutôt que de livrer son secret, inconscient du danger qui le guette. Mais le garçon se montre renfermé. Comment trouver le moyen d'établir le dialogue avec lui, afin de le défendre au mieux et lui éviter un destin tragique ?...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Munch",
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-10-04T18:51:00+00:00",
-      "stop": "2026-10-04T19:49:00+00:00",
-      "channel": "La Une",
-      "title": "Soeurs",
-      "subtitle": "L'autre vie d'Elodie",
-      "description": "Alors qu'elle enquête sur les secrets d'Élodie, Élisabeth découvre l'existence d'une relation passionnée que sa soeur entretenait avec un certain Niels... l'homme retrouvé mort sur le domaine. Le mystère d'Elodie s'épaissit davantage quand elle met la main sur un sac rempli d'argent et comprend qu'Élodie songeait à tout quitter. Pendant ce temps, les enquêteurs se tournent vers un suspect inattendu : Valentin, le mari d'Élodie , dont le lien ambigu avec Élisabeth refait surface. Au petit matin, une descente policière au domaine menace de tout faire exploser.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.2.0/1",
-        "onscreen": "S01E03"
-      }
-    },
-    {
-      "start": "2026-10-04T19:49:00+00:00",
-      "stop": "2026-10-04T20:48:00+00:00",
-      "channel": "La Une",
-      "title": "Soeurs",
-      "subtitle": "Le piège",
-      "description": "Alors que la police encercle le domaine, le secret d'Élisabeth menace d'éclater. La trahison de Jonathan Balint est révélée et se transforme en un affrontement sanglant dont elle sort vivante de justesse. Officiellement, l'enquête désigne Jonathan comme le coupable, mais Laureen soupçonne la vérité : l'échange des jumelles. Au terme de ce duel tragique, Élisabeth est condamnée à vivre à la place de sasoeur.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
     {
       "start": "2026-10-05T19:10:00+00:00",
       "stop": "2026-10-05T19:55:00+00:00",
@@ -506,6 +442,22 @@
       "episode_nums": {
         "xmltv_ns": "3.11.0/1",
         "onscreen": "S04E12"
+      }
+    },
+    {
+      "start": "2026-10-11T15:44:00+00:00",
+      "stop": "2026-10-11T16:40:00+00:00",
+      "channel": "La Une",
+      "title": "Munch",
+      "subtitle": "Parole contre parole",
+      "description": "Munch est chargée de défendre un homme accusé de viol sur son épouse. Or, s'il y a une victime dans cette affaire, c'est lui, homme battu par sa femme.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Munch",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
       }
     }
   ]
