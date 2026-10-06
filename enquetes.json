@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T17:28:33.159938+00:00",
-  "window_start": "2026-10-05",
-  "window_end": "2026-10-12",
+  "generated_at": "2026-10-06T12:10:01.534343+00:00",
+  "window_start": "2026-10-06",
+  "window_end": "2026-10-13",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,56 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 28,
+  "count": 26,
   "programmes": [
-    {
-      "start": "2026-10-05T19:10:00+00:00",
-      "stop": "2026-10-05T19:55:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 4",
-      "description": "Guidées par un codex trouvé dans un globe de Coronelli, Françoise et Sophie suivent la piste de Vaux-le-Vicomte. Convaincues que le tableau s'y cache.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Aventurières",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
-    {
-      "start": "2026-10-05T19:55:00+00:00",
-      "stop": "2026-10-05T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 5",
-      "description": "JP réussit à fuir de l'hôpital et retrouve Françoise, elle aussi libérée. Ensemble, ils découvrent que Sophie a été enlevée et décident de la secourir. A leur grande surprise, Juliette.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Aventurières",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-10-05T20:45:00+00:00",
-      "stop": "2026-10-05T21:35:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 6",
-      "description": "Nader met les Séguret et Oscar en prison, mais ces derniers réussissent à se libérer. Emouvantes retrouvailles entre Oscar et ses anciens mentors.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Aventurières",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
     {
       "start": "2026-10-06T19:10:00+00:00",
       "stop": "2026-10-06T20:00:00+00:00",
@@ -434,7 +386,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Quitte ou double - 2",
-      "description": "Alors qu'on suspecte l'ex-petit ami de la victime qui la harcelait depuis plusieurs mois, l'enquête connaît un rebondissement inattendu. Les enquêteurs identifient un sosie de leur victime. Cette dernière leur apprend qu'on a récemment essayé d'usurper son identité.",
+      "description": "Alors qu'on suspecte l'ex-petit ami de la victime qui la harcelait depuis plusieurs mois, l'enquête connaît un rebondissement inattendu. Les enquêteurs identifient un sosie de leur victime.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -458,6 +410,22 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-10-12T22:35:00+00:00",
+      "stop": "2026-10-13T00:05:00+00:00",
+      "channel": "France 2",
+      "title": "Candice Renoir",
+      "subtitle": "Des bonbons ou la vie !",
+      "description": "Désormais enquêtrice à la financière, Candice s'y ennuie ferme. A l'approche d'Halloween, elle accompagne Antoine choisir des citrouilles pour faire plaisir à sa fille, Suzanne. Attirée par un stand de confitures tenue par une sorcière, Candice oublie de surveiller la petite et, quelques secondes plus tard, un enfant est enlevé, sous les yeux de Suzanne, par Jack O' Lantern, l'épouvantail !Une enquête à haut risque marquée par la nuit d'Halloween et cernée de masques : satanisme, spiritisme, manquements familiaux, les pistes sont nombreuses et semées d'embuches pour Candice. Avec l'obstacle de ne plus avoir droit au terrain. Car, même si tout nous ramène à une usine de bonbons, la financière n'est pas la BSU. Une remise en cause et un changement de vie en perspective ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Candice Renoir",
+      "episode_nums": {
+        "xmltv_ns": "10.1.0/1",
+        "onscreen": "S11E02"
       }
     }
   ]
