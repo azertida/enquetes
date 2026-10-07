@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T15:29:59.761031+00:00",
-  "window_start": "2026-10-06",
-  "window_end": "2026-10-13",
+  "generated_at": "2026-10-07T11:55:52.562512+00:00",
+  "window_start": "2026-10-07",
+  "window_end": "2026-10-14",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 26,
+  "count": 23,
   "programmes": [
-    {
-      "start": "2026-10-06T19:10:00+00:00",
-      "stop": "2026-10-06T20:00:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Virages dangereux",
-      "description": "Alors qu'il roulait à moto sur une départementale, Victor Brabant, 24 ans, est percuté par une voiture roulant à pleine vitesse et meurt sur le coup. La garde forestière, témoin du drame, est formelle : il ne s'agit pas d'un accident mais bien d'un homicide volontaire. Constance et Boris font connaissance avec le club de motards et la famille de la victime et découvrent bientôt que la moto que conduisait Victor n'était pas la sienne. Et si le meurtrier s'était trompé de cible ?...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.5.0/1",
-        "onscreen": "S11E06"
-      }
-    },
-    {
-      "start": "2026-10-06T20:00:00+00:00",
-      "stop": "2026-10-06T20:45:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Le bien par le mal",
-      "description": "Un procureur de la république et ancien camarade d'école de Quiring est retrouvé mort dans d'étranges circonstances. L'enquête sur ce drame va mener Constance à risquer sa propre vie pour découvrir la vérité. Pendant ce temps, Barth et Antoine préparent la défense de Lola, qui doit passer en jugement.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "9.5.0/1",
-        "onscreen": "S10E06"
-      }
-    },
-    {
-      "start": "2026-10-06T20:45:00+00:00",
-      "stop": "2026-10-06T21:35:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Dernière danse",
-      "description": "Constance et Boris enquêtent sur la mort de Léa Chaudray, jeune professeure de Pole dance. Plongés dans un milieu très exotique pour eux, ils doivent démêler le vrai du faux. Lorsqu'ils apprennent que la jeune professeure était influenceuse à ses heures, et que certaines de ses vidéos ont été effacées, ils comprennent qu'elle a avait peut-être quelque chose à se reprocher. De son côté, Ludo est paralysé par le trac alors que son grand oral se rapproche...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.4.0/1",
-        "onscreen": "S11E05"
-      }
-    },
-    {
-      "start": "2026-10-06T21:35:00+00:00",
-      "stop": "2026-10-06T22:25:00+00:00",
-      "channel": "France 3",
-      "title": "La stagiaire",
-      "subtitle": "Virages dangereux",
-      "description": "Alors qu'il roulait à moto sur une départementale, Victor Brabant, 24 ans, est percuté par une voiture roulant à pleine vitesse et meurt sur le coup. La garde forestière, témoin du drame, est formelle : il ne s'agit pas d'un accident mais bien d'un homicide volontaire. Constance et Boris font connaissance avec le club de motards et la famille de la victime et découvrent bientôt que la moto que conduisait Victor n'était pas la sienne. Et si le meurtrier s'était trompé de cible ?...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "La Stagiaire",
-      "episode_nums": {
-        "xmltv_ns": "10.5.0/1",
-        "onscreen": "S11E06"
-      }
-    },
     {
       "start": "2026-10-07T19:10:00+00:00",
       "stop": "2026-10-07T20:00:00+00:00",
@@ -318,7 +254,7 @@
     },
     {
       "start": "2026-10-10T18:52:00+00:00",
-      "stop": "2026-10-10T20:49:00+00:00",
+      "stop": "2026-10-10T20:51:00+00:00",
       "channel": "La Une",
       "title": "Capitaine Marleau",
       "subtitle": "Le secret d'Alba",
@@ -427,6 +363,19 @@
         "xmltv_ns": "10.1.0/1",
         "onscreen": "S11E02"
       }
+    },
+    {
+      "start": "2026-10-13T12:05:00+00:00",
+      "stop": "2026-10-13T14:03:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Le mystère de la chambre jaune",
+      "subtitle": "",
+      "description": "Suite à la tentative d'assassinat de la belle Mathilde, fille du célèbre professeur Stangerson, le jeune reporter Joseph Rouletabille, accompagné de son ami et photographe Sainclair, se rend au château du Glandier pour élucider le mystère. Qui est l'agresseur? Quel est son mobile? Et surtout, comment a-t-il pu s'échapper de la chambre jaune, fermée de l'intérieur? Le célèbre inspecteur Frédéric Larsan soupçonne Darzac, le fiancé de Mlle Stangerson...",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Mystère de la chambre jaune",
+      "episode_nums": {}
     }
   ]
 }
