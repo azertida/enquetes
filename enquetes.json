@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T15:50:17.575243+00:00",
-  "window_start": "2026-10-07",
-  "window_end": "2026-10-14",
+  "generated_at": "2026-10-08T12:11:00.885951+00:00",
+  "window_start": "2026-10-08",
+  "window_end": "2026-10-15",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 23,
+  "count": 19,
   "programmes": [
-    {
-      "start": "2026-10-07T19:10:00+00:00",
-      "stop": "2026-10-07T20:00:00+00:00",
-      "channel": "France 2",
-      "title": "Soeurs",
-      "subtitle": "L'autre vie d'Elodie",
-      "description": "En fouillant dans le passé d'Elodie, Elisabeth découvre l'amour secret de sa soeur pour Niels. Entre argent caché, trahisons et envies de fuite, l'image d'Elodie s'effondre. Les soupçons de la police se tournent vers Valentin, dont le lien ambigu avec Elisabeth refait surface. Au petit matin, une descente policière au domaine menace de tout faire exploser...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.2.0/1",
-        "onscreen": "S01E03"
-      }
-    },
-    {
-      "start": "2026-10-07T20:00:00+00:00",
-      "stop": "2026-10-07T20:50:00+00:00",
-      "channel": "France 2",
-      "title": "Soeurs",
-      "subtitle": "Le piège",
-      "description": "Alors que la police resserre son étau sur le domaine Balint, Elisabeth, toujours sous l'identité de sa soeur Elodie, voit son secret menacé d'éclater. Les perquisitions et les tests ADN se multiplient, tandis que le passé trouble d'Elodie refait surface : son histoire passionnelle avec Niels, ses trahisons et son implication dans un dangereux trafic...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
-    {
-      "start": "2026-10-07T22:30:00+00:00",
-      "stop": "2026-10-07T23:20:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Manon",
-      "description": "Eugène Laborde sollicite le GRDV après la disparition de sa petite-fille Manon, introuvable depuis cinq semaines. Majeure, Manon n'est pas recherchée par la police.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
-    {
-      "start": "2026-10-07T23:20:00+00:00",
-      "stop": "2026-10-08T00:15:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Samuel",
-      "description": "Le journaliste Samuel Boyer, dont le couple est très médiatisé, disparaît soudainement après un étrange appel téléphonique reçu sur le tournage d'une émission. Le GRDV enquête à la demande de son épouse Nathalie, mais se heurte à un entourage fermé et peu coopératif. Parallèlement, Esther compte utiliser Absi pour infiltrer un club privé et progresser dans l'affaire de la disparition de Mathias. Elle tente aussi de renouer avec son fils Théo, tandis que Douma prend sous son aile Nawaz, un jeune joueur sans abri. De son côté, Frankie s'interroge sur la place qu'elle est prête à accorder à Boris dans sa vie...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
     {
       "start": "2026-10-08T00:15:00+00:00",
       "stop": "2026-10-08T01:05:00+00:00",
