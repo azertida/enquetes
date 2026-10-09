@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:02:10.425991+00:00",
+  "generated_at": "2026-10-09T15:36:34.972845+00:00",
   "window_start": "2026-10-09",
   "window_end": "2026-10-16",
   "source": "Pickx via iptv-org/epg",
@@ -33,7 +33,7 @@
     },
     {
       "start": "2026-10-09T12:30:00+00:00",
-      "stop": "2026-10-09T14:07:00+00:00",
+      "stop": "2026-10-09T14:08:00+00:00",
       "channel": "TF1",
       "title": "Meurtre à Noël",
       "subtitle": "",
