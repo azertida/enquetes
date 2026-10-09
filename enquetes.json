@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T15:54:27.595836+00:00",
-  "window_start": "2026-10-08",
-  "window_end": "2026-10-15",
+  "generated_at": "2026-10-09T12:02:10.425991+00:00",
+  "window_start": "2026-10-09",
+  "window_end": "2026-10-16",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 19,
+  "count": 17,
   "programmes": [
-    {
-      "start": "2026-10-08T00:15:00+00:00",
-      "stop": "2026-10-08T01:05:00+00:00",
-      "channel": "France 2",
-      "title": "Les évaporés",
-      "subtitle": "Antoine",
-      "description": "Le GRDV rouvre le dossier d'Antoine, disparu depuis quinze ans, après que sa mère a affirmé l'avoir revu récemment. Esther, Frankie et Douma enquêtent sur cette réapparition troublante, entre doutes, pistes incertaines et vérité enfouie. En parallèle, Esther se rapproche dangereusement de la vérité sur Mathias, tandis que Théo suit seul une piste, à ses risques et périls. Douma découvre aussi la disparition de Nawaz, pendant que Frankie doit prendre une décision importante au sujet de Boris...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Les Évaporés",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
-    {
-      "start": "2026-10-08T12:05:00+00:00",
-      "stop": "2026-10-08T12:53:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Abusés - 1",
-      "description": "Un arnaqueur déguisé en pirate est retrouvé pendu, les mains tranchées : une exécution digne de la piraterie. L'homme faisait miroiter à des touristes naïfs le mythique trésor de la Buse.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.8.0/1",
-        "onscreen": "S04E09"
-      }
-    },
-    {
-      "start": "2026-10-08T12:53:00+00:00",
-      "stop": "2026-10-08T13:46:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Abusés - 2",
-      "description": "La découverte d'une pièce d'or d'époque relance les spéculations sur le trésor caché par le célèbre pirate réunionnais. La victime a-t-elle fini par mettre réellement la main sur le butin .",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.9.0/1",
-        "onscreen": "S04E10"
-      }
-    },
-    {
-      "start": "2026-10-08T14:16:00+00:00",
-      "stop": "2026-10-08T14:45:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Secrets de Nos Vallées",
-      "subtitle": "Fario, Le Secret de la Montagne",
-      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie.",
-      "category": "Documentaire",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.101.0/1",
-        "onscreen": "S01E102"
-      }
-    },
-    {
-      "start": "2026-10-08T19:10:00+00:00",
-      "stop": "2026-10-08T20:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à",
-      "subtitle": "Meurtres dans le Jura",
-      "description": "Anna Buisson, capitaine de gendarmerie à Moirans, dans le Jura, et Eymeric Massoni-Tournault, de la Section de recherches de la gendarmerie de Lyon, débutent cette enquête difficile. C'est alors qu'un second meurtre se produit. Pour élucider ces affaires, les enquêteurs doivent fouiller dans les secrets des familles concernées...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "6.5.0/1",
-        "onscreen": "S07E06"
-      }
-    },
     {
       "start": "2026-10-09T02:00:00+00:00",
       "stop": "2026-10-09T02:30:00+00:00",
@@ -189,8 +109,8 @@
       }
     },
     {
-      "start": "2026-10-10T18:52:00+00:00",
-      "stop": "2026-10-10T20:51:00+00:00",
+      "start": "2026-10-10T18:51:00+00:00",
+      "stop": "2026-10-10T20:49:00+00:00",
       "channel": "La Une",
       "title": "Capitaine Marleau",
       "subtitle": "Le secret d'Alba",
@@ -269,8 +189,8 @@
       }
     },
     {
-      "start": "2026-10-11T15:44:00+00:00",
-      "stop": "2026-10-11T16:40:00+00:00",
+      "start": "2026-10-11T15:42:00+00:00",
+      "stop": "2026-10-11T16:41:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Parole contre parole",
@@ -312,6 +232,54 @@
       "origine": "serie",
       "serie": "Le Mystère de la chambre jaune",
       "episode_nums": {}
+    },
+    {
+      "start": "2026-10-15T12:05:00+00:00",
+      "stop": "2026-10-15T12:53:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Quitte ou double - 1",
+      "description": "En poursuivant un voleur à la tire qui se réfugie dans une benne à ordure, Jackson découvre le cadavre d'une jeune femme au visage lacéré. L'enquête s'oriente logiquement vers un acte de vengeance.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.10.0/1",
+        "onscreen": "S04E11"
+      }
+    },
+    {
+      "start": "2026-10-15T12:53:00+00:00",
+      "stop": "2026-10-15T13:46:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Quitte ou double - 2",
+      "description": "Alors qu'on suspecte l'ex-petit ami de la victime qui la harcelait depuis plusieurs mois, l'enquête connaît un rebondissement inattendu. Les enquêteurs identifient un sosie de leur victime.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.11.0/1",
+        "onscreen": "S04E12"
+      }
+    },
+    {
+      "start": "2026-10-15T14:16:00+00:00",
+      "stop": "2026-10-15T14:41:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "La Rivière Secrète Du Poisson Migrateur",
+      "description": "La rivière secrète du poisson migrateur Dans les Alpes-Maritimes, les gorges de la Cagne s'étendent dans des zones urbanisées, tout en abritant une biodiversité protégée. Ici, avec des techniques de pêche électrique, l'association Migrateurs Rhône-Méditerranée étudie la migration d'un poisson en voie de disparition, et lutte contre l'urbanisation ou la pollution qui menacent l'espèce.",
+      "category": "Documentaire",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.102.0/1",
+        "onscreen": "S01E103"
+      }
     }
   ]
 }
