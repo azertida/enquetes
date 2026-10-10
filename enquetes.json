@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T15:36:34.972845+00:00",
-  "window_start": "2026-10-09",
-  "window_end": "2026-10-16",
+  "generated_at": "2026-10-10T11:18:36.261764+00:00",
+  "window_start": "2026-10-10",
+  "window_end": "2026-10-17",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,101 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 17,
+  "count": 18,
   "programmes": [
-    {
-      "start": "2026-10-09T02:00:00+00:00",
-      "stop": "2026-10-09T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Secrets de Nos Vallées",
-      "subtitle": "Fario, Le Secret de la Montagne",
-      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie.",
-      "category": "Documentaire",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.101.0/1",
-        "onscreen": "S01E102"
-      }
-    },
-    {
-      "start": "2026-10-09T12:30:00+00:00",
-      "stop": "2026-10-09T14:08:00+00:00",
-      "channel": "TF1",
-      "title": "Meurtre à Noël",
-      "subtitle": "",
-      "description": "Diana est à la tête d'une entreprise florissante à San Francisco. Alors que les affaires vont bon train durant la saison des fêtes, sa tante est retrouvée morte, vraisemblablement victime d'une chute dans l'escalier. Mais Diana n'y croit pas. Elle se rend dans la ville de sa tante et commence à mener sa propre enquête pour déterminer s'il s'agit vraiment d'un accident.",
-      "category": "Cinéma",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-10-09T19:10:00+00:00",
-      "stop": "2026-10-09T19:55:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Échecs et meurtre",
-      "description": "Lors d'un match exhibition d'échecs à Aix-en-Provence, le jeune prodige Julien Roussel s'effondre en pleine partie et meurt sous les yeux du public. Très vite, Simon Coleman soupçonne un empoisonnement. Pour les besoins de l'enquête, Simon plonge dans l'univers feutré des grands maîtres et découvre qu'ici, non seulement chaque coup est calculé, mais que la moindre erreur peut être fatale...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-10-09T19:55:00+00:00",
-      "stop": "2026-10-09T20:50:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Double faute",
-      "description": "Simon et Chloé sont envoyés au tennis club d'Aix en Provence pour le meurtre du directeur du club. Cet entraineur de futurs champions a été assassiné à l'issue d'une partie de padel qui a mal tourné. Qui est le meurtrier : un mauvais perdant, un espoir déçu, quelqu'un qui n'a rien à voir avec la petite balle jaune ? Les deux enquêteurs vont devoir serrer le jeu...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
-    {
-      "start": "2026-10-09T20:50:00+00:00",
-      "stop": "2026-10-09T22:30:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Port d'attache",
-      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.16.0/1",
-        "onscreen": "S04E17"
-      }
-    },
-    {
-      "start": "2026-10-09T22:30:00+00:00",
-      "stop": "2026-10-10T00:10:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "A contre-courant",
-      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.10.0/1",
-        "onscreen": "S04E11"
-      }
-    },
     {
       "start": "2026-10-10T18:51:00+00:00",
       "stop": "2026-10-10T20:49:00+00:00",
@@ -271,7 +178,7 @@
       "channel": "TV5 Monde",
       "title": "Secrets de Nos Vallées",
       "subtitle": "La Rivière Secrète Du Poisson Migrateur",
-      "description": "La rivière secrète du poisson migrateur Dans les Alpes-Maritimes, les gorges de la Cagne s'étendent dans des zones urbanisées, tout en abritant une biodiversité protégée. Ici, avec des techniques de pêche électrique, l'association Migrateurs Rhône-Méditerranée étudie la migration d'un poisson en voie de disparition, et lutte contre l'urbanisation ou la pollution qui menacent l'espèce.",
+      "description": "La rivière secrète du poisson migrateur Dans les Alpes-Maritimes, les gorges de la Cagne s'étendent dans des zones urbanisées, tout en abritant une biodiversité protégée. Ici.",
       "category": "Documentaire",
       "icon": "",
       "origine": "telefilm",
@@ -279,6 +186,118 @@
       "episode_nums": {
         "xmltv_ns": "0.102.0/1",
         "onscreen": "S01E103"
+      }
+    },
+    {
+      "start": "2026-10-16T02:00:00+00:00",
+      "stop": "2026-10-16T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "La Rivière Secrète Du Poisson Migrateur",
+      "description": "La rivière secrète du poisson migrateur Dans les Alpes-Maritimes, les gorges de la Cagne s'étendent dans des zones urbanisées, tout en abritant une biodiversité protégée. Ici.",
+      "category": "Documentaire",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.102.0/1",
+        "onscreen": "S01E103"
+      }
+    },
+    {
+      "start": "2026-10-16T18:58:00+00:00",
+      "stop": "2026-10-16T20:40:00+00:00",
+      "channel": "La Une",
+      "title": "Le voyageur",
+      "subtitle": "Au bout de la nuit",
+      "description": "Alors qu'il gare son véhicule sur le parking d'un hôtel en Centre-Val de Loire, Laurent se fait interpeller par Justine. Cette jeune attachée commerciale l'accuse de l'avoir harcelée sur la route en fin d'après-midi. Laurent nie cette attaque, ce qui mène à une violente dispute. Le lendemain matin, le corps de Justine est retrouvé dans sa chambre. N'ayant aucun doute sur la piste de l'assassinat, la police arrête Laurent, filmé par les caméras de surveillance de l'hôtel en train de quitter la chambre de la victime à l'heure supposée du crime. Est-ce que Yann Kandinsky saura prouver l'innocence de son frère ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "1.3.0/1",
+        "onscreen": "S02E04"
+      }
+    },
+    {
+      "start": "2026-10-16T19:10:00+00:00",
+      "stop": "2026-10-16T19:55:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Dernière confession",
+      "description": "Soeur Alma, une jeune nonne arrivée depuis quelques mois au couvent des Petites Soeurs de la Vierge Marie est retrouvée morte dans le choeur de la chapelle. Tout indique qu'elle a été empoisonnée mais les religieuses qui appréciaient toutes Alma semblent hors de tout soupçon. Les premiers doutes se portent donc sur l'ancien colocataire d'Alma mais l'étau se resserre très vite autour de l'établissement religieux. Simon et Chloé cheminent de pistes en pistes découvrant que ce vénérable couvent, havre de paix et de bienveillance abrite en réalité bien des secrets. Entre une soeur apicultrice experte en venin d'abeille, une religieuse amoureuse, un livreur de miel insondable et une mère supérieure tenue au secret de la confession, les enquêteurs devront faire appel à tout leur savoir-faire et leur doigté pour démêler l'écheveau d'indices...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.2.0/1",
+        "onscreen": "S04E03"
+      }
+    },
+    {
+      "start": "2026-10-16T19:55:00+00:00",
+      "stop": "2026-10-16T20:55:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Balle perdue",
+      "description": "Fabien Delmas, directeur des ressources humaines dans un laboratoire de produits cosmétiques, meurt au beau milieu d'une partie de paintball organisée pour fédérer ses équipes. Circonstance troublante, Simon et Chloé découvrent qu'il a été tué par une balle empoisonnée. Qui en voulait à ce DRH loué par tous pour son humanisme et sa bienveillance envers les salariés ? Simon et Chloé investissent le laboratoire où Fabien exerçait et découvrent que ce dernier n'était pas si apprécié, malgré les idées reçues. Mais leur découverte la plus stupéfiante est surtout que le poison qui l'a tué est issu d'une plante cultivée au sein du labo...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "1.0.0/1",
+        "onscreen": "S02E01"
+      }
+    },
+    {
+      "start": "2026-10-16T20:55:00+00:00",
+      "stop": "2026-10-16T21:45:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Confiserie amère",
+      "description": "Hugo, jeune pâtissier à la mode sur les réseaux, donne un cours de cuisine en ligne. Des dizaines d'abonnés suivent sa recette sur leur ordinateur. Mais un homme cagoulé déboule dans l'atelier de la confiserie et agresse Hugo, avant de détruire la webcam. Quand Chloé et Simon arrivent sur place, le pâtissier a disparu : il a été enlevé sous les yeux de ses abonnés. La famille reçoit dans la foulée une demande de rançon. Tout le commissariat est mobilisé pour retrouver Hugo vivant avant la fin de l'ultimatum. Rapidement les deux enquêteurs identifient un ravisseur potentiel : le second du pâtissier. Mais celui-ci est retrouvé mort, Hugo à ses côtés, inconscient et blessé. La victime a-t-elle tué son ravisseur ?...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "1.1.0/1",
+        "onscreen": "S02E02"
+      }
+    },
+    {
+      "start": "2026-10-16T21:45:00+00:00",
+      "stop": "2026-10-16T22:45:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Les apparences",
+      "description": "Deux agents d'entretien marchent dans une allée qui borde le jardin de la prestigieuse clinique du Roi René. L'homme de tête s'arrête brutalement et pousse un cri. A une vingtaine de mètres, un corps gît, couché sur le dos devant la façade de l'établissement. Un filet de sang s'est écoulé sous son crâne. Lorsque Simon Coleman et Chloé arrivent sur la scène de crime, ils ne se doutent pas que le meurtre de Mathias Deresz va les entraîner à chercher bien au-delà des apparences. Qui pouvait en vouloir à ce chirurgien esthétique au point de le défenestrer ? Entre le personnel, les patients et la direction, personne ne semble vouloir dire la vérité et la victime elle-même semble avoir une personnalité bien plus complexe qu'il n'y paraît...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
+    },
+    {
+      "start": "2026-10-16T22:50:00+00:00",
+      "stop": "2026-10-17T00:25:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "L'ami français",
+      "description": "Joseph Nyandoro, un ex-président africain poussé par ses proches à reprendre le pouvoir, vit dans en exil dans un village français auquel il est très attaché. Un de ses amis au village, Josselin Gramont est alors tué par arme à feu...mais par qui ? et pourquoi ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.11.0/1",
+        "onscreen": "S04E12"
       }
     }
   ]
