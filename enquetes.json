@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T14:50:27.037675+00:00",
-  "window_start": "2026-10-10",
-  "window_end": "2026-10-17",
+  "generated_at": "2026-10-11T11:32:27.887421+00:00",
+  "window_start": "2026-10-11",
+  "window_end": "2026-10-18",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 18,
+  "count": 20,
   "programmes": [
-    {
-      "start": "2026-10-10T18:51:00+00:00",
-      "stop": "2026-10-10T20:49:00+00:00",
-      "channel": "La Une",
-      "title": "Capitaine Marleau",
-      "subtitle": "Le secret d'Alba",
-      "description": "Éloi Solana est-il mort parce qu'il était catholique? Au cœur du pays cathare, les guerres de religions ont laissé des traces... Conflit religieux? Ou banal règlement de comptes? Marleau relève le défi que lui lance l'irréductible Comtesse Alba de Bernac, figure incontournable de la Communauté Protestante. Si les voies du Seigneur sont impénétrables, les secrets de famille le sont encore davantage...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.12.0/1",
-        "onscreen": "S04E13"
-      }
-    },
-    {
-      "start": "2026-10-10T19:10:00+00:00",
-      "stop": "2026-10-10T20:45:00+00:00",
-      "channel": "France 3",
-      "title": "Cassandre",
-      "subtitle": "Dernière danse",
-      "description": "La directrice d'une école de danse urbaine a été poussée par l'une des fenêtres de l'établissement. Les professeurs et les étudiants sont sous le choc. Une ancienne danseuse étoile de l'Opéra de Paris et sa fille notamment, semblent avoir un rapport très particulier avec le mari de la victime. Cassandre et son équipe vont devoir comprendre les liens entre tous les gens de cette école. Quel secret aurait pu coûter la vie à cette malheureuse directrice ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "7.1.0/1",
-        "onscreen": "S08E02"
-      }
-    },
-    {
-      "start": "2026-10-10T20:45:00+00:00",
-      "stop": "2026-10-10T22:20:00+00:00",
-      "channel": "France 3",
-      "title": "Cassandre",
-      "subtitle": "Ni vu, ni connu",
-      "description": "Cassandre mène une enquête pour le moins complexe sur la mort d'un jeune homme, qui semble avoir été commis par un quinquagénaire sans aucun mobile.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "8.3.0/1",
-        "onscreen": "S09E04"
-      }
-    },
-    {
-      "start": "2026-10-10T21:04:00+00:00",
-      "stop": "2026-10-10T21:52:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Quitte ou double - 1",
-      "description": "En poursuivant un voleur à la tire qui se réfugie dans une benne à ordure, Jackson découvre le cadavre d'une jeune femme au visage lacéré. L'enquête s'oriente logiquement vers un acte de vengeance.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.10.0/1",
-        "onscreen": "S04E11"
-      }
-    },
-    {
-      "start": "2026-10-10T21:52:00+00:00",
-      "stop": "2026-10-10T22:47:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Quitte ou double - 2",
-      "description": "Alors qu'on suspecte l'ex-petit ami de la victime qui la harcelait depuis plusieurs mois, l'enquête connaît un rebondissement inattendu. Les enquêteurs identifient un sosie de leur victime.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.11.0/1",
-        "onscreen": "S04E12"
-      }
-    },
     {
       "start": "2026-10-11T15:42:00+00:00",
       "stop": "2026-10-11T16:41:00+00:00",
@@ -298,6 +218,115 @@
       "episode_nums": {
         "xmltv_ns": "3.11.0/1",
         "onscreen": "S04E12"
+      }
+    },
+    {
+      "start": "2026-10-17T13:09:00+00:00",
+      "stop": "2026-10-17T14:49:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Saint-Malo",
+      "subtitle": "",
+      "description": "Le capitaine Gwenaëlle Garrec et l'adjudant-chef Éric Vautier enquêtent sur le meurtre d'un cadavre retrouvé sur la plage. L'affaire semble liée à la piraterie et aux tortures des corsaires, ce qui rappelle de mauvais souvenirs à Gwen.",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-10-17T14:49:00+00:00",
+      "stop": "2026-10-17T15:44:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "Les yeux dans le dos",
+      "description": "Le commandant Léo Mattéï dirige la Brigade de Protection de l'Enfance. Doté d'une grande empathie et d'un sens aigu de la justice, cet ancien flic de la BAC dirige une équipe aussi compétente que dévouée. Pour Mattéï, seul le résultat compte et il n'hésite pas à bousculer les conventions avec un seul mot d'ordre : protéger les mineurs de tout danger et parfois d'eux-mêmes. Deux cambrioleurs pénètrent dans une maison",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-10-17T15:44:00+00:00",
+      "stop": "2026-10-17T16:36:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "Alerte : disparitions",
+      "description": "En compagnie de son équipe dévouée, qui le seconde avec énormément d'implication, Léo Matteï poursuit sa lutte quotidienne pour la protection de l'enfance en danger. Trois adolescentes disparaissent sur le chemin du lycée. Sans respecter le protocole, Mattéï déclenche aussitôt l'alerte enlèvement. Ses craintes sont malheureusement confirmées quand deux des trois filles sont retrouvées vivantes... mais incapables de dir",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-10-17T19:10:00+00:00",
+      "stop": "2026-10-17T20:40:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Epinal",
+      "description": "A l'Imagerie d'Epinal, le corps sans vie du directeur artistique de l'établissement est retrouvé, emprisonné dans une presse litho, les mains coupées et la langue arrachée. Le tueur a déposé sur le corps une image d'Epinal provenant d'une pièce maîtresse de l'exposition qui a lieu en ce moment même au musée de l'Imagerie. L'enquête est confiée à la capitaine Alice Fournier et au commandant Emile Cabat. Si Alice, native de la ville, connaît parfaitement l'Imagerie, Emile, qui arrive des douanes de Pointe-à-Pitre pour se rapprocher de sa fille, va devoir s'acclimater aux us et coutumes locales. Entre les deux, le courant est électrique...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "12.1.0/1",
+        "onscreen": "S13E02"
+      }
+    },
+    {
+      "start": "2026-10-17T20:40:00+00:00",
+      "stop": "2026-10-17T22:10:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Strasbourg",
+      "description": "Alors que Julian Mathis, jeune héritier du prestigieux domaine viticole du Clos-Mathis, et Clara Lemestre, brillante œnologue récemment embauchée, s'apprêtent à faire déguster une cuvée spéciale de vin d'Alsace à de riches investisseurs étrangers, c'est un vin rosé, et non pas blanc qui sort... A l'intérieur de la cuve, ils trouvent le corps de Ronald Mathis, le père de Julian, les yeux collés ! Katel Leguennec (40 ans), commandant du SRPJ de Strasbourg arrive sur place. Elle y retrouve Maxime Keller (43 ans), patron du service-médico-légal. Ils ont vécu une belle histoire d'amour dans leur jeunesse mais après le départ de Maxime, Katel, restée à Strasbourg, est tombée amoureuse de Franck, le père de Maxime, et l'a épousé. Malgré la gêne palpable entre eux, ils interrogent Lydie Mathis, la matriarche imposante de la famille Mathis. Dans la famille Mathis et son entourage, tout le monde semble avoir une raison, à un moment, d'avoir assassiné Ronald. L'enquête va progressivement faire apparaître des indices évoquant la légende de sainte-Odile, jeune fille née aveugle et abandonnée par ses parents, devenue Sainte patronne de l'Alsace.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
+      }
+    },
+    {
+      "start": "2026-10-17T20:53:00+00:00",
+      "stop": "2026-10-17T21:42:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Urbex 974 - 1",
+      "description": "Une enquêtrice s'adapte à une nouvelle vie à La Réunion tout en luttant contre le crime. Elle collabore avec d'anciens collègues pour assurer la sécurité sur l'île.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.12.0/1",
+        "onscreen": "S04E13"
+      }
+    },
+    {
+      "start": "2026-10-17T21:42:00+00:00",
+      "stop": "2026-10-17T22:37:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Urbex 974 - 1",
+      "description": "Une enquêtrice s'adapte à une nouvelle vie à La Réunion tout en luttant contre le crime. Elle collabore avec d'anciens collègues pour assurer la sécurité sur l'île.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.12.0/1",
+        "onscreen": "S04E13"
       }
     }
   ]
