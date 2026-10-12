@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T15:09:14.704150+00:00",
-  "window_start": "2026-10-11",
-  "window_end": "2026-10-18",
+  "generated_at": "2026-10-12T13:24:58.012934+00:00",
+  "window_start": "2026-10-12",
+  "window_end": "2026-10-19",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,24 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 20,
+  "count": 23,
   "programmes": [
-    {
-      "start": "2026-10-11T15:42:00+00:00",
-      "stop": "2026-10-11T16:41:00+00:00",
-      "channel": "La Une",
-      "title": "Munch",
-      "subtitle": "Parole contre parole",
-      "description": "Munch est chargée de défendre un homme accusé de viol sur son épouse. Or, s'il y a une victime dans cette affaire, c'est lui, homme battu par sa femme.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Munch",
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
     {
       "start": "2026-10-12T22:35:00+00:00",
       "stop": "2026-10-13T00:05:00+00:00",
@@ -327,6 +311,70 @@
       "episode_nums": {
         "xmltv_ns": "3.12.0/1",
         "onscreen": "S04E13"
+      }
+    },
+    {
+      "start": "2026-10-18T14:05:00+00:00",
+      "stop": "2026-10-18T15:40:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Tahiti",
+      "description": "Sur l'île de Tahiti, le corps mutilé d'un homme a été découvert dans le temple sacré d'Oro, un ancien dieu de la guerre. La police mène l'enquête.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "6.3.0/1",
+        "onscreen": "S07E04"
+      }
+    },
+    {
+      "start": "2026-10-18T15:41:00+00:00",
+      "stop": "2026-10-18T16:39:00+00:00",
+      "channel": "La Une",
+      "title": "Munch",
+      "subtitle": "Une vérité trompeuse",
+      "description": "Munch se retrouve face à un véritable casse-tête : son client, un beau jeune homme d'une trentaine d'années, avoue le crime affreux de sa petite amie, sans comprendre ce qui l'a poussé à le faire, pourquoi il l'a tuée.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Munch",
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
+      }
+    },
+    {
+      "start": "2026-10-18T22:35:00+00:00",
+      "stop": "2026-10-18T23:25:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Échecs et meurtre",
+      "description": "Lors d'un match exhibition d'échecs à Aix-en-Provence, le jeune prodige Julien Roussel s'effondre en pleine partie et meurt sous les yeux du public. Très vite, Simon Coleman soupçonne un empoisonnement. Pour les besoins de l'enquête, Simon plonge dans l'univers feutré des grands maîtres et découvre qu'ici, non seulement chaque coup est calculé, mais que la moindre erreur peut être fatale...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-10-18T23:25:00+00:00",
+      "stop": "2026-10-19T00:15:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Double faute",
+      "description": "Simon et Chloé sont envoyés au tennis club d'Aix en Provence pour le meurtre du directeur du club. Cet entraineur de futurs champions a été assassiné à l'issue d'une partie de padel qui a mal tourné. Qui est le meurtrier : un mauvais perdant, un espoir déçu, quelqu'un qui n'a rien à voir avec la petite balle jaune ? Les deux enquêteurs vont devoir serrer le jeu...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
       }
     }
   ]
