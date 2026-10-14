@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T16:30:01.750281+00:00",
-  "window_start": "2026-10-13",
-  "window_end": "2026-10-20",
+  "generated_at": "2026-10-14T10:28:43.489171+00:00",
+  "window_start": "2026-10-14",
+  "window_end": "2026-10-21",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,21 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 24,
+  "count": 27,
   "programmes": [
-    {
-      "start": "2026-10-13T12:05:00+00:00",
-      "stop": "2026-10-13T14:03:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Le mystère de la chambre jaune",
-      "subtitle": "",
-      "description": "Suite à la tentative d'assassinat de la belle Mathilde, fille du célèbre professeur Stangerson, le jeune reporter Joseph Rouletabille, accompagné de son ami et photographe Sainclair, se rend au château du Glandier pour élucider le mystère. Qui est l'agresseur? Quel est son mobile? Et surtout, comment a-t-il pu s'échapper de la chambre jaune, fermée de l'intérieur? Le célèbre inspecteur Frédéric Larsan soupçonne Darzac, le fiancé de Mlle Stangerson...",
-      "category": "Cinéma",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Mystère de la chambre jaune",
-      "episode_nums": {}
-    },
     {
       "start": "2026-10-15T12:05:00+00:00",
       "stop": "2026-10-15T12:53:00+00:00",
@@ -392,6 +379,67 @@
         "xmltv_ns": "0.100.0/1",
         "onscreen": "S01E101"
       }
+    },
+    {
+      "start": "2026-10-20T00:20:00+00:00",
+      "stop": "2026-10-20T01:05:00+00:00",
+      "channel": "France 2",
+      "title": "Soeurs",
+      "subtitle": "L'échange",
+      "description": "Elisabeth, avocate de renom, célibataire et citadine, échange sa vie le temps d'une soirée avec Elodie, sa jumelle, gardienne d'un domaine appartenant à la riche famille Balint. Alors qu'Elisabeth s'endort tranquillement dans la petite maison de gardien de sa soeur, Elodie, à l'issue de la soirée est victime d'un accident mortel. La police est formelle, il s'agit d'un assassinat. C'est une déflagration pour Elisabeth Elle se sent responsable du décès d'Elodie et comprend que quelqu'un veut la tuer. Piégée dans l'identité de sa soeur, elle va devoir affronter une vie qui n'est pas la sienne : un mari, la famille Balint et une enquête criminelle...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Soeurs",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-10-20T00:47:00+00:00",
+      "stop": "2026-10-20T01:30:00+00:00",
+      "channel": "TF1",
+      "title": "New York, Unité Spéciale",
+      "subtitle": "Meurtre sur Internet",
+      "description": "Une adolescente de seize ans affirme avoir été violée par un homme rencontré via internet. Puis.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.17.0/1",
+        "onscreen": "S01E18"
+      }
+    },
+    {
+      "start": "2026-10-20T01:05:00+00:00",
+      "stop": "2026-10-20T02:00:00+00:00",
+      "channel": "France 2",
+      "title": "Soeurs",
+      "subtitle": "Pourquoi moi?",
+      "description": "Tandis que l'enquête se resserre autour d'elle, Elisabeth, sous l'identité de sa jumelle, découvre que quelqu'un au domaine connaît son secret. En cherchant des réponses, elle retrouve son ancien associé Farid, caché dans une cité. Quelques heures plus tard, ce dernier est retrouvé mort. Déterminée à comprendre, Elisabeth récupère une clé USB qui révèle une vaste affaire de blanchiment d'argent impliquant Farid et l'inquiétant Manuel Ferrera, un ancien client. Prête à l'affronter, Elisabeth s'engage dans un dangereux face-à-face qui la mène au coeur d'une machination mortelle...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Soeurs",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-10-20T20:28:00+00:00",
+      "stop": "2026-10-20T22:09:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Saint-Malo",
+      "subtitle": "",
+      "description": "Le capitaine Gwenaëlle Garrec et l'adjudant-chef Éric Vautier enquêtent sur le meurtre d'un cadavre retrouvé sur la plage. L'affaire semble liée à la piraterie et aux tortures des corsaires, ce qui rappelle de mauvais souvenirs à Gwen.",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
     }
   ]
 }
