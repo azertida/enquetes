@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T13:34:36.052367+00:00",
-  "window_start": "2026-10-16",
-  "window_end": "2026-10-23",
+  "generated_at": "2026-10-17T09:36:42.264929+00:00",
+  "window_start": "2026-10-17",
+  "window_end": "2026-10-24",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,120 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 28,
+  "count": 29,
   "programmes": [
-    {
-      "start": "2026-10-16T02:00:00+00:00",
-      "stop": "2026-10-16T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Secrets de Nos Vallées",
-      "subtitle": "La Rivière Secrète Du Poisson Migrateur",
-      "description": "La rivière secrète du poisson migrateur Dans les Alpes-Maritimes, les gorges de la Cagne s'étendent dans des zones urbanisées, tout en abritant une biodiversité protégée. Ici.",
-      "category": "Documentaire",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.102.0/1",
-        "onscreen": "S01E103"
-      }
-    },
-    {
-      "start": "2026-10-16T18:58:00+00:00",
-      "stop": "2026-10-16T20:40:00+00:00",
-      "channel": "La Une",
-      "title": "Le voyageur",
-      "subtitle": "Au bout de la nuit",
-      "description": "Alors qu'il gare son véhicule sur le parking d'un hôtel en Centre-Val de Loire, Laurent se fait interpeller par Justine. Cette jeune attachée commerciale l'accuse de l'avoir harcelée sur la route en fin d'après-midi. Laurent nie cette attaque, ce qui mène à une violente dispute. Le lendemain matin, le corps de Justine est retrouvé dans sa chambre. N'ayant aucun doute sur la piste de l'assassinat, la police arrête Laurent, filmé par les caméras de surveillance de l'hôtel en train de quitter la chambre de la victime à l'heure supposée du crime. Est-ce que Yann Kandinsky saura prouver l'innocence de son frère ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "1.3.0/1",
-        "onscreen": "S02E04"
-      }
-    },
-    {
-      "start": "2026-10-16T19:10:00+00:00",
-      "stop": "2026-10-16T19:55:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Dernière confession",
-      "description": "Soeur Alma, une jeune nonne arrivée depuis quelques mois au couvent des Petites Soeurs de la Vierge Marie est retrouvée morte dans le choeur de la chapelle. Tout indique qu'elle a été empoisonnée mais les religieuses qui appréciaient toutes Alma semblent hors de tout soupçon. Les premiers doutes se portent donc sur l'ancien colocataire d'Alma mais l'étau se resserre très vite autour de l'établissement religieux. Simon et Chloé cheminent de pistes en pistes découvrant que ce vénérable couvent, havre de paix et de bienveillance abrite en réalité bien des secrets. Entre une soeur apicultrice experte en venin d'abeille, une religieuse amoureuse, un livreur de miel insondable et une mère supérieure tenue au secret de la confession, les enquêteurs devront faire appel à tout leur savoir-faire et leur doigté pour démêler l'écheveau d'indices...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.2.0/1",
-        "onscreen": "S04E03"
-      }
-    },
-    {
-      "start": "2026-10-16T19:55:00+00:00",
-      "stop": "2026-10-16T20:55:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Balle perdue",
-      "description": "Simon Coleman enquête sur le meurtre d'un dresseur dans un centre canin réputé. Au fil de l'enquête, il met au jour de sombres pratiques illégales.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "1.0.0/1",
-        "onscreen": "S02E01"
-      }
-    },
-    {
-      "start": "2026-10-16T20:55:00+00:00",
-      "stop": "2026-10-16T21:45:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Confiserie amère",
-      "description": "Simon Coleman enquête sur le meurtre d'un dresseur dans un centre canin réputé. Au fil de l'enquête, il met au jour de sombres pratiques illégales.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "1.1.0/1",
-        "onscreen": "S02E02"
-      }
-    },
-    {
-      "start": "2026-10-16T21:45:00+00:00",
-      "stop": "2026-10-16T22:45:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Les apparences",
-      "description": "Simon Coleman enquête sur le meurtre d'un dresseur dans un centre canin réputé. Au fil de l'enquête, il met au jour de sombres pratiques illégales.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
-    {
-      "start": "2026-10-16T22:50:00+00:00",
-      "stop": "2026-10-17T00:25:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "L'ami français",
-      "description": "Joseph Nyandoro, un ex-président africain poussé par ses proches à reprendre le pouvoir, vit dans en exil dans un village français auquel il est très attaché. Un de ses amis au village, Josselin Gramont est alors tué par arme à feu...mais par qui ? et pourquoi ?",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.11.0/1",
-        "onscreen": "S04E12"
-      }
-    },
     {
       "start": "2026-10-17T12:55:00+00:00",
       "stop": "2026-10-17T14:36:00+00:00",
@@ -142,7 +30,7 @@
     },
     {
       "start": "2026-10-17T14:36:00+00:00",
-      "stop": "2026-10-17T15:37:00+00:00",
+      "stop": "2026-10-17T15:38:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Les yeux dans le dos",
@@ -157,8 +45,8 @@
       }
     },
     {
-      "start": "2026-10-17T15:37:00+00:00",
-      "stop": "2026-10-17T16:32:00+00:00",
+      "start": "2026-10-17T15:38:00+00:00",
+      "stop": "2026-10-17T16:33:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Alerte : disparitions",
@@ -455,6 +343,134 @@
       "episode_nums": {
         "xmltv_ns": "3.13.0/1",
         "onscreen": "S04E14"
+      }
+    },
+    {
+      "start": "2026-10-23T08:30:00+00:00",
+      "stop": "2026-10-23T09:00:00+00:00",
+      "channel": "France 3",
+      "title": "Escales en France",
+      "subtitle": "Les secrets de Marseille",
+      "description": "Ce magazine va nous faire découvrir les régions françaises en plongeant le téléspectateur au cœur d'une ville, d'un département français, d'une région, et lui fera découvrir son histoire, ses richesses patrimoniales, ses spécialités gastronomiques et ses lieux incontournables... Escales en France va à la rencontre de ces français agriculteurs, marins pêcheurs, artisans, restaurateurs, éleveurs, guides touristiques, tou s amoureux fous de leurs régions.",
+      "category": "Magazine",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.67.0/1",
+        "onscreen": "S01E68"
+      }
+    },
+    {
+      "start": "2026-10-23T18:59:00+00:00",
+      "stop": "2026-10-23T20:43:00+00:00",
+      "channel": "La Une",
+      "title": "Le voyageur",
+      "subtitle": "La tentation du mal",
+      "description": "Kandinsky est appelé par une gendarme rencontrée sur une précédente affaire. Cette dernière est convaincue, que seul l'ex-policier peut reprendre une affaire trop rapidement classée. La gendarme est intriguée par la mort suspecte d'un dentiste, retrouvé carbonisé dans les environs de Metz. Kandinsky effectue des recherches, et découvre que deux autres victime ont été retrouvées, elles aussi calcinées, dans la même région. Le Voyageur est intrigué, et prend une nouvelle fois la route.Kandinsky arrive en Loraine. Dans l'attente d'un rendez-vous avec le policier chargé de l'enquête sur le suicide par le feu de Jérôme Strauss, figure locale, dirigeant de LorraineSun, une entreprise spécialisée dans la fabrication de panneaux solaires, il a installé son campement dans La Vallée des éclusiers, et profite de la beauté et de la paisibilité des lieux, pour s'adonner à ses activités favorites qui le rapprochent de la nature...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "2.1.0/1",
+        "onscreen": "S03E02"
+      }
+    },
+    {
+      "start": "2026-10-23T19:10:00+00:00",
+      "stop": "2026-10-23T20:00:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Entre chien et loup",
+      "description": "Dans un centre canin réputé, un dresseur reconnu est retrouvé mort, victime d'un mode opératoire aussi discret qu'inquiétant. L'enquête de Simon Coleman met au jour un univers en apparence exemplaire, où se croisent notables, animaux de compagnie et passions dévorantes. Mais derrière les concours d'agility et les chiens bien dressés, émergent des pratiques illégales et des secrets dangereux. Très vite, Simon comprend que ce meurtre n'est que la partie visible d'un drame bien plus sombre...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.3.0/1",
+        "onscreen": "S04E04"
+      }
+    },
+    {
+      "start": "2026-10-23T20:00:00+00:00",
+      "stop": "2026-10-23T20:55:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Requiem pour un Don Juan",
+      "description": "A leur retour de week-end, les propriétaires d'une superbe villa ont la mauvaise surprise de découvrir le cadavre de Lionel, l'agent immobilier à qui ils avaient confié la vente de leur bien. Appelés sur les lieux, Simon et Chloé comprennent rapidement que Lionel utilisait la maison comme garçonnière pour abriter une relation adultère. Soupçonnant un crime passionnel, ils retrouvent la maîtresse de la victime, qui leur explique qu'elle connaissait à peine le défunt, avec qui elle avait noué contact via une application de rencontres. Une application sur laquelle Lionel se présentait comme un riche PDG esseulé : un profil très éloigné de la réalité, mais qui lui permettait de multiplier les conquêtes, en utilisant les biens luxueux de ses clients pour crédibiliser son statut de multimillionnaire...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "1.3.0/1",
+        "onscreen": "S02E04"
+      }
+    },
+    {
+      "start": "2026-10-23T20:55:00+00:00",
+      "stop": "2026-10-23T21:45:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Échecs et meurtre",
+      "description": "Lors d'un match exhibition d'échecs à Aix-en-Provence, le jeune prodige Julien Roussel s'effondre en pleine partie et meurt sous les yeux du public. Très vite, Simon Coleman soupçonne un empoisonnement. Pour les besoins de l'enquête, Simon plonge dans l'univers feutré des grands maîtres et découvre qu'ici, non seulement chaque coup est calculé, mais que la moindre erreur peut être fatale...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-10-23T21:45:00+00:00",
+      "stop": "2026-10-23T22:30:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Double faute",
+      "description": "Simon et Chloé sont envoyés au tennis club d'Aix en Provence pour le meurtre du directeur du club. Cet entraineur de futurs champions a été assassiné à l'issue d'une partie de padel qui a mal tourné. Qui est le meurtrier : un mauvais perdant, un espoir déçu, quelqu'un qui n'a rien à voir avec la petite balle jaune ? Les deux enquêteurs vont devoir serrer le jeu...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-10-23T22:30:00+00:00",
+      "stop": "2026-10-23T23:25:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Dernière confession",
+      "description": "Soeur Alma, une jeune nonne arrivée depuis quelques mois au couvent des Petites Soeurs de la Vierge Marie est retrouvée morte dans le choeur de la chapelle. Tout indique qu'elle a été empoisonnée mais les religieuses qui appréciaient toutes Alma semblent hors de tout soupçon. Les premiers doutes se portent donc sur l'ancien colocataire d'Alma mais l'étau se resserre très vite autour de l'établissement religieux. Simon et Chloé cheminent de pistes en pistes découvrant que ce vénérable couvent, havre de paix et de bienveillance abrite en réalité bien des secrets. Entre une soeur apicultrice experte en venin d'abeille, une religieuse amoureuse, un livreur de miel insondable et une mère supérieure tenue au secret de la confession, les enquêteurs devront faire appel à tout leur savoir-faire et leur doigté pour démêler l'écheveau d'indices...",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.2.0/1",
+        "onscreen": "S04E03"
+      }
+    },
+    {
+      "start": "2026-10-23T23:25:00+00:00",
+      "stop": "2026-10-24T00:15:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Balle perdue",
+      "description": "Simon Coleman enquête sur le meurtre d'un dresseur dans un centre canin réputé. Au fil de l'enquête, il met au jour de sombres pratiques illégales.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "1.0.0/1",
+        "onscreen": "S02E01"
       }
     }
   ]
