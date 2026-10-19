@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:54:23.466859+00:00",
+  "generated_at": "2026-10-19T17:02:19.719848+00:00",
   "window_start": "2026-10-19",
   "window_end": "2026-10-26",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 54,
-  "count": 29,
+  "series_count": 63,
+  "count": 31,
   "programmes": [
     {
       "start": "2026-10-19T00:15:00+00:00",
@@ -46,6 +46,19 @@
         "xmltv_ns": "0.100.0/1",
         "onscreen": "S01E101"
       }
+    },
+    {
+      "start": "2026-10-19T20:50:00+00:00",
+      "stop": "2026-10-19T22:25:00+00:00",
+      "channel": "France 2",
+      "title": "Tout le monde ment 2",
+      "subtitle": "",
+      "description": "Claire Abel, une jeune infirmière, est retrouvée poignardée dans son appartement. La police conclut rapidement à un cambriolage qui aurait mal tourné et classe l'affaire. Cependant, un élément étrange fait ressortir le dossier : juste avant son meurtre, la victime avait porté plainte pour agression sexuelle à l'encontre de Mathieu Lecerf, un célèbre acteur d'une série policière et chouchou du public français. Autant dire, un homme intouchable. Le dossier atterrit donc logiquement dans les mains du Groupe des affaires sensibles et de son atout principal, le consultant atypique Vincent Verner. La mission de cette brigade très spéciale : s'attaquer aux puissants que personne n'ose défier. Et cette fois-ci, l'ennemi est de taille. Maître dans l'art du jeu, Lecerf est prêt à tout pour sauver sa réputation, même au pire. Dans ce jeu de dupes et de mensonges, Verner et son équipe réussiront-ils à faire émerger la vérité ?",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tout le monde ment",
+      "episode_nums": {}
     },
     {
       "start": "2026-10-20T00:20:00+00:00",
@@ -171,6 +184,19 @@
         "xmltv_ns": "3.13.0/1",
         "onscreen": "S04E14"
       }
+    },
+    {
+      "start": "2026-10-22T19:10:00+00:00",
+      "stop": "2026-10-22T20:50:00+00:00",
+      "channel": "France 3",
+      "title": "Péril blanc",
+      "subtitle": "",
+      "description": "La station de ski de Méribel coule des jours heureux en ce début d'automne avant l'arrivée des premiers skieurs. Seulement tout bascule lorsqu'un soir de pleine lune, le corps d'un homme est retrouvé nu sur un télésiège, avec du sang humain sur les lèvres et une balle en argent dans le coeur. La mystérieuse mise en scène rappelle les meurtres rituels des loups-garous. L'enquêtrice Clara Kessler, enfant du pays, est revenue pour mener l'enquête avec son père, Georges Kessler, gendarme en préretraite. Et également pour rejoindre son nouvel amoureux. La victime Alexandre, ancien détenu tout juste sorti de prison, travaille pour La Meute une association qui défend la protection du loup en Haute-Savoie. Alors que Georges tente de gérer la tension qui monte dangereusement entre les éleveurs et les pro-loups, Clara se penche sur cet ancien dossier qui a envoyé Alexandre en prison.",
+      "category": "Cinéma",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Péril blanc",
+      "episode_nums": {}
     },
     {
       "start": "2026-10-23T08:30:00+00:00",
