@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T12:49:53.064157+00:00",
-  "window_start": "2026-10-18",
-  "window_end": "2026-10-25",
+  "generated_at": "2026-10-19T11:05:04.892262+00:00",
+  "window_start": "2026-10-19",
+  "window_end": "2026-10-26",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 54,
-  "count": 30,
+  "count": 29,
   "programmes": [
-    {
-      "start": "2026-10-18T14:05:00+00:00",
-      "stop": "2026-10-18T15:40:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Tahiti",
-      "description": "Sur l'île de Tahiti, le corps mutilé d'un homme a été découvert dans le temple sacré d'Oro, un ancien dieu de la guerre. La police mène l'enquête.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "6.3.0/1",
-        "onscreen": "S07E04"
-      }
-    },
-    {
-      "start": "2026-10-18T15:40:00+00:00",
-      "stop": "2026-10-18T16:39:00+00:00",
-      "channel": "La Une",
-      "title": "Munch",
-      "subtitle": "Une vérité trompeuse",
-      "description": "Munch se retrouve face à un véritable casse-tête : son client, un beau jeune homme d'une trentaine d'années, avoue le crime affreux de sa petite amie, sans comprendre ce qui l'a poussé à le faire, pourquoi il l'a tuée.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Munch",
-      "episode_nums": {
-        "xmltv_ns": "0.2.0/1",
-        "onscreen": "S01E03"
-      }
-    },
-    {
-      "start": "2026-10-18T22:35:00+00:00",
-      "stop": "2026-10-18T23:25:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Échecs et meurtre",
-      "description": "Lors d'un match exhibition d'échecs à Aix-en-Provence, le jeune prodige Julien Roussel s'effondre en pleine partie et meurt sous les yeux du public. Très vite, Simon Coleman soupçonne un empoisonnement. Pour les besoins de l'enquête, Simon plonge dans l'univers feutré des grands maîtres et découvre qu'ici, non seulement chaque coup est calculé, mais que la moindre erreur peut être fatale...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-10-18T23:25:00+00:00",
-      "stop": "2026-10-19T00:15:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Double faute",
-      "description": "Simon et Chloé sont envoyés au tennis club d'Aix en Provence pour le meurtre du directeur du club. Cet entraineur de futurs champions a été assassiné à l'issue d'une partie de padel qui a mal tourné. Qui est le meurtrier : un mauvais perdant, un espoir déçu, quelqu'un qui n'a rien à voir avec la petite balle jaune ? Les deux enquêteurs vont devoir serrer le jeu...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
     {
       "start": "2026-10-19T00:15:00+00:00",
       "stop": "2026-10-19T01:00:00+00:00",
@@ -290,7 +226,7 @@
       "channel": "France 2",
       "title": "Simon Coleman",
       "subtitle": "Requiem pour un Don Juan",
-      "description": "A leur retour de week-end, les propriétaires d'une superbe villa ont la mauvaise surprise de découvrir le cadavre de Lionel, l'agent immobilier à qui ils avaient confié la vente de leur bien. Appelés sur les lieux, Simon et Chloé comprennent rapidement que Lionel utilisait la maison comme garçonnière pour abriter une relation adultère. Soupçonnant un crime passionnel, ils retrouvent la maîtresse de la victime, qui leur explique qu'elle connaissait à peine le défunt, avec qui elle avait noué contact via une application de rencontres. Une application sur laquelle Lionel se présentait comme un riche PDG esseulé : un profil très éloigné de la réalité, mais qui lui permettait de multiplier les conquêtes, en utilisant les biens luxueux de ses clients pour crédibiliser son statut de multimillionnaire...",
+      "description": "Simon Coleman enquête sur le meurtre d'un dresseur dans un centre canin réputé. Au fil de l'enquête, il met au jour de sombres pratiques illégales.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -434,7 +370,7 @@
       "channel": "France 3",
       "title": "Meurtres à...",
       "subtitle": "Meurtres à Honfleur",
-      "description": "Honfleur au printemps est un écrin dont le joyau est le port, où les mâts des bateaux de plaisance scintillent et se balancent nonchalamment sous le regard des touristes. Sur le quai, en ce jour de marché, une effervescence agréable domine. Mais soudain des cris de surprise et d'effroi se font entendre et chassent les jeux enfantins. On découvre dans le port ce qui semble être un corps, logé dans une épaisse housse en plastique. A l'intérieur, la silhouette humaine est recouverte de gros sel et de sable. C'est le député Jean-Charles Villiers. La mise en scène rappelle la légende d'Arlequin, née au XVIIe siècle à Honfleur. La capitaine Justine Bouvin et son adjoint Vianney mènent l'enquête, bientôt rejoints par l'ancien grand flic Paul Mesnil, retraité et désormais propriétaire d'un restaurant sur les hauteurs de Honfleur...",
+      "description": "Dans les gorges du Verdon, enquête sur le meurtre d'un homme de 78 ans, retrouvé mort sur le barrage de Castillon dans une position étrange.",
       "category": "Séries",
       "icon": "",
       "origine": "telefilm",
@@ -490,6 +426,54 @@
       "episode_nums": {
         "xmltv_ns": "3.15.0/1",
         "onscreen": "S04E16"
+      }
+    },
+    {
+      "start": "2026-10-25T16:40:00+00:00",
+      "stop": "2026-10-25T17:40:00+00:00",
+      "channel": "La Une",
+      "title": "Munch",
+      "subtitle": "Mi-figue, mi-raisin",
+      "description": "Une transexuelle est arrêtée pour le meurtre d'une de ses collaboratrices dans l'hôpital qu'elle dirige. Munch va peu à peu démêler l'écheveau d'une affaire et affronter de cruels préjugés.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Munch",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-10-25T19:50:00+00:00",
+      "stop": "2026-10-25T20:47:00+00:00",
+      "channel": "La Une",
+      "title": "Les Douze - Meurtres au Botox",
+      "subtitle": "L'enfant aux 1000 visages",
+      "description": "Douze jurés jugent un couple accusé du meurtre d'un écrivain célèbre et de sa femme.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-10-25T20:47:00+00:00",
+      "stop": "2026-10-25T21:45:00+00:00",
+      "channel": "La Une",
+      "title": "Les Douze - Meurtres au Botox",
+      "subtitle": "Botox",
+      "description": "Walter se prépare pour l'anniversaire de sa mère, et dans la salle d'audience, les accusés sont entendus.",
+      "category": "Séries",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
       }
     }
   ]
