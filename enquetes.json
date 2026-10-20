@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T17:02:19.719848+00:00",
-  "window_start": "2026-10-19",
-  "window_end": "2026-10-26",
+  "generated_at": "2026-10-20T10:18:46.064925+00:00",
+  "window_start": "2026-10-20",
+  "window_end": "2026-10-27",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,53 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 63,
-  "count": 31,
+  "count": 30,
   "programmes": [
-    {
-      "start": "2026-10-19T00:15:00+00:00",
-      "stop": "2026-10-19T01:00:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Dernière confession",
-      "description": "Soeur Alma, une jeune nonne arrivée depuis quelques mois au couvent des Petites Soeurs de la Vierge Marie est retrouvée morte dans le choeur de la chapelle. Tout indique qu'elle a été empoisonnée mais les religieuses qui appréciaient toutes Alma semblent hors de tout soupçon. Les premiers doutes se portent donc sur l'ancien colocataire d'Alma mais l'étau se resserre très vite autour de l'établissement religieux. Simon et Chloé cheminent de pistes en pistes découvrant que ce vénérable couvent, havre de paix et de bienveillance abrite en réalité bien des secrets. Entre une soeur apicultrice experte en venin d'abeille, une religieuse amoureuse, un livreur de miel insondable et une mère supérieure tenue au secret de la confession, les enquêteurs devront faire appel à tout leur savoir-faire et leur doigté pour démêler l'écheveau d'indices...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.2.0/1",
-        "onscreen": "S04E03"
-      }
-    },
-    {
-      "start": "2026-10-19T04:00:00+00:00",
-      "stop": "2026-10-19T04:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Secrets de Nos Vallées",
-      "subtitle": "Le Secret Du Poisson Géant",
-      "description": "Le secret du poisson géant Dans le Var, le lac de Saint-Cassien, riche en biodiversité, attire les passionnés de pêche, en quête d'un poisson de plus de 2 mètres. Introduit illégalement.",
-      "category": "Documentaire",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.100.0/1",
-        "onscreen": "S01E101"
-      }
-    },
-    {
-      "start": "2026-10-19T20:50:00+00:00",
-      "stop": "2026-10-19T22:25:00+00:00",
-      "channel": "France 2",
-      "title": "Tout le monde ment 2",
-      "subtitle": "",
-      "description": "Claire Abel, une jeune infirmière, est retrouvée poignardée dans son appartement. La police conclut rapidement à un cambriolage qui aurait mal tourné et classe l'affaire. Cependant, un élément étrange fait ressortir le dossier : juste avant son meurtre, la victime avait porté plainte pour agression sexuelle à l'encontre de Mathieu Lecerf, un célèbre acteur d'une série policière et chouchou du public français. Autant dire, un homme intouchable. Le dossier atterrit donc logiquement dans les mains du Groupe des affaires sensibles et de son atout principal, le consultant atypique Vincent Verner. La mission de cette brigade très spéciale : s'attaquer aux puissants que personne n'ose défier. Et cette fois-ci, l'ennemi est de taille. Maître dans l'art du jeu, Lecerf est prêt à tout pour sauver sa réputation, même au pire. Dans ce jeu de dupes et de mensonges, Verner et son équipe réussiront-ils à faire émerger la vérité ?",
-      "category": "Cinéma",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tout le monde ment",
-      "episode_nums": {}
-    },
     {
       "start": "2026-10-20T00:20:00+00:00",
       "stop": "2026-10-20T01:05:00+00:00",
@@ -444,7 +399,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Undercover - 2",
-      "description": "Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité. Elles découvrent ainsi qu'un trafic de drogue est sans doute à l'origine de la mort du garagiste et que le silence des mères cache autre chose que de la peur.",
+      "description": "Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité.",
       "category": "Séries",
       "icon": "",
       "origine": "serie",
@@ -500,6 +455,38 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-10-26T05:00:00+00:00",
+      "stop": "2026-10-26T05:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "Fario, Le Secret de la Montagne",
+      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie.",
+      "category": "Documentaire",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.101.0/1",
+        "onscreen": "S01E102"
+      }
+    },
+    {
+      "start": "2026-10-26T21:55:00+00:00",
+      "stop": "2026-10-26T23:35:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "L'ami français",
+      "description": "Joseph Nyandoro, un ex-président africain poussé par ses proches à reprendre le pouvoir, vit dans en exil dans un village français auquel il est très attaché. Un de ses amis au village, Josselin Gramont est alors tué par arme à feu...mais par qui ? et pourquoi ?",
+      "category": "Séries",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.11.0/1",
+        "onscreen": "S04E12"
       }
     }
   ]
