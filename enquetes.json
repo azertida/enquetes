@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T13:53:26.012588+00:00",
-  "window_start": "2026-10-20",
-  "window_end": "2026-10-27",
+  "generated_at": "2026-10-21T10:28:11.357741+00:00",
+  "window_start": "2026-10-21",
+  "window_end": "2026-10-28",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,69 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 63,
-  "count": 30,
+  "count": 26,
   "programmes": [
-    {
-      "start": "2026-10-20T00:20:00+00:00",
-      "stop": "2026-10-20T01:05:00+00:00",
-      "channel": "France 2",
-      "title": "Soeurs",
-      "subtitle": "L'échange",
-      "description": "Elisabeth, avocate de renom, célibataire et citadine, échange sa vie le temps d'une soirée avec Elodie, sa jumelle, gardienne d'un domaine appartenant à la riche famille Balint. Alors qu'Elisabeth s'endort tranquillement dans la petite maison de gardien de sa soeur, Elodie, à l'issue de la soirée est victime d'un accident mortel. La police est formelle, il s'agit d'un assassinat. C'est une déflagration pour Elisabeth Elle se sent responsable du décès d'Elodie et comprend que quelqu'un veut la tuer. Piégée dans l'identité de sa soeur, elle va devoir affronter une vie qui n'est pas la sienne : un mari, la famille Balint et une enquête criminelle...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-10-20T00:53:00+00:00",
-      "stop": "2026-10-20T01:35:00+00:00",
-      "channel": "TF1",
-      "title": "New York, Unité Spéciale",
-      "subtitle": "Meurtre sur Internet",
-      "description": "Une adolescente de seize ans affirme avoir été violée par un homme rencontré via internet. Puis.",
-      "category": "Séries",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.17.0/1",
-        "onscreen": "S01E18"
-      }
-    },
-    {
-      "start": "2026-10-20T01:05:00+00:00",
-      "stop": "2026-10-20T02:00:00+00:00",
-      "channel": "France 2",
-      "title": "Soeurs",
-      "subtitle": "Pourquoi moi?",
-      "description": "Tandis que l'enquête se resserre autour d'elle, Elisabeth, sous l'identité de sa jumelle, découvre que quelqu'un au domaine connaît son secret. En cherchant des réponses, elle retrouve son ancien associé Farid, caché dans une cité. Quelques heures plus tard, ce dernier est retrouvé mort. Déterminée à comprendre, Elisabeth récupère une clé USB qui révèle une vaste affaire de blanchiment d'argent impliquant Farid et l'inquiétant Manuel Ferrera, un ancien client. Prête à l'affronter, Elisabeth s'engage dans un dangereux face-à-face qui la mène au coeur d'une machination mortelle...",
-      "category": "Séries",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Soeurs",
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
-    {
-      "start": "2026-10-20T20:19:00+00:00",
-      "stop": "2026-10-20T22:00:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Saint-Malo",
-      "subtitle": "",
-      "description": "Le capitaine Gwenaëlle Garrec et l'adjudant-chef Éric Vautier enquêtent sur le meurtre d'un cadavre retrouvé sur la plage. L'affaire semble liée à la piraterie et aux tortures des corsaires, ce qui rappelle de mauvais souvenirs à Gwen.",
-      "category": "Cinéma",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
     {
       "start": "2026-10-21T01:05:00+00:00",
       "stop": "2026-10-21T01:50:00+00:00",
@@ -170,7 +109,7 @@
       }
     },
     {
-      "start": "2026-10-23T18:59:00+00:00",
+      "start": "2026-10-23T19:00:00+00:00",
       "stop": "2026-10-23T20:43:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
@@ -282,8 +221,8 @@
       }
     },
     {
-      "start": "2026-10-24T07:04:00+00:00",
-      "stop": "2026-10-24T07:21:00+00:00",
+      "start": "2026-10-24T07:02:00+00:00",
+      "stop": "2026-10-24T07:19:00+00:00",
       "channel": "TF1",
       "title": "Migali",
       "subtitle": "Les mystères de l'Académie",
@@ -298,8 +237,8 @@
       }
     },
     {
-      "start": "2026-10-24T14:43:00+00:00",
-      "stop": "2026-10-24T15:35:00+00:00",
+      "start": "2026-10-24T14:44:00+00:00",
+      "stop": "2026-10-24T15:36:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Manipulations",
@@ -314,8 +253,8 @@
       }
     },
     {
-      "start": "2026-10-24T15:35:00+00:00",
-      "stop": "2026-10-24T16:33:00+00:00",
+      "start": "2026-10-24T15:36:00+00:00",
+      "stop": "2026-10-24T16:34:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Au nom du fils",
@@ -330,8 +269,8 @@
       }
     },
     {
-      "start": "2026-10-24T18:50:00+00:00",
-      "stop": "2026-10-24T19:46:00+00:00",
+      "start": "2026-10-24T18:49:00+00:00",
+      "stop": "2026-10-24T19:45:00+00:00",
       "channel": "La Une",
       "title": "L'art du crime",
       "subtitle": "Mission Raphaël - 1ère partie",
@@ -362,8 +301,8 @@
       }
     },
     {
-      "start": "2026-10-24T19:46:00+00:00",
-      "stop": "2026-10-24T20:48:00+00:00",
+      "start": "2026-10-24T19:45:00+00:00",
+      "stop": "2026-10-24T20:47:00+00:00",
       "channel": "La Une",
       "title": "L'art du crime",
       "subtitle": "Mission Raphaël - 2ème partie",
