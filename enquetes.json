@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T14:08:24.489133+00:00",
-  "window_start": "2026-10-22",
-  "window_end": "2026-10-29",
+  "generated_at": "2026-10-23T10:24:13.018385+00:00",
+  "window_start": "2026-10-23",
+  "window_end": "2026-10-30",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,51 +15,6 @@
   "series_count": 63,
   "count": 25,
   "programmes": [
-    {
-      "start": "2026-10-22T12:05:00+00:00",
-      "stop": "2026-10-22T12:54:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Urbex 974 - 1",
-      "description": "Une enquêtrice s'adapte à une nouvelle vie à La Réunion tout en luttant contre le crime. Elle collabore avec d'anciens collègues pour assurer la sécurité sur l'île.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.12.0/1",
-        "onscreen": "S04E13"
-      }
-    },
-    {
-      "start": "2026-10-22T12:54:00+00:00",
-      "stop": "2026-10-22T13:47:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Urbex 974 - 2",
-      "description": "Une jeune recrue rejoint une brigade à La Réunion. Entre disparitions et enquêtes, les policiers naviguent tensions personnelles et défis professionnels dans des lieux mystérieux.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.13.0/1",
-        "onscreen": "S04E14"
-      }
-    },
-    {
-      "start": "2026-10-22T19:10:00+00:00",
-      "stop": "2026-10-22T20:50:00+00:00",
-      "channel": "France 3",
-      "title": "Péril blanc",
-      "subtitle": "",
-      "description": "La station de ski de Méribel coule des jours heureux en ce début d'automne avant l'arrivée des premiers skieurs. Seulement tout bascule lorsqu'un soir de pleine lune, le corps d'un homme est retrouvé nu sur un télésiège, avec du sang humain sur les lèvres et une balle en argent dans le coeur. La mystérieuse mise en scène rappelle les meurtres rituels des loups-garous. L'enquêtrice Clara Kessler, enfant du pays, est revenue pour mener l'enquête avec son père, Georges Kessler, gendarme en préretraite. Et également pour rejoindre son nouvel amoureux. La victime Alexandre, ancien détenu tout juste sorti de prison, travaille pour La Meute une association qui défend la protection du loup en Haute-Savoie. Alors que Georges tente de gérer la tension qui monte dangereusement entre les éleveurs et les pro-loups, Clara se penche sur cet ancien dossier qui a envoyé Alexandre en prison.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Péril blanc",
-      "episode_nums": {}
-    },
     {
       "start": "2026-10-23T08:30:00+00:00",
       "stop": "2026-10-23T09:00:00+00:00",
@@ -205,8 +160,8 @@
       }
     },
     {
-      "start": "2026-10-24T14:44:00+00:00",
-      "stop": "2026-10-24T15:36:00+00:00",
+      "start": "2026-10-24T14:33:00+00:00",
+      "stop": "2026-10-24T15:31:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Manipulations",
@@ -221,8 +176,8 @@
       }
     },
     {
-      "start": "2026-10-24T15:36:00+00:00",
-      "stop": "2026-10-24T16:34:00+00:00",
+      "start": "2026-10-24T15:31:00+00:00",
+      "stop": "2026-10-24T16:30:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Au nom du fils",
@@ -237,8 +192,8 @@
       }
     },
     {
-      "start": "2026-10-24T18:49:00+00:00",
-      "stop": "2026-10-24T19:45:00+00:00",
+      "start": "2026-10-24T18:51:00+00:00",
+      "stop": "2026-10-24T19:46:00+00:00",
       "channel": "La Une",
       "title": "L'art du crime",
       "subtitle": "Mission Raphaël - 1ère partie",
@@ -269,8 +224,8 @@
       }
     },
     {
-      "start": "2026-10-24T19:45:00+00:00",
-      "stop": "2026-10-24T20:47:00+00:00",
+      "start": "2026-10-24T19:46:00+00:00",
+      "stop": "2026-10-24T20:48:00+00:00",
       "channel": "La Une",
       "title": "L'art du crime",
       "subtitle": "Mission Raphaël - 2ème partie",
@@ -317,8 +272,8 @@
       }
     },
     {
-      "start": "2026-10-25T16:40:00+00:00",
-      "stop": "2026-10-25T17:40:00+00:00",
+      "start": "2026-10-25T16:41:00+00:00",
+      "stop": "2026-10-25T17:47:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Mi-figue, mi-raisin",
@@ -333,8 +288,8 @@
       }
     },
     {
-      "start": "2026-10-25T19:53:00+00:00",
-      "stop": "2026-10-25T20:49:00+00:00",
+      "start": "2026-10-25T19:52:00+00:00",
+      "stop": "2026-10-25T20:46:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "L'enfant aux 1000 visages",
@@ -349,8 +304,8 @@
       }
     },
     {
-      "start": "2026-10-25T20:49:00+00:00",
-      "stop": "2026-10-25T21:48:00+00:00",
+      "start": "2026-10-25T20:46:00+00:00",
+      "stop": "2026-10-25T21:45:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Botox",
@@ -410,6 +365,54 @@
       "episode_nums": {
         "xmltv_ns": "1.17.0/1",
         "onscreen": "S02E18"
+      }
+    },
+    {
+      "start": "2026-10-29T13:05:00+00:00",
+      "stop": "2026-10-29T13:53:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Undercover - 1",
+      "description": "Dans une cité, un garagiste est retrouvé mort, écrasé par une voiture sous son pont élévateur. Un tragique accident ? Un élément oriente nos enquêteurs vers un classique du genre : un meurtre déguisé en accident. Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité. Elles découvrent ainsi qu'un trafic de drogue est sans doute à l'origine de la mort du garagiste et que le silence des mères cache possiblement autre chose que la peur.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.14.0/1",
+        "onscreen": "S04E15"
+      }
+    },
+    {
+      "start": "2026-10-29T13:53:00+00:00",
+      "stop": "2026-10-29T14:45:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Undercover - 2",
+      "description": "Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.15.0/1",
+        "onscreen": "S04E16"
+      }
+    },
+    {
+      "start": "2026-10-29T20:10:00+00:00",
+      "stop": "2026-10-29T21:50:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres au Mont-Saint-Michel",
+      "description": "Le père Florentin, prêtre exorciste de l'abbaye du Mont-Saint-Michel, reçoit la visite d'Antoine Riberio. Ce conducteur de travaux a le sentiment d'être possédé par le diable depuis qu'il a découvert un squelette enfoui sous son chantier. Hanté par l'idée d'avoir libéré les forces du mal, il demande au curé de pratiquer un exorcisme afin d'apaiser ses angoisses. Mais quelques temps plus tard, on retrouve le cadavre de Ribeiro, le crâne transpercé de part en part, comme celui du prélat Aubert, créateur du Mont-Saint-Michel, en l'an 70. Le capitaine Sophie Maliquot et son coéquipier Nathan héritent de cette étrange affaire où se mêlent exorcisme, vengeance et révélations familiales.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "8.6.0/1",
+        "onscreen": "S09E07"
       }
     }
   ]
