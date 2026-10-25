@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T12:57:37.334181+00:00",
-  "window_start": "2026-10-24",
-  "window_end": "2026-10-31",
+  "generated_at": "2026-10-25T10:01:24.241581+00:00",
+  "window_start": "2026-10-25",
+  "window_end": "2026-11-01",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,134 +15,6 @@
   "series_count": 63,
   "count": 20,
   "programmes": [
-    {
-      "start": "2026-10-24T07:04:00+00:00",
-      "stop": "2026-10-24T07:21:00+00:00",
-      "channel": "TF1",
-      "title": "Migali",
-      "subtitle": "Les mystères de l'Académie",
-      "description": "Un mystère plane dans les couloirs de l'école. Notre trio d'amis improvise une petite enquête royale pour découvrir ce qui se trame en douce. Parviendront-ils à résoudre l'énigme qui intrigue toute l'Académie et à démasquer le responsable de ces événements ?",
-      "category": "Cartoon",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.7.0/1",
-        "onscreen": "S01E08"
-      }
-    },
-    {
-      "start": "2026-10-24T14:33:00+00:00",
-      "stop": "2026-10-24T15:31:00+00:00",
-      "channel": "La Une",
-      "title": "Léo Mattéï, brigade des mineurs",
-      "subtitle": "Manipulations",
-      "description": "Une préadolescente fugue pour rencontrer un jeune homme qu'elle côtoie sur internet, mais qu'elle n'a jamais vu. Léo Mattéï enquête pour découvrir la véritable identité de l'amoureux virtuel. Il le soupçonne rapidement d'être un dangereux manipulateur.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Léo Mattéi",
-      "episode_nums": {
-        "xmltv_ns": "1.0.0/1",
-        "onscreen": "S02E01"
-      }
-    },
-    {
-      "start": "2026-10-24T15:31:00+00:00",
-      "stop": "2026-10-24T16:31:00+00:00",
-      "channel": "La Une",
-      "title": "Léo Mattéï, brigade des mineurs",
-      "subtitle": "Au nom du fils",
-      "description": "Jérémy Levasseur kidnappe son propre fils sous les yeux de son ex-compagne. Chargés de l'enquête, le commandant Mattéï et son équipe vont devoir retrouver l'enfant au plus vite avant que son père ne tente de quitter le pays avec lui.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Léo Mattéi",
-      "episode_nums": {
-        "xmltv_ns": "1.1.0/1",
-        "onscreen": "S02E02"
-      }
-    },
-    {
-      "start": "2026-10-24T18:51:00+00:00",
-      "stop": "2026-10-24T19:46:00+00:00",
-      "channel": "La Une",
-      "title": "L'art du crime",
-      "subtitle": "Mission Raphaël - 1ère partie",
-      "description": "Au petit matin, dans la forêt du château de Chantilly, un jeune homme est retrouvé assassiné dans une mise en scène macabre qui imite étrangement un tableau du grand peintre de la Renaissance Raphaël. La victime travaillait pour une autrice de best-sellers qui travaillait justement sur cet artiste.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": "7.0.0/1",
-        "onscreen": "S08E01"
-      }
-    },
-    {
-      "start": "2026-10-24T19:10:00+00:00",
-      "stop": "2026-10-24T20:35:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Honfleur",
-      "description": "Dans les gorges du Verdon, enquête sur le meurtre d'un homme de 78 ans, retrouvé mort sur le barrage de Castillon dans une position étrange.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "10.10.0/1",
-        "onscreen": "S11E11"
-      }
-    },
-    {
-      "start": "2026-10-24T19:46:00+00:00",
-      "stop": "2026-10-24T20:48:00+00:00",
-      "channel": "La Une",
-      "title": "L'art du crime",
-      "subtitle": "Mission Raphaël - 2ème partie",
-      "description": "Au petit matin, dans la forêt du château de Chantilly, un jeune homme est retrouvé assassiné dans une mise en scène macabre qui imite étrangement un tableau du grand peintre de la Renaissance Raphaël. La victime travaillait pour une autrice de best-sellers qui travaillait justement sur cet artiste.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": "7.1.0/1",
-        "onscreen": "S08E02"
-      }
-    },
-    {
-      "start": "2026-10-24T20:50:00+00:00",
-      "stop": "2026-10-24T21:38:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Undercover - 1",
-      "description": "Dans une cité, un garagiste est retrouvé mort, écrasé par une voiture sous son pont élévateur. Un tragique accident ? Un élément oriente nos enquêteurs vers un classique du genre : un meurtre déguisé en accident. Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité. Elles découvrent ainsi qu'un trafic de drogue est sans doute à l'origine de la mort du garagiste et que le silence des mères cache possiblement autre chose que la peur.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.14.0/1",
-        "onscreen": "S04E15"
-      }
-    },
-    {
-      "start": "2026-10-24T21:38:00+00:00",
-      "stop": "2026-10-24T22:27:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Undercover - 2",
-      "description": "Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.15.0/1",
-        "onscreen": "S04E16"
-      }
-    },
     {
       "start": "2026-10-25T16:41:00+00:00",
       "stop": "2026-10-25T17:48:00+00:00",
@@ -333,6 +205,131 @@
       "episode_nums": {
         "xmltv_ns": "1.4.0/1",
         "onscreen": "S02E05"
+      }
+    },
+    {
+      "start": "2026-10-31T14:49:00+00:00",
+      "stop": "2026-10-31T16:37:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres au Pays Basque",
+      "subtitle": "",
+      "description": "Le capitaine Marie Daguerre et Vincent Becker sont obligés de collaborer pour résoudre une sombre affaire du meurtre d'une jeune femme, tuée selon un mode d'exécution du Moyen Âge, et la disparition du fils de Becker",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-10-31T16:37:00+00:00",
+      "stop": "2026-10-31T17:36:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "La revenante",
+      "description": "Aprèscinq ans de captivité, Léa Jacmin,onze ans, réussit à échapper aux griffes de son ravisseur. Pour pouvoir arrêter au plus vite ce kidnappeur, Léo Mattéï et ses hommes doivent réussir à faire parler la petite Léa, tout en l'aidant à retrouver sa place au sein d'une sa famille qui avait perdu tout espoir de la retrouver...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
+    },
+    {
+      "start": "2026-10-31T19:52:00+00:00",
+      "stop": "2026-10-31T20:48:00+00:00",
+      "channel": "La Une",
+      "title": "L'art du crime",
+      "subtitle": "La deuxième odalisque - 1ère partie",
+      "description": "Julie Delmas, la conceptrice d'un jeu de réalité virtuelle est retrouvée assassinée dans son bureau. Pour mener l'enquête, Antoine et Florence vont devoir résoudre les énigmes de ce jeu consacré à l'univers du peintre Ingres. Le duo plonge ainsi dans le monde sensuel et coloré de l'artiste.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "L'Art du crime",
+      "episode_nums": {
+        "xmltv_ns": "7.2.0/1",
+        "onscreen": "S08E03"
+      }
+    },
+    {
+      "start": "2026-10-31T20:10:00+00:00",
+      "stop": "2026-10-31T21:45:00+00:00",
+      "channel": "France 3",
+      "title": "Le voyageur",
+      "subtitle": "Le sentier perdu",
+      "description": "Il y a quinze ans, un fait divers d'une rare violence, perpétré à Ruisselin, un village provençal situé près de Marseille, a défrayé la chronique. Trois membres d'une même famille avaient été assassinés. Le mari, Jacques Laugier, avait été condamné pour les meurtres de son épouse et de ses deux enfants. Henri Bonnal, un tueur en série que Yann Kandinsky a traqué pendant un près d'un an et qui est aujourd'hui emprisonné, contacte l'ex-policier. Il a la certitude que Jacques Augier, dont il a fait la connaissance en prison, est innocent. Il propose un marché à Kandinsky : s'il retrouve le véritable auteur de la tuerie de Ruisselin, le serial killer lui dira où il a enterré ses victimes...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-10-31T20:48:00+00:00",
+      "stop": "2026-10-31T21:47:00+00:00",
+      "channel": "La Une",
+      "title": "L'art du crime",
+      "subtitle": "La deuxième odalisque - 2ème partie",
+      "description": "Julie Delmas, la conceptrice d'un jeu de réalité virtuelle est retrouvée assassinée dans son bureau. Pour mener l'enquête, Antoine et Florence vont devoir résoudre les énigmes de ce jeu consacré à l'univers du peintre Ingres. Le duo plonge ainsi dans le monde sensuel et coloré de l'artiste.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "L'Art du crime",
+      "episode_nums": {
+        "xmltv_ns": "7.3.0/1",
+        "onscreen": "S08E04"
+      }
+    },
+    {
+      "start": "2026-10-31T21:45:00+00:00",
+      "stop": "2026-10-31T23:15:00+00:00",
+      "channel": "France 3",
+      "title": "Le voyageur",
+      "subtitle": "Le Voleur de nuits",
+      "description": "Thomas Bareski est appelé près de Noirmoutier par la Juge Claire Elgouarch, dans le cadre d'une affaire non résolue : la disparition de Marion, 7 ans, en 1991. Fille du gendarme en charge de l'enquête à l'époque, la juge confie à Bareski, le dernier rebondissement : une lettre de remords de l'assassin, vieux et malade, adressée à la famille. Mais est-il encore possible de faire toute la lumière sur cette affaire ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
+      }
+    },
+    {
+      "start": "2026-10-31T21:46:00+00:00",
+      "stop": "2026-10-31T22:34:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Jane Doe - 1",
+      "description": "Le corps d'une femme victime de sévices est retrouvé sur une plage. Il apparait qu'elle s'est noyée dans une piscine et a été jetée post-mortem à la mer. Alors que les enquêteurs désespèrent de parvenir à l'identifier, un couple se présente à la brigade.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.16.0/1",
+        "onscreen": "S04E17"
+      }
+    },
+    {
+      "start": "2026-10-31T22:34:00+00:00",
+      "stop": "2026-10-31T23:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Jane Doe-2",
+      "description": "Le couple est accusé d'avoir infligé des sévices à leur baby-sitter. Tahia se glisse alors dans la peau de la victime pour tenter de comprendre ce qu'il lui est arrivé, mais sans le savoir devient à son tour la cible idéale.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.17.0/1",
+        "onscreen": "S04E18"
       }
     }
   ]
