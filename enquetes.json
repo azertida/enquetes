@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T13:24:02.959485+00:00",
-  "window_start": "2026-10-25",
-  "window_end": "2026-11-01",
+  "generated_at": "2026-10-26T11:24:24.723558+00:00",
+  "window_start": "2026-10-26",
+  "window_end": "2026-11-02",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,56 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 63,
-  "count": 20,
+  "count": 21,
   "programmes": [
-    {
-      "start": "2026-10-25T16:41:00+00:00",
-      "stop": "2026-10-25T17:48:00+00:00",
-      "channel": "La Une",
-      "title": "Munch",
-      "subtitle": "Mi-figue, mi-raisin",
-      "description": "Une transexuelle est arrêtée pour le meurtre d'une de ses collaboratrices dans l'hôpital qu'elle dirige. Munch va peu à peu démêler l'écheveau d'une affaire et affronter de cruels préjugés.",
-      "category": "Drama",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Munch",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
-    {
-      "start": "2026-10-25T19:52:00+00:00",
-      "stop": "2026-10-25T20:47:00+00:00",
-      "channel": "La Une",
-      "title": "Les Douze - Meurtres au Botox",
-      "subtitle": "L'enfant aux 1000 visages",
-      "description": "Douze jurés jugent un couple accusé du meurtre d'un écrivain célèbre et de sa femme.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.0.0/1",
-        "onscreen": "S01E01"
-      }
-    },
-    {
-      "start": "2026-10-25T20:47:00+00:00",
-      "stop": "2026-10-25T21:45:00+00:00",
-      "channel": "La Une",
-      "title": "Les Douze - Meurtres au Botox",
-      "subtitle": "Botox",
-      "description": "Walter se prépare pour l'anniversaire de sa mère, et dans la salle d'audience, les accusés sont entendus.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
     {
       "start": "2026-10-26T05:00:00+00:00",
       "stop": "2026-10-26T05:30:00+00:00",
@@ -330,6 +282,67 @@
       "episode_nums": {
         "xmltv_ns": "3.17.0/1",
         "onscreen": "S04E18"
+      }
+    },
+    {
+      "start": "2026-11-01T09:20:00+00:00",
+      "stop": "2026-11-01T11:21:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Le mystère de la chambre jaune",
+      "subtitle": "",
+      "description": "Suite à la tentative d'assassinat de la belle Mathilde, fille du célèbre professeur Stangerson, le jeune reporter Joseph Rouletabille, accompagné de son ami et photographe Sainclair, se rend au château du Glandier pour élucider le mystère. Qui est l'agresseur? Quel est son mobile? Et surtout, comment a-t-il pu s'échapper de la chambre jaune, fermée de l'intérieur? Le célèbre inspecteur Frédéric Larsan soupçonne Darzac, le fiancé de Mlle Stangerson...",
+      "category": "Mystery",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Mystère de la chambre jaune",
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-01T16:38:00+00:00",
+      "stop": "2026-11-01T17:39:00+00:00",
+      "channel": "La Une",
+      "title": "Munch",
+      "subtitle": "Dernière danse",
+      "description": "Une femme ensanglantée arrive au cabinet. Elle n'a ni papiers, ni souvenirs des dernières heures de sa vie... Mais elle tient, bien serrée dans sa main, la carte de visite de Munch.",
+      "category": "Drama",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Munch",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-11-01T19:50:00+00:00",
+      "stop": "2026-11-01T20:44:00+00:00",
+      "channel": "La Une",
+      "title": "Les Douze - Meurtres au Botox",
+      "subtitle": "Zoë",
+      "description": "Nina découvre sa fille Zoë Dhaenens dans un moment de vulnérabilité. Durant l'audience, Zoë tente de rester forte.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
+      }
+    },
+    {
+      "start": "2026-11-01T20:44:00+00:00",
+      "stop": "2026-11-01T21:48:00+00:00",
+      "channel": "La Une",
+      "title": "Les Douze - Meurtres au Botox",
+      "subtitle": "Daniël",
+      "description": "Aisha a une bonne conversation avec Nathalie, et lors de l'audience, des documents qui bouleversent complètement l'affaire sont présentés.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
       }
     }
   ]
