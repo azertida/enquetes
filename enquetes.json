@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:24:24.723558+00:00",
+  "generated_at": "2026-10-26T15:31:10.291731+00:00",
   "window_start": "2026-10-26",
   "window_end": "2026-11-02",
   "source": "Pickx via iptv-org/epg",
@@ -48,8 +48,8 @@
       }
     },
     {
-      "start": "2026-10-28T22:33:00+00:00",
-      "stop": "2026-10-28T23:26:00+00:00",
+      "start": "2026-10-28T22:34:00+00:00",
+      "stop": "2026-10-28T23:27:00+00:00",
       "channel": "TF1",
       "title": "Tracker",
       "subtitle": "Le secret de Riley",
@@ -149,7 +149,7 @@
       "channel": "France 2",
       "title": "Simon Coleman",
       "subtitle": "Millésime",
-      "description": "Jean Chassagne, vigneron apprécié de la région, est retrouvé mort dans ses vignes. Quelqu'un l'a violemment frappé à la tête et l'a laissé se vider de son sang. Sur la scène de crime, peu d'indices, mise à part une étrange bouteille sans étiquette retrouvée par Simon à quelques dizaines de mètres du corps. Qui a commis le crime ? Un vigneron rival qui hait la victime depuis des décennies ? Le jeune et ambitieux maître de chai ? Ou encore la fille de Chassagne, revenue pour prêter main forte à son père et relancer le domaine en perdition ? Entre vins secrets et dégustation à l'aveugle, Simon et Chloé arpentent les vignes pour résoudre une enquête millésimée. Et tandis qu'au commissariat Cyril n'en finit plus de commettre des fautes à son code de la route qu'il doit passer prochainement, Simon doit aussi composer avec Victoria...",
+      "description": "Simon et Chloé enquêtent pour découvrir qui a tué le vigneron Jean Chassagne : un rival qui hait la victime, le jeune maître de chai ou sa fille ?",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
