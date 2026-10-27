@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T15:31:10.291731+00:00",
-  "window_start": "2026-10-26",
-  "window_end": "2026-11-02",
+  "generated_at": "2026-10-27T10:48:05.668805+00:00",
+  "window_start": "2026-10-27",
+  "window_end": "2026-11-03",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,40 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 63,
-  "count": 21,
+  "count": 23,
   "programmes": [
-    {
-      "start": "2026-10-26T05:00:00+00:00",
-      "stop": "2026-10-26T05:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Secrets de Nos Vallées",
-      "subtitle": "Fario, Le Secret de la Montagne",
-      "description": "Fario, le secret de la montagne La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie.",
-      "category": "Nature",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": ".101.0/1",
-        "onscreen": "E102"
-      }
-    },
-    {
-      "start": "2026-10-26T21:55:00+00:00",
-      "stop": "2026-10-26T23:35:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "L'ami français",
-      "description": "Joseph Nyandoro, un ex-président africain poussé par ses proches à reprendre le pouvoir, vit dans en exil dans un village français auquel il est très attaché. Un de ses amis au village, Josselin Gramont est alors tué par arme à feu...mais par qui ? et pourquoi ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.11.0/1",
-        "onscreen": "S04E12"
-      }
-    },
     {
       "start": "2026-10-28T22:34:00+00:00",
       "stop": "2026-10-28T23:27:00+00:00",
@@ -258,7 +226,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Jane Doe - 1",
-      "description": "Le corps d'une femme victime de sévices est retrouvé sur une plage. Il apparait qu'elle s'est noyée dans une piscine et a été jetée post-mortem à la mer. Alors que les enquêteurs désespèrent de parvenir à l'identifier, un couple se présente à la brigade.",
+      "description": "Le corps d'une femme victime de sévices est retrouvé sur une plage. Il apparait qu'elle s'est noyée dans une piscine et a été jetée post-mortem à la mer.",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -274,7 +242,7 @@
       "channel": "TV5 Monde",
       "title": "OPJ, Pacifique Sud",
       "subtitle": "Jane Doe-2",
-      "description": "Le couple est accusé d'avoir infligé des sévices à leur baby-sitter. Tahia se glisse alors dans la peau de la victime pour tenter de comprendre ce qu'il lui est arrivé, mais sans le savoir devient à son tour la cible idéale.",
+      "description": "Le couple est accusé d'avoir infligé des sévices à leur baby-sitter. Tahia se glisse alors dans la peau de la victime pour tenter de comprendre ce qu'il lui est arrivé.",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -343,6 +311,70 @@
       "episode_nums": {
         "xmltv_ns": "0.3.0/1",
         "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-11-02T05:00:00+00:00",
+      "stop": "2026-11-02T05:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Secrets de Nos Vallées",
+      "subtitle": "La Rivière Secrète Du Poisson Migrateur",
+      "description": "La rivière secrète du poisson migrateur Dans les Alpes-Maritimes, les gorges de la Cagne s'étendent dans des zones urbanisées, tout en abritant une biodiversité protégée. Ici.",
+      "category": "Nature",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": ".102.0/1",
+        "onscreen": "E103"
+      }
+    },
+    {
+      "start": "2026-11-02T13:25:00+00:00",
+      "stop": "2026-11-02T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Nouveau départ",
+      "description": "Commandant de gendarmerie, Léa Soler est contrainte de collaborer avec le capitaine Paul Marchal, son ancien mari. Dans le travail comme dans la vie, les divorcés doivent mettre de côté leurs différends, car passent avant tout leurs enquêtes. Le corps d'une femme est retrouvé dans les vignes. Rapidement, les gendarmes concluent que la victime a été assassinée et qu'elle pourrait avoir un lien avec un couvent de la région. Le commandant Léa Soler et le capitaine Paul Marchal, un couple divorcé, sont contraints de mener l'enquête conjointement. Le dossier se complique et met au jour de nombreux secrets, entre vengeances et problèmes de filiation, que l'ex-couple tente de clarifier, laissant de côté ses contentieux et son histoire difficile.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-11-02T14:30:00+00:00",
+      "stop": "2026-11-02T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Double jeu",
+      "description": "Une femme est retrouvée grièvement blessée dans le coffre d'une voiture. Léa Soler et Paul Marchal comprennent rapidement qu'il s'agit d'une tentative de meurtre. Ils apprennent bientôt que l'enfant de la victime, Léa, 10 ans, a disparu. Plongés dans l'urgence d'une situation très tendue, le duo d'enquêteurs doit également faire face à la fugue de leur fils Thomas, âgé de 16 ans. Quand le privé rattrape le professionnel, quand de brillants enquêteurs se rappellent qu'ils sont aussi des parents...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-11-02T15:30:00+00:00",
+      "stop": "2026-11-02T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Entre sel et mer",
+      "description": "Une femme est retrouvée morte, au milieu d'un marais salant. Nos enquêteurs vont apprendre qu'elle avait été victime d'un braquage deux ans auparavant, et souffrait de stress post-traumatique. Sa mort est-elle due à un comportement équivoque lié à ces troubles ? Ou bien à une vengeance des braqueurs ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.2.0/1",
+        "onscreen": "S01E03"
       }
     }
   ]
