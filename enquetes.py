@@ -57,13 +57,9 @@ KEYWORDS = [
 # Prépositions reliant le mot-clé au lieu
 PREPOSITIONS = ["à", "au", "aux", "en", "dans", "de", "d'", "du", "des", "sur"]
 
-# Articles et particules tolérés en minuscule entre préposition et lieu propre
-INTERMEDIATE_ARTICLES = (
-    "le ", "la ", "les ", "l'",
-    "mont ", "saint ", "sainte ", "st ", "ste ",
-    "val ", "île ", "ile ", "cap ", "lac ", "bois ",
-    "pointe ", "baie ", "côte ", "pays ",
-)
+# Nombre de mots, après la préposition, où chercher le lieu propre
+# (« à l'abbaye de Rouen » : Rouen est le 3e mot)
+LIEU_MOTS = 3
 
 
 # ============================================================
@@ -164,14 +160,36 @@ def title_matches(title):
 
             remainder = after[len(prep):].strip()
 
-            for article in INTERMEDIATE_ARTICLES:
-                if remainder.lower().startswith(article):
-                    remainder = remainder[len(article):].strip()
-                    break
+            # Le lieu propre doit apparaître dans les premiers mots qui
+            # suivent la préposition. On regarde jusqu'à LIEU_MOTS mots,
+            # élisions (l', d') retirées, au lieu du seul premier mot :
+            #   « en Pays catalan »          -> Pays     ✓
+            #   « à l'abbaye de Rouen »      -> Rouen    ✓
+            #   « de l'hôtel », « de la nature » -> rien ✗
+            # (L'ancienne règle retirait « pays » / « l' » puis exigeait
+            # une majuscule sur le mot suivant : « catalan », « abbaye »
+            # faisaient échouer le test.)
+            for mot in remainder.split()[:LIEU_MOTS]:
+                mot = mot.replace("’", "'")
+                if "'" in mot[:3]:
+                    mot = mot.split("'", 1)[1]
+                if mot and mot[0].isupper():
+                    return True
 
-            if remainder and remainder[0].isupper():
+    return False
+
+
+def est_collection(title):
+    """
+    Titre « parapluie » d'une collection de téléfilms, sans le lieu :
+    « Meurtres à... », « Meurtres à », « Meurtres à… ». Pickx met alors
+    le vrai titre (ou juste le lieu : « l'Ile d'Yeu ») dans le sous-titre.
+    """
+    t = normalize(title).rstrip(".… ")
+    for kw in ("meurtres", "crimes", "mysteres"):
+        for prep in ("a", "au", "aux", "en"):
+            if t == f"{kw} {prep}":
                 return True
-
     return False
 
 
@@ -263,7 +281,8 @@ def extract_programmes(tree, channel_ids_by_canonical, window_start, window_end,
 
         # --- Les deux filtres, en parallèle ---
         serie = match_series(title, subtitle, series_entries)
-        terroir = title_matches(title) or title_matches(subtitle)
+        terroir = (title_matches(title) or title_matches(subtitle)
+                   or est_collection(title))
 
         if not no_filter and not (serie or terroir):
             continue
