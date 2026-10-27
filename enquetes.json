@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:57:26.472948+00:00",
+  "generated_at": "2026-10-27T21:05:05.417569+00:00",
   "window_start": "2026-10-27",
   "window_end": "2026-11-03",
   "source": "Pickx via iptv-org/epg",
@@ -13,8 +13,53 @@
   ],
   "missing_channels": [],
   "series_count": 63,
-  "count": 23,
+  "count": 28,
   "programmes": [
+    {
+      "start": "2026-10-27T20:05:00+00:00",
+      "stop": "2026-10-27T21:35:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Pays catalan",
+      "description": "Des spéléologues trouvent le cadavre d'une femme mis en scène de manière étrange, entouré de serpents. Deux jours plus tard, une deuxième victime est retrouvée dans les mêmes circonstances.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "11.1.0/1",
+        "onscreen": "S12E02"
+      }
+    },
+    {
+      "start": "2026-10-27T21:23:00+00:00",
+      "stop": "2026-10-27T23:09:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à l'abbaye de Rouen",
+      "subtitle": "",
+      "description": "Didier Mège, policier, revient dans sa ville natale de Rouen pour se rapprocher de son père. Mais un cadavre est retrouvé au pied de l'Abbatiale, et l'étrange position du corps rappelle un vitrail réalisé par son grand-père. Accident? Suicide? Meurtre?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-10-28T13:05:00+00:00",
+      "stop": "2026-10-28T14:40:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Pays catalan",
+      "description": "Des spéléologues trouvent le cadavre d'une femme mis en scène de manière étrange, entouré de serpents. Deux jours plus tard, une deuxième victime est retrouvée dans les mêmes circonstances.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "11.1.0/1",
+        "onscreen": "S12E02"
+      }
+    },
     {
       "start": "2026-10-28T22:34:00+00:00",
       "stop": "2026-10-28T23:27:00+00:00",
@@ -264,6 +309,38 @@
       "origine": "serie",
       "serie": "Le Mystère de la chambre jaune",
       "episode_nums": {}
+    },
+    {
+      "start": "2026-11-01T13:35:00+00:00",
+      "stop": "2026-11-01T15:20:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à",
+      "subtitle": "l'Ile d'Yeu",
+      "description": "Isabelle Bonnefoy est une célèbre navigatrice. Ce choix de vie l'a longtemps éloignée de sa famille, installée sur l'île d'Yeu, mais elle est à présent prête à tout pour renouer avec eux. Tandis qu'elle navigue avec son fils, Noah, en direction de l'île, ils interceptent un signal d'urgence : sur place, ils découvrent un cadavre décapité flottant à la surface de l'eau. Très vite, l'enquête démarre, menée par le commandant Nicolas Lemeur. Ce même Nicolas avec lequel Isabelle a vécu, autrefois, une grande histoire d'amour…",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "3.6.0/1",
+        "onscreen": "S04E07"
+      }
+    },
+    {
+      "start": "2026-11-01T14:27:00+00:00",
+      "stop": "2026-11-01T16:00:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Pays catalan",
+      "description": "Des spéléologues trouvent le cadavre d'une femme mis en scène de manière étrange, entouré de serpents. Deux jours plus tard, une deuxième victime est retrouvée dans les mêmes circonstances.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "11.1.0/1",
+        "onscreen": "S12E02"
+      }
     },
     {
       "start": "2026-11-01T16:38:00+00:00",
