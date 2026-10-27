@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:05:05.417569+00:00",
+  "generated_at": "2026-10-27T21:15:29.024367+00:00",
   "window_start": "2026-10-27",
   "window_end": "2026-11-03",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 63,
-  "count": 28,
+  "series_count": 64,
+  "count": 29,
   "programmes": [
     {
       "start": "2026-10-27T20:05:00+00:00",
@@ -43,6 +43,22 @@
       "origine": "telefilm",
       "serie": null,
       "episode_nums": {}
+    },
+    {
+      "start": "2026-10-27T21:40:00+00:00",
+      "stop": "2026-10-27T23:10:00+00:00",
+      "channel": "France 3",
+      "title": "Poulets grillés",
+      "subtitle": "Les secrets de l'hôtel",
+      "description": "Qui a tué Sofia Popova, la femme de ménage du charmant hôtel tenu par la famille Leroy ? Une nouvelle enquête pour la 4e brigade.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Poulets grillés",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
     },
     {
       "start": "2026-10-28T13:05:00+00:00",
