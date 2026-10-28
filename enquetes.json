@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T21:15:29.024367+00:00",
-  "window_start": "2026-10-27",
-  "window_end": "2026-11-03",
+  "generated_at": "2026-10-28T11:30:14.649491+00:00",
+  "window_start": "2026-10-28",
+  "window_end": "2026-11-04",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,53 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 29,
+  "count": 33,
   "programmes": [
-    {
-      "start": "2026-10-27T20:05:00+00:00",
-      "stop": "2026-10-27T21:35:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres en Pays catalan",
-      "description": "Des spéléologues trouvent le cadavre d'une femme mis en scène de manière étrange, entouré de serpents. Deux jours plus tard, une deuxième victime est retrouvée dans les mêmes circonstances.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "11.1.0/1",
-        "onscreen": "S12E02"
-      }
-    },
-    {
-      "start": "2026-10-27T21:23:00+00:00",
-      "stop": "2026-10-27T23:09:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à l'abbaye de Rouen",
-      "subtitle": "",
-      "description": "Didier Mège, policier, revient dans sa ville natale de Rouen pour se rapprocher de son père. Mais un cadavre est retrouvé au pied de l'Abbatiale, et l'étrange position du corps rappelle un vitrail réalisé par son grand-père. Accident? Suicide? Meurtre?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-10-27T21:40:00+00:00",
-      "stop": "2026-10-27T23:10:00+00:00",
-      "channel": "France 3",
-      "title": "Poulets grillés",
-      "subtitle": "Les secrets de l'hôtel",
-      "description": "Qui a tué Sofia Popova, la femme de ménage du charmant hôtel tenu par la famille Leroy ? Une nouvelle enquête pour la 4e brigade.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Poulets grillés",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
     {
       "start": "2026-10-28T13:05:00+00:00",
       "stop": "2026-10-28T14:40:00+00:00",
@@ -141,8 +96,8 @@
       }
     },
     {
-      "start": "2026-10-30T19:51:00+00:00",
-      "stop": "2026-10-30T21:34:00+00:00",
+      "start": "2026-10-30T19:48:00+00:00",
+      "stop": "2026-10-30T21:31:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
       "subtitle": "La forêt perchée",
@@ -468,6 +423,118 @@
       "episode_nums": {
         "xmltv_ns": "0.2.0/1",
         "onscreen": "S01E03"
+      }
+    },
+    {
+      "start": "2026-11-03T00:52:00+00:00",
+      "stop": "2026-11-03T02:24:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Pays catalan",
+      "description": "Des spéléologues trouvent le cadavre d'une femme mis en scène de manière étrange, entouré de serpents. Deux jours plus tard, une deuxième victime est retrouvée dans les mêmes circonstances.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "11.1.0/1",
+        "onscreen": "S12E02"
+      }
+    },
+    {
+      "start": "2026-11-03T13:25:00+00:00",
+      "stop": "2026-11-03T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Plongée dans le passé",
+      "description": "Léa et Paul enquêtent sur la mort de Nicolas, retrouvé sous un ponton. Il avait disparu la veille à l'occasion d'une sortie nocturne en pleine mer. Le légiste est intrigué par des traces de brûlures anciennes sur son corps. Il incite les enquêteurs à rechercher dans quel centre il a été soigné. Ils découvrent que la victime a changé d'identité il y a cinq ans, suite à l'incendie de son entreprise, à Royan. Il a été grièvement brûlé. Sa secrétaire est décédée.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-11-03T14:30:00+00:00",
+      "stop": "2026-11-03T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "La tête du coupable",
+      "description": "La fille du propriétaire d'une manade est retrouvée morte au petit matin. Alors que tout laisse à penser qu'il s'agit d'un meurtre passionnel, la gérante du gîte attenant s'accuse. Or, ni le mobile, ni les preuves ne concordent...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
+      }
+    },
+    {
+      "start": "2026-11-03T15:30:00+00:00",
+      "stop": "2026-11-03T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Tour de piste",
+      "description": "De passage dans un petit village, un directeur de cirque est retrouvé mort dans le centre historique. Alors que les soupçons se portent sur l'entourage de la victime avec qui il pouvait être en conflit, les gendarmes découvrent que le cadet de cette famille de Circassien a trouvé la mort dans ce même village, dix ans auparavant...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
+      }
+    },
+    {
+      "start": "2026-11-03T20:05:00+00:00",
+      "stop": "2026-11-03T21:40:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Béarn",
+      "description": "Au pied des montagnes du Béarn, l'épouse d'un notable est retrouvée noyée sous le pont de la Légende de Sauveterre. Jeanne, capitaine de la brigade de recherche d'Oloron, gouailleuse, se retrouve flanquée d'Héloïse, élégante bourgeoise. Jadis très amies, les deux quinquas se détestent.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.1.0/1",
+        "onscreen": "S10E02"
+      }
+    },
+    {
+      "start": "2026-11-03T20:10:00+00:00",
+      "stop": "2026-11-03T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La Vallée des oubliés",
+      "description": "La nouvelle compagne d'Angelo, l'ex-chef de la police rurale aujourd'hui à la retraite, disparaît soudainement sans laisser de traces. Face à l'impuissance de la gendarmerie de Grenoble qui ne trouve aucune piste solide, Angelo, paniqué, appelle Alex à la rescousse. Bien qu'elle n'ait aucune autorité légale pour enquêter dans cette région, l'équipe de la Rurale se reforme. Très vite, leurs investigations officieuses les mènent vers une découverte inquiétante : il ne s'agit pas de la première disparition non résolue dans cette mystérieuse vallée. Alex et Angelo envisagent alors la possibilité qu'un tueur en série rôde dans la région...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "11.2.0/1",
+        "onscreen": "S12E03"
+      }
+    },
+    {
+      "start": "2026-11-03T21:40:00+00:00",
+      "stop": "2026-11-03T23:15:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Pour le meilleur et pour le pire",
+      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
       }
     }
   ]
