@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T15:31:17.661655+00:00",
-  "window_start": "2026-10-28",
-  "window_end": "2026-11-04",
+  "generated_at": "2026-10-29T11:40:07.727921+00:00",
+  "window_start": "2026-10-29",
+  "window_end": "2026-11-05",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,40 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 33,
+  "count": 35,
   "programmes": [
-    {
-      "start": "2026-10-28T13:05:00+00:00",
-      "stop": "2026-10-28T14:40:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres en Pays catalan",
-      "description": "Des spéléologues trouvent le cadavre d'une femme mis en scène de manière étrange, entouré de serpents. Deux jours plus tard, une deuxième victime est retrouvée dans les mêmes circonstances.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "11.1.0/1",
-        "onscreen": "S12E02"
-      }
-    },
-    {
-      "start": "2026-10-28T22:36:00+00:00",
-      "stop": "2026-10-28T23:29:00+00:00",
-      "channel": "TF1",
-      "title": "Tracker",
-      "subtitle": "Le secret de Riley",
-      "description": "Une nouvelle piste dans l'affaire qui hante Colter depuis des années, à savoir la disparition de Gina Picket, le pousse à refaire équipe avec Keaton, le policier à la retraite, pour traquer un tueur en série.",
-      "category": "Action",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "1.17.0/1",
-        "onscreen": "S02E18"
-      }
-    },
     {
       "start": "2026-10-29T13:05:00+00:00",
       "stop": "2026-10-29T13:53:00+00:00",
@@ -535,6 +503,70 @@
       "episode_nums": {
         "xmltv_ns": "3.1.0/1",
         "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-11-04T13:05:00+00:00",
+      "stop": "2026-11-04T14:42:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Béarn",
+      "description": "Au pied des montagnes du Béarn, l'épouse d'un notable est retrouvée noyée sous le pont de la Légende de Sauveterre. Jeanne, capitaine de la brigade de recherche d'Oloron, gouailleuse, se retrouve flanquée d'Héloïse, élégante bourgeoise. Jadis très amies, les deux quinquas se détestent.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.1.0/1",
+        "onscreen": "S10E02"
+      }
+    },
+    {
+      "start": "2026-11-04T13:35:00+00:00",
+      "stop": "2026-11-04T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "L'inaccessible étoile",
+      "description": "Un astronome amateur est retrouvé mort, tué sur son lieu de travail. La victime étant sans histoire, nos enquêteurs suivent la trace de deux jeunes délinquants qui étaient sur le lieu du crime ce matin-là. Mais une plongée dans l'univers de l'astronomie montrera que la réalité est bien plus sombre...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.6.0/1",
+        "onscreen": "S01E07"
+      }
+    },
+    {
+      "start": "2026-11-04T14:30:00+00:00",
+      "stop": "2026-11-04T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Convictions",
+      "description": "Un homme est retrouvé mort dans l'enceinte d'une usine. Comment est-il mort ? L'usine est-elle le lieu du crime ? Et qui aurait intérêt à porter préjudice à cette entreprise ? Nos enquêteurs vont mener leurs investigations dans l'univers des ostréiculteurs...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.7.0/1",
+        "onscreen": "S01E08"
+      }
+    },
+    {
+      "start": "2026-11-04T15:30:00+00:00",
+      "stop": "2026-11-04T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Sur la route de la rédemption",
+      "description": "Un homme est retrouvé mort dans son oliveraie. Alors que l'homme semble bien sous tout rapport, nos enquêteurs remarquent un changement de comportement depuis plusieurs mois. Ils vont se rendre compte qu'il a renversé une jeune fille sur le bord de la route. Qui aurait pu l'assassiner ? Le père de la fille actuellement dans le coma ? Un industriel qui pourrait avoir un intérêt financier ? Ou bien la famille de l'homme ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.8.0/1",
+        "onscreen": "S01E09"
       }
     }
   ]
