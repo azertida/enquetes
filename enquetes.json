@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T15:39:49.137438+00:00",
-  "window_start": "2026-10-29",
-  "window_end": "2026-11-05",
+  "generated_at": "2026-10-30T11:31:57.353876+00:00",
+  "window_start": "2026-10-30",
+  "window_end": "2026-11-06",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,56 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 35,
+  "count": 38,
   "programmes": [
-    {
-      "start": "2026-10-29T13:05:00+00:00",
-      "stop": "2026-10-29T13:53:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Undercover - 1",
-      "description": "Dans une cité, un garagiste est retrouvé mort, écrasé par une voiture sous son pont élévateur. Un tragique accident ? Un élément oriente nos enquêteurs vers un classique du genre : un meurtre déguisé en accident. Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité. Elles découvrent ainsi qu'un trafic de drogue est sans doute à l'origine de la mort du garagiste et que le silence des mères cache possiblement autre chose que la peur.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.14.0/1",
-        "onscreen": "S04E15"
-      }
-    },
-    {
-      "start": "2026-10-29T13:53:00+00:00",
-      "stop": "2026-10-29T14:45:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Undercover - 2",
-      "description": "Face au silence des habitants, Clarissa et Tahia décident d'infiltrer la cité.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.15.0/1",
-        "onscreen": "S04E16"
-      }
-    },
-    {
-      "start": "2026-10-29T20:10:00+00:00",
-      "stop": "2026-10-29T21:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres au Mont-Saint-Michel",
-      "description": "Dans les gorges du Verdon, enquête sur le meurtre d'un homme de 78 ans, retrouvé mort sur le barrage de Castillon dans une position étrange.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "8.6.0/1",
-        "onscreen": "S09E07"
-      }
-    },
     {
       "start": "2026-10-30T19:48:00+00:00",
       "stop": "2026-10-30T21:31:00+00:00",
@@ -112,8 +64,8 @@
       }
     },
     {
-      "start": "2026-10-31T14:49:00+00:00",
-      "stop": "2026-10-31T16:37:00+00:00",
+      "start": "2026-10-31T14:44:00+00:00",
+      "stop": "2026-10-31T16:32:00+00:00",
       "channel": "La Une",
       "title": "Meurtres au Pays Basque",
       "subtitle": "",
@@ -125,8 +77,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-10-31T16:37:00+00:00",
-      "stop": "2026-10-31T17:36:00+00:00",
+      "start": "2026-10-31T16:32:00+00:00",
+      "stop": "2026-10-31T17:32:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "La revenante",
@@ -141,8 +93,8 @@
       }
     },
     {
-      "start": "2026-10-31T19:52:00+00:00",
-      "stop": "2026-10-31T20:48:00+00:00",
+      "start": "2026-10-31T19:51:00+00:00",
+      "stop": "2026-10-31T20:47:00+00:00",
       "channel": "La Une",
       "title": "L'art du crime",
       "subtitle": "La deuxième odalisque - 1ère partie",
@@ -173,8 +125,8 @@
       }
     },
     {
-      "start": "2026-10-31T20:48:00+00:00",
-      "stop": "2026-10-31T21:47:00+00:00",
+      "start": "2026-10-31T20:47:00+00:00",
+      "stop": "2026-10-31T21:46:00+00:00",
       "channel": "La Une",
       "title": "L'art du crime",
       "subtitle": "La deuxième odalisque - 2ème partie",
@@ -282,8 +234,8 @@
       }
     },
     {
-      "start": "2026-11-01T16:38:00+00:00",
-      "stop": "2026-11-01T17:39:00+00:00",
+      "start": "2026-11-01T16:40:00+00:00",
+      "stop": "2026-11-01T17:41:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Dernière danse",
@@ -298,8 +250,8 @@
       }
     },
     {
-      "start": "2026-11-01T19:50:00+00:00",
-      "stop": "2026-11-01T20:44:00+00:00",
+      "start": "2026-11-01T19:51:00+00:00",
+      "stop": "2026-11-01T20:46:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Zoë",
@@ -314,8 +266,8 @@
       }
     },
     {
-      "start": "2026-11-01T20:44:00+00:00",
-      "stop": "2026-11-01T21:48:00+00:00",
+      "start": "2026-11-01T20:46:00+00:00",
+      "stop": "2026-11-01T21:50:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Daniël",
@@ -567,6 +519,102 @@
       "episode_nums": {
         "xmltv_ns": "0.8.0/1",
         "onscreen": "S01E09"
+      }
+    },
+    {
+      "start": "2026-11-05T13:05:00+00:00",
+      "stop": "2026-11-05T13:53:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Jane Doe - 1",
+      "description": "Le corps d'une femme victime de sévices est retrouvé sur une plage. Il apparait qu'elle s'est noyée dans une piscine et a été jetée post-mortem à la mer.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.16.0/1",
+        "onscreen": "S04E17"
+      }
+    },
+    {
+      "start": "2026-11-05T13:30:00+00:00",
+      "stop": "2026-11-05T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Les liens du sang",
+      "description": "Au lendemain d'une fête de village, un guitariste, est retrouvé sur la place dans une benne à ordure. La soirée aurait-elle dégénérée ? Règlement de compte ? Rivalité? Nos gendarmes vont aussi se pencher sur la piste d'une mystérieuse femme, danseuse émérite, avec qui l'homme semblait entretenir une relation passionnelle.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.9.0/1",
+        "onscreen": "S01E10"
+      }
+    },
+    {
+      "start": "2026-11-05T13:53:00+00:00",
+      "stop": "2026-11-05T14:46:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "OPJ, Pacifique Sud",
+      "subtitle": "Jane Doe-2",
+      "description": "Le couple est accusé d'avoir infligé des sévices à leur baby-sitter. Tahia se glisse alors dans la peau de la victime pour tenter de comprendre ce qu'il lui est arrivé.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "OPJ",
+      "episode_nums": {
+        "xmltv_ns": "3.17.0/1",
+        "onscreen": "S04E18"
+      }
+    },
+    {
+      "start": "2026-11-05T14:30:00+00:00",
+      "stop": "2026-11-05T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Un anneau d'or - 1",
+      "description": "Un jeune homme est retrouvé pendu à un arbre. C'est en enquêtant sur ce meurtre que Léa et Paul vont faire le lien avec un crime non élucidé. De son côté, Crosne est prêt à tout pour venger sa fille décédée il y a cinq ans, jusqu'à enlever Paul pour l'utiliser comme monnaie d'échange contre le présumé coupable... Léa aura très peu de temps pour résoudre cette enquête et ainsi sauver Paul. Léa comprend qu'elle doit agir très vite, car son agresseur montre qu'il ne reculera devant rien pour obtenir ce qu'il souhaite. Comment le retrouver avant qu'il ne commette l'irréparable ? Comment savoir ce qui est arrivé à la fille de Crosne ?...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.10.0/1",
+        "onscreen": "S01E11"
+      }
+    },
+    {
+      "start": "2026-11-05T15:30:00+00:00",
+      "stop": "2026-11-05T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Un anneau d'or - 2",
+      "description": "Avec Paul aux mains de Crosne, Léa sait qu'elle n'a pas une minute à perdre pour tenter de faire éclater la vérité. Y arrivera-t-elle à temps ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "0.11.0/1",
+        "onscreen": "S01E12"
+      }
+    },
+    {
+      "start": "2026-11-05T20:10:00+00:00",
+      "stop": "2026-11-05T21:50:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Lille",
+      "description": "Le cadavre du sculpteur Victor Mauron est retrouvé quelques heures avec l'ouverture au public du musée de la Piscine de Roubaix. La substitut du procureur a décidé de faire venir le commandant Caroline Flament afin d'enquêter. Elle va faire équipe avec William Henry. Leur relation est loin d'être au beau fixe. Caroline venue de Paris retrouve son amie d'enfance Astrid d'Armentières. Celle-ci travaille comme scénographe du sculpteur.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "6.1.0/1",
+        "onscreen": "S07E02"
       }
     }
   ]
