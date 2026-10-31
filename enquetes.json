@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T15:22:45.648852+00:00",
-  "window_start": "2026-10-30",
-  "window_end": "2026-11-06",
+  "generated_at": "2026-10-31T11:04:00.180708+00:00",
+  "window_start": "2026-10-31",
+  "window_end": "2026-11-07",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,56 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 38,
+  "count": 44,
   "programmes": [
-    {
-      "start": "2026-10-30T19:48:00+00:00",
-      "stop": "2026-10-30T21:31:00+00:00",
-      "channel": "La Une",
-      "title": "Le voyageur",
-      "subtitle": "La forêt perchée",
-      "description": "Yann Kandinsky est contacté par la commissaire Macéna qui a reçu une lettre que seul Kandinsky pouvait prendre au sérieux.La lettre a été écrite par un certain Michaël, un enfant de 10 ans, lequel supplie la police d'arrêter le monstre qui a enlevé plusieurs personnes dans la forêt. La proximité de ce dernier interdit à Michaël le sous-bois, ce qui représente un drame pour lui. Enfant solitaire, il y passe, dès qu'il le peut, toutes ses journées. Il est passionné par les plantes, les pierres, les arbres.Michaël, persuadé que le monstre habite Murce, son village, suggère à la police d'enquêter discrètement, pour ne pas éveiller les soupçons. Si la police n'intercède pas en sa faveur, Michaël envisage d'arrêter le coupable lui-même en employant la seule arme dont dispose un enfant de dix ans, la malice. Dix ans, Kandinsky est à la fois stupéfait et touché par cet appel au secours. Macéna s'est renseignée. Une femme de 42 ans a bien disparu deux ans plus tôt dans cette forêt, elle n'a jamais été retrouvée.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "2.0.0/1",
-        "onscreen": "S03E01"
-      }
-    },
-    {
-      "start": "2026-10-30T20:10:00+00:00",
-      "stop": "2026-10-30T21:00:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "EVJF",
-      "description": "Un enterrement de vie de jeune fille vire au cauchemar lorsque Jessica, une des participantes, est retrouvée morte au pied d'un ravin, en pleine nature. Très vite, l'enquête de Simon Coleman révèle que derrière l'apparente légèreté de ce week-end entre amies, rivalités, jalousies et secrets enfouis refont surface. Chaque membre du groupe pourrait avoir une bonne raison de vouloir faire taire la victime...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.4.0/1",
-        "onscreen": "S04E05"
-      }
-    },
-    {
-      "start": "2026-10-30T21:00:00+00:00",
-      "stop": "2026-10-30T21:55:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Millésime",
-      "description": "Simon et Chloé enquêtent pour découvrir qui a tué le vigneron Jean Chassagne : un rival qui hait la victime, le jeune maître de chai ou sa fille ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "1.4.0/1",
-        "onscreen": "S02E05"
-      }
-    },
     {
       "start": "2026-10-31T14:44:00+00:00",
       "stop": "2026-10-31T16:32:00+00:00",
@@ -93,7 +45,7 @@
       }
     },
     {
-      "start": "2026-10-31T19:51:00+00:00",
+      "start": "2026-10-31T19:52:00+00:00",
       "stop": "2026-10-31T20:47:00+00:00",
       "channel": "La Une",
       "title": "L'art du crime",
@@ -234,8 +186,8 @@
       }
     },
     {
-      "start": "2026-11-01T16:40:00+00:00",
-      "stop": "2026-11-01T17:41:00+00:00",
+      "start": "2026-11-01T16:38:00+00:00",
+      "stop": "2026-11-01T17:39:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Dernière danse",
@@ -250,8 +202,8 @@
       }
     },
     {
-      "start": "2026-11-01T19:51:00+00:00",
-      "stop": "2026-11-01T20:46:00+00:00",
+      "start": "2026-11-01T19:52:00+00:00",
+      "stop": "2026-11-01T20:47:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Zoë",
@@ -266,8 +218,8 @@
       }
     },
     {
-      "start": "2026-11-01T20:46:00+00:00",
-      "stop": "2026-11-01T21:50:00+00:00",
+      "start": "2026-11-01T20:47:00+00:00",
+      "stop": "2026-11-01T21:51:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Daniël",
@@ -615,6 +567,150 @@
       "episode_nums": {
         "xmltv_ns": "6.1.0/1",
         "onscreen": "S07E02"
+      }
+    },
+    {
+      "start": "2026-11-06T13:30:00+00:00",
+      "stop": "2026-11-06T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Dans les mailles du filet",
+      "description": "Le corps d'une femme est retrouvé par des promeneurs, rejeté par la mer. Il s'agit de Marianne Pellat, seule femme marin pêcheur du port voisin. Son bateau est introuvable. L'autopsie fait apparaître qu'elle est morte noyée, mais pas en mer.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "1.0.0/1",
+        "onscreen": "S02E01"
+      }
+    },
+    {
+      "start": "2026-11-06T14:30:00+00:00",
+      "stop": "2026-11-06T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Le monde du silence",
+      "description": "Un vétérinaire est retrouvé assassiné où il travaillait. Rapidement nos enquêteurs vont s'apercevoir qu'avec son ex-femme ils se disputaient la garde de leurs enfants. Sa mort serait-elle la conséquence d'un drame familial ? Où est-ce sa passion pour les animaux qui aurait eu raison de lui ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "1.1.0/1",
+        "onscreen": "S02E02"
+      }
+    },
+    {
+      "start": "2026-11-06T15:25:00+00:00",
+      "stop": "2026-11-06T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Instinct de survie",
+      "description": "Une femme est retrouvée pendue dans son jardin. Tout semble indiquer un suicide, mais certains détails ne collent pas. Soler et Marchal vont s'apercevoir que les méthodes de gestion de l'entreprise où elle travaillait ne sont pas exemplaires. Est-ce que la pression infligée aurait pu pousser un employé à commettre l'irréparable ? Où la vérité est-elle ailleurs ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
+    },
+    {
+      "start": "2026-11-06T19:58:00+00:00",
+      "stop": "2026-11-06T21:39:00+00:00",
+      "channel": "La Une",
+      "title": "Le voyageur",
+      "subtitle": "Le danseur de verre",
+      "description": "Yann Kandinsky se ressource dans une forêt située au fin fond de l'Allier, désireux de prendre du recul, après avoir affronté les pires criminels, mais sa tranquillité est de courte durée, le policier est contacté par un homme qui l'appelle sans décliner son identité. Ce dernier établit un lien entre trois disparitions de femmes intervenues dans un même secteur géographique, autour de Brest. Kandinsky refuse de se mobiliser. L'inconnu n'a de cesse d'alimenter la boîte mail de Kandinsky d'articles de presse concernant ces affaires.Kandinsky prend la route pour la Bretagne, lorsqu'il découvre que la mère de l'une des disparues, Madeleine Guyot, entame sa troisième semaine de grève de la faim afin que la police s'intéresse à ce qu'elle considère comme un enlèvement et non une disparition volontaire. Le Voyageur va établir \"son quartier général\" chez Madeleine. Les proches des disparues vont constituer sa brigade. En rassemblant les indices, Kandinsky va retrouver le mystérieux lien qui réunissait ces femmes...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "2.2.0/1",
+        "onscreen": "S03E03"
+      }
+    },
+    {
+      "start": "2026-11-06T20:10:00+00:00",
+      "stop": "2026-11-06T21:00:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Fouilles mortelles",
+      "description": "Fin de journée sur un chantier de fouilles archéologique près d'Aix : Damien Lagrange, archéologue star, reste seul à travailler quand la nuit tombe. Quelques heures plus tard, il est retrouvé mort au milieu des tranchées, victime d'un coup porté avec un outil du site. Chargé de l'enquête, Simon Coleman découvre un univers miné par les rivalités, les ambitions déçues et des incidents troublants survenus avant le drame. Entre collègues jaloux, liaisons cachées, sabotages mystérieux et trafic d'antiquités, Simon va vite comprendre que chacun semble avoir un secret enfoui...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
+      }
+    },
+    {
+      "start": "2026-11-06T21:00:00+00:00",
+      "stop": "2026-11-06T21:55:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Juste une illusion",
+      "description": "Stella, une star de la magie, décède pendant les répétitions de son nouveau tour. Simon et Chloé découvrent qu'il s'agit d'un meurtre. En effet, les menottes dont elle devait se détacher ont été trafiquées. Elle n'avait aucune chance de sortir vivante de son caisson rempli d'eau, les mains ainsi entravées. Très vite, l'assistant de la magicienne est suspecté. Voulant occuper lui aussi le devant de la scène, il ne supportait plus d'être dans l'ombre de la vedette. Les deux enquêteurs investissent le milieu de la magie plein de fausses trappes et de mystères pour découvrir que d'autres suspects se cachent dans l'ombre. Simon et Chloé ne croient pas à la magie, il y a forcément un truc logique pour attraper le tueur...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "1.5.0/1",
+        "onscreen": "S02E06"
+      }
+    },
+    {
+      "start": "2026-11-06T21:55:00+00:00",
+      "stop": "2026-11-06T22:45:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Entre chien et loup",
+      "description": "Dans un centre canin réputé, un dresseur reconnu est retrouvé mort, victime d'un mode opératoire aussi discret qu'inquiétant. L'enquête de Simon Coleman met au jour un univers en apparence exemplaire, où se croisent notables, animaux de compagnie et passions dévorantes. Mais derrière les concours d'agility et les chiens bien dressés, émergent des pratiques illégales et des secrets dangereux. Très vite, Simon comprend que ce meurtre n'est que la partie visible d'un drame bien plus sombre...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.3.0/1",
+        "onscreen": "S04E04"
+      }
+    },
+    {
+      "start": "2026-11-06T22:45:00+00:00",
+      "stop": "2026-11-06T23:30:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "EVJF",
+      "description": "Un enterrement de vie de jeune fille vire au cauchemar lorsque Jessica, une des participantes, est retrouvée morte au pied d'un ravin, en pleine nature. Très vite, l'enquête de Simon Coleman révèle que derrière l'apparente légèreté de ce week-end entre amies, rivalités, jalousies et secrets enfouis refont surface. Chaque membre du groupe pourrait avoir une bonne raison de vouloir faire taire la victime...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.4.0/1",
+        "onscreen": "S04E05"
+      }
+    },
+    {
+      "start": "2026-11-06T23:30:00+00:00",
+      "stop": "2026-11-07T00:20:00+00:00",
+      "channel": "France 2",
+      "title": "Simon Coleman",
+      "subtitle": "Fouilles mortelles",
+      "description": "Fin de journée sur un chantier de fouilles archéologique près d'Aix : Damien Lagrange, archéologue star, reste seul à travailler quand la nuit tombe. Quelques heures plus tard, il est retrouvé mort au milieu des tranchées, victime d'un coup porté avec un outil du site. Chargé de l'enquête, Simon Coleman découvre un univers miné par les rivalités, les ambitions déçues et des incidents troublants survenus avant le drame. Entre collègues jaloux, liaisons cachées, sabotages mystérieux et trafic d'antiquités, Simon va vite comprendre que chacun semble avoir un secret enfoui...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Simon Coleman",
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
       }
     }
   ]
