@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T14:51:14.278600+00:00",
-  "window_start": "2026-10-31",
-  "window_end": "2026-11-07",
+  "generated_at": "2026-11-01T11:57:31.337110+00:00",
+  "window_start": "2026-11-01",
+  "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,133 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 44,
+  "count": 43,
   "programmes": [
-    {
-      "start": "2026-10-31T14:44:00+00:00",
-      "stop": "2026-10-31T16:32:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres au Pays Basque",
-      "subtitle": "",
-      "description": "Le capitaine Marie Daguerre et Vincent Becker sont obligés de collaborer pour résoudre une sombre affaire du meurtre d'une jeune femme, tuée selon un mode d'exécution du Moyen Âge, et la disparition du fils de Becker",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-10-31T16:32:00+00:00",
-      "stop": "2026-10-31T17:32:00+00:00",
-      "channel": "La Une",
-      "title": "Léo Mattéï, brigade des mineurs",
-      "subtitle": "La revenante",
-      "description": "Aprèscinq ans de captivité, Léa Jacmin,onze ans, réussit à échapper aux griffes de son ravisseur. Pour pouvoir arrêter au plus vite ce kidnappeur, Léo Mattéï et ses hommes doivent réussir à faire parler la petite Léa, tout en l'aidant à retrouver sa place au sein d'une sa famille qui avait perdu tout espoir de la retrouver...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Léo Mattéi",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
-    {
-      "start": "2026-10-31T19:52:00+00:00",
-      "stop": "2026-10-31T20:47:00+00:00",
-      "channel": "La Une",
-      "title": "L'art du crime",
-      "subtitle": "La deuxième odalisque - 1ère partie",
-      "description": "Julie Delmas, la conceptrice d'un jeu de réalité virtuelle est retrouvée assassinée dans son bureau. Pour mener l'enquête, Antoine et Florence vont devoir résoudre les énigmes de ce jeu consacré à l'univers du peintre Ingres. Le duo plonge ainsi dans le monde sensuel et coloré de l'artiste.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": "7.2.0/1",
-        "onscreen": "S08E03"
-      }
-    },
-    {
-      "start": "2026-10-31T20:10:00+00:00",
-      "stop": "2026-10-31T21:45:00+00:00",
-      "channel": "France 3",
-      "title": "Le voyageur",
-      "subtitle": "Le sentier perdu",
-      "description": "Il y a quinze ans, un fait divers d'une rare violence, perpétré à Ruisselin, un village provençal situé près de Marseille, a défrayé la chronique. Trois membres d'une même famille avaient été assassinés. Le mari, Jacques Laugier, avait été condamné pour les meurtres de son épouse et de ses deux enfants. Henri Bonnal, un tueur en série que Yann Kandinsky a traqué pendant un près d'un an et qui est aujourd'hui emprisonné, contacte l'ex-policier. Il a la certitude que Jacques Augier, dont il a fait la connaissance en prison, est innocent. Il propose un marché à Kandinsky : s'il retrouve le véritable auteur de la tuerie de Ruisselin, le serial killer lui dira où il a enterré ses victimes...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-10-31T20:47:00+00:00",
-      "stop": "2026-10-31T21:46:00+00:00",
-      "channel": "La Une",
-      "title": "L'art du crime",
-      "subtitle": "La deuxième odalisque - 2ème partie",
-      "description": "Julie Delmas, la conceptrice d'un jeu de réalité virtuelle est retrouvée assassinée dans son bureau. Pour mener l'enquête, Antoine et Florence vont devoir résoudre les énigmes de ce jeu consacré à l'univers du peintre Ingres. Le duo plonge ainsi dans le monde sensuel et coloré de l'artiste.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": "7.3.0/1",
-        "onscreen": "S08E04"
-      }
-    },
-    {
-      "start": "2026-10-31T21:45:00+00:00",
-      "stop": "2026-10-31T23:15:00+00:00",
-      "channel": "France 3",
-      "title": "Le voyageur",
-      "subtitle": "Le Voleur de nuits",
-      "description": "Thomas Bareski est appelé près de Noirmoutier par la Juge Claire Elgouarch, dans le cadre d'une affaire non résolue : la disparition de Marion, 7 ans, en 1991. Fille du gendarme en charge de l'enquête à l'époque, la juge confie à Bareski, le dernier rebondissement : une lettre de remords de l'assassin, vieux et malade, adressée à la famille. Mais est-il encore possible de faire toute la lumière sur cette affaire ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "0.2.0/1",
-        "onscreen": "S01E03"
-      }
-    },
-    {
-      "start": "2026-10-31T21:46:00+00:00",
-      "stop": "2026-10-31T22:34:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Jane Doe - 1",
-      "description": "Le corps d'une femme victime de sévices est retrouvé sur une plage. Il apparait qu'elle s'est noyée dans une piscine et a été jetée post-mortem à la mer.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.16.0/1",
-        "onscreen": "S04E17"
-      }
-    },
-    {
-      "start": "2026-10-31T22:34:00+00:00",
-      "stop": "2026-10-31T23:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Jane Doe-2",
-      "description": "Le couple est accusé d'avoir infligé des sévices à leur baby-sitter. Tahia se glisse alors dans la peau de la victime pour tenter de comprendre ce qu'il lui est arrivé.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.17.0/1",
-        "onscreen": "S04E18"
-      }
-    },
     {
       "start": "2026-11-01T09:20:00+00:00",
       "stop": "2026-11-01T11:21:00+00:00",
@@ -711,6 +586,115 @@
       "episode_nums": {
         "xmltv_ns": "3.5.0/1",
         "onscreen": "S04E06"
+      }
+    },
+    {
+      "start": "2026-11-07T03:05:00+00:00",
+      "stop": "2026-11-07T03:30:00+00:00",
+      "channel": "France 3",
+      "title": "Escales en France",
+      "subtitle": "Les secrets de Marseille",
+      "description": "Ce magazine va nous faire découvrir les régions françaises en plongeant le téléspectateur au cœur d'une ville, d'un département français, d'une région, et lui fera découvrir son histoire, ses richesses patrimoniales, ses spécialités gastronomiques et ses lieux incontournables... Escales en France va à la rencontre de ces français agriculteurs, marins pêcheurs, artisans, restaurateurs, éleveurs, guides touristiques, tou s amoureux fous de leurs régions.",
+      "category": "Tourism",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.67.0/1",
+        "onscreen": "S01E68"
+      }
+    },
+    {
+      "start": "2026-11-07T13:50:00+00:00",
+      "stop": "2026-11-07T15:33:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres en Auvergne",
+      "subtitle": "",
+      "description": "Le corps d'une jeune femme est retrouvé près du Lac Pavin en Auvergne. La mise en scène du meurtre trouble les enquêteurs car elle n'est pas sans évoquer la légende du lac qui veut que les pécheurs de Besse, provoquant la colère de Dieu, ont été ensevelis, puis recouverts par les larmes du Diable. La victime était-elle considérée comme une pécheresse par son meurtrier? Le capitaine Bruno Romagnat entame l'enquête avec l'adjudant chef Aurélie Lefaivre, une enquête d'autant plus délicate pour lui qu'il connaissait la victime...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-07T15:33:00+00:00",
+      "stop": "2026-11-07T16:31:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "Sous pression",
+      "description": "Poursuivi par une bande, Romain, quatorze ans, presse le pas vers la sortie du lycée. Soudain, une voiture accélère et le percute. Le chauffard s'enfuit. La brigade enquête au sein du lycée pour découvrir, entre harcèlements et pressions qui sont le quotidien des adolescents, l'auteur de ce délit de fuite.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "1.3.0/1",
+        "onscreen": "S02E04"
+      }
+    },
+    {
+      "start": "2026-11-07T16:31:00+00:00",
+      "stop": "2026-11-07T17:35:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "Secrets de famille",
+      "description": "Une jeune fille âgée de 17 ans se jette par la fenêtre de sa chambre et manque de se tuer. A l'hôpital, on découvre qu'elle est enceinte de sept mois et qu'elle n'a qu'une obsession : avorter. La BPM est saisie pour éclaircir les véritables circonstances de cette grossesse et les raisons de cette tentative de suicide.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "2.0.0/1",
+        "onscreen": "S03E01"
+      }
+    },
+    {
+      "start": "2026-11-07T19:51:00+00:00",
+      "stop": "2026-11-07T21:34:00+00:00",
+      "channel": "La Une",
+      "title": "Cassandre",
+      "subtitle": "Sur le fil",
+      "description": "Léonore Costa débarque au commissariat, un couteau à la main, couverte de sang, et affirme avoir tué son mari Tony. Tout l'accuse, mais Cassandre sent que quelque chose cloche. L'enquête se dirige alors vers la filature de laine dirigée par la famille de Léonore et où travaillait Tony. Derrière les apparences, le meurtre semble lié aux traumatismes enfouis de cette famille influente brisée...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Cassandre",
+      "episode_nums": {
+        "xmltv_ns": "9.4.0/1",
+        "onscreen": "S10E05"
+      }
+    },
+    {
+      "start": "2026-11-07T20:10:00+00:00",
+      "stop": "2026-11-07T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Le voyageur",
+      "subtitle": "Le danseur de verre",
+      "description": "Yann Kandinsky se ressource dans une forêt située au fin fond de l'Allier, désireux de prendre du recul, après avoir affronté les pires criminels. Mais sa tranquillité est de courte durée : le policier est contacté par un homme qui l'appelle sans décliner son identité. Ce dernier établit un lien entre trois disparitions de femmes intervenues dans un même secteur géographique, autour de Brest. L'inconnu n'a de cesse d'alimenter la boîte mail de Kandinsky d'articles de presse concernant ces affaires. Kandinsky prend la route pour la Bretagne, lorsqu'il découvre que la mère de l'une des disparues, Madeleine Guyot, entame sa troisième semaine de grève de la faim afin que la police s'intéresse à ce qu'elle considère comme un enlèvement et non une disparition volontaire. Le Voyageur va établir son quartier général chez Madeleine...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "2.2.0/1",
+        "onscreen": "S03E03"
+      }
+    },
+    {
+      "start": "2026-11-07T21:40:00+00:00",
+      "stop": "2026-11-07T23:10:00+00:00",
+      "channel": "France 3",
+      "title": "Le voyageur",
+      "subtitle": "Le village assassiné",
+      "description": "Thomas Bareski arrive dans un village des Vosges qui six ans après le violent assassinat, non résolu, de la famille Schal, la mère, le père et leur bébé, est devenu un village fantôme.Grâce à quelques irréductibles, Bareski relancera une enquête qui permettra à cette bourgade de retrouver enfin la paix.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
       }
     }
   ]
