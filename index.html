@@ -654,7 +654,12 @@
                 if (!rep.ok) throw new Error('HTTP ' + rep.status);
                 const data = await rep.json();
 
-                programmes = data.programmes || [];
+                // Les journées télé déjà terminées disparaissent : à 21 h le
+                // mardi, la nuit de lundi à mardi (rangée sous lundi) n'a plus
+                // lieu d'être. Avant 2 h du matin, la veille reste affichée.
+                const aujourdhui = jourLogique(new Date());
+                programmes = (data.programmes || [])
+                    .filter(p => jourLogique(new Date(p.start)) >= aujourdhui);
 
                 const maj = new Date(data.generated_at);
                 const nbSeries = programmes.filter(p => p.origine === 'serie').length;
