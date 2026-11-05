@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T16:37:42.353978+00:00",
-  "window_start": "2026-11-04",
-  "window_end": "2026-11-11",
+  "generated_at": "2026-11-05T13:25:27.924307+00:00",
+  "window_start": "2026-11-05",
+  "window_end": "2026-11-12",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 45,
+  "count": 47,
   "programmes": [
-    {
-      "start": "2026-11-04T13:05:00+00:00",
-      "stop": "2026-11-04T14:42:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres en Béarn",
-      "description": "Au pied des montagnes du Béarn, l'épouse d'un notable est retrouvée noyée sous le pont de la Légende de Sauveterre. Jeanne, capitaine de la brigade de recherche d'Oloron, gouailleuse, se retrouve flanquée d'Héloïse, élégante bourgeoise. Jadis très amies, les deux quinquas se détestent.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.1.0/1",
-        "onscreen": "S10E02"
-      }
-    },
-    {
-      "start": "2026-11-04T13:35:00+00:00",
-      "stop": "2026-11-04T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "L'inaccessible étoile",
-      "description": "Un astronome amateur est retrouvé mort, tué sur son lieu de travail. La victime étant sans histoire, nos enquêteurs suivent la trace de deux jeunes délinquants qui étaient sur le lieu du crime ce matin-là. Mais une plongée dans l'univers de l'astronomie montrera que la réalité est bien plus sombre...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "0.6.0/1",
-        "onscreen": "S01E07"
-      }
-    },
-    {
-      "start": "2026-11-04T14:30:00+00:00",
-      "stop": "2026-11-04T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Convictions",
-      "description": "Un homme est retrouvé mort dans l'enceinte d'une usine. Comment est-il mort ? L'usine est-elle le lieu du crime ? Et qui aurait intérêt à porter préjudice à cette entreprise ? Nos enquêteurs vont mener leurs investigations dans l'univers des ostréiculteurs...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "0.7.0/1",
-        "onscreen": "S01E08"
-      }
-    },
-    {
-      "start": "2026-11-04T15:30:00+00:00",
-      "stop": "2026-11-04T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Sur la route de la rédemption",
-      "description": "Un homme est retrouvé mort dans son oliveraie. Alors que l'homme semble bien sous tout rapport, nos enquêteurs remarquent un changement de comportement depuis plusieurs mois. Ils vont se rendre compte qu'il a renversé une jeune fille sur le bord de la route. Qui aurait pu l'assassiner ? Le père de la fille actuellement dans le coma ? Un industriel qui pourrait avoir un intérêt financier ? Ou bien la famille de l'homme ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "0.8.0/1",
-        "onscreen": "S01E09"
-      }
-    },
     {
       "start": "2026-11-05T13:05:00+00:00",
       "stop": "2026-11-05T13:53:00+00:00",
@@ -225,7 +161,7 @@
     },
     {
       "start": "2026-11-06T19:58:00+00:00",
-      "stop": "2026-11-06T21:39:00+00:00",
+      "stop": "2026-11-06T21:40:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
       "subtitle": "Le danseur de verre",
@@ -477,8 +413,8 @@
       }
     },
     {
-      "start": "2026-11-08T19:50:00+00:00",
-      "stop": "2026-11-08T20:44:00+00:00",
+      "start": "2026-11-08T19:53:00+00:00",
+      "stop": "2026-11-08T20:47:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "La lettre d'adieu",
@@ -493,8 +429,8 @@
       }
     },
     {
-      "start": "2026-11-08T20:44:00+00:00",
-      "stop": "2026-11-08T21:41:00+00:00",
+      "start": "2026-11-08T20:47:00+00:00",
+      "stop": "2026-11-08T21:44:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Daphné",
@@ -687,7 +623,7 @@
       "channel": "TV5 Monde",
       "title": "Meurtres à Millau",
       "subtitle": "",
-      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête, la capitaine Alice Nerval doit faire équipe avec son beau-père, Adrien Nerval, mis à pied six mois plus tôt pour problèmes personnels.",
+      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête.",
       "category": "Crime",
       "icon": "",
       "origine": "telefilm",
@@ -724,6 +660,96 @@
       "episode_nums": {
         "xmltv_ns": "3.2.0/1",
         "onscreen": "S04E03"
+      }
+    },
+    {
+      "start": "2026-11-11T07:09:00+00:00",
+      "stop": "2026-11-11T08:41:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres en Auvergne",
+      "subtitle": "",
+      "description": "Le corps d'une jeune femme est retrouvé près du Lac Pavin en Auvergne. La mise en scène du meurtre trouble les enquêteurs car elle n'est pas sans évoquer la légende du lac qui veut que les pécheurs de Besse, provoquant la colère de Dieu, ont été ensevelis, puis recouverts par les larmes du Diable. La victime était-elle considérée comme une pécheresse par son meurtrier? Le capitaine Bruno Romagnat entame l'enquête avec l'adjudant chef Aurélie Lefaivre, une enquête d'autant plus délicate pour lui qu'il connaissait la victime...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-11T08:41:00+00:00",
+      "stop": "2026-11-11T10:14:00+00:00",
+      "channel": "La Une",
+      "title": "Le voyageur",
+      "subtitle": "Le danseur de verre",
+      "description": "Yann Kandinsky se ressource dans une forêt située au fin fond de l'Allier, désireux de prendre du recul, après avoir affronté les pires criminels, mais sa tranquillité est de courte durée, le policier est contacté par un homme qui l'appelle sans décliner son identité. Ce dernier établit un lien entre trois disparitions de femmes intervenues dans un même secteur géographique, autour de Brest. Kandinsky refuse de se mobiliser. L'inconnu n'a de cesse d'alimenter la boîte mail de Kandinsky d'articles de presse concernant ces affaires.Kandinsky prend la route pour la Bretagne, lorsqu'il découvre que la mère de l'une des disparues, Madeleine Guyot, entame sa troisième semaine de grève de la faim afin que la police s'intéresse à ce qu'elle considère comme un enlèvement et non une disparition volontaire. Le Voyageur va établir \"son quartier général\" chez Madeleine. Les proches des disparues vont constituer sa brigade. En rassemblant les indices, Kandinsky va retrouver le mystérieux lien qui réunissait ces femmes...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Le Voyageur",
+      "episode_nums": {
+        "xmltv_ns": "2.2.0/1",
+        "onscreen": "S03E03"
+      }
+    },
+    {
+      "start": "2026-11-11T13:04:00+00:00",
+      "stop": "2026-11-11T14:41:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à Millau",
+      "subtitle": "",
+      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-11T13:30:00+00:00",
+      "stop": "2026-11-11T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Meurtre en Ovalie",
+      "description": "Le corps sans vie d'une rugbywoman est retrouvé dans le vestiaire au lendemain d'un match. Comment trouver une place de mère, de femme lorsqu'on pratique un sport à haut niveau, et en particulier le rugby ? Le meurtre de Lucie Vidal, star de l'équipe féminine, a-t-elle un rapport avec le passé de son père, Alain Vidal, ancienne gloire de l'équipe de France de rugby ? Entre héritage du passé et burn-out des sportifs de haut-niveau, l'enquête va se révéler aussi musclée qu'une mêlée à 15... surtout quand Paul Marchal devra affronter seul sur le terrain l'équipe féminine au complet.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "1.9.0/1",
+        "onscreen": "S02E10"
+      }
+    },
+    {
+      "start": "2026-11-11T14:30:00+00:00",
+      "stop": "2026-11-11T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Via Tolosana",
+      "description": "Une femme sans papiers d'identité est retrouvée morte à Saint-Jacques-de-Compostelle. Plus tard, les enquêteurs apprennent que la victime était en contact avec un malfaiteur. Mégane Savary avait déjà fait le chemin de Compostelle 5 ans plus tôt, pourquoi était-elle revenue à Saint Guilhem? Que s'est-il passé à l'époque qu'elle ne pouvait dire à personne dans son entourage ? Et pourquoi Mégane avait disparu plusieurs mois d'affilée ? La victime avait-elle un regret et a-t-elle essayé de rattraper les erreurs de son passé ? Une enquête entre chemin de foi et rédemption pour nos héros, une histoire qui touche de près Léa et Camille, elles-mêmes anciennes pèlerins.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "1.10.0/1",
+        "onscreen": "S02E11"
+      }
+    },
+    {
+      "start": "2026-11-11T15:30:00+00:00",
+      "stop": "2026-11-11T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "A contre-courant",
+      "description": "Axel Vignot, un célèbre avocat, est retrouvé assassiné non loin d'un club de Kayak. En cherchant des indices, Paul va se voir accueilli par le frère jumeau de la victime. Jusqu'à ce que notre capitaine se rende compte que les jumeaux avaient échangé leur place, et que c'est Antoine Borel, le gérant du club de kayak qu'on a tué. Qui pouvait en vouloir à cet homme à l'apparence paisible ? Le père d'un de ses élèves mort un an plus tôt, ou bien Jacques Dargonne, agriculteur et ardent défenseur de la construction du barrage de Saint Bauzile... un barrage qui mettait en péril l'existence même du club de kayak de la victime ? Antoine Borel qui défendait de façon pacifique l'équilibre écologique de la rivière, s'est-il rendu compte qu'il fallait passer à des actions plus violentes ? Auquel cas il aurait pu tomber sur plus fort que lui ...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "1.11.0/1",
+        "onscreen": "S02E12"
       }
     }
   ]
