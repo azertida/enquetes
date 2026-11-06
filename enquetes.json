@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T16:53:47.755292+00:00",
-  "window_start": "2026-11-05",
-  "window_end": "2026-11-12",
+  "generated_at": "2026-11-06T13:08:32.424043+00:00",
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-13",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,104 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 47,
+  "count": 44,
   "programmes": [
-    {
-      "start": "2026-11-05T13:05:00+00:00",
-      "stop": "2026-11-05T13:53:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Jane Doe - 1",
-      "description": "Le corps d'une femme victime de sévices est retrouvé sur une plage. Il apparait qu'elle s'est noyée dans une piscine et a été jetée post-mortem à la mer.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.16.0/1",
-        "onscreen": "S04E17"
-      }
-    },
-    {
-      "start": "2026-11-05T13:30:00+00:00",
-      "stop": "2026-11-05T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Les liens du sang",
-      "description": "Au lendemain d'une fête de village, un guitariste, est retrouvé sur la place dans une benne à ordure. La soirée aurait-elle dégénérée ? Règlement de compte ? Rivalité? Nos gendarmes vont aussi se pencher sur la piste d'une mystérieuse femme, danseuse émérite, avec qui l'homme semblait entretenir une relation passionnelle.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "0.9.0/1",
-        "onscreen": "S01E10"
-      }
-    },
-    {
-      "start": "2026-11-05T13:53:00+00:00",
-      "stop": "2026-11-05T14:46:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "OPJ, Pacifique Sud",
-      "subtitle": "Jane Doe-2",
-      "description": "Le couple est accusé d'avoir infligé des sévices à leur baby-sitter. Tahia se glisse alors dans la peau de la victime pour tenter de comprendre ce qu'il lui est arrivé.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "OPJ",
-      "episode_nums": {
-        "xmltv_ns": "3.17.0/1",
-        "onscreen": "S04E18"
-      }
-    },
-    {
-      "start": "2026-11-05T14:30:00+00:00",
-      "stop": "2026-11-05T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Un anneau d'or - 1",
-      "description": "Un jeune homme est retrouvé pendu à un arbre. C'est en enquêtant sur ce meurtre que Léa et Paul vont faire le lien avec un crime non élucidé. De son côté, Crosne est prêt à tout pour venger sa fille décédée il y a cinq ans, jusqu'à enlever Paul pour l'utiliser comme monnaie d'échange contre le présumé coupable... Léa aura très peu de temps pour résoudre cette enquête et ainsi sauver Paul. Léa comprend qu'elle doit agir très vite, car son agresseur montre qu'il ne reculera devant rien pour obtenir ce qu'il souhaite. Comment le retrouver avant qu'il ne commette l'irréparable ? Comment savoir ce qui est arrivé à la fille de Crosne ?...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "0.10.0/1",
-        "onscreen": "S01E11"
-      }
-    },
-    {
-      "start": "2026-11-05T15:30:00+00:00",
-      "stop": "2026-11-05T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Un anneau d'or - 2",
-      "description": "Avec Paul aux mains de Crosne, Léa sait qu'elle n'a pas une minute à perdre pour tenter de faire éclater la vérité. Y arrivera-t-elle à temps ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "0.11.0/1",
-        "onscreen": "S01E12"
-      }
-    },
-    {
-      "start": "2026-11-05T20:10:00+00:00",
-      "stop": "2026-11-05T21:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Lille",
-      "description": "Le cadavre du sculpteur Victor Mauron est retrouvé quelques heures avec l'ouverture au public du musée de la Piscine de Roubaix. La substitut du procureur a décidé de faire venir le commandant Caroline Flament afin d'enquêter. Elle va faire équipe avec William Henry. Leur relation est loin d'être au beau fixe. Caroline venue de Paris retrouve son amie d'enfance Astrid d'Armentières. Celle-ci travaille comme scénographe du sculpteur.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "6.1.0/1",
-        "onscreen": "S07E02"
-      }
-    },
     {
       "start": "2026-11-06T13:30:00+00:00",
       "stop": "2026-11-06T14:30:00+00:00",
@@ -272,8 +176,8 @@
       }
     },
     {
-      "start": "2026-11-07T13:50:00+00:00",
-      "stop": "2026-11-07T15:33:00+00:00",
+      "start": "2026-11-07T13:44:00+00:00",
+      "stop": "2026-11-07T15:26:00+00:00",
       "channel": "La Une",
       "title": "Meurtres en Auvergne",
       "subtitle": "",
@@ -285,8 +189,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-11-07T15:33:00+00:00",
-      "stop": "2026-11-07T16:31:00+00:00",
+      "start": "2026-11-07T15:26:00+00:00",
+      "stop": "2026-11-07T16:27:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Sous pression",
@@ -301,8 +205,8 @@
       }
     },
     {
-      "start": "2026-11-07T16:31:00+00:00",
-      "stop": "2026-11-07T17:35:00+00:00",
+      "start": "2026-11-07T16:27:00+00:00",
+      "stop": "2026-11-07T17:33:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Secrets de famille",
@@ -318,7 +222,7 @@
     },
     {
       "start": "2026-11-07T19:51:00+00:00",
-      "stop": "2026-11-07T21:34:00+00:00",
+      "stop": "2026-11-07T21:35:00+00:00",
       "channel": "La Une",
       "title": "Cassandre",
       "subtitle": "Sur le fil",
@@ -381,8 +285,8 @@
       }
     },
     {
-      "start": "2026-11-08T15:03:00+00:00",
-      "stop": "2026-11-08T16:41:00+00:00",
+      "start": "2026-11-08T14:57:00+00:00",
+      "stop": "2026-11-08T16:37:00+00:00",
       "channel": "La Une",
       "title": "Commissaire Dupin",
       "subtitle": "Triple meurtre aux Glénan",
@@ -397,8 +301,8 @@
       }
     },
     {
-      "start": "2026-11-08T16:41:00+00:00",
-      "stop": "2026-11-08T17:39:00+00:00",
+      "start": "2026-11-08T16:37:00+00:00",
+      "stop": "2026-11-08T17:38:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Ultime recours",
@@ -413,7 +317,7 @@
       }
     },
     {
-      "start": "2026-11-08T19:53:00+00:00",
+      "start": "2026-11-08T19:52:00+00:00",
       "stop": "2026-11-08T20:47:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
@@ -430,7 +334,7 @@
     },
     {
       "start": "2026-11-08T20:47:00+00:00",
-      "stop": "2026-11-08T21:44:00+00:00",
+      "stop": "2026-11-08T21:45:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Daphné",
@@ -509,8 +413,8 @@
       }
     },
     {
-      "start": "2026-11-09T20:47:00+00:00",
-      "stop": "2026-11-09T22:30:00+00:00",
+      "start": "2026-11-09T20:46:00+00:00",
+      "stop": "2026-11-09T22:27:00+00:00",
       "channel": "La Une",
       "title": "Cassandre",
       "subtitle": "Sur le fil",
@@ -750,6 +654,54 @@
       "episode_nums": {
         "xmltv_ns": "1.11.0/1",
         "onscreen": "S02E12"
+      }
+    },
+    {
+      "start": "2026-11-12T13:25:00+00:00",
+      "stop": "2026-11-12T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Dernière joute",
+      "description": "À Sète, la joute nautique est une tradition ancestrale. Aussi ancienne que la rancoeur qui anime les Caravani et les Villa, deux familles de jouteurs qui se disputent le célèbre trophée de la Saint-Louis. Qui sait si c'est à cause de cette haine qu'on retrouve Kevin Villa mort un beau matin dans le canal ou parce qu'il était le petit ami secret de Tiphaine Caravani. aussi ancienne que la rancœur qui anime les Caravani et les Villa, deux familles de jouteurs qui se disputent le célèbre trophée de la Saint-Louis. Est-ce à cause de cette haine qu'on retrouve Kevin Villa mort un beau matin dans le canal ? Où est-ce parce qu'il était le petit ami secret de Tiphaine Caravani ? Dans une enquête sur fond de Roméo et Juliette, nos héros vont devoir creuser dans les secrets les plus profonds des protagonistes de l'affaire... et découvrir qu'à force de non-dits, la haine s'était propagée en silence au sein même de la famille de la victime.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.0.0/1",
+        "onscreen": "S03E01"
+      }
+    },
+    {
+      "start": "2026-11-12T14:30:00+00:00",
+      "stop": "2026-11-12T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Un parfum de mystère",
+      "description": "Pour la première fois, Léa et Paul vont être confrontés à une affaire peu banale. Suite à l'appel d'une femme en détresse, Clara Séguret, tous les indices d'un meurtre et toutes les preuves incriminant Damien Heyrieux, collègue aveugle de la victime, vont être retrouvés. Seul problème, nos deux enquêteurs n'ont ni le mobile de Heyrieux ni le corps de Clara. Pourquoi l'aveugle a-t-il tué la jeune femme, héritière du célèbre domaine des parfums Séguret ? Et comment a-t-il réussi à faire disparaître le corps ? Un face à face entre un meurtrier calculateur et une Léa plus perspicace que jamais... tout ça sous la surveillance du colonel qui ne laissera passer aucune erreur de procédure. Heyrieux a-t-il tué par amour ou par orgueil ? Et si c'était justement son égo qui à la fin faisait perdre la partie d'échec engagée par l'aveugle contre Léa ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.1.0/1",
+        "onscreen": "S03E02"
+      }
+    },
+    {
+      "start": "2026-11-12T15:30:00+00:00",
+      "stop": "2026-11-12T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Hors normes",
+      "description": "Maxime Baltard, un ancien détenu célèbre pour ses évasions, semble enfin avoir trouvé la rédemption, et s'être réhabilité. La jeune femme a-t-elle mal pris la trahison de son mari ? Maxime, qui prônait pour tous la seconde chance, a-t-il été tué pour en avoir voulu plus ? Et si à force de vouloir recommencer sans arrêt sa vie on se précipitait tout droit vers la mort ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.2.0/1",
+        "onscreen": "S03E03"
       }
     }
   ]
