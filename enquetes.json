@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:52:21.527221+00:00",
+  "generated_at": "2026-11-07T15:14:13.143901+00:00",
   "window_start": "2026-11-07",
   "window_end": "2026-11-14",
   "source": "Pickx via iptv-org/epg",
@@ -269,8 +269,8 @@
       }
     },
     {
-      "start": "2026-11-09T20:46:00+00:00",
-      "stop": "2026-11-09T22:27:00+00:00",
+      "start": "2026-11-09T20:48:00+00:00",
+      "stop": "2026-11-09T22:28:00+00:00",
       "channel": "La Une",
       "title": "Cassandre",
       "subtitle": "Sur le fil",
@@ -423,8 +423,8 @@
       }
     },
     {
-      "start": "2026-11-11T07:07:00+00:00",
-      "stop": "2026-11-11T08:39:00+00:00",
+      "start": "2026-11-11T07:11:00+00:00",
+      "stop": "2026-11-11T08:43:00+00:00",
       "channel": "La Une",
       "title": "Meurtres en Auvergne",
       "subtitle": "",
@@ -436,8 +436,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-11-11T08:39:00+00:00",
-      "stop": "2026-11-11T10:12:00+00:00",
+      "start": "2026-11-11T08:43:00+00:00",
+      "stop": "2026-11-11T10:16:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
       "subtitle": "Le danseur de verre",
