@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T16:20:37.880134+00:00",
-  "window_start": "2026-11-06",
-  "window_end": "2026-11-13",
+  "generated_at": "2026-11-07T11:52:21.527221+00:00",
+  "window_start": "2026-11-07",
+  "window_end": "2026-11-14",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,152 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 44,
+  "count": 41,
   "programmes": [
-    {
-      "start": "2026-11-06T13:30:00+00:00",
-      "stop": "2026-11-06T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Dans les mailles du filet",
-      "description": "Le corps d'une femme est retrouvé par des promeneurs, rejeté par la mer. Il s'agit de Marianne Pellat, seule femme marin pêcheur du port voisin. Son bateau est introuvable. L'autopsie fait apparaître qu'elle est morte noyée, mais pas en mer.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.0.0/1",
-        "onscreen": "S02E01"
-      }
-    },
-    {
-      "start": "2026-11-06T14:30:00+00:00",
-      "stop": "2026-11-06T15:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le monde du silence",
-      "description": "Un vétérinaire est retrouvé assassiné où il travaillait. Rapidement nos enquêteurs vont s'apercevoir qu'avec son ex-femme ils se disputaient la garde de leurs enfants. Sa mort serait-elle la conséquence d'un drame familial ? Où est-ce sa passion pour les animaux qui aurait eu raison de lui ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.1.0/1",
-        "onscreen": "S02E02"
-      }
-    },
-    {
-      "start": "2026-11-06T15:25:00+00:00",
-      "stop": "2026-11-06T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Instinct de survie",
-      "description": "Une femme est retrouvée pendue dans son jardin. Tout semble indiquer un suicide, mais certains détails ne collent pas. Soler et Marchal vont s'apercevoir que les méthodes de gestion de l'entreprise où elle travaillait ne sont pas exemplaires. Est-ce que la pression infligée aurait pu pousser un employé à commettre l'irréparable ? Où la vérité est-elle ailleurs ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.2.0/1",
-        "onscreen": "S02E03"
-      }
-    },
-    {
-      "start": "2026-11-06T19:58:00+00:00",
-      "stop": "2026-11-06T21:40:00+00:00",
-      "channel": "La Une",
-      "title": "Le voyageur",
-      "subtitle": "Le danseur de verre",
-      "description": "Yann Kandinsky se ressource dans une forêt située au fin fond de l'Allier, désireux de prendre du recul, après avoir affronté les pires criminels, mais sa tranquillité est de courte durée, le policier est contacté par un homme qui l'appelle sans décliner son identité. Ce dernier établit un lien entre trois disparitions de femmes intervenues dans un même secteur géographique, autour de Brest. Kandinsky refuse de se mobiliser. L'inconnu n'a de cesse d'alimenter la boîte mail de Kandinsky d'articles de presse concernant ces affaires.Kandinsky prend la route pour la Bretagne, lorsqu'il découvre que la mère de l'une des disparues, Madeleine Guyot, entame sa troisième semaine de grève de la faim afin que la police s'intéresse à ce qu'elle considère comme un enlèvement et non une disparition volontaire. Le Voyageur va établir \"son quartier général\" chez Madeleine. Les proches des disparues vont constituer sa brigade. En rassemblant les indices, Kandinsky va retrouver le mystérieux lien qui réunissait ces femmes...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "2.2.0/1",
-        "onscreen": "S03E03"
-      }
-    },
-    {
-      "start": "2026-11-06T20:10:00+00:00",
-      "stop": "2026-11-06T21:00:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Fouilles mortelles",
-      "description": "Fin de journée sur un chantier de fouilles archéologique près d'Aix : Damien Lagrange, archéologue star, reste seul à travailler quand la nuit tombe. Quelques heures plus tard, il est retrouvé mort au milieu des tranchées, victime d'un coup porté avec un outil du site. Chargé de l'enquête, Simon Coleman découvre un univers miné par les rivalités, les ambitions déçues et des incidents troublants survenus avant le drame. Entre collègues jaloux, liaisons cachées, sabotages mystérieux et trafic d'antiquités, Simon va vite comprendre que chacun semble avoir un secret enfoui...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.5.0/1",
-        "onscreen": "S04E06"
-      }
-    },
-    {
-      "start": "2026-11-06T21:00:00+00:00",
-      "stop": "2026-11-06T21:55:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Juste une illusion",
-      "description": "Simon Coleman enquête sur le meurtre d'un dresseur dans un centre canin réputé. Au fil de l'enquête, il met au jour de sombres pratiques illégales.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "1.5.0/1",
-        "onscreen": "S02E06"
-      }
-    },
-    {
-      "start": "2026-11-06T21:55:00+00:00",
-      "stop": "2026-11-06T22:45:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Entre chien et loup",
-      "description": "Dans un centre canin réputé, un dresseur reconnu est retrouvé mort, victime d'un mode opératoire aussi discret qu'inquiétant. L'enquête de Simon Coleman met au jour un univers en apparence exemplaire, où se croisent notables, animaux de compagnie et passions dévorantes. Mais derrière les concours d'agility et les chiens bien dressés, émergent des pratiques illégales et des secrets dangereux. Très vite, Simon comprend que ce meurtre n'est que la partie visible d'un drame bien plus sombre...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.3.0/1",
-        "onscreen": "S04E04"
-      }
-    },
-    {
-      "start": "2026-11-06T22:45:00+00:00",
-      "stop": "2026-11-06T23:30:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "EVJF",
-      "description": "Un enterrement de vie de jeune fille vire au cauchemar lorsque Jessica, une des participantes, est retrouvée morte au pied d'un ravin, en pleine nature. Très vite, l'enquête de Simon Coleman révèle que derrière l'apparente légèreté de ce week-end entre amies, rivalités, jalousies et secrets enfouis refont surface. Chaque membre du groupe pourrait avoir une bonne raison de vouloir faire taire la victime...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.4.0/1",
-        "onscreen": "S04E05"
-      }
-    },
-    {
-      "start": "2026-11-06T23:30:00+00:00",
-      "stop": "2026-11-07T00:20:00+00:00",
-      "channel": "France 2",
-      "title": "Simon Coleman",
-      "subtitle": "Fouilles mortelles",
-      "description": "Fin de journée sur un chantier de fouilles archéologique près d'Aix : Damien Lagrange, archéologue star, reste seul à travailler quand la nuit tombe. Quelques heures plus tard, il est retrouvé mort au milieu des tranchées, victime d'un coup porté avec un outil du site. Chargé de l'enquête, Simon Coleman découvre un univers miné par les rivalités, les ambitions déçues et des incidents troublants survenus avant le drame. Entre collègues jaloux, liaisons cachées, sabotages mystérieux et trafic d'antiquités, Simon va vite comprendre que chacun semble avoir un secret enfoui...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Simon Coleman",
-      "episode_nums": {
-        "xmltv_ns": "3.5.0/1",
-        "onscreen": "S04E06"
-      }
-    },
     {
       "start": "2026-11-07T03:05:00+00:00",
       "stop": "2026-11-07T03:30:00+00:00",
@@ -176,7 +32,7 @@
       }
     },
     {
-      "start": "2026-11-07T13:44:00+00:00",
+      "start": "2026-11-07T13:43:00+00:00",
       "stop": "2026-11-07T15:26:00+00:00",
       "channel": "La Une",
       "title": "Meurtres en Auvergne",
@@ -221,8 +77,8 @@
       }
     },
     {
-      "start": "2026-11-07T19:51:00+00:00",
-      "stop": "2026-11-07T21:35:00+00:00",
+      "start": "2026-11-07T19:50:00+00:00",
+      "stop": "2026-11-07T21:33:00+00:00",
       "channel": "La Une",
       "title": "Cassandre",
       "subtitle": "Sur le fil",
@@ -285,8 +141,8 @@
       }
     },
     {
-      "start": "2026-11-08T14:57:00+00:00",
-      "stop": "2026-11-08T16:37:00+00:00",
+      "start": "2026-11-08T14:58:00+00:00",
+      "stop": "2026-11-08T16:38:00+00:00",
       "channel": "La Une",
       "title": "Commissaire Dupin",
       "subtitle": "Triple meurtre aux Glénan",
@@ -301,8 +157,8 @@
       }
     },
     {
-      "start": "2026-11-08T16:37:00+00:00",
-      "stop": "2026-11-08T17:38:00+00:00",
+      "start": "2026-11-08T16:38:00+00:00",
+      "stop": "2026-11-08T17:39:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Ultime recours",
@@ -317,7 +173,7 @@
       }
     },
     {
-      "start": "2026-11-08T19:52:00+00:00",
+      "start": "2026-11-08T19:53:00+00:00",
       "stop": "2026-11-08T20:47:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
@@ -567,8 +423,8 @@
       }
     },
     {
-      "start": "2026-11-11T07:09:00+00:00",
-      "stop": "2026-11-11T08:41:00+00:00",
+      "start": "2026-11-11T07:07:00+00:00",
+      "stop": "2026-11-11T08:39:00+00:00",
       "channel": "La Une",
       "title": "Meurtres en Auvergne",
       "subtitle": "",
@@ -580,8 +436,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-11-11T08:41:00+00:00",
-      "stop": "2026-11-11T10:14:00+00:00",
+      "start": "2026-11-11T08:39:00+00:00",
+      "stop": "2026-11-11T10:12:00+00:00",
       "channel": "La Une",
       "title": "Le voyageur",
       "subtitle": "Le danseur de verre",
@@ -702,6 +558,102 @@
       "episode_nums": {
         "xmltv_ns": "2.2.0/1",
         "onscreen": "S03E03"
+      }
+    },
+    {
+      "start": "2026-11-13T13:30:00+00:00",
+      "stop": "2026-11-13T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "La fièvre de l'or",
+      "description": "Sylvain Théron, membre d'un stage d'orpaillage, est retrouvé mort au bord de la rivière. Si pour le capitaine Marchand le meurtre est nécessairement en rapport avec la vie privée pourtant très banale de la victime, pour le Commandant Soler il s'agit d'une affaire liée à l'or. et c'est comme ça que dans cet épisode on retrouve Erwan, bottes aux pieds et casquette sur la tête, en train de jouer les orpailleurs ! Qui pouvait en vouloir assez à Sylvain Théron pour le tuer ? Sa mort est-elle liée à la folie de l'or ou à son divorce compliqué et à son fils gravement malade ? Face à Lucky, responsable du stage et personnage haut en couleur, notre victime a-t-elle été trop loin en se lançant dans un plan désespéré pour aider son fils ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.3.0/1",
+        "onscreen": "S03E04"
+      }
+    },
+    {
+      "start": "2026-11-13T14:30:00+00:00",
+      "stop": "2026-11-13T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Dissonance",
+      "description": "Jour de répétition générale à l'Opéra de Montpellier. François Durieux, premier violon de l'orchestre philharmonique, est retrouvé assassiné, poignardé par un canif de luthier. Ce jeune homme solitaire et talentueux ne semblait se passionner pour rien d'autre que la musique, si ce n'est son Armanello, prestigieux violon du 18ème siècle. Une passion soutenue par sa mère et Pascal, son luthier et mentor. Les soupçons se portent d'abord sur le second violon de l'orchestre et principal rival de François… Jusqu'à ce qu'on découvre que l'Armanello a été remplacé par une copie. Le meurtre est-il lié au vol du violon ou, au nom de la musique, François s'était-il mis dans une situation impossible ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.4.0/1",
+        "onscreen": "S03E05"
+      }
+    },
+    {
+      "start": "2026-11-13T15:25:00+00:00",
+      "stop": "2026-11-13T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Sur la pente glissante",
+      "description": "Isabelle Prioux, une prof d'escalade, est retrouvée morte au pied d'une falaise de l'Hortus, victime du sabotage de son matériel. Pourquoi tuer cette femme apparemment sans histoire qui revenait dans la région après cinq ans d'absence ? Son départ, causé par la mort accidentelle de son assistant sur la même falaise, est-il lié au meurtre ? Isabelle avait radicalement changé durant son absence, elle qui grimpait n'importe où et seule prônait désormais la sécurité par tous les moyens... S'était-elle mise à dos Dan Tulak, grimpeur de l'extrême qui voulait qu'on le laisse libre de ses mouvements ? Nos enquêteurs vont découvrir que si Isabelle Prioux avait cru tirer un trait sur le passé en quittant la région, quelqu'un attendait son retour, porteur d'un lourd secret sans le savoir. Quand les non-dits mènent à la mort...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.5.0/1",
+        "onscreen": "S03E06"
+      }
+    },
+    {
+      "start": "2026-11-13T20:10:00+00:00",
+      "stop": "2026-11-13T22:00:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Le secret d'Alba",
+      "description": "Eloi Solana, séduisant homme d'affaires revenu sur les terres de son enfance, est-il mort à cause d'une mauvaise rencontre ou parce qu'il était catholique ? La capitaine Marleau découvre, à sa grande surprise, que les guerres de religions ont laissé des traces dans la ville. Elle relève le défi que lui lance l'irréductible comtesse Alba de Bernac, figure incontournable de la communauté protestante régionale, entourée de son trop fidèle régisseur et de son fils, Martin de Bernac, qui a hérité de l'usine de peausserie familiale. Si les voies du Seigneur sont impénétrables, les secrets de famille le sont encore davantage...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "3.12.0/1",
+        "onscreen": "S04E13"
+      }
+    },
+    {
+      "start": "2026-11-13T22:00:00+00:00",
+      "stop": "2026-11-13T23:40:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Chambre avec vue",
+      "description": "Catherine Rougemont, une ancienne policière qui gère un hôtel en bord de mer, est victime d'une tentative de meurtre. Enfermée dans sa grange en feu, elle a été sauvée in extremis par sa cuisinière. Marleau, qui a été naguère sa stagiaire, est convaincue que Catherine connaît l'auteur. Mais cette dernière demeure mutique pour protéger ses pensionnaires, des femmes battues qu'elle héberge, mais également son petit-fils de 16 ans, Gabriel.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "1.0.0/1",
+        "onscreen": "S02E01"
+      }
+    },
+    {
+      "start": "2026-11-13T23:40:00+00:00",
+      "stop": "2026-11-14T01:10:00+00:00",
+      "channel": "France 2",
+      "title": "César Wagner",
+      "subtitle": "Un mariage, deux enterrements",
+      "description": "Un cadavre est trouvé pendant le mariage de Marie-Ange, la mère de César, et Christian Haas. César et son équipe enquêtent discrètement pour trouver le coupable parmi les suspects liés à l'entreprise organisatrice de l'événement.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "César Wagner",
+      "episode_nums": {
+        "xmltv_ns": "0.7.0/1",
+        "onscreen": "S01E08"
       }
     }
   ]
