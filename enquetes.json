@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T15:14:13.143901+00:00",
-  "window_start": "2026-11-07",
-  "window_end": "2026-11-14",
+  "generated_at": "2026-11-08T12:05:49.865317+00:00",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,117 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 41,
+  "count": 38,
   "programmes": [
-    {
-      "start": "2026-11-07T03:05:00+00:00",
-      "stop": "2026-11-07T03:30:00+00:00",
-      "channel": "France 3",
-      "title": "Escales en France",
-      "subtitle": "Les secrets de Marseille",
-      "description": "Ce magazine va nous faire découvrir les régions françaises en plongeant le téléspectateur au cœur d'une ville, d'un département français, d'une région, et lui fera découvrir son histoire, ses richesses patrimoniales, ses spécialités gastronomiques et ses lieux incontournables... Escales en France va à la rencontre de ces français agriculteurs, marins pêcheurs, artisans, restaurateurs, éleveurs, guides touristiques, tou s amoureux fous de leurs régions.",
-      "category": "Tourism",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.67.0/1",
-        "onscreen": "S01E68"
-      }
-    },
-    {
-      "start": "2026-11-07T13:43:00+00:00",
-      "stop": "2026-11-07T15:26:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres en Auvergne",
-      "subtitle": "",
-      "description": "Le corps d'une jeune femme est retrouvé près du Lac Pavin en Auvergne. La mise en scène du meurtre trouble les enquêteurs car elle n'est pas sans évoquer la légende du lac qui veut que les pécheurs de Besse, provoquant la colère de Dieu, ont été ensevelis, puis recouverts par les larmes du Diable. La victime était-elle considérée comme une pécheresse par son meurtrier? Le capitaine Bruno Romagnat entame l'enquête avec l'adjudant chef Aurélie Lefaivre, une enquête d'autant plus délicate pour lui qu'il connaissait la victime...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-07T15:26:00+00:00",
-      "stop": "2026-11-07T16:27:00+00:00",
-      "channel": "La Une",
-      "title": "Léo Mattéï, brigade des mineurs",
-      "subtitle": "Sous pression",
-      "description": "Poursuivi par une bande, Romain, quatorze ans, presse le pas vers la sortie du lycée. Soudain, une voiture accélère et le percute. Le chauffard s'enfuit. La brigade enquête au sein du lycée pour découvrir, entre harcèlements et pressions qui sont le quotidien des adolescents, l'auteur de ce délit de fuite.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Léo Mattéi",
-      "episode_nums": {
-        "xmltv_ns": "1.3.0/1",
-        "onscreen": "S02E04"
-      }
-    },
-    {
-      "start": "2026-11-07T16:27:00+00:00",
-      "stop": "2026-11-07T17:33:00+00:00",
-      "channel": "La Une",
-      "title": "Léo Mattéï, brigade des mineurs",
-      "subtitle": "Secrets de famille",
-      "description": "Une jeune fille âgée de 17 ans se jette par la fenêtre de sa chambre et manque de se tuer. A l'hôpital, on découvre qu'elle est enceinte de sept mois et qu'elle n'a qu'une obsession : avorter. La BPM est saisie pour éclaircir les véritables circonstances de cette grossesse et les raisons de cette tentative de suicide.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Léo Mattéi",
-      "episode_nums": {
-        "xmltv_ns": "2.0.0/1",
-        "onscreen": "S03E01"
-      }
-    },
-    {
-      "start": "2026-11-07T19:50:00+00:00",
-      "stop": "2026-11-07T21:33:00+00:00",
-      "channel": "La Une",
-      "title": "Cassandre",
-      "subtitle": "Sur le fil",
-      "description": "Léonore Costa débarque au commissariat, un couteau à la main, couverte de sang, et affirme avoir tué son mari Tony. Tout l'accuse, mais Cassandre sent que quelque chose cloche. L'enquête se dirige alors vers la filature de laine dirigée par la famille de Léonore et où travaillait Tony. Derrière les apparences, le meurtre semble lié aux traumatismes enfouis de cette famille influente brisée...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "9.4.0/1",
-        "onscreen": "S10E05"
-      }
-    },
-    {
-      "start": "2026-11-07T20:10:00+00:00",
-      "stop": "2026-11-07T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Le voyageur",
-      "subtitle": "Le danseur de verre",
-      "description": "Yann Kandinsky se ressource dans une forêt située au fin fond de l'Allier, désireux de prendre du recul, après avoir affronté les pires criminels. Mais sa tranquillité est de courte durée : le policier est contacté par un homme qui l'appelle sans décliner son identité. Ce dernier établit un lien entre trois disparitions de femmes intervenues dans un même secteur géographique, autour de Brest. L'inconnu n'a de cesse d'alimenter la boîte mail de Kandinsky d'articles de presse concernant ces affaires. Kandinsky prend la route pour la Bretagne, lorsqu'il découvre que la mère de l'une des disparues, Madeleine Guyot, entame sa troisième semaine de grève de la faim afin que la police s'intéresse à ce qu'elle considère comme un enlèvement et non une disparition volontaire. Le Voyageur va établir son quartier général chez Madeleine...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "2.2.0/1",
-        "onscreen": "S03E03"
-      }
-    },
-    {
-      "start": "2026-11-07T21:40:00+00:00",
-      "stop": "2026-11-07T23:10:00+00:00",
-      "channel": "France 3",
-      "title": "Le voyageur",
-      "subtitle": "Le village assassiné",
-      "description": "Thomas Bareski arrive dans un village des Vosges qui six ans après le violent assassinat, non résolu, de la famille Schal, la mère, le père et leur bébé, est devenu un village fantôme.Grâce à quelques irréductibles, Bareski relancera une enquête qui permettra à cette bourgade de retrouver enfin la paix.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "0.3.0/1",
-        "onscreen": "S01E04"
-      }
-    },
     {
       "start": "2026-11-08T14:24:00+00:00",
       "stop": "2026-11-08T15:59:00+00:00",
@@ -654,6 +545,67 @@
       "episode_nums": {
         "xmltv_ns": "0.7.0/1",
         "onscreen": "S01E08"
+      }
+    },
+    {
+      "start": "2026-11-14T14:43:00+00:00",
+      "stop": "2026-11-14T16:26:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Rocamadour",
+      "subtitle": "",
+      "description": "A quelques jours de la retraite, une femme, commandant de police, mène l'enquête avec son successeur pour tenter d'élucider le meurtre d'un homme.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-14T16:26:00+00:00",
+      "stop": "2026-11-14T17:33:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "L'amour en fuite",
+      "description": "Un adolescent tombe dans le coma après une blessure au fusil. Mattéï et la BPM découvrent qu'il s'agit d'un gamin perturbé et violent, placé par ses parents en Centre d'Education Renforcé. Il participait à une sortie en forêt organisée par l'éducateur principal.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "2.1.0/1",
+        "onscreen": "S03E02"
+      }
+    },
+    {
+      "start": "2026-11-14T20:10:00+00:00",
+      "stop": "2026-11-14T21:35:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres dans les Vosges",
+      "description": "Lors de la première représentation de la saison du prestigieux Théâtre du Peuple, à Bussang, Ferdinand Delors, le comédien principal, est retrouvé assassiné sur scène. Son corps porte des blessures laissant penser à une attaque animale. La mythique Bête des Vosges, qui a décimé les troupeaux il y a une cinquantaine d'années et terrorisé la population, serait-elle de retour, et pourquoi s'attaquerait-elle aujourd'hui à l'homme ? Naïma Stentz, capitaine à la brigade criminelle de Paris et en vacances dans la région, va devoir faire équipe avec Olivier Sonzogni, capitaine de gendarmerie local, pour élucider ce mystère...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "12.2.0/1",
+        "onscreen": "S13E03"
+      }
+    },
+    {
+      "start": "2026-11-14T21:35:00+00:00",
+      "stop": "2026-11-14T23:10:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres dans le Morvan",
+      "description": "Une avocate parisienne, est retrouvée noyée dans la fontaine Sainte Agathe, lieu de pèlerinage historique des célèbres nourrices morvandelles. Originaire de la région, la jeune femme n'y était pas revenue depuis 25 ans. Pour les deux enquêteurs, Maud Perrin, lieutenant de gendarmerie et fille d'éleveur bio de la région et Julien Demarcy, arrivé en renfort de Dijon, le mystère s'épaissit lorsqu'ils découvrent que Charlotte Florot, la grand-mère de la victime ... est morte noyée au même endroit 80 ans plus tôt ! Malédiction familiale ou coïncidence macabre ? Pour tirer au clair cette affaire, les enquêteurs plongent au coeur d'une rivalité qui oppose deux familles locales, les Sénéchal et les Florot depuis plusieurs décennies.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "5.3.0/1",
+        "onscreen": "S06E04"
       }
     }
   ]
