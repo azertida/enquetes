@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T15:37:26.649956+00:00",
-  "window_start": "2026-11-08",
-  "window_end": "2026-11-15",
+  "generated_at": "2026-11-09T14:12:25.661829+00:00",
+  "window_start": "2026-11-09",
+  "window_end": "2026-11-16",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,86 +15,6 @@
   "series_count": 64,
   "count": 38,
   "programmes": [
-    {
-      "start": "2026-11-08T14:24:00+00:00",
-      "stop": "2026-11-08T15:59:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres en Béarn",
-      "description": "Au pied des montagnes du Béarn, l'épouse d'un notable est retrouvée noyée sous le pont de la Légende de Sauveterre. Jeanne, capitaine de la brigade de recherche d'Oloron, gouailleuse, se retrouve flanquée d'Héloïse, élégante bourgeoise. Jadis très amies, les deux quinquas se détestent.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.1.0/1",
-        "onscreen": "S10E02"
-      }
-    },
-    {
-      "start": "2026-11-08T14:58:00+00:00",
-      "stop": "2026-11-08T16:38:00+00:00",
-      "channel": "La Une",
-      "title": "Commissaire Dupin",
-      "subtitle": "Triple meurtre aux Glénan",
-      "description": "Georges Dupin a réussi à convaincre Claire, son ex, de venir lui rendre visite à Concarneau, et de passer quelques jours rien qu'avec elle. C'était sans compter sur une nouvelle affaire étrange : trois hommes retrouvés morts dans l'archipel des Glénan : Lucas Lefort, propriétaire d'une école de voile à Saint-Nicolas avec sa sœur, Grégoire Pajot, un investisseur, et Yannig Konan, un riche homme d'affaires... Tous les trois empoisonnés avant de se noyer.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
-    {
-      "start": "2026-11-08T16:38:00+00:00",
-      "stop": "2026-11-08T17:39:00+00:00",
-      "channel": "La Une",
-      "title": "Munch",
-      "subtitle": "Ultime recours",
-      "description": "Une jeune adolescente supplie Munch de lui venir en aide pour obtenir le procès en révision de sa mère, condamnée pour meurtre...",
-      "category": "Drama",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Munch",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
-    {
-      "start": "2026-11-08T19:53:00+00:00",
-      "stop": "2026-11-08T20:47:00+00:00",
-      "channel": "La Une",
-      "title": "Les Douze - Meurtres au Botox",
-      "subtitle": "La lettre d'adieu",
-      "description": "Jordy n'a pas les moyens de payer les frais vétérinaires de son chien, à l'audience, l'attention se porte sur la lettre de Daniël.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-11-08T20:47:00+00:00",
-      "stop": "2026-11-08T21:45:00+00:00",
-      "channel": "La Une",
-      "title": "Les Douze - Meurtres au Botox",
-      "subtitle": "Daphné",
-      "description": "Andrea risque d'arriver en retard à l'audience, ce qui signifie que Jordy devra la remplacer.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
     {
       "start": "2026-11-09T13:25:00+00:00",
       "stop": "2026-11-09T14:25:00+00:00",
@@ -606,6 +526,83 @@
       "episode_nums": {
         "xmltv_ns": "5.3.0/1",
         "onscreen": "S06E04"
+      }
+    },
+    {
+      "start": "2026-11-15T14:23:00+00:00",
+      "stop": "2026-11-15T16:00:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à Millau",
+      "subtitle": "",
+      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-15T14:40:00+00:00",
+      "stop": "2026-11-15T16:20:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Pour le meilleur et pour le pire",
+      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-11-15T16:44:00+00:00",
+      "stop": "2026-11-15T17:41:00+00:00",
+      "channel": "La Une",
+      "title": "Munch",
+      "subtitle": "Jamais sans mon fils",
+      "description": "Branle-bas de combat au cabinet Munch : Clarisse a disparu et la police la recherche pour le kidnapping de son fils...",
+      "category": "Drama",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Munch",
+      "episode_nums": {
+        "xmltv_ns": "0.6.0/1",
+        "onscreen": "S01E07"
+      }
+    },
+    {
+      "start": "2026-11-15T19:50:00+00:00",
+      "stop": "2026-11-15T20:50:00+00:00",
+      "channel": "La Une",
+      "title": "Les Douze - Meurtres au Botox",
+      "subtitle": "André",
+      "description": "Jo fait une rencontre surprenante à l'église et André est appelé comme témoin.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.6.0/1",
+        "onscreen": "S01E07"
+      }
+    },
+    {
+      "start": "2026-11-15T20:50:00+00:00",
+      "stop": "2026-11-15T21:52:00+00:00",
+      "channel": "La Une",
+      "title": "Les Douze - Meurtres au Botox",
+      "subtitle": "Le dernier visage",
+      "description": "Walter et Aisha se réconcilient avec leurs mères et Maître Van Dormael se fait attendre.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.7.0/1",
+        "onscreen": "S01E08"
       }
     }
   ]
