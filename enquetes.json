@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T19:14:34.642316+00:00",
-  "window_start": "2026-11-09",
-  "window_end": "2026-11-16",
+  "generated_at": "2026-11-10T13:41:45.525677+00:00",
+  "window_start": "2026-11-10",
+  "window_end": "2026-11-17",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,117 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 38,
+  "count": 35,
   "programmes": [
-    {
-      "start": "2026-11-09T13:25:00+00:00",
-      "stop": "2026-11-09T14:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "À la vie, à la mort",
-      "description": "Le corps d'une femme en robe de mariée est découvert au fond d'un puits. Celle-ci est morte depuis trois mois. Après de longues recherches nos enquêteurs arrivent à retrouver l'identité de cette jeune femme qui avait disparu le jour de son mariage. Etonnement celle-ci est toujours active sur les réseaux sociaux, et vivrait dorénavant une vie paisible à des milliers de kilomètres d'ici. Mais pourquoi continuer à la faire vivre virtuellement ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.3.0/1",
-        "onscreen": "S02E04"
-      }
-    },
-    {
-      "start": "2026-11-09T14:25:00+00:00",
-      "stop": "2026-11-09T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le mal des profondeurs",
-      "description": "Une femme est aperçue gisant dans une cavité où ont lieu des descentes de spéléologie, un groupe de visiteurs remonte à la surface pour appeler les secours mais à l'arrivée de la gendarmerie, le corps à disparu. Où est passée Lina Bern, spéléologue professionnelle ? Le meilleur suspect serait son ex, mais il est enfermé volontairement sous terre pour une expérience hors du temps... à moins qu'il ait réussi à sortir de sa grotte sans se montrer ? D'autres personnes en voulaient à Lina Bern, à commencer par ce groupuscule écologiste qui accuse les spéléologues de perturber la nidification des chauves-souris... pourtant Lina faisait son possible pour que tous vivent en bonne harmonie dans les grottes. Tout comme elle essayait de ménager Marcus, son adjoint et amant, alors qu'elle avait la ferme intention de se remettre avec son ex.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.4.0/1",
-        "onscreen": "S02E05"
-      }
-    },
-    {
-      "start": "2026-11-09T15:30:00+00:00",
-      "stop": "2026-11-09T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Pic Saint-Loup",
-      "description": "Le corps d'une femme est retrouvé sans vie au milieu des vignes, au pied du pic Saint-Loup. Elle vivait en couple avec un oenologue, mais les enquêteurs découvrent qu'elle venait de se remarier, quelques jours plus tôt, à l'insu de tous, avec son ex-mari... Or celui-ci a disparu...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.5.0/1",
-        "onscreen": "S02E06"
-      }
-    },
-    {
-      "start": "2026-11-09T20:10:00+00:00",
-      "stop": "2026-11-09T21:35:00+00:00",
-      "channel": "France 2",
-      "title": "L'art du crime",
-      "subtitle": "Le cri du vampire",
-      "description": "Dans les catacombes de Paris, une jeune femme, déguisée en vampire, est retrouvée assassinée, étendue dans un cercueil, un pieux enfoncé dans le cœur. Près du corps, une reproduction du tableau « Vampire » d'Edvard Munch. Le capitaine de police Antoine Verlay et l'historienne de l'art Florence Chassagne enquêtent au sein de la troupe de théâtre dans laquelle la victime, Sarah Angeli, une comédienne de 24 ans, jouait. Deux jours auparavant, la défunte et Cécile Monclar, la comédienne qui la remplaçait quand elle était en repos, se sont violemment disputées.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": ".1.0/1",
-        "onscreen": "E02"
-      }
-    },
-    {
-      "start": "2026-11-09T20:48:00+00:00",
-      "stop": "2026-11-09T22:28:00+00:00",
-      "channel": "La Une",
-      "title": "Cassandre",
-      "subtitle": "Sur le fil",
-      "description": "Léonore Costa débarque au commissariat, un couteau à la main, couverte de sang, et affirme avoir tué son mari Tony. Tout l'accuse, mais Cassandre sent que quelque chose cloche. L'enquête se dirige alors vers la filature de laine dirigée par la famille de Léonore et où travaillait Tony. Derrière les apparences, le meurtre semble lié aux traumatismes enfouis de cette famille influente brisée...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Cassandre",
-      "episode_nums": {
-        "xmltv_ns": "9.4.0/1",
-        "onscreen": "S10E05"
-      }
-    },
-    {
-      "start": "2026-11-09T21:35:00+00:00",
-      "stop": "2026-11-09T23:20:00+00:00",
-      "channel": "France 2",
-      "title": "L'art du crime",
-      "subtitle": "La nouvelle Olympia",
-      "description": "Viré de la PJ pour insubordination, Antoine Verlay, excellent flic mais un brin sanguin et ayant du mal à travailler en équipe, est rattaché à l'OCBC (Office Central de lutte contre le trafic des Biens Culturels) grâce à l'entremise du commandant Pardo, son ami qui devient, de ce fait, son nouveau supérieur. Enquêteur malin, mais étranger à tout ce qui touche à la culture, Antoine va devoir travailler avec Florence Chassagne, historienne de l'art réputée, qui vit, parle et respire culture, au point que – fruit de sa grande imagination – il lui arrive, dans le cadre de rêveries, de voir et de parler aux grands artistes disparus comme s'ils lui étaient familiers.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": "4.18.0/1",
-        "onscreen": "S05E19"
-      }
-    },
-    {
-      "start": "2026-11-09T23:21:00+00:00",
-      "stop": "2026-11-10T00:50:00+00:00",
-      "channel": "France 2",
-      "title": "Tout le monde ment 2",
-      "subtitle": "",
-      "description": "Claire Abel, une jeune infirmière, est retrouvée poignardée dans son appartement. La police conclut rapidement à un cambriolage qui aurait mal tourné et classe l'affaire. Cependant, un élément étrange fait ressortir le dossier : juste avant son meurtre, la victime avait porté plainte pour agression sexuelle à l'encontre de Mathieu Lecerf, un célèbre acteur d'une série policière et chouchou du public français. Autant dire, un homme intouchable. Le dossier atterrit donc logiquement dans les mains du Groupe des affaires sensibles et de son atout principal, le consultant atypique Vincent Verner. La mission de cette brigade très spéciale : s'attaquer aux puissants que personne n'ose défier. Et cette fois-ci, l'ennemi est de taille. Maître dans l'art du jeu, Lecerf est prêt à tout pour sauver sa réputation, même au pire. Dans ce jeu de dupes et de mensonges, Verner et son équipe réussiront-ils à faire émerger la vérité ?",
-      "category": "Drama",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tout le monde ment",
-      "episode_nums": {}
-    },
     {
       "start": "2026-11-10T00:55:00+00:00",
       "stop": "2026-11-10T02:30:00+00:00",
@@ -558,8 +449,8 @@
       }
     },
     {
-      "start": "2026-11-15T16:44:00+00:00",
-      "stop": "2026-11-15T17:41:00+00:00",
+      "start": "2026-11-15T16:43:00+00:00",
+      "stop": "2026-11-15T17:40:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Jamais sans mon fils",
@@ -574,8 +465,8 @@
       }
     },
     {
-      "start": "2026-11-15T19:50:00+00:00",
-      "stop": "2026-11-15T20:50:00+00:00",
+      "start": "2026-11-15T19:51:00+00:00",
+      "stop": "2026-11-15T20:51:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "André",
@@ -590,8 +481,8 @@
       }
     },
     {
-      "start": "2026-11-15T20:50:00+00:00",
-      "stop": "2026-11-15T21:52:00+00:00",
+      "start": "2026-11-15T20:51:00+00:00",
+      "stop": "2026-11-15T21:53:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Le dernier visage",
@@ -603,6 +494,70 @@
       "episode_nums": {
         "xmltv_ns": "0.7.0/1",
         "onscreen": "S01E08"
+      }
+    },
+    {
+      "start": "2026-11-16T13:25:00+00:00",
+      "stop": "2026-11-16T14:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Mort aux alizés",
+      "description": "Michel Lecompte, ancienne gloire de la course nautique, est assassiné dans le club de voile qu'il dirige : les Alizés. Qui pouvait en vouloir à cet homme adulé de toute une région et héros de plusieurs générations de marins ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.6.0/1",
+        "onscreen": "S03E07"
+      }
+    },
+    {
+      "start": "2026-11-16T14:25:00+00:00",
+      "stop": "2026-11-16T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Tout pour la musique",
+      "description": "Paul a découvert la passion secrète de Camille pour la musique, dont elle s'était bien gardée de parler à la brigade. Alors qu'elle doit chanter au Théâtre de la Mer, en ouverture d'un festival amateur, Paul propose à Léa de surprendre Camille et d'aller l'applaudir. Mais la fête tourne au drame lorsque Camille, à l'issue du spectacle, découvre le corps de Quentin Vidal, le nouveau directeur du festival, tué par balle dans sa chambre d'hôtel. Camille a peur : non seulement c'est elle qui avait rendez-vous avec lui, mais c'est avec son arme qu'il a été assassiné ! Pourquoi le meurtrier cherche-t-il à faire accuser Camille ? Et Camille, qui jure son innocence, a-t-elle dit toute la vérité ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.7.0/1",
+        "onscreen": "S03E08"
+      }
+    },
+    {
+      "start": "2026-11-16T15:25:00+00:00",
+      "stop": "2026-11-16T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Port d'attache",
+      "description": "Hervé Brianson, la cinquantaine, est retrouvé assassiné sur son voilier amarré à Port Camargue. L'homme était originaire de la région, où il n'était plus revenu depuis vingt ans. Il était devenu un célèbre photographe et parcourait le monde pour son métier. L'enquête s'oriente d'abord sur un trafic entre la France et l'Espagne, mais rapidement c'est sur la Capitaine du port, Isabelle Leduc, que les soupçons vont se porter. En effet, à l'époque, elle et Brianson avaient failli se marier mais il l'avait abandonnée du jour au lendemain pour assouvir sa passion. Crime crapuleux ou crime passionnel ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.8.0/1",
+        "onscreen": "S03E09"
+      }
+    },
+    {
+      "start": "2026-11-16T23:15:00+00:00",
+      "stop": "2026-11-17T00:40:00+00:00",
+      "channel": "France 2",
+      "title": "L'art du crime",
+      "subtitle": "Le cri du vampire",
+      "description": "Dans les catacombes de Paris, une jeune femme, déguisée en vampire, est retrouvée assassinée, étendue dans un cercueil, un pieux enfoncé dans le cœur. Près du corps, une reproduction du tableau « Vampire » d'Edvard Munch. Le capitaine de police Antoine Verlay et l'historienne de l'art Florence Chassagne enquêtent au sein de la troupe de théâtre dans laquelle la victime, Sarah Angeli, une comédienne de 24 ans, jouait. Deux jours auparavant, la défunte et Cécile Monclar, la comédienne qui la remplaçait quand elle était en repos, se sont violemment disputées.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "L'Art du crime",
+      "episode_nums": {
+        "xmltv_ns": ".1.0/1",
+        "onscreen": "E02"
       }
     }
   ]
