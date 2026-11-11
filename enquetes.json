@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T16:37:59.694081+00:00",
-  "window_start": "2026-11-10",
-  "window_end": "2026-11-17",
+  "generated_at": "2026-11-11T12:53:25.155145+00:00",
+  "window_start": "2026-11-11",
+  "window_end": "2026-11-18",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,117 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 64,
-  "count": 35,
+  "count": 36,
   "programmes": [
-    {
-      "start": "2026-11-10T00:55:00+00:00",
-      "stop": "2026-11-10T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres en Béarn",
-      "description": "Au pied des montagnes du Béarn, l'épouse d'un notable est retrouvée noyée sous le pont de la Légende de Sauveterre. Jeanne, capitaine de la brigade de recherche d'Oloron, gouailleuse, se retrouve flanquée d'Héloïse, élégante bourgeoise. Jadis très amies, les deux quinquas se détestent.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.1.0/1",
-        "onscreen": "S10E02"
-      }
-    },
-    {
-      "start": "2026-11-10T13:20:00+00:00",
-      "stop": "2026-11-10T14:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Obscura",
-      "description": "Au sein de l'université millénaire de Montpellier, un professeur s'écroule soudain, pris d'hallucinations... Il a tous les symptômes de la peste... Comment la victime a-t-elle pu mourir d'une maladie qui n'existe plus depuis plus de cent ans ? Lié au risque de pandémie, la fac est mise en quarantaine - alors que Franck, le médecin légiste et Erwan, un des lieutenants de l'équipe, sont coincés à l'intérieur... A l'extérieur, Paul et Léa mettent tout en oeuvre pour découvrir ce qui s'est passé alors que le temps est compté...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.6.0/1",
-        "onscreen": "S02E07"
-      }
-    },
-    {
-      "start": "2026-11-10T14:25:00+00:00",
-      "stop": "2026-11-10T15:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le serment des compagnons",
-      "description": "Un cadavre calciné est découvert sur la presqu'île de Maguelone après un incendie. La victime est rapidement identifiée : il s'agit de Guillaume Castel, un tailleur de pierre qui participait au chantier de rénovation de la cathédrale romane Saint-Pierre-et-Saint-Paul sous l'égide des compagnons du Devoir. Léa et Paul sont étonnés de cette soudaine vocation puisque l'homme avait déjà plus de 40 ans. Ils s'interrogent aussi sur son éventuel assassinat puisqu'il était vraisemblablement apprécié de tous et se demandent ce qu'il cherchait en intégrant cet ordre secret aux règles ancestrales.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.7.0/1",
-        "onscreen": "S02E08"
-      }
-    },
-    {
-      "start": "2026-11-10T15:25:00+00:00",
-      "stop": "2026-11-10T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Touché coulé",
-      "description": "Le corps sans vie d'une chercheuse en pisciculture est retrouvé dans un bassin d'étude de daurades. Soler et Marchal découvrent bientôt que la victime était sur le point de publier le résultat étonnant de ses recherches et qu'elle avait prévu de tout plaquer pour changer de vie. Par ailleurs, toutes les conclusions de la spécialiste ont été effacées. Ont-ils été volés, est-ce la raison de sa mort ? Sinon, pourquoi l'a t-on noyée ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.8.0/1",
-        "onscreen": "S02E09"
-      }
-    },
-    {
-      "start": "2026-11-10T20:05:00+00:00",
-      "stop": "2026-11-10T21:41:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à Millau",
-      "subtitle": "",
-      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-10T20:10:00+00:00",
-      "stop": "2026-11-10T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "La chute d'Icare",
-      "description": "Les deux câbles d'acier d'une tyrolienne dessinent une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté. Sous la direction d'un guide, Justine, une femme sportive de 35 ans, boucle son baudrier et s'élance à pleine vitesse au-dessus du vide. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris en la voyant faire une chute soudaine. Quelque chose a lâché. Le corps de Justine, balancé à 50 km à l'heure, s'écrase en contrebas. Alors que cette aventure s'est achevée tragiquement, Alex Hugo va devoir faire face à la maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "11.1.0/1",
-        "onscreen": "S12E02"
-      }
-    },
-    {
-      "start": "2026-11-10T21:40:00+00:00",
-      "stop": "2026-11-10T23:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Celle qui pardonne",
-      "description": "Parti pêcher en montagne, Alex Hugo assiste, impuissant, à l'enlèvement d'Audrey, 16 ans, alors qu'elle venait d'escalader une paroi. Il aperçoit un homme jeter l'adolescente dans le coffre d'une voiture avant de démarrer en trombe. L'alpiniste est la fille d'un ami d'Alex, mort en lui sauvant la vie il y a quelques années. Cette blessure et cette culpabilité sont ravivées par ce kidnapping. L'alerte enlèvement est lancée : tandis que la police de Marseille démarre l'enquête, Alex Hugo va essayer de cerner un peu mieux la personnalité de la jeune fille et ce qu'il va découvrir est extrêmement inquiétant : Audrey semble s'être convertie à l'Islam et radicalisée.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "3.2.0/1",
-        "onscreen": "S04E03"
-      }
-    },
     {
       "start": "2026-11-11T07:11:00+00:00",
       "stop": "2026-11-11T08:43:00+00:00",
@@ -212,6 +103,22 @@
       "episode_nums": {
         "xmltv_ns": "1.11.0/1",
         "onscreen": "S02E12"
+      }
+    },
+    {
+      "start": "2026-11-12T05:47:00+00:00",
+      "stop": "2026-11-12T07:19:00+00:00",
+      "channel": "Tipik",
+      "title": "Commissaire Dupin",
+      "subtitle": "Triple meurtre aux Glénan",
+      "description": "Georges Dupin a réussi à convaincre Claire, son ex, de venir lui rendre visite à Concarneau, et de passer quelques jours rien qu'avec elle. C'était sans compter sur une nouvelle affaire étrange : trois hommes retrouvés morts dans l'archipel des Glénan : Lucas Lefort, propriétaire d'une école de voile à Saint-Nicolas avec sa sœur, Grégoire Pajot, un investisseur, et Yannig Konan, un riche homme d'affaires... Tous les trois empoisonnés avant de se noyer.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
       }
     },
     {
@@ -558,6 +465,115 @@
       "episode_nums": {
         "xmltv_ns": ".1.0/1",
         "onscreen": "E02"
+      }
+    },
+    {
+      "start": "2026-11-17T00:51:00+00:00",
+      "stop": "2026-11-17T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à Millau",
+      "subtitle": "",
+      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-17T13:30:00+00:00",
+      "stop": "2026-11-17T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Diamants noirs",
+      "description": "Baptiste Lacroix, un trufficulteur bien connu dans la région, s'effondre au milieu de sa plantation de chênes. Choc, incompréhension, d'autant que sa famille a déjà été frappée par un drame : l'accident de Julie qui l'a rendue paraplégique. À l'époque, Julie et son compagnon s'étaient installés au domaine et grâce à l'affection de ses parents, elle s'était reconstruite, se révélant même dans l'exploitation trufficole Le « Diamant noir », la marque familiale de produits gastronomiques, prospérait depuis lors, au point de se faire des ennemis. Lorsque l'autopsie révèle que la victime est décédée à cause d'une lésion retardée au cerveau, les enquêteurs comprennent que le meurtrier n'est peut-être même pas au courant de son crime et que le lieu du décès n'est probablement pas la scène de crime ! Pour démasquer le coupable, les enquêteurs déterrent un à un les non-dits qui lient cette famille. Si Baptiste avait plus d'un secret, c'était avant tout pour protéger sa fille. Mais de quoi exactement ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.9.0/1",
+        "onscreen": "S03E10"
+      }
+    },
+    {
+      "start": "2026-11-17T14:30:00+00:00",
+      "stop": "2026-11-17T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Le chemin des Templiers",
+      "description": "Un cadavre vêtu d'un costume de Templier est retrouvé un matin au pied des remparts conduisant à la Tour Constance d'Aigues-Mortes. Tout indique que le malheureux est mort des suites d'une chute, mais un examen de ses doigts montre qu'ils ont été piétinés et qu'il s'agit donc d'un meurtre. Soler et Marchal trouvent vite l'identité de la victime : c'est Marco Salieri, guide à l'office du tourisme de la ville où la veille au soir, ses collègues avaient organisé à ce passionné du Moyen-Age un enterrement de vie de garçon en forme de chasse au trésor avec énigmes à résoudre. Mais Marco ne comptait pas que des amis parmi les guides, surtout depuis l'annonce de son mariage avec Charlotte, une riche notable, fille d'une éminente professeure d'histoire médiévale, Olivia de Rohan. Et encore moins depuis qu'il se disait sur le point de découvrir le mythique trésor des Templiers. L'aurait-on tué pour ça ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.10.0/1",
+        "onscreen": "S03E11"
+      }
+    },
+    {
+      "start": "2026-11-17T15:30:00+00:00",
+      "stop": "2026-11-17T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "La peur au ventre",
+      "description": "Céline Ducourneau a été retrouvée dans le coma, étendue sur sa terrasse. Ancienne femme battue, elle venait d'être prise en charge par une association pour refaire sa vie à Montpellier. Comme son ex-mari est toujours en prison, et que tout évoque un simple accident de jardinage, Léa est à deux doigts de classer l'affaire. C'est alors qu'elle découvre avec stupéfaction un visage familier parmi les personnes qui ont sonné chez Céline ce matin-là : Rodolphe Meunier, l'homme à cause de qui elle a dû quitter Lyon il y a 3 ans ! A l'époque, Léa avait agressé Rodolphe verbalement pour le dissuader de frapper Laure, sa femme. En vain : non seulement Laure était restée avec lui, mais Rodolphe avait porté plainte contre Léa... Rodolphe Meunier est-il l'agresseur de Céline ? S'en est-il pris à elle pour qu'elle lui révèle la nouvelle adresse de Laure ? Malheureusement, alors que Léa rejoint Laure pour la mettre en sécurité, elle apprend qu'Arthur, le fils de Laure et Rodolphe, vient de disparaître du lycée...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "2.11.0/1",
+        "onscreen": "S03E12"
+      }
+    },
+    {
+      "start": "2026-11-17T20:05:00+00:00",
+      "stop": "2026-11-17T21:34:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Chantilly",
+      "description": "Sous le dôme du théâtre équestre du château de Chantilly, le corps d'une jeune écuyère de 20 ans est retrouvé. Elle a été assassinée et son meurtre réveille une ancienne légende du château, celle de l'anneau magique de Louise de Budos qui avait le pouvoir maléfique de rendre amoureux n'importe qui... Alors en plein divorce, les deux capitaines de gendarmerie Antoine Mercier et Juliette Delambre se voient contraints de faire équipe pour résoudre au plus vite cette enquête. Si Antoine entend profiter de cette promiscuité inattendue pour reconquérir Juliette, ce n'est pas du tout le projet de cette dernière, qui a rencontré quelqu'un",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.3.0/1",
+        "onscreen": "S10E04"
+      }
+    },
+    {
+      "start": "2026-11-17T20:10:00+00:00",
+      "stop": "2026-11-17T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La forêt des assassins",
+      "description": "Une scierie tourne à plein régime. Les grumes de plus de 1000 kilos sont soulevées par des palans, basculées sur la chaîne de sciage, équarries et finalement débitées en planches. Face aux écrans de contrôle, un homme veille au bon déroulement de l'opération. Il semble soudain remarquer une anomalie et demande à Elodie d'aller jeter un oeil à l'équarrissage. La jeune ouvrière dégringole l'escalier de ferraille au-dessus du défilé de planches qui s'enfilent en flot continu dans l'engrenage de la trieuse. Soudain, une marche de l'échelle cède sous ses pieds. Une sirène hurle dans la cour de la scierie. Les ouvriers courent partout. Un mot circule : Il y a eu un accident ! Un sac mortuaire se referme sur le visage ensanglanté d'Elodie. Dans les bâtiments, Alex remonte l'échelle métallique au-dessus des machines pour rejoindre Tony...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "10.0.0/1",
+        "onscreen": "S11E01"
+      }
+    },
+    {
+      "start": "2026-11-17T21:40:00+00:00",
+      "stop": "2026-11-17T23:10:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La balade sauvage",
+      "description": "Alex est averti de la fugue de deux jeunes garçons de 12 et 10 ans, partis avec un pistolet volé à leur père, un militaire fraîchement rentré du Mali. Pour Alex, cette histoire a une résonance particulière. Ces deux enfants seuls dans la nature, avec une arme à feu, dont ils ne mesurent pas la dangerosité, lui est insupportable et monopolise toute son attention...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "4.0.0/1",
+        "onscreen": "S05E01"
       }
     }
   ]
