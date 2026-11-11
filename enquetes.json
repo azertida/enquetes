@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:53:25.155145+00:00",
+  "generated_at": "2026-11-11T15:42:26.397903+00:00",
   "window_start": "2026-11-11",
   "window_end": "2026-11-18",
   "source": "Pickx via iptv-org/epg",
@@ -12,8 +12,8 @@
     "Tipik"
   ],
   "missing_channels": [],
-  "series_count": 64,
-  "count": 36,
+  "series_count": 65,
+  "count": 44,
   "programmes": [
     {
       "start": "2026-11-11T07:11:00+00:00",
@@ -295,6 +295,22 @@
       }
     },
     {
+      "start": "2026-11-14T20:00:00+00:00",
+      "stop": "2026-11-14T20:31:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Un avocat n'arrive jamais seul",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".100.0/1",
+        "onscreen": "E101"
+      }
+    },
+    {
       "start": "2026-11-14T20:10:00+00:00",
       "stop": "2026-11-14T21:35:00+00:00",
       "channel": "France 3",
@@ -308,6 +324,54 @@
       "episode_nums": {
         "xmltv_ns": "12.2.0/1",
         "onscreen": "S13E03"
+      }
+    },
+    {
+      "start": "2026-11-14T20:31:00+00:00",
+      "stop": "2026-11-14T21:03:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Chiens dormants",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".101.0/1",
+        "onscreen": "E102"
+      }
+    },
+    {
+      "start": "2026-11-14T21:03:00+00:00",
+      "stop": "2026-11-14T21:33:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Instinct de tueur",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".102.0/1",
+        "onscreen": "E103"
+      }
+    },
+    {
+      "start": "2026-11-14T21:33:00+00:00",
+      "stop": "2026-11-14T22:02:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "L'ascenseur",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".103.0/1",
+        "onscreen": "E104"
       }
     },
     {
@@ -404,6 +468,22 @@
       }
     },
     {
+      "start": "2026-11-16T13:05:00+00:00",
+      "stop": "2026-11-16T13:36:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Un avocat n'arrive jamais seul",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".100.0/1",
+        "onscreen": "E101"
+      }
+    },
+    {
       "start": "2026-11-16T13:25:00+00:00",
       "stop": "2026-11-16T14:25:00+00:00",
       "channel": "France 3",
@@ -420,6 +500,38 @@
       }
     },
     {
+      "start": "2026-11-16T13:36:00+00:00",
+      "stop": "2026-11-16T14:08:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Chiens dormants",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".101.0/1",
+        "onscreen": "E102"
+      }
+    },
+    {
+      "start": "2026-11-16T14:08:00+00:00",
+      "stop": "2026-11-16T14:38:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Instinct de tueur",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".102.0/1",
+        "onscreen": "E103"
+      }
+    },
+    {
       "start": "2026-11-16T14:25:00+00:00",
       "stop": "2026-11-16T15:25:00+00:00",
       "channel": "France 3",
@@ -433,6 +545,22 @@
       "episode_nums": {
         "xmltv_ns": "2.7.0/1",
         "onscreen": "S03E08"
+      }
+    },
+    {
+      "start": "2026-11-16T14:38:00+00:00",
+      "stop": "2026-11-16T15:16:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "L'ascenseur",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".103.0/1",
+        "onscreen": "E104"
       }
     },
     {
@@ -550,7 +678,7 @@
       "channel": "France 3",
       "title": "Alex Hugo",
       "subtitle": "La forêt des assassins",
-      "description": "Une scierie tourne à plein régime. Les grumes de plus de 1000 kilos sont soulevées par des palans, basculées sur la chaîne de sciage, équarries et finalement débitées en planches. Face aux écrans de contrôle, un homme veille au bon déroulement de l'opération. Il semble soudain remarquer une anomalie et demande à Elodie d'aller jeter un oeil à l'équarrissage. La jeune ouvrière dégringole l'escalier de ferraille au-dessus du défilé de planches qui s'enfilent en flot continu dans l'engrenage de la trieuse. Soudain, une marche de l'échelle cède sous ses pieds. Une sirène hurle dans la cour de la scierie. Les ouvriers courent partout. Un mot circule : Il y a eu un accident ! Un sac mortuaire se referme sur le visage ensanglanté d'Elodie. Dans les bâtiments, Alex remonte l'échelle métallique au-dessus des machines pour rejoindre Tony...",
+      "description": "De nombreux braquages perturbent les habitants de Lusagne : à chaque fois, ce sont des cargaisons de produits de première nécessité qui sont volés.",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
