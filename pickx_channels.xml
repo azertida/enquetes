@@ -6,5 +6,5 @@
   <channel site="pickx.be" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" site_id="UID2065">TV5 Monde</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="LaUne.be@HD" site_id="UID50323">La Une</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="Tipik.be@HD" site_id="UID0047">Tipik</channel>
-  <channel site="pickx.be" lang="fr" xmltv_id="arte.fr@SD" site_id="UID50018">Arte</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="arte.fr@HD" ntv_id="1020" site_id="UID0239">Arte</channel>
 </channels>
