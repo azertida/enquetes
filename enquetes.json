@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T16:40:15.464143+00:00",
-  "window_start": "2026-11-11",
-  "window_end": "2026-11-18",
+  "generated_at": "2026-11-12T13:55:52.740927+00:00",
+  "window_start": "2026-11-12",
+  "window_end": "2026-11-19",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,98 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 44,
+  "count": 42,
   "programmes": [
-    {
-      "start": "2026-11-11T07:11:00+00:00",
-      "stop": "2026-11-11T08:43:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres en Auvergne",
-      "subtitle": "",
-      "description": "Le corps d'une jeune femme est retrouvé près du Lac Pavin en Auvergne. La mise en scène du meurtre trouble les enquêteurs car elle n'est pas sans évoquer la légende du lac qui veut que les pécheurs de Besse, provoquant la colère de Dieu, ont été ensevelis, puis recouverts par les larmes du Diable. La victime était-elle considérée comme une pécheresse par son meurtrier? Le capitaine Bruno Romagnat entame l'enquête avec l'adjudant chef Aurélie Lefaivre, une enquête d'autant plus délicate pour lui qu'il connaissait la victime...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-11T08:43:00+00:00",
-      "stop": "2026-11-11T10:16:00+00:00",
-      "channel": "La Une",
-      "title": "Le voyageur",
-      "subtitle": "Le danseur de verre",
-      "description": "Yann Kandinsky se ressource dans une forêt située au fin fond de l'Allier, désireux de prendre du recul, après avoir affronté les pires criminels, mais sa tranquillité est de courte durée, le policier est contacté par un homme qui l'appelle sans décliner son identité. Ce dernier établit un lien entre trois disparitions de femmes intervenues dans un même secteur géographique, autour de Brest. Kandinsky refuse de se mobiliser. L'inconnu n'a de cesse d'alimenter la boîte mail de Kandinsky d'articles de presse concernant ces affaires.Kandinsky prend la route pour la Bretagne, lorsqu'il découvre que la mère de l'une des disparues, Madeleine Guyot, entame sa troisième semaine de grève de la faim afin que la police s'intéresse à ce qu'elle considère comme un enlèvement et non une disparition volontaire. Le Voyageur va établir \"son quartier général\" chez Madeleine. Les proches des disparues vont constituer sa brigade. En rassemblant les indices, Kandinsky va retrouver le mystérieux lien qui réunissait ces femmes...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Le Voyageur",
-      "episode_nums": {
-        "xmltv_ns": "2.2.0/1",
-        "onscreen": "S03E03"
-      }
-    },
-    {
-      "start": "2026-11-11T13:04:00+00:00",
-      "stop": "2026-11-11T14:41:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à Millau",
-      "subtitle": "",
-      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-11T13:30:00+00:00",
-      "stop": "2026-11-11T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Meurtre en Ovalie",
-      "description": "Le corps sans vie d'une rugbywoman est retrouvé dans le vestiaire au lendemain d'un match. Comment trouver une place de mère, de femme lorsqu'on pratique un sport à haut niveau, et en particulier le rugby ? Le meurtre de Lucie Vidal, star de l'équipe féminine, a-t-elle un rapport avec le passé de son père, Alain Vidal, ancienne gloire de l'équipe de France de rugby ? Entre héritage du passé et burn-out des sportifs de haut-niveau, l'enquête va se révéler aussi musclée qu'une mêlée à 15... surtout quand Paul Marchal devra affronter seul sur le terrain l'équipe féminine au complet.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.9.0/1",
-        "onscreen": "S02E10"
-      }
-    },
-    {
-      "start": "2026-11-11T14:30:00+00:00",
-      "stop": "2026-11-11T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Via Tolosana",
-      "description": "Une femme sans papiers d'identité est retrouvée morte à Saint-Jacques-de-Compostelle. Plus tard, les enquêteurs apprennent que la victime était en contact avec un malfaiteur. Mégane Savary avait déjà fait le chemin de Compostelle 5 ans plus tôt, pourquoi était-elle revenue à Saint Guilhem? Que s'est-il passé à l'époque qu'elle ne pouvait dire à personne dans son entourage ? Et pourquoi Mégane avait disparu plusieurs mois d'affilée ? La victime avait-elle un regret et a-t-elle essayé de rattraper les erreurs de son passé ? Une enquête entre chemin de foi et rédemption pour nos héros, une histoire qui touche de près Léa et Camille, elles-mêmes anciennes pèlerins.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.10.0/1",
-        "onscreen": "S02E11"
-      }
-    },
-    {
-      "start": "2026-11-11T15:30:00+00:00",
-      "stop": "2026-11-11T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "A contre-courant",
-      "description": "Axel Vignot, un célèbre avocat, est retrouvé assassiné non loin d'un club de Kayak. En cherchant des indices, Paul va se voir accueilli par le frère jumeau de la victime. Jusqu'à ce que notre capitaine se rende compte que les jumeaux avaient échangé leur place, et que c'est Antoine Borel, le gérant du club de kayak qu'on a tué. Qui pouvait en vouloir à cet homme à l'apparence paisible ? Le père d'un de ses élèves mort un an plus tôt, ou bien Jacques Dargonne, agriculteur et ardent défenseur de la construction du barrage de Saint Bauzile... un barrage qui mettait en péril l'existence même du club de kayak de la victime ? Antoine Borel qui défendait de façon pacifique l'équilibre écologique de la rivière, s'est-il rendu compte qu'il fallait passer à des actions plus violentes ? Auquel cas il aurait pu tomber sur plus fort que lui ...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "1.11.0/1",
-        "onscreen": "S02E12"
-      }
-    },
     {
       "start": "2026-11-12T05:47:00+00:00",
       "stop": "2026-11-12T07:19:00+00:00",
@@ -702,6 +612,70 @@
       "episode_nums": {
         "xmltv_ns": "4.0.0/1",
         "onscreen": "S05E01"
+      }
+    },
+    {
+      "start": "2026-11-18T13:05:00+00:00",
+      "stop": "2026-11-18T14:36:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Chantilly",
+      "description": "Sous le dôme du théâtre équestre du château de Chantilly, le corps d'une jeune écuyère de 20 ans est retrouvé. Elle a été assassinée et son meurtre réveille une ancienne légende du château, celle de l'anneau magique de Louise de Budos qui avait le pouvoir maléfique de rendre amoureux n'importe qui... Alors en plein divorce, les deux capitaines de gendarmerie Antoine Mercier et Juliette Delambre se voient contraints de faire équipe pour résoudre au plus vite cette enquête. Si Antoine entend profiter de cette promiscuité inattendue pour reconquérir Juliette, ce n'est pas du tout le projet de cette dernière, qui a rencontré quelqu'un",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.3.0/1",
+        "onscreen": "S10E04"
+      }
+    },
+    {
+      "start": "2026-11-18T13:30:00+00:00",
+      "stop": "2026-11-18T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Résurrection",
+      "description": "Commandant de gendarmerie, Léa Soler est contrainte de collaborer avec le capitaine Paul Marchal, son ancien mari. Dans le travail comme dans la vie, les divorcés doivent mettre de côté leurs différends, car passent avant tout leurs enquêtes. Philippe Préjean est retrouvé mort dans l'atelier de la savonnerie traditionnelle qu'il gère. Léa et Paul pensent qu'ils vont rapidement boucler leur enquête : des cheveux de l'agresseur ont été retrouvés dans la main de la victime. L'analyse ADN réserve cependant aux enquêteurs une grosse surprise. Les cheveux appartiennent à Laurent Belmont, le premier mari de la femme de la victime. Or, celui-ci est censé être mort depuis huit ans...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-11-18T14:30:00+00:00",
+      "stop": "2026-11-18T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Dernière danse",
+      "description": "Alexander Williams, chorégraphe à la réputation mondiale, est retrouvé mort sur la scène de l'Agora... très vite, on retrouve une de ses danseuses, Nathalie Parisot, couverte du sang de la victime et en état de choc. Problème pour nos héros, Nathalie ne peut pas avouer : elle ne se souvient de rien, elle est atteinte d'un syndrome précoce d'Alzheimer. En creusant pour trouver des preuves contre elle, Soler et Marchal vont se rendre compte que le meurtre n'est peut-être pas aussi simple qu'il paraît... Alexander Williams semblait cacher plusieurs secrets. L'a-t-on tué par jalousie ? Et si Nathalie n'était pas coupable mais avait assisté au meurtre ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-11-18T15:30:00+00:00",
+      "stop": "2026-11-18T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Fouilles mortelles",
+      "description": "Sur un chantier de fouilles archéologiques, le corps de Marion Duval, une étudiante est retrouvée dans une chambre funéraire hermétiquement scellée... Un véritable mystère de chambre close que doivent résoudre nos enquêteurs... Par ailleurs, que cachait cette jeune femme passionnée, prête à tout pour empêcher la fermeture du lieu? Quels étaient réellement ses liens avec les autres membres de l'équipe ? Sachant que le meurtrier est forcément l'un d'eux...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.2.0/1",
+        "onscreen": "S04E03"
       }
     }
   ]
