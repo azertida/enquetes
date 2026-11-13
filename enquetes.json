@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T17:09:14.869923+00:00",
-  "window_start": "2026-11-12",
-  "window_end": "2026-11-19",
+  "generated_at": "2026-11-13T13:20:55.782884+00:00",
+  "window_start": "2026-11-13",
+  "window_end": "2026-11-20",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,72 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 42,
+  "count": 43,
   "programmes": [
-    {
-      "start": "2026-11-12T05:47:00+00:00",
-      "stop": "2026-11-12T07:19:00+00:00",
-      "channel": "Tipik",
-      "title": "Commissaire Dupin",
-      "subtitle": "Triple meurtre aux Glénan",
-      "description": "Georges Dupin a réussi à convaincre Claire, son ex, de venir lui rendre visite à Concarneau, et de passer quelques jours rien qu'avec elle. C'était sans compter sur une nouvelle affaire étrange : trois hommes retrouvés morts dans l'archipel des Glénan : Lucas Lefort, propriétaire d'une école de voile à Saint-Nicolas avec sa sœur, Grégoire Pajot, un investisseur, et Yannig Konan, un riche homme d'affaires... Tous les trois empoisonnés avant de se noyer.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "0.1.0/1",
-        "onscreen": "S01E02"
-      }
-    },
-    {
-      "start": "2026-11-12T13:25:00+00:00",
-      "stop": "2026-11-12T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Dernière joute",
-      "description": "À Sète, la joute nautique est une tradition ancestrale. Aussi ancienne que la rancoeur qui anime les Caravani et les Villa, deux familles de jouteurs qui se disputent le célèbre trophée de la Saint-Louis. Qui sait si c'est à cause de cette haine qu'on retrouve Kevin Villa mort un beau matin dans le canal ou parce qu'il était le petit ami secret de Tiphaine Caravani. aussi ancienne que la rancœur qui anime les Caravani et les Villa, deux familles de jouteurs qui se disputent le célèbre trophée de la Saint-Louis. Est-ce à cause de cette haine qu'on retrouve Kevin Villa mort un beau matin dans le canal ? Où est-ce parce qu'il était le petit ami secret de Tiphaine Caravani ? Dans une enquête sur fond de Roméo et Juliette, nos héros vont devoir creuser dans les secrets les plus profonds des protagonistes de l'affaire... et découvrir qu'à force de non-dits, la haine s'était propagée en silence au sein même de la famille de la victime.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.0.0/1",
-        "onscreen": "S03E01"
-      }
-    },
-    {
-      "start": "2026-11-12T14:30:00+00:00",
-      "stop": "2026-11-12T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Un parfum de mystère",
-      "description": "Pour la première fois, Léa et Paul vont être confrontés à une affaire peu banale. Suite à l'appel d'une femme en détresse, Clara Séguret, tous les indices d'un meurtre et toutes les preuves incriminant Damien Heyrieux, collègue aveugle de la victime, vont être retrouvés. Seul problème, nos deux enquêteurs n'ont ni le mobile de Heyrieux ni le corps de Clara. Pourquoi l'aveugle a-t-il tué la jeune femme, héritière du célèbre domaine des parfums Séguret ? Et comment a-t-il réussi à faire disparaître le corps ? Un face à face entre un meurtrier calculateur et une Léa plus perspicace que jamais... tout ça sous la surveillance du colonel qui ne laissera passer aucune erreur de procédure. Heyrieux a-t-il tué par amour ou par orgueil ? Et si c'était justement son égo qui à la fin faisait perdre la partie d'échec engagée par l'aveugle contre Léa ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.1.0/1",
-        "onscreen": "S03E02"
-      }
-    },
-    {
-      "start": "2026-11-12T15:30:00+00:00",
-      "stop": "2026-11-12T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Hors normes",
-      "description": "Maxime Baltard, un ancien détenu célèbre pour ses évasions, semble enfin avoir trouvé la rédemption, et s'être réhabilité. La jeune femme a-t-elle mal pris la trahison de son mari ? Maxime, qui prônait pour tous la seconde chance, a-t-il été tué pour en avoir voulu plus ? Et si à force de vouloir recommencer sans arrêt sa vie on se précipitait tout droit vers la mort ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.2.0/1",
-        "onscreen": "S03E03"
-      }
-    },
     {
       "start": "2026-11-13T13:30:00+00:00",
       "stop": "2026-11-13T14:30:00+00:00",
@@ -177,7 +113,7 @@
     },
     {
       "start": "2026-11-14T14:43:00+00:00",
-      "stop": "2026-11-14T16:26:00+00:00",
+      "stop": "2026-11-14T16:23:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Rocamadour",
       "subtitle": "",
@@ -189,8 +125,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-11-14T16:26:00+00:00",
-      "stop": "2026-11-14T17:33:00+00:00",
+      "start": "2026-11-14T16:23:00+00:00",
+      "stop": "2026-11-14T17:32:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "L'amour en fuite",
@@ -330,8 +266,8 @@
       }
     },
     {
-      "start": "2026-11-15T16:43:00+00:00",
-      "stop": "2026-11-15T17:40:00+00:00",
+      "start": "2026-11-15T16:44:00+00:00",
+      "stop": "2026-11-15T17:42:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Jamais sans mon fils",
@@ -363,7 +299,7 @@
     },
     {
       "start": "2026-11-15T20:51:00+00:00",
-      "stop": "2026-11-15T21:53:00+00:00",
+      "stop": "2026-11-15T21:54:00+00:00",
       "channel": "La Une",
       "title": "Les Douze - Meurtres au Botox",
       "subtitle": "Le dernier visage",
@@ -676,6 +612,86 @@
       "episode_nums": {
         "xmltv_ns": "3.2.0/1",
         "onscreen": "S04E03"
+      }
+    },
+    {
+      "start": "2026-11-19T13:25:00+00:00",
+      "stop": "2026-11-19T14:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Les mots de Judith",
+      "description": "Judith Collet, artificière, est retrouvée morte, tuée par une fusée du feu d'artifice qu'elle tirait. Depuis quelques mois, Judith cachait un secret. Où se rendait-elle 2 soirs par semaine ? Avait-elle un amant et son mari l'aurait-il découvert ? Est-ce que cela avait un rapport avec la promotion qu'elle avait refusé ? Ou bien est-ce une collègue jalouse du succès de Judith qui l'aurait tué ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.3.0/1",
+        "onscreen": "S04E04"
+      }
+    },
+    {
+      "start": "2026-11-19T14:25:00+00:00",
+      "stop": "2026-11-19T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Peaux rouges",
+      "description": "Le corps d'une jeune femme, tuée par balle est retrouvé à proximité d'une carrière de Bauxite, un minerai rouge qui donne au lieu des allures de décors de Western... La victime venait d'être élue directrice de la carrière qui appartenait aux mineurs. La rivalité entre l'ancien directeur et la victime pourrait-elle avoir un lien avec le meurtre ? Ou est-ce lié à la disparition mystérieuse, il y a quelques années, du père de Patricia, un mineur lui aussi ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.4.0/1",
+        "onscreen": "S04E05"
+      }
+    },
+    {
+      "start": "2026-11-19T15:30:00+00:00",
+      "stop": "2026-11-19T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Plantes mortelles",
+      "description": "La présidente de l'institut botanique de Montpellier est retrouvée morte dans la chambre froide de l'institut... Ça n'est pas la première fois que les enquêteurs ont affaire à l'institut ! Un incendie volontaire avait ravagé une partie de l'herbier l'an dernier mais le coupable, un botaniste avait bénéficié d'un non-lieu suite à une erreur de procédure de Paul. Les deux affaires sont-elles liées ? Paul se serait-il trompé de coupable il y a un an ? Le botaniste mis au placard aurait-il voulu se venger ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.5.0/1",
+        "onscreen": "S04E06"
+      }
+    },
+    {
+      "start": "2026-11-19T19:32:00+00:00",
+      "stop": "2026-11-19T20:31:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "Kitsuné",
+      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre, Raphaëlle brave les procédures et envoie Astrid et Tetsuo à Tokyo sur la piste d'un mystérieux crime non résolu auquel Apu semble avoir été mêlé par le passé...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.0.0/1",
+        "onscreen": "S07E01"
+      }
+    },
+    {
+      "start": "2026-11-19T20:31:00+00:00",
+      "stop": "2026-11-19T21:39:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "La forêt",
+      "description": "Entre Paris et Tokyo, Astrid, Raphaëlle et l'inspectrice japonaise Reiko Kondo unissent leurs forces pour faire éclater la vérité sur la mort d'Apu Tanaka. Fausses identités, légendes nipponnes et mystérieuse forêt maudite, nos enquêtrices vont devoir se confronter à de sombres secrets familiaux...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.1.0/1",
+        "onscreen": "S07E02"
       }
     }
   ]
