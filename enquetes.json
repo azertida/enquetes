@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:54:26.148573+00:00",
+  "generated_at": "2026-11-15T15:54:38.833660+00:00",
   "window_start": "2026-11-15",
   "window_end": "2026-11-22",
   "source": "Pickx via iptv-org/epg",
@@ -216,8 +216,8 @@
       "origine": "serie",
       "serie": "L'Art du crime",
       "episode_nums": {
-        "xmltv_ns": ".1.0/1",
-        "onscreen": "E02"
+        "xmltv_ns": ".601.0/1",
+        "onscreen": "E602"
       }
     },
     {
