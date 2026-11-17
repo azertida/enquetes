@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T18:57:46.979709+00:00",
-  "window_start": "2026-11-16",
-  "window_end": "2026-11-23",
+  "generated_at": "2026-11-17T14:46:45.432780+00:00",
+  "window_start": "2026-11-17",
+  "window_end": "2026-11-24",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,136 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 45,
+  "count": 43,
   "programmes": [
-    {
-      "start": "2026-11-16T13:05:00+00:00",
-      "stop": "2026-11-16T13:36:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "Un avocat n'arrive jamais seul",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": ".100.0/1",
-        "onscreen": "E101"
-      }
-    },
-    {
-      "start": "2026-11-16T13:25:00+00:00",
-      "stop": "2026-11-16T14:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Mort aux alizés",
-      "description": "Michel Lecompte, ancienne gloire de la course nautique, est assassiné dans le club de voile qu'il dirige : les Alizés. Qui pouvait en vouloir à cet homme adulé de toute une région et héros de plusieurs générations de marins ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.6.0/1",
-        "onscreen": "S03E07"
-      }
-    },
-    {
-      "start": "2026-11-16T13:36:00+00:00",
-      "stop": "2026-11-16T14:08:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "Chiens dormants",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": ".101.0/1",
-        "onscreen": "E102"
-      }
-    },
-    {
-      "start": "2026-11-16T14:08:00+00:00",
-      "stop": "2026-11-16T14:38:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "Instinct de tueur",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": ".102.0/1",
-        "onscreen": "E103"
-      }
-    },
-    {
-      "start": "2026-11-16T14:25:00+00:00",
-      "stop": "2026-11-16T15:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Tout pour la musique",
-      "description": "Paul a découvert la passion secrète de Camille pour la musique, dont elle s'était bien gardée de parler à la brigade. Alors qu'elle doit chanter au Théâtre de la Mer, en ouverture d'un festival amateur, Paul propose à Léa de surprendre Camille et d'aller l'applaudir. Mais la fête tourne au drame lorsque Camille, à l'issue du spectacle, découvre le corps de Quentin Vidal, le nouveau directeur du festival, tué par balle dans sa chambre d'hôtel. Camille a peur : non seulement c'est elle qui avait rendez-vous avec lui, mais c'est avec son arme qu'il a été assassiné ! Pourquoi le meurtrier cherche-t-il à faire accuser Camille ? Et Camille, qui jure son innocence, a-t-elle dit toute la vérité ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.7.0/1",
-        "onscreen": "S03E08"
-      }
-    },
-    {
-      "start": "2026-11-16T14:38:00+00:00",
-      "stop": "2026-11-16T15:16:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "L'ascenseur",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": ".103.0/1",
-        "onscreen": "E104"
-      }
-    },
-    {
-      "start": "2026-11-16T15:25:00+00:00",
-      "stop": "2026-11-16T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Port d'attache",
-      "description": "Hervé Brianson, la cinquantaine, est retrouvé assassiné sur son voilier amarré à Port Camargue. L'homme était originaire de la région, où il n'était plus revenu depuis vingt ans. Il était devenu un célèbre photographe et parcourait le monde pour son métier. L'enquête s'oriente d'abord sur un trafic entre la France et l'Espagne, mais rapidement c'est sur la Capitaine du port, Isabelle Leduc, que les soupçons vont se porter. En effet, à l'époque, elle et Brianson avaient failli se marier mais il l'avait abandonnée du jour au lendemain pour assouvir sa passion. Crime crapuleux ou crime passionnel ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.8.0/1",
-        "onscreen": "S03E09"
-      }
-    },
-    {
-      "start": "2026-11-16T23:15:00+00:00",
-      "stop": "2026-11-17T00:40:00+00:00",
-      "channel": "France 2",
-      "title": "L'art du crime",
-      "subtitle": "Le cri du vampire",
-      "description": "Dans les catacombes de Paris, une jeune femme, déguisée en vampire, est retrouvée assassinée, étendue dans un cercueil, un pieux enfoncé dans le cœur. Près du corps, une reproduction du tableau « Vampire » d'Edvard Munch. Le capitaine de police Antoine Verlay et l'historienne de l'art Florence Chassagne enquêtent au sein de la troupe de théâtre dans laquelle la victime, Sarah Angeli, une comédienne de 24 ans, jouait. Deux jours auparavant, la défunte et Cécile Monclar, la comédienne qui la remplaçait quand elle était en repos, se sont violemment disputées.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": ".601.0/1",
-        "onscreen": "E602"
-      }
-    },
     {
       "start": "2026-11-17T00:51:00+00:00",
       "stop": "2026-11-17T02:30:00+00:00",
@@ -365,7 +237,7 @@
       }
     },
     {
-      "start": "2026-11-19T19:32:00+00:00",
+      "start": "2026-11-19T19:31:00+00:00",
       "stop": "2026-11-19T20:31:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
@@ -382,7 +254,7 @@
     },
     {
       "start": "2026-11-19T20:31:00+00:00",
-      "stop": "2026-11-19T21:39:00+00:00",
+      "stop": "2026-11-19T21:38:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "La forêt",
@@ -712,7 +584,7 @@
     },
     {
       "start": "2026-11-22T16:44:00+00:00",
-      "stop": "2026-11-22T17:39:00+00:00",
+      "stop": "2026-11-22T17:40:00+00:00",
       "channel": "La Une",
       "title": "Munch",
       "subtitle": "Le procès",
@@ -724,6 +596,102 @@
       "episode_nums": {
         "xmltv_ns": "0.7.0/1",
         "onscreen": "S01E08"
+      }
+    },
+    {
+      "start": "2026-11-23T13:05:00+00:00",
+      "stop": "2026-11-23T13:37:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Le dernier jour",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".104.0/1",
+        "onscreen": "E105"
+      }
+    },
+    {
+      "start": "2026-11-23T13:25:00+00:00",
+      "stop": "2026-11-23T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Or blanc",
+      "description": "Un homme fait un malaise dans sa voiture. Ayant récemment intégré les pompiers volontaires, Thomas est le premier à intervenir. L'homme a juste le temps de lui dire qu'il a été empoisonné avant de mourir dans ses bras. Xavier Martel, la victime, dirigeait une exploitation viticole et produisait un vin des plus exclusifs : l'Or Blanc. Est-ce qu'un vigneron jaloux de son succès aurait voulu éliminer un concurrent ? Les enquêteurs découvrent rapidement des irrégularités dans les volumes des cuves, il y avait des vols sur le domaine. Xavier aurait-il découvert le voleur ? Les gendarmes apprennent également que la victime était interdite de casino, il avait eu des problèmes d'addiction aux jeux par le passé. Aurait-il replongé ? Jusqu'où l'a entrainé son addiction ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.9.0/1",
+        "onscreen": "S04E10"
+      }
+    },
+    {
+      "start": "2026-11-23T13:37:00+00:00",
+      "stop": "2026-11-23T14:05:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "La clinique",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".105.0/1",
+        "onscreen": "E106"
+      }
+    },
+    {
+      "start": "2026-11-23T14:05:00+00:00",
+      "stop": "2026-11-23T14:36:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "La soirée de fête",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": ".106.0/1",
+        "onscreen": "E107"
+      }
+    },
+    {
+      "start": "2026-11-23T14:30:00+00:00",
+      "stop": "2026-11-23T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Village abandonné",
+      "description": "Vincent Restier est retrouvé mort dans le bureau du maire, dont il était l'adjoint. Il a été frappé à la tête avec un presse papier et poignardé dans le dos. L'homme d'affaire était revenu après 25 ans d'absence pour redynamiser ce village abandonné avec un projet de complexe de loisir. L'aurait-on tué pour l'empêcher de mener à bien ce projet ? Vincent est-il vraiment celui qu'il prétend être ? Il n'avait aucun diplôme de commerce et tout était faux dans sa vie. C'était un imposteur ; et elle fut sa première victime.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.10.0/1",
+        "onscreen": "S04E11"
+      }
+    },
+    {
+      "start": "2026-11-23T15:25:00+00:00",
+      "stop": "2026-11-23T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "La femme aux deux visages",
+      "description": "En pleine nuit, Antonin, l'un des meilleurs amis de Paul l'appelle en panique. Sa femme Cyrielle a disparu, il est persuadé qu'elle est allée se jeter du pont. Lorsque Paul arrive en bas du pont, il aperçoit Cyrielle tomber. Il se jette à l'eau mais il est trop tard, il ne parvient pas à la sauver. Les gendarmes pensent rapidement clore l'affaire. Il s'agit d'un suicide, Paul en est témoin. Mais Léa a des doutes, pou Les gendarmes découvrent que, la veille de sa mort, Cyrielle avait sorti 5 000 euros en liquide et qu'elle avait un amant, Jérôme Lasalle.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "3.11.0/1",
+        "onscreen": "S04E12"
       }
     }
   ]
