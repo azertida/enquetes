@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T17:56:09.918151+00:00",
-  "window_start": "2026-11-17",
-  "window_end": "2026-11-24",
+  "generated_at": "2026-11-18T14:27:10.896089+00:00",
+  "window_start": "2026-11-18",
+  "window_end": "2026-11-25",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,117 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 43,
+  "count": 45,
   "programmes": [
-    {
-      "start": "2026-11-17T00:51:00+00:00",
-      "stop": "2026-11-17T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à Millau",
-      "subtitle": "",
-      "description": "Un cadavre portant un masque du diable est retrouvé près du viaduc de Millau. Cette mise en scène macabre semble liée à une légende locale. Pour résoudre l'enquête.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-17T13:30:00+00:00",
-      "stop": "2026-11-17T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Diamants noirs",
-      "description": "Baptiste Lacroix, un trufficulteur bien connu dans la région, s'effondre au milieu de sa plantation de chênes. Choc, incompréhension, d'autant que sa famille a déjà été frappée par un drame : l'accident de Julie qui l'a rendue paraplégique. À l'époque, Julie et son compagnon s'étaient installés au domaine et grâce à l'affection de ses parents, elle s'était reconstruite, se révélant même dans l'exploitation trufficole Le « Diamant noir », la marque familiale de produits gastronomiques, prospérait depuis lors, au point de se faire des ennemis. Lorsque l'autopsie révèle que la victime est décédée à cause d'une lésion retardée au cerveau, les enquêteurs comprennent que le meurtrier n'est peut-être même pas au courant de son crime et que le lieu du décès n'est probablement pas la scène de crime ! Pour démasquer le coupable, les enquêteurs déterrent un à un les non-dits qui lient cette famille. Si Baptiste avait plus d'un secret, c'était avant tout pour protéger sa fille. Mais de quoi exactement ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.9.0/1",
-        "onscreen": "S03E10"
-      }
-    },
-    {
-      "start": "2026-11-17T14:30:00+00:00",
-      "stop": "2026-11-17T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le chemin des Templiers",
-      "description": "Un cadavre vêtu d'un costume de Templier est retrouvé un matin au pied des remparts conduisant à la Tour Constance d'Aigues-Mortes. Tout indique que le malheureux est mort des suites d'une chute, mais un examen de ses doigts montre qu'ils ont été piétinés et qu'il s'agit donc d'un meurtre. Soler et Marchal trouvent vite l'identité de la victime : c'est Marco Salieri, guide à l'office du tourisme de la ville où la veille au soir, ses collègues avaient organisé à ce passionné du Moyen-Age un enterrement de vie de garçon en forme de chasse au trésor avec énigmes à résoudre. Mais Marco ne comptait pas que des amis parmi les guides, surtout depuis l'annonce de son mariage avec Charlotte, une riche notable, fille d'une éminente professeure d'histoire médiévale, Olivia de Rohan. Et encore moins depuis qu'il se disait sur le point de découvrir le mythique trésor des Templiers. L'aurait-on tué pour ça ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.10.0/1",
-        "onscreen": "S03E11"
-      }
-    },
-    {
-      "start": "2026-11-17T15:30:00+00:00",
-      "stop": "2026-11-17T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "La peur au ventre",
-      "description": "Céline Ducourneau a été retrouvée dans le coma, étendue sur sa terrasse. Ancienne femme battue, elle venait d'être prise en charge par une association pour refaire sa vie à Montpellier. Comme son ex-mari est toujours en prison, et que tout évoque un simple accident de jardinage, Léa est à deux doigts de classer l'affaire. C'est alors qu'elle découvre avec stupéfaction un visage familier parmi les personnes qui ont sonné chez Céline ce matin-là : Rodolphe Meunier, l'homme à cause de qui elle a dû quitter Lyon il y a 3 ans ! A l'époque, Léa avait agressé Rodolphe verbalement pour le dissuader de frapper Laure, sa femme. En vain : non seulement Laure était restée avec lui, mais Rodolphe avait porté plainte contre Léa... Rodolphe Meunier est-il l'agresseur de Céline ? S'en est-il pris à elle pour qu'elle lui révèle la nouvelle adresse de Laure ? Malheureusement, alors que Léa rejoint Laure pour la mettre en sécurité, elle apprend qu'Arthur, le fils de Laure et Rodolphe, vient de disparaître du lycée...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "2.11.0/1",
-        "onscreen": "S03E12"
-      }
-    },
-    {
-      "start": "2026-11-17T20:05:00+00:00",
-      "stop": "2026-11-17T21:34:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Chantilly",
-      "description": "Sous le dôme du théâtre équestre du château de Chantilly, le corps d'une jeune écuyère de 20 ans est retrouvé. Elle a été assassinée et son meurtre réveille une ancienne légende du château, celle de l'anneau magique de Louise de Budos qui avait le pouvoir maléfique de rendre amoureux n'importe qui... Alors en plein divorce, les deux capitaines de gendarmerie Antoine Mercier et Juliette Delambre se voient contraints de faire équipe pour résoudre au plus vite cette enquête. Si Antoine entend profiter de cette promiscuité inattendue pour reconquérir Juliette, ce n'est pas du tout le projet de cette dernière, qui a rencontré quelqu'un",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.3.0/1",
-        "onscreen": "S10E04"
-      }
-    },
-    {
-      "start": "2026-11-17T20:10:00+00:00",
-      "stop": "2026-11-17T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "La forêt des assassins",
-      "description": "De nombreux braquages perturbent les habitants de Lusagne : à chaque fois, ce sont des cargaisons de produits de première nécessité qui sont volés.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "10.0.0/1",
-        "onscreen": "S11E01"
-      }
-    },
-    {
-      "start": "2026-11-17T21:40:00+00:00",
-      "stop": "2026-11-17T23:10:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "La balade sauvage",
-      "description": "Alex est averti de la fugue de deux jeunes garçons de 12 et 10 ans, partis avec un pistolet volé à leur père, un militaire fraîchement rentré du Mali. Pour Alex, cette histoire a une résonance particulière. Ces deux enfants seuls dans la nature, avec une arme à feu, dont ils ne mesurent pas la dangerosité, lui est insupportable et monopolise toute son attention...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "4.0.0/1",
-        "onscreen": "S05E01"
-      }
-    },
     {
       "start": "2026-11-18T13:05:00+00:00",
       "stop": "2026-11-18T14:36:00+00:00",
@@ -237,12 +128,12 @@
       }
     },
     {
-      "start": "2026-11-19T19:31:00+00:00",
+      "start": "2026-11-19T19:33:00+00:00",
       "stop": "2026-11-19T20:31:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "Kitsuné",
-      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre, Raphaëlle brave les procédures et envoie Astrid et Tetsuo à Tokyo sur la piste d'un mystérieux crime non résolu auquel Apu semble avoir été mêlé par le passé...",
+      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre terrible.",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -508,7 +399,7 @@
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "Kitsuné",
-      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre, Raphaëlle brave les procédures et envoie Astrid et Tetsuo à Tokyo sur la piste d'un mystérieux crime non résolu auquel Apu semble avoir été mêlé par le passé...",
+      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre terrible.",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -692,6 +583,144 @@
       "episode_nums": {
         "xmltv_ns": "3.11.0/1",
         "onscreen": "S04E12"
+      }
+    },
+    {
+      "start": "2026-11-24T00:35:00+00:00",
+      "stop": "2026-11-24T02:10:00+00:00",
+      "channel": "France 2",
+      "title": "L'art du crime",
+      "subtitle": "La nouvelle Olympia",
+      "description": "Viré de la PJ pour insubordination, Antoine Verlay, excellent flic mais un brin sanguin et ayant du mal à travailler en équipe, est rattaché à l'OCBC (Office Central de lutte contre le trafic des Biens Culturels) grâce à l'entremise du commandant Pardo, son ami qui devient, de ce fait, son nouveau supérieur. Enquêteur malin, mais étranger à tout ce qui touche à la culture, Antoine va devoir travailler avec Florence Chassagne, historienne de l'art réputée, qui vit, parle et respire culture, au point que – fruit de sa grande imagination – il lui arrive, dans le cadre de rêveries, de voir et de parler aux grands artistes disparus comme s'ils lui étaient familiers.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "L'Art du crime",
+      "episode_nums": {
+        "xmltv_ns": "4.18.0/1",
+        "onscreen": "S05E19"
+      }
+    },
+    {
+      "start": "2026-11-24T00:42:00+00:00",
+      "stop": "2026-11-24T02:13:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Chantilly",
+      "description": "Sous le dôme du théâtre équestre du château de Chantilly, le corps d'une jeune écuyère de 20 ans est retrouvé. Elle a été assassinée et son meurtre réveille une ancienne légende du château, celle de l'anneau magique de Louise de Budos qui avait le pouvoir maléfique de rendre amoureux n'importe qui... Alors en plein divorce, les deux capitaines de gendarmerie Antoine Mercier et Juliette Delambre se voient contraints de faire équipe pour résoudre au plus vite cette enquête. Si Antoine entend profiter de cette promiscuité inattendue pour reconquérir Juliette, ce n'est pas du tout le projet de cette dernière, qui a rencontré quelqu'un",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.3.0/1",
+        "onscreen": "S10E04"
+      }
+    },
+    {
+      "start": "2026-11-24T13:30:00+00:00",
+      "stop": "2026-11-24T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "L'eau qui dort",
+      "description": "Le corps d'Olivier Croze, un entrepreneur, est retrouvé dans la fontaine du Peyrou. A-t-on voulu l'empêcher de mener à bien son projet de centre commercial qui allait dénaturer une partie de l'aqueduc Saint-Clément ? Léa découvre que la victime a été tuée suivant un supplice ancestral, la cure par l'eau. Ce meurtre est-il lié à la légende des 3 bergers de la source du Boulidou qui ont subi le même supplice, comme Paul semble le penser ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.0.0/1",
+        "onscreen": "S05E01"
+      }
+    },
+    {
+      "start": "2026-11-24T14:30:00+00:00",
+      "stop": "2026-11-24T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Secrets sur les docks",
+      "description": "Damien Berne, docker récemment promu directeur adjoint du port de Sète, est retrouvé mort sur les quais. Léa et Paul vont apprendre que Damien était prêt à tout pour obtenir cette promotion. Qui pouvait en vouloir à cet homme qui jonglait entre satisfaire la direction du port et défendre ses anciens camarades dockers ? Paul et Léa découvrent que la victime jouait double jeu. Sa mort serait-elle liée à un trafic qui sévissait dans le port ou bien à une trahison?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.1.0/1",
+        "onscreen": "S05E02"
+      }
+    },
+    {
+      "start": "2026-11-24T15:30:00+00:00",
+      "stop": "2026-11-24T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Les larmes d'Aphrodite",
+      "description": "Henri Monin a été assassiné sur la terrasse de son restaurant « Le Ponton », au bord de l'étang de Thau. Qui pouvait en vouloir à ce touche à tout de génie, inventeur de l'huitre anti-vol et restaurateur à succès ? Léa retrouve un écrin et une perle qui n'était visiblement pas destinée à sa femme. Est-ce une sombre histoire d'adultère ? Ou serait-ce lié au nouveau projet mystérieux d'Henri Monin ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.2.0/1",
+        "onscreen": "S05E03"
+      }
+    },
+    {
+      "start": "2026-11-24T20:05:00+00:00",
+      "stop": "2026-11-24T21:35:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres en Gironde",
+      "subtitle": "",
+      "description": "Éliane Caron, militante écologique, a été assassinée. À côté du cadavre se trouve une édition rare du célèbre roman « Thérèse Desqueroux » de François Mauriac, natif de la région. La capitaine Clara Castella s'associe avec le commandant Julien Belmont pour tenter de résoudre cette enquête bien mystérieuse.",
+      "category": "Mystery",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-24T20:10:00+00:00",
+      "stop": "2026-11-24T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Cold case",
+      "description": "Après la fonte des neiges, le corps d'une femme est découvert. La victime serait morte il y a plus de 25 ans. Alex et Leblanc débutent l'enquête et retrouvent une lettre manuscrite écrite par une amie de la jeune femme, Mathilde. Recherches effectuées, Alex découvre que cette personne fait partie de la police. Prévenue, elle se saisit aussitôt de l'enquête et arrive à Lusagne. Les deux flics vont tenter de s'apprivoiser et de comprendre ce drame d'il y a presque 30 ans, quand une jeune activiste idéaliste avait débarqué à Lusagne, aux côtés d'autres \"écoguerrières\"...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "8.2.0/1",
+        "onscreen": "S09E03"
+      }
+    },
+    {
+      "start": "2026-11-24T21:09:00+00:00",
+      "stop": "2026-11-24T22:46:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres sur le lac Léman",
+      "subtitle": "",
+      "description": "Evian, sur les bords du lac Léman. A 3 jours du début du festival des Flottins, grande fête populaire de la ville, un homme d'affaires suisse est retrouvé noyé. Son corps est lesté par une sculpture de Flottins, qui symbolise un être fantasmagorique. Alors que la légende locale veut que ces Flottins aient dans le passé sauvé certains habitants d'Evian de la noyade, le meurtrier use de ce folklore pour tuer... L'origine de la victime force le gandarme français en charge de l'enquête, Louis Jolly, à faire équipe avec Sandrine Zermatten, une policière suisse. Une course contre la montre s'engage avec le tueur tandis que Louis comprend peu à peu que la présence à ses côtés de Sandrine ne relève pas seulement du hasard...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-24T21:40:00+00:00",
+      "stop": "2026-11-24T23:15:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Mémoire morte",
+      "description": "Suite à un accident de voiture, Alex a perdu la mémoire et ne se souvient plus des six derniers mois de sa vie. Un pistolet qui a visiblement servi est découvert à l'intérieur de son véhicule. Et dans la cuisine de son chalet, plusieurs bouteilles d'alcool vides sont retrouvées...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "4.1.0/1",
+        "onscreen": "S05E02"
       }
     }
   ]
