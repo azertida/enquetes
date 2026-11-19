@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T17:37:50.087667+00:00",
-  "window_start": "2026-11-18",
-  "window_end": "2026-11-25",
+  "generated_at": "2026-11-19T14:37:37.608666+00:00",
+  "window_start": "2026-11-19",
+  "window_end": "2026-11-26",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,70 +15,6 @@
   "series_count": 65,
   "count": 45,
   "programmes": [
-    {
-      "start": "2026-11-18T13:05:00+00:00",
-      "stop": "2026-11-18T14:36:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Chantilly",
-      "description": "Sous le dôme du théâtre équestre du château de Chantilly, le corps d'une jeune écuyère de 20 ans est retrouvé. Elle a été assassinée et son meurtre réveille une ancienne légende du château, celle de l'anneau magique de Louise de Budos qui avait le pouvoir maléfique de rendre amoureux n'importe qui... Alors en plein divorce, les deux capitaines de gendarmerie Antoine Mercier et Juliette Delambre se voient contraints de faire équipe pour résoudre au plus vite cette enquête. Si Antoine entend profiter de cette promiscuité inattendue pour reconquérir Juliette, ce n'est pas du tout le projet de cette dernière, qui a rencontré quelqu'un",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.3.0/1",
-        "onscreen": "S10E04"
-      }
-    },
-    {
-      "start": "2026-11-18T13:30:00+00:00",
-      "stop": "2026-11-18T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Résurrection",
-      "description": "Commandant de gendarmerie, Léa Soler est contrainte de collaborer avec le capitaine Paul Marchal, son ancien mari. Dans le travail comme dans la vie, les divorcés doivent mettre de côté leurs différends, car passent avant tout leurs enquêtes. Philippe Préjean est retrouvé mort dans l'atelier de la savonnerie traditionnelle qu'il gère. Léa et Paul pensent qu'ils vont rapidement boucler leur enquête : des cheveux de l'agresseur ont été retrouvés dans la main de la victime. L'analyse ADN réserve cependant aux enquêteurs une grosse surprise. Les cheveux appartiennent à Laurent Belmont, le premier mari de la femme de la victime. Or, celui-ci est censé être mort depuis huit ans...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.0.0/1",
-        "onscreen": "S04E01"
-      }
-    },
-    {
-      "start": "2026-11-18T14:30:00+00:00",
-      "stop": "2026-11-18T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Dernière danse",
-      "description": "Alexander Williams, chorégraphe à la réputation mondiale, est retrouvé mort sur la scène de l'Agora... très vite, on retrouve une de ses danseuses, Nathalie Parisot, couverte du sang de la victime et en état de choc. Problème pour nos héros, Nathalie ne peut pas avouer : elle ne se souvient de rien, elle est atteinte d'un syndrome précoce d'Alzheimer. En creusant pour trouver des preuves contre elle, Soler et Marchal vont se rendre compte que le meurtre n'est peut-être pas aussi simple qu'il paraît... Alexander Williams semblait cacher plusieurs secrets. L'a-t-on tué par jalousie ? Et si Nathalie n'était pas coupable mais avait assisté au meurtre ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.1.0/1",
-        "onscreen": "S04E02"
-      }
-    },
-    {
-      "start": "2026-11-18T15:30:00+00:00",
-      "stop": "2026-11-18T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Fouilles mortelles",
-      "description": "Sur un chantier de fouilles archéologiques, le corps de Marion Duval, une étudiante est retrouvée dans une chambre funéraire hermétiquement scellée... Un véritable mystère de chambre close que doivent résoudre nos enquêteurs... Par ailleurs, que cachait cette jeune femme passionnée, prête à tout pour empêcher la fermeture du lieu? Quels étaient réellement ses liens avec les autres membres de l'équipe ? Sachant que le meurtrier est forcément l'un d'eux...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.2.0/1",
-        "onscreen": "S04E03"
-      }
-    },
     {
       "start": "2026-11-19T13:25:00+00:00",
       "stop": "2026-11-19T14:25:00+00:00",
@@ -671,7 +607,7 @@
       "channel": "TV5 Monde",
       "title": "Meurtres en Gironde",
       "subtitle": "",
-      "description": "Éliane Caron, militante écologique, a été assassinée. À côté du cadavre se trouve une édition rare du célèbre roman « Thérèse Desqueroux » de François Mauriac, natif de la région. La capitaine Clara Castella s'associe avec le commandant Julien Belmont pour tenter de résoudre cette enquête bien mystérieuse.",
+      "description": "Éliane Caron, militante écologique, a été assassinée. À côté du cadavre se trouve une édition rare du célèbre roman « Thérèse Desqueroux » de François Mauriac, natif de la région.",
       "category": "Mystery",
       "icon": "",
       "origine": "telefilm",
@@ -721,6 +657,67 @@
       "episode_nums": {
         "xmltv_ns": "4.1.0/1",
         "onscreen": "S05E02"
+      }
+    },
+    {
+      "start": "2026-11-25T13:05:00+00:00",
+      "stop": "2026-11-25T14:37:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres en Gironde",
+      "subtitle": "",
+      "description": "Éliane Caron, militante écologique, a été assassinée. À côté du cadavre se trouve une édition rare du célèbre roman « Thérèse Desqueroux » de François Mauriac, natif de la région.",
+      "category": "Mystery",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-25T13:25:00+00:00",
+      "stop": "2026-11-25T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Le serment d'hippocrate",
+      "description": "Comment Quentin Brunel, étudiant en seconde année de médecine s'est retrouvé dans un des tiroirs de la morgue de la fac ? Serait-ce un bizutage qui aurait mal tourné ? Paul et Léa découvrent que cet étudiant cachait une redoutable ambition, au point de commettre l'irréparable ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.3.0/1",
+        "onscreen": "S05E04"
+      }
+    },
+    {
+      "start": "2026-11-25T14:30:00+00:00",
+      "stop": "2026-11-25T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Jeux de trône",
+      "description": "Lors d'un combat à l'épée, un chevalier s'effondre. Lorsqu'on lui retire son heaume, ce n'est pas un cascadeur comme prévu mais Noémie de Laurentis, la propriétaire du château, elle a été empoisonnée. Pourquoi était-elle dans l'armure ? Qui pouvait bien en vouloir à cette jeune femme qui se battait pour faire vivre son château ? Paul et Léa vont découvrir que la vie de château est bien loin de celle des contes de fées.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.4.0/1",
+        "onscreen": "S05E05"
+      }
+    },
+    {
+      "start": "2026-11-25T15:30:00+00:00",
+      "stop": "2026-11-25T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Un homme a la mer",
+      "description": "Patrick Catala, le président de la station SNSM de Port Camargue est retrouvé noyé dans le port. Qui pouvait en vouloir à ce sauveteur passionné ? Erwan apprend qu'il y a eu plusieurs plaintes contre la station pour des retards d'intervention, quelqu'un sabotait la navette de SNSM. Qui ? Patrick a-t-il découvert le saboteur qui l'aurait fait taire ? Serait-ce Jules le mécanicien de la station et ami d'enfance de Paul ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.5.0/1",
+        "onscreen": "S05E06"
       }
     }
   ]
