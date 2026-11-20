@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T17:44:42.007416+00:00",
-  "window_start": "2026-11-19",
-  "window_end": "2026-11-26",
+  "generated_at": "2026-11-20T14:16:02.270584+00:00",
+  "window_start": "2026-11-20",
+  "window_end": "2026-11-27",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,88 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 45,
+  "count": 46,
   "programmes": [
-    {
-      "start": "2026-11-19T13:25:00+00:00",
-      "stop": "2026-11-19T14:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Les mots de Judith",
-      "description": "Judith Collet, artificière, est retrouvée morte, tuée par une fusée du feu d'artifice qu'elle tirait. Depuis quelques mois, Judith cachait un secret. Où se rendait-elle 2 soirs par semaine ? Avait-elle un amant et son mari l'aurait-il découvert ? Est-ce que cela avait un rapport avec la promotion qu'elle avait refusé ? Ou bien est-ce une collègue jalouse du succès de Judith qui l'aurait tué ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.3.0/1",
-        "onscreen": "S04E04"
-      }
-    },
-    {
-      "start": "2026-11-19T14:25:00+00:00",
-      "stop": "2026-11-19T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Peaux rouges",
-      "description": "Le corps d'une jeune femme, tuée par balle est retrouvé à proximité d'une carrière de Bauxite, un minerai rouge qui donne au lieu des allures de décors de Western... La victime venait d'être élue directrice de la carrière qui appartenait aux mineurs. La rivalité entre l'ancien directeur et la victime pourrait-elle avoir un lien avec le meurtre ? Ou est-ce lié à la disparition mystérieuse, il y a quelques années, du père de Patricia, un mineur lui aussi ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.4.0/1",
-        "onscreen": "S04E05"
-      }
-    },
-    {
-      "start": "2026-11-19T15:30:00+00:00",
-      "stop": "2026-11-19T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Plantes mortelles",
-      "description": "La présidente de l'institut botanique de Montpellier est retrouvée morte dans la chambre froide de l'institut... Ça n'est pas la première fois que les enquêteurs ont affaire à l'institut ! Un incendie volontaire avait ravagé une partie de l'herbier l'an dernier mais le coupable, un botaniste avait bénéficié d'un non-lieu suite à une erreur de procédure de Paul. Les deux affaires sont-elles liées ? Paul se serait-il trompé de coupable il y a un an ? Le botaniste mis au placard aurait-il voulu se venger ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.5.0/1",
-        "onscreen": "S04E06"
-      }
-    },
-    {
-      "start": "2026-11-19T19:33:00+00:00",
-      "stop": "2026-11-19T20:31:00+00:00",
-      "channel": "La Une",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "Kitsuné",
-      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre terrible.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "6.0.0/1",
-        "onscreen": "S07E01"
-      }
-    },
-    {
-      "start": "2026-11-19T20:31:00+00:00",
-      "stop": "2026-11-19T21:38:00+00:00",
-      "channel": "La Une",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "La forêt",
-      "description": "Entre Paris et Tokyo, Astrid, Raphaëlle et l'inspectrice japonaise Reiko Kondo unissent leurs forces pour faire éclater la vérité sur la mort d'Apu Tanaka. Fausses identités, légendes nipponnes et mystérieuse forêt maudite, nos enquêtrices vont devoir se confronter à de sombres secrets familiaux...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "6.1.0/1",
-        "onscreen": "S07E02"
-      }
-    },
     {
       "start": "2026-11-20T13:30:00+00:00",
       "stop": "2026-11-20T14:30:00+00:00",
@@ -145,7 +65,7 @@
     },
     {
       "start": "2026-11-20T19:59:00+00:00",
-      "stop": "2026-11-20T21:41:00+00:00",
+      "stop": "2026-11-20T21:42:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Tournai",
       "subtitle": "",
@@ -206,7 +126,7 @@
     },
     {
       "start": "2026-11-21T13:49:00+00:00",
-      "stop": "2026-11-21T15:28:00+00:00",
+      "stop": "2026-11-21T15:27:00+00:00",
       "channel": "La Une",
       "title": "Meurtres sur le lac Léman",
       "subtitle": "",
@@ -218,7 +138,7 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-11-21T15:28:00+00:00",
+      "start": "2026-11-21T15:27:00+00:00",
       "stop": "2026-11-21T16:31:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
@@ -235,7 +155,7 @@
     },
     {
       "start": "2026-11-21T16:31:00+00:00",
-      "stop": "2026-11-21T17:33:00+00:00",
+      "stop": "2026-11-21T17:34:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Livrés à eux-mêmes",
@@ -250,8 +170,8 @@
       }
     },
     {
-      "start": "2026-11-21T19:51:00+00:00",
-      "stop": "2026-11-21T21:31:00+00:00",
+      "start": "2026-11-21T19:52:00+00:00",
+      "stop": "2026-11-21T21:32:00+00:00",
       "channel": "La Une",
       "title": "Alexandra Ehle",
       "subtitle": "Réunion de famille",
@@ -277,8 +197,8 @@
       "origine": "serie",
       "serie": "Maloney",
       "episode_nums": {
-        "xmltv_ns": ".104.0/1",
-        "onscreen": "E105"
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
       }
     },
     {
@@ -309,8 +229,8 @@
       "origine": "serie",
       "serie": "Maloney",
       "episode_nums": {
-        "xmltv_ns": ".105.0/1",
-        "onscreen": "E106"
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
       }
     },
     {
@@ -325,13 +245,13 @@
       "origine": "serie",
       "serie": "Maloney",
       "episode_nums": {
-        "xmltv_ns": ".106.0/1",
-        "onscreen": "E107"
+        "xmltv_ns": "0.6.0/1",
+        "onscreen": "S01E07"
       }
     },
     {
-      "start": "2026-11-21T21:35:00+00:00",
-      "stop": "2026-11-21T22:32:00+00:00",
+      "start": "2026-11-21T21:36:00+00:00",
+      "stop": "2026-11-21T22:35:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "Kitsuné",
@@ -362,8 +282,8 @@
       }
     },
     {
-      "start": "2026-11-21T22:32:00+00:00",
-      "stop": "2026-11-21T23:29:00+00:00",
+      "start": "2026-11-21T22:35:00+00:00",
+      "stop": "2026-11-21T23:35:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "La forêt",
@@ -410,7 +330,7 @@
       }
     },
     {
-      "start": "2026-11-22T16:44:00+00:00",
+      "start": "2026-11-22T16:43:00+00:00",
       "stop": "2026-11-22T17:40:00+00:00",
       "channel": "La Une",
       "title": "Munch",
@@ -437,8 +357,8 @@
       "origine": "serie",
       "serie": "Maloney",
       "episode_nums": {
-        "xmltv_ns": ".104.0/1",
-        "onscreen": "E105"
+        "xmltv_ns": "0.4.0/1",
+        "onscreen": "S01E05"
       }
     },
     {
@@ -469,8 +389,8 @@
       "origine": "serie",
       "serie": "Maloney",
       "episode_nums": {
-        "xmltv_ns": ".105.0/1",
-        "onscreen": "E106"
+        "xmltv_ns": "0.5.0/1",
+        "onscreen": "S01E06"
       }
     },
     {
@@ -485,8 +405,8 @@
       "origine": "serie",
       "serie": "Maloney",
       "episode_nums": {
-        "xmltv_ns": ".106.0/1",
-        "onscreen": "E107"
+        "xmltv_ns": "0.6.0/1",
+        "onscreen": "S01E07"
       }
     },
     {
@@ -631,8 +551,8 @@
       }
     },
     {
-      "start": "2026-11-24T21:09:00+00:00",
-      "stop": "2026-11-24T22:46:00+00:00",
+      "start": "2026-11-24T21:07:00+00:00",
+      "stop": "2026-11-24T22:44:00+00:00",
       "channel": "La Une",
       "title": "Meurtres sur le lac Léman",
       "subtitle": "",
@@ -718,6 +638,102 @@
       "episode_nums": {
         "xmltv_ns": "4.5.0/1",
         "onscreen": "S05E06"
+      }
+    },
+    {
+      "start": "2026-11-26T13:30:00+00:00",
+      "stop": "2026-11-26T14:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Seconde chance",
+      "description": "Hervé Levers, président d'une association de chantiers de réinsertion, chute du haut d'un échafaudage. Est-ce un des détenus qui l'a frappé ? Ou serait-ce un villageois mécontent de voir arriver des détenus en semi-liberté dans le village ? Mais il y a un autre mystère, après une reconstitution, Léa s'aperçoit qu'il était impossible d'accéder à l'échafaudage sans être vu par les autres détenus. Comment le meurtrier a-t-il fait ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.6.0/1",
+        "onscreen": "S05E07"
+      }
+    },
+    {
+      "start": "2026-11-26T14:25:00+00:00",
+      "stop": "2026-11-26T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Disparition inquiétante",
+      "description": "Le corps d'un homme est aperçu par une ornithologue dans la forêt de Vigan. Mais lorsque les gendarmes arrivent sur les lieux, il a disparu. Quelques jours plus tard, Magali Montoriol, la chef d'un restaurant étoilé, vient déclarer la disparition de son mari, Fabrice. Serait-ce lui que l'ornithologue a aperçu ? Léa trouve Magali étonnement sereine face à cette disparition plus qu'inquiétante. Elle est persuadée que cette dernière a tué son mari. Mais comment le prouver sans le corps ? Un duel haletant s'annonce entre Léa et Magali.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.7.0/1",
+        "onscreen": "S05E08"
+      }
+    },
+    {
+      "start": "2026-11-26T15:25:00+00:00",
+      "stop": "2026-11-26T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Juste une illusion",
+      "description": "Alors qu'il répète son dernier tour, le célèbre magicien, Lazlo Kane est retrouvé mort au milieu de la pinède du Domaine d'O. Il a été victime d'une allergie, quelqu'un a glissé sciemment des huiles essentielles de genévrier dans son thermos. Mais comment a-t-on fait sans que Lazlo ne s'en aperçoive ? Serait-ce l'un de ses techniciens ? Pour Paul, le meurtrier est forcément un magicien. Le tandem devra user de toute sa magie pour comprendre ce tour de passe-passe.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.8.0/1",
+        "onscreen": "S05E09"
+      }
+    },
+    {
+      "start": "2026-11-26T19:31:00+00:00",
+      "stop": "2026-11-26T20:32:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "La bombe écarlate",
+      "description": "Un tueur au visage couvert d'un masque à gaz sème la panique en abandonnant ses victimes, le visage peint en rouge. En suivant la piste d'un ancien camp de vacances, l'enquête d'Astrid et Raphaëlle fait peu à peu ressurgir une sordide machination criminelle...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.2.0/1",
+        "onscreen": "S07E03"
+      }
+    },
+    {
+      "start": "2026-11-26T20:10:00+00:00",
+      "stop": "2026-11-26T21:50:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Nancy",
+      "description": "Nancy, la capitale française de l'Art Nouveau. Une ville où il fait bon longer les façades bourgeoises du centre, flâner sur les bords de la Meurthe, au Musée des Beaux-arts ou sur la célèbre Place Stanislas... Sauf quand le cadavre d'une femme est retrouvé, lors d'une vente aux enchères d'Art Nouveau, avec l'inscription « Guenoche », synonyme de sorcière en vieux français. La capitaine de police Laurence Weber et le Lieutenant Chloé Guérin...la nouvelle compagne de son fils, mènent alors l'enquête",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "8.10.0/1",
+        "onscreen": "S09E11"
+      }
+    },
+    {
+      "start": "2026-11-26T20:32:00+00:00",
+      "stop": "2026-11-26T21:36:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "Le livre de Thot",
+      "description": "Une femme est retrouvée morte dans les sous-sols d'une église copte, embaumée comme une momie par un jeune homme qui réussit à s'échapper. Peu à peu, l'enquête oriente les recherches vers un mystérieux livre de l'Égypte antique qui renfermerait les secrets de l'immortalité...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.3.0/1",
+        "onscreen": "S07E04"
       }
     }
   ]
