@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T17:22:03.742893+00:00",
-  "window_start": "2026-11-20",
-  "window_end": "2026-11-27",
+  "generated_at": "2026-11-21T13:39:01.581387+00:00",
+  "window_start": "2026-11-21",
+  "window_end": "2026-11-28",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,101 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 46,
+  "count": 48,
   "programmes": [
-    {
-      "start": "2026-11-20T13:30:00+00:00",
-      "stop": "2026-11-20T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le poids de la vérité - 1",
-      "description": "Alors qu'un cambriolage a lieu dans le garage d'une vielle dame, les enquêteurs découvrent qu'il s'agit de la mère d'un tueur en série. Soler et Marchal apprennent également que le cambrioleur possède 50 % d'ADN en commun avec le lieutenant Erwan Lebellec. Face à cette découverte, Erwan est contraint de révéler une partie de son passé lorsque dix ans auparavant, sa meilleure amie, Johanna Dupieux a disparu. La jeune femme aurait été tuée par un tueur en série mais son corps n'a jamais été retrouvé...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.6.0/1",
-        "onscreen": "S04E07"
-      }
-    },
-    {
-      "start": "2026-11-20T14:30:00+00:00",
-      "stop": "2026-11-20T15:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le poids de la vérité - 2",
-      "description": "Le lieutenant Erwan Lebellec replonge dans son passé et rouvre de vieilles blessures suite aux révélations du cambriolage. Malgré les apparences, il reste hanté par la disparition de sa meilleure amie, Johanna Dupieux. La mère d'Erwan, elle, a toujours refusé de tourner la page et poursuit l'enquête sur la disparition de la jeune femme depuis dix ans. Elle est déterminée à découvrir ce qui est arrivé à Johanna...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.7.0/1",
-        "onscreen": "S04E08"
-      }
-    },
-    {
-      "start": "2026-11-20T15:25:00+00:00",
-      "stop": "2026-11-20T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le jeune homme et la mer",
-      "description": "Le corps d'un jeune kitesurfeur est retrouvé au bord de la plage, il a été frappé à la tête avant d'être poussé à l'eau avec son kite. Les enquêteurs retrouvent rapidement son identité, Eric Delterme. Qui se cache derrière ce mystérieux professeur de kite récemment arrivé sur la plage et qui ne respectait pas toujours les règles de sécurité ? Est-ce qu'un concurrent jaloux s'en serait pris à lui ? Pourquoi était-il v Qui se cache derrière ce mystérieux professeur de kite récemment arrivé sur la plage et qui ne respectait pas toujours les règles de sécurité ? Est-ce qu'un concurrent jaloux s'en serait pris à lui ? Pourquoi était-il venu s'installer ici ? Est-il responsable d'un accident passé ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.8.0/1",
-        "onscreen": "S04E09"
-      }
-    },
-    {
-      "start": "2026-11-20T19:59:00+00:00",
-      "stop": "2026-11-20T21:42:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Tournai",
-      "subtitle": "",
-      "description": "Un bras avec un tatouage d'abeille est retrouvé sous le Pont des Trous à Tournai. Le bras a pu dériver longtemps sur l'Escaut avant d'être retrouvé sous le pont. Compte tenu de cette incertitude sur le lieu du crime, Mathilde, inspectrice de Tournai, est assistée de Vincent, un policier français.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-20T20:10:00+00:00",
-      "stop": "2026-11-20T21:00:00+00:00",
-      "channel": "France 2",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "Kitsuné",
-      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre terrible.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "6.0.0/1",
-        "onscreen": "S07E01"
-      }
-    },
-    {
-      "start": "2026-11-20T21:00:00+00:00",
-      "stop": "2026-11-20T21:50:00+00:00",
-      "channel": "France 2",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "La mort de Raphaëlle",
-      "description": "Raphaëlle est aux urgences, entre la vie et la mort à la suite d'un empoisonnement, tandis qu'un célèbre youtubeur chasseur de fantômes est retrouvé mort chez lui, écrasé par une force mystérieuse. Entre expériences paranormales et escroqueries haut de gamme, l'enquête va mener Astrid et Raphaëlle sur la piste d'un mystérieux médium appelé Odin.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "5.0.0/1",
-        "onscreen": "S06E01"
-      }
-    },
     {
       "start": "2026-11-21T00:05:00+00:00",
       "stop": "2026-11-21T01:50:00+00:00",
@@ -125,8 +32,8 @@
       }
     },
     {
-      "start": "2026-11-21T13:49:00+00:00",
-      "stop": "2026-11-21T15:27:00+00:00",
+      "start": "2026-11-21T13:48:00+00:00",
+      "stop": "2026-11-21T15:26:00+00:00",
       "channel": "La Une",
       "title": "Meurtres sur le lac Léman",
       "subtitle": "",
@@ -138,8 +45,8 @@
       "episode_nums": {}
     },
     {
-      "start": "2026-11-21T15:27:00+00:00",
-      "stop": "2026-11-21T16:31:00+00:00",
+      "start": "2026-11-21T15:26:00+00:00",
+      "stop": "2026-11-21T16:30:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "La fin de l'innocence",
@@ -154,7 +61,7 @@
       }
     },
     {
-      "start": "2026-11-21T16:31:00+00:00",
+      "start": "2026-11-21T16:30:00+00:00",
       "stop": "2026-11-21T17:34:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
@@ -170,8 +77,8 @@
       }
     },
     {
-      "start": "2026-11-21T19:52:00+00:00",
-      "stop": "2026-11-21T21:32:00+00:00",
+      "start": "2026-11-21T19:49:00+00:00",
+      "stop": "2026-11-21T21:29:00+00:00",
       "channel": "La Une",
       "title": "Alexandra Ehle",
       "subtitle": "Réunion de famille",
@@ -250,12 +157,12 @@
       }
     },
     {
-      "start": "2026-11-21T21:36:00+00:00",
-      "stop": "2026-11-21T22:35:00+00:00",
+      "start": "2026-11-21T21:34:00+00:00",
+      "stop": "2026-11-21T22:32:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "Kitsuné",
-      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre terrible.",
+      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre, Raphaëlle brave les procédures et envoie Astrid et Tetsuo à Tokyo sur la piste d'un mystérieux crime non résolu auquel Apu semble avoir été mêlé par le passé...",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -282,8 +189,8 @@
       }
     },
     {
-      "start": "2026-11-21T22:35:00+00:00",
-      "stop": "2026-11-21T23:35:00+00:00",
+      "start": "2026-11-21T22:32:00+00:00",
+      "stop": "2026-11-21T23:33:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "La forêt",
@@ -734,6 +641,134 @@
       "episode_nums": {
         "xmltv_ns": "6.3.0/1",
         "onscreen": "S07E04"
+      }
+    },
+    {
+      "start": "2026-11-27T13:25:00+00:00",
+      "stop": "2026-11-27T14:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Mascarade",
+      "description": "Lors de la fête des Grenats, des hommes habillés en paille, les Grenats (ouvriers, employés...) en poursuivent d'autres habillés en blanc (patrons, médecins...) et tentent de les salir avec des torchons imbibés de lie de vin. Un blanc reste à terre, mort : Bruno, le président du carnaval. Qui peut bien en vouloir à cette figure tant aimée du village ? Les avis sont partagés. Paul pense que le meurtrier est un blanc. Léa n'est pas d'accord, il est plus discret d'être en Grenat pour tuer un blanc comme Bruno. Qui aura raison ? Pourquoi a-t-on tué Bruno ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.9.0/1",
+        "onscreen": "S05E10"
+      }
+    },
+    {
+      "start": "2026-11-27T14:25:00+00:00",
+      "stop": "2026-11-27T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Avant l'oubli - 1",
+      "description": "Léa Soler rentre de vacances avec la volonté d'être heureuse pour Paul, son ex-mari et de reprendre sa vie en main. Mais très vite, la commandante se rend compte qu'entre les bonnes résolutions et leur mise en pratique, il y a un gouffre...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.10.0/1",
+        "onscreen": "S05E11"
+      }
+    },
+    {
+      "start": "2026-11-27T15:25:00+00:00",
+      "stop": "2026-11-27T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Avant l'oubli - 2",
+      "description": "Léa Soler rentre de vacances avec la volonté d'être heureuse pour Paul, son ex-mari et de reprendre sa vie en main. Mais très vite, la commandante se rend compte qu'entre les bonnes résolutions et leur mise en pratique, il y a un gouffre...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "4.11.0/1",
+        "onscreen": "S05E12"
+      }
+    },
+    {
+      "start": "2026-11-27T20:10:00+00:00",
+      "stop": "2026-11-27T21:05:00+00:00",
+      "channel": "France 2",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "La forêt",
+      "description": "Entre Paris et Tokyo, Astrid, Raphaëlle et l'inspectrice japonaise Reiko Kondo unissent leurs forces pour faire éclater la vérité sur la mort d'Apu Tanaka. Fausses identités, légendes nipponnes et mystérieuse forêt maudite, les enquêtrices vont devoir se confronter à de sombres secrets familiaux. La collaboration entre les forces de l'ordre nipponnes et les envoyés français ne se passe pas sans heurts. La documentation criminelle, de son côté, peine à avoir accès à toutes les pièces du dossier. L'affaire a l'air plus complexe que prévu et ses ramifications internationales dépassent le cadre attendu...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.1.0/1",
+        "onscreen": "S07E02"
+      }
+    },
+    {
+      "start": "2026-11-27T21:05:00+00:00",
+      "stop": "2026-11-27T22:00:00+00:00",
+      "channel": "France 2",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "Le pensionnat",
+      "description": "Raphaëlle est sortie du coma, mais ses jambes demeurent paralysées. L'enquête sur Odin conduit Astrid et Nicolas Perran à s'intéresser à un étrange pensionnat, le collège Overlook. En menant des investigations entre ses murs, les enquêteurs découvrent bientôt que la mort suspecte d'un élève de l'établissement est curieusement reliée à celle de leur première victime. Il pourrait en effet ne pas avoir succombé à une méningite, mais avoir été empoisonné...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "5.1.0/1",
+        "onscreen": "S06E02"
+      }
+    },
+    {
+      "start": "2026-11-27T22:00:00+00:00",
+      "stop": "2026-11-27T22:50:00+00:00",
+      "channel": "France 2",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "L'oeil du dragon",
+      "description": "Un diamant exceptionnel est exposé à Paris mais le jour de l'ouverture au public, le responsable de la sécurité est retrouvé mort, le crâne fracassé. Quant au diamant, il a mystérieusement disparu...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "3.0.0/1",
+        "onscreen": "S04E01"
+      }
+    },
+    {
+      "start": "2026-11-27T22:50:00+00:00",
+      "stop": "2026-11-27T23:50:00+00:00",
+      "channel": "France 2",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "Les 1001 Nuits",
+      "description": "Le corps d'un homme d'origine iranienne est retrouvé chez lui carbonisé. Combustion spontanée ou crime diabolique ? Astrid et Raphaëlle découvrent rapidement qu'il vivait sous une fausse identité....",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "3.1.0/1",
+        "onscreen": "S04E02"
+      }
+    },
+    {
+      "start": "2026-11-27T23:50:00+00:00",
+      "stop": "2026-11-28T01:25:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Chambre avec vue",
+      "description": "Catherine Rougemont, une ancienne policière qui gère un hôtel en bord de mer, est victime d'une tentative de meurtre. Enfermée dans sa grange en feu, elle a été sauvée in extremis par sa cuisinière. Marleau, qui a été naguère sa stagiaire, est convaincue que Catherine connaît l'auteur. Mais cette dernière demeure mutique pour protéger ses pensionnaires, des femmes battues qu'elle héberge, mais également son petit-fils de 16 ans, Gabriel.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "1.0.0/1",
+        "onscreen": "S02E01"
       }
     }
   ]
