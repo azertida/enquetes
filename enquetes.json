@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T16:27:22.858287+00:00",
-  "window_start": "2026-11-21",
-  "window_end": "2026-11-28",
+  "generated_at": "2026-11-22T13:31:12.133575+00:00",
+  "window_start": "2026-11-22",
+  "window_end": "2026-11-29",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -15,195 +15,6 @@
   "series_count": 65,
   "count": 48,
   "programmes": [
-    {
-      "start": "2026-11-21T00:05:00+00:00",
-      "stop": "2026-11-21T01:50:00+00:00",
-      "channel": "France 2",
-      "title": "Capitaine Marleau",
-      "subtitle": "Le secret d'Alba",
-      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Capitaine Marleau",
-      "episode_nums": {
-        "xmltv_ns": "3.12.0/1",
-        "onscreen": "S04E13"
-      }
-    },
-    {
-      "start": "2026-11-21T13:48:00+00:00",
-      "stop": "2026-11-21T15:26:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres sur le lac Léman",
-      "subtitle": "",
-      "description": "Evian, sur les bords du lac Léman. A 3 jours du début du festival des Flottins, grande fête populaire de la ville, un homme d'affaires suisse est retrouvé noyé. Son corps est lesté par une sculpture de Flottins, qui symbolise un être fantasmagorique. Alors que la légende locale veut que ces Flottins aient dans le passé sauvé certains habitants d'Evian de la noyade, le meurtrier use de ce folklore pour tuer... L'origine de la victime force le gandarme français en charge de l'enquête, Louis Jolly, à faire équipe avec Sandrine Zermatten, une policière suisse. Une course contre la montre s'engage avec le tueur tandis que Louis comprend peu à peu que la présence à ses côtés de Sandrine ne relève pas seulement du hasard...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-21T15:26:00+00:00",
-      "stop": "2026-11-21T16:30:00+00:00",
-      "channel": "La Une",
-      "title": "Léo Mattéï, brigade des mineurs",
-      "subtitle": "La fin de l'innocence",
-      "description": "Un bébé est retrouvé vivant, mais abandonné dans les toilettes d'un lycée à côté d'une abondante flaque de sang. L'enfant appartient à Sophie, une adolescente au parcours scolaire exemplaire qui prétend même n'avoir jamais eu de rapports sexuels.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Léo Mattéi",
-      "episode_nums": {
-        "xmltv_ns": "2.2.0/1",
-        "onscreen": "S03E03"
-      }
-    },
-    {
-      "start": "2026-11-21T16:30:00+00:00",
-      "stop": "2026-11-21T17:34:00+00:00",
-      "channel": "La Une",
-      "title": "Léo Mattéï, brigade des mineurs",
-      "subtitle": "Livrés à eux-mêmes",
-      "description": "Nicolas, 14 ans, se fait agresser par un motard dans la rue. Mattéï enquête et suspecte un cas de maltraitance. Pourtant Nicolas, sa sœur et son frère vivent en parfaite complicité avec leur mère... Qui en veut à cette famille sans histoire ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Léo Mattéi",
-      "episode_nums": {
-        "xmltv_ns": "2.3.0/1",
-        "onscreen": "S03E04"
-      }
-    },
-    {
-      "start": "2026-11-21T19:49:00+00:00",
-      "stop": "2026-11-21T21:29:00+00:00",
-      "channel": "La Une",
-      "title": "Alexandra Ehle",
-      "subtitle": "Réunion de famille",
-      "description": "Alexandra et Diane rendent visite à Ludivine, partie en congé sabbatique à la Réunion, bien décidées à convaincre leur meilleure amie de rentrer. Profitant de leur séjour sur l'Île, elles partent en randonnée pour atteindre le spectaculaire piton Maïdo mais l'aventure vire au cauchemar quand elles tombent sur le corps sans vie de Marlène Payet, une femme d'affaires influente. Alors qu'elles s'apprêtent à alerter les autorités, une tempête éclate, les isolant dans un refuge perdu au milieu des montagnes. Là où, parmi les occupants, se cache le meurtrier de Marlène Payet...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alexandra Ehle",
-      "episode_nums": {
-        "xmltv_ns": "6.0.0/1",
-        "onscreen": "S07E01"
-      }
-    },
-    {
-      "start": "2026-11-21T20:00:00+00:00",
-      "stop": "2026-11-21T20:32:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "Le dernier jour",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-11-21T20:10:00+00:00",
-      "stop": "2026-11-21T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Meaux",
-      "description": "Jean Christophe Bellon, notable local et président de l'Amicale Mémorielle de la Grande Guerre de Meaux, est assassiné lors de la reconstitution de la Première Bataille de la Marne qu'il a organisée. Le lieutenant Karine Lelièvre est chargée de l'enquête mais on lui adjoint le capitaine Isabelle Guercher, son ennemie jurée. Les deux femmes ont donc l'occasion de régler leurs comptes, jusqu'au moment où elles découvrent que la mort de Bellon est directement liée à leur passé commun. Qui donc pouvait connaître ce genre de détail ? Et qui en a profité pour tuer Bellon ? Et surtout quels sont les véritables motifs de l'assassin ?...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "10.2.0/1",
-        "onscreen": "S11E03"
-      }
-    },
-    {
-      "start": "2026-11-21T20:32:00+00:00",
-      "stop": "2026-11-21T21:00:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "La clinique",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
-    {
-      "start": "2026-11-21T21:00:00+00:00",
-      "stop": "2026-11-21T21:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "La soirée de fête",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": "0.6.0/1",
-        "onscreen": "S01E07"
-      }
-    },
-    {
-      "start": "2026-11-21T21:34:00+00:00",
-      "stop": "2026-11-21T22:32:00+00:00",
-      "channel": "La Une",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "Kitsuné",
-      "description": "Apu Tanaka, l'oncle de Tetsuo et proche d'Astrid, est retrouvé mort empoisonné au coeur de la documentation criminelle. Pour élucider ce meurtre, Raphaëlle brave les procédures et envoie Astrid et Tetsuo à Tokyo sur la piste d'un mystérieux crime non résolu auquel Apu semble avoir été mêlé par le passé...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "6.0.0/1",
-        "onscreen": "S07E01"
-      }
-    },
-    {
-      "start": "2026-11-21T21:40:00+00:00",
-      "stop": "2026-11-21T23:15:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à",
-      "subtitle": "Meurtres à Belle-Île",
-      "description": "Au milieu de la lande, le corps d'Antoine Legoff est retrouvé attaché aux pieds d'un menhir symbolisant un amant maudit d'une légende belle-Iloise. Marine Lamblin, commandante chevronnée au caractère bien trempé, enquête avec le capitaine Thomas Keller, un agaçant charmeur venu du continent. Rivalités amoureuses, mensonges, secrets et malversations immobilières vont bouleverser le calme de cette ile aux multiples facettes. Et si une jeune femme mystérieuse détenait à son insu la clé de l'énigme ? Dans le sang, les traumas enfouis du passé de Belle-Ile refont surface… jusqu'à tourmenter la commandant Lamblin elle-même.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "6.2.0/1",
-        "onscreen": "S07E03"
-      }
-    },
-    {
-      "start": "2026-11-21T22:32:00+00:00",
-      "stop": "2026-11-21T23:33:00+00:00",
-      "channel": "La Une",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "La forêt",
-      "description": "Entre Paris et Tokyo, Astrid, Raphaëlle et l'inspectrice japonaise Reiko Kondo unissent leurs forces pour faire éclater la vérité sur la mort d'Apu Tanaka. Fausses identités, légendes nipponnes et mystérieuse forêt maudite, nos enquêtrices vont devoir se confronter à de sombres secrets familiaux...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "6.1.0/1",
-        "onscreen": "S07E02"
-      }
-    },
     {
       "start": "2026-11-22T14:26:00+00:00",
       "stop": "2026-11-22T16:00:00+00:00",
@@ -769,6 +580,195 @@
       "episode_nums": {
         "xmltv_ns": "1.0.0/1",
         "onscreen": "S02E01"
+      }
+    },
+    {
+      "start": "2026-11-28T13:48:00+00:00",
+      "stop": "2026-11-28T15:30:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Etretat",
+      "subtitle": "",
+      "description": "Etretat, station balnéaire huppée du Pays des Hautes Falaises, vit sereinement jusqu'au jour où Gilbert Maréchal, grand notable local, est retrouvé mort après être tombé des falaises. La police retrouve une lettre de suicide sur lui, mais tout porte à croire qu'il s'agit d'un meurtre...Karine et Victor sont en charge de l'enquête alors que des secrets familiaux planent sur le clan Maréchal... Sans compter que Gilbert, fervent religieux, a légué sa fortune à une abbaye dont l'une des nonnes a disparu le jour même de sa mort...Ces deux affaires sont-elles liées ?Qui pouvait en vouloir à Gilbert Maréchal, homme apprécié de tous, généreux et dévoué ?",
+      "category": "Drama",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-28T15:30:00+00:00",
+      "stop": "2026-11-28T16:33:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "Retour vers le passé",
+      "description": "Le squelette d'une fillette de douze ans est déterré dans le bois de Vincennes. Le corps semble être sous terre depuis trois ans. Trois filles peuvent correspondre dont celle de Mattéï, disparue il y a trois ans...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "2.4.0/1",
+        "onscreen": "S03E05"
+      }
+    },
+    {
+      "start": "2026-11-28T16:33:00+00:00",
+      "stop": "2026-11-28T17:32:00+00:00",
+      "channel": "La Une",
+      "title": "Léo Mattéï, brigade des mineurs",
+      "subtitle": "Génération libérée",
+      "description": "Une jeune fille de seize ans, Marie, s'enfuit en pleine nuit, pieds nus, avant de s'évanouir. Elle est amenée à l'hôpital où l'on découvre qu'elle n'a plus de sous-vêtements. Par ailleurs, elle porte des traces de coups. Elle vient très probablement d'être victime de viol.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Léo Mattéi",
+      "episode_nums": {
+        "xmltv_ns": "2.5.0/1",
+        "onscreen": "S03E06"
+      }
+    },
+    {
+      "start": "2026-11-28T19:51:00+00:00",
+      "stop": "2026-11-28T21:30:00+00:00",
+      "channel": "La Une",
+      "title": "Alexandra Ehle",
+      "subtitle": "Faux semblants",
+      "description": "Une femme est retrouvée dans la salle des miroirs d'un musée. Son image se reflète à l'infini, accentuant le morbide de la scène. Quand Antoine se rend à son adresse, surprise : la victime est devant lui, en vie. Mais alors qui est le corps mystérieux sur la table d'autopsie d'Alex ? Le mystère s'épaissit quand Alex réalise que la victime s'était fait refaire le nez et le menton en quelques mois seulement. Des opérations très lourdes pour devenir le sosie d'une autre. Mais dans quel but ? En parallèle, Alex tombe sur une bucket-list qu'elle s'était écrite ado. Se trouvant devenue un peu trop \" normale \", elle décide de l'exaucer avec l'aide de son ancien meilleur pote, Jérôme Babonneau...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alexandra Ehle",
+      "episode_nums": {
+        "xmltv_ns": "6.1.0/1",
+        "onscreen": "S07E02"
+      }
+    },
+    {
+      "start": "2026-11-28T20:00:00+00:00",
+      "stop": "2026-11-28T20:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Ruée vers l'or",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": "0.7.0/1",
+        "onscreen": "S01E08"
+      }
+    },
+    {
+      "start": "2026-11-28T20:10:00+00:00",
+      "stop": "2026-11-28T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Tournai",
+      "description": "Un bras avec un tatouage d'abeille est retrouvé sous le Pont des Trous à Tournai. Le bras a pu dériver longtemps sur l'Escaut avant d'être retrouvé sous le pont. Compte tenu de cette incertitude sur le lieu du crime, Mathilde, inspectrice de Tournai, se voit assistée de Vincent, un policier français. Leur enquête va les mener sur le fil de l'Escaut, dans le milieu des bateliers et sur les traces d'une abeille mystérieuse, symbole de Tournai hérité de Childéric Ier, roi des Francs, à l'époque où la ville était la capitale du Royaume de France...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "10.9.0/1",
+        "onscreen": "S11E10"
+      }
+    },
+    {
+      "start": "2026-11-28T20:30:00+00:00",
+      "stop": "2026-11-28T20:58:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "L'enveloppe",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": "0.8.0/1",
+        "onscreen": "S01E09"
+      }
+    },
+    {
+      "start": "2026-11-28T20:58:00+00:00",
+      "stop": "2026-11-28T21:31:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Sale affaire",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": "0.9.0/1",
+        "onscreen": "S01E10"
+      }
+    },
+    {
+      "start": "2026-11-28T21:35:00+00:00",
+      "stop": "2026-11-28T22:29:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "La bombe écarlate",
+      "description": "Un tueur au visage couvert d'un masque à gaz sème la panique en abandonnant ses victimes, le visage peint en rouge. En suivant la piste d'un ancien camp de vacances, l'enquête d'Astrid et Raphaëlle fait peu à peu ressurgir une sordide machination criminelle...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.2.0/1",
+        "onscreen": "S07E03"
+      }
+    },
+    {
+      "start": "2026-11-28T21:40:00+00:00",
+      "stop": "2026-11-28T23:15:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à la Pointe du Raz",
+      "description": "Le corps d'une vieille femme est retrouvé échoué sur la plage, au pied de la Pointe du Raz. Alors que les premiers éléments de l'enquête semble se diriger vers une noyade, la piste du meurtre est finalement envisagée. Cette affaire criminelle réveille une vielle légende Bretonne encore particulièrement répandue dans la région. Il s'agit de l'histoire d'Ankou, un ouvrier de la mort, qui vient à bord de sa charrette, recueillir les âmes des défunts pour les faire passer sur l'autre rive. Les enquêteurs cherchent à comprendre qui joue ainsi sur les peurs des habitants...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "7.6.0/1",
+        "onscreen": "S08E07"
+      }
+    },
+    {
+      "start": "2026-11-28T21:49:00+00:00",
+      "stop": "2026-11-28T23:22:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Poulets grillés",
+      "subtitle": "Les secrets de l'hôtel",
+      "description": "Qui a tué Sofia Popova, la femme de ménage du charmant hôtel tenu par la famille Leroy ? Une nouvelle enquête pour la 4e brigade.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Poulets grillés",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
+    },
+    {
+      "start": "2026-11-28T22:29:00+00:00",
+      "stop": "2026-11-28T23:32:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "Le livre de Thot",
+      "description": "Une femme est retrouvée morte dans les sous-sols d'une église copte, embaumée comme une momie par un jeune homme qui réussit à s'échapper. Peu à peu, l'enquête oriente les recherches vers un mystérieux livre de l'Égypte antique qui renfermerait les secrets de l'immortalité...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.3.0/1",
+        "onscreen": "S07E04"
       }
     }
   ]
