@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T16:43:44.018684+00:00",
-  "window_start": "2026-11-22",
-  "window_end": "2026-11-29",
+  "generated_at": "2026-11-23T16:21:04.196906+00:00",
+  "window_start": "2026-11-23",
+  "window_end": "2026-11-30",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,56 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 48,
+  "count": 49,
   "programmes": [
-    {
-      "start": "2026-11-22T14:26:00+00:00",
-      "stop": "2026-11-22T16:00:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Chantilly",
-      "description": "Sous le dôme du théâtre équestre du château de Chantilly, le corps d'une jeune écuyère de 20 ans est retrouvé. Elle a été assassinée et son meurtre réveille une ancienne légende du château, celle de l'anneau magique de Louise de Budos qui avait le pouvoir maléfique de rendre amoureux n'importe qui... Alors en plein divorce, les deux capitaines de gendarmerie Antoine Mercier et Juliette Delambre se voient contraints de faire équipe pour résoudre au plus vite cette enquête. Si Antoine entend profiter de cette promiscuité inattendue pour reconquérir Juliette, ce n'est pas du tout le projet de cette dernière, qui a rencontré quelqu'un",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.3.0/1",
-        "onscreen": "S10E04"
-      }
-    },
-    {
-      "start": "2026-11-22T14:40:00+00:00",
-      "stop": "2026-11-22T16:20:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Celle qui pardonne",
-      "description": "Parti pêcher en montagne, Alex Hugo assiste, impuissant, à l'enlèvement d'Audrey, 16 ans, alors qu'elle venait d'escalader une paroi. Il aperçoit un homme jeter l'adolescente dans le coffre d'une voiture avant de démarrer en trombe. L'alpiniste est la fille d'un ami d'Alex, mort en lui sauvant la vie il y a quelques années. Cette blessure et cette culpabilité sont ravivées par ce kidnapping. L'alerte enlèvement est lancée : tandis que la police de Marseille démarre l'enquête, Alex Hugo va essayer de cerner un peu mieux la personnalité de la jeune fille et ce qu'il va découvrir est extrêmement inquiétant : Audrey semble s'être convertie à l'Islam et radicalisée.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "3.2.0/1",
-        "onscreen": "S04E03"
-      }
-    },
-    {
-      "start": "2026-11-22T16:43:00+00:00",
-      "stop": "2026-11-22T17:40:00+00:00",
-      "channel": "La Une",
-      "title": "Munch",
-      "subtitle": "Le procès",
-      "description": "Munch défend un brillant homme d'affaires philanthrope, accusé d'avoir assassiné sa femme. Tout l'accuse si ce n'est l'amour sincère qu'il portait à son épouse, qui rend le crime incompréhensible.",
-      "category": "Drama",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Munch",
-      "episode_nums": {
-        "xmltv_ns": "0.7.0/1",
-        "onscreen": "S01E08"
-      }
-    },
     {
       "start": "2026-11-23T13:05:00+00:00",
       "stop": "2026-11-23T13:37:00+00:00",
@@ -508,7 +460,7 @@
       "channel": "France 2",
       "title": "Astrid et Raphaëlle",
       "subtitle": "La forêt",
-      "description": "Entre Paris et Tokyo, Astrid, Raphaëlle et l'inspectrice japonaise Reiko Kondo unissent leurs forces pour faire éclater la vérité sur la mort d'Apu Tanaka. Fausses identités, légendes nipponnes et mystérieuse forêt maudite, les enquêtrices vont devoir se confronter à de sombres secrets familiaux. La collaboration entre les forces de l'ordre nipponnes et les envoyés français ne se passe pas sans heurts. La documentation criminelle, de son côté, peine à avoir accès à toutes les pièces du dossier. L'affaire a l'air plus complexe que prévu et ses ramifications internationales dépassent le cadre attendu...",
+      "description": "Entre Paris et Tokyo, Astrid, Raphaëlle et l'inspectrice japonaise Reiko Kondo unissent leurs forces pour faire éclater la vérité sur la mort d'Apu Tanaka. Fausses identités.",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -524,7 +476,7 @@
       "channel": "France 2",
       "title": "Astrid et Raphaëlle",
       "subtitle": "Le pensionnat",
-      "description": "Raphaëlle est sortie du coma, mais ses jambes demeurent paralysées. L'enquête sur Odin conduit Astrid et Nicolas Perran à s'intéresser à un étrange pensionnat, le collège Overlook. En menant des investigations entre ses murs, les enquêteurs découvrent bientôt que la mort suspecte d'un élève de l'établissement est curieusement reliée à celle de leur première victime. Il pourrait en effet ne pas avoir succombé à une méningite, mais avoir été empoisonné...",
+      "description": "Astrid et Raphaëlle enquêtent sur le décès d'un élève dans un pensionnat, découvrant un lien avec l'affaire Odin, ce qui complique leur investigation.",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -769,6 +721,67 @@
       "episode_nums": {
         "xmltv_ns": "6.3.0/1",
         "onscreen": "S07E04"
+      }
+    },
+    {
+      "start": "2026-11-29T14:29:00+00:00",
+      "stop": "2026-11-29T16:00:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres en Gironde",
+      "subtitle": "",
+      "description": "Éliane Caron, militante écologique, a été assassinée. À côté du cadavre se trouve une édition rare du célèbre roman « Thérèse Desqueroux » de François Mauriac, natif de la région.",
+      "category": "Mystery",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-11-29T14:45:00+00:00",
+      "stop": "2026-11-29T16:20:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La balade sauvage",
+      "description": "Alex est averti de la fugue de deux jeunes garçons de 12 et 10 ans, partis avec un pistolet volé à leur père, un militaire fraîchement rentré du Mali. Pour Alex, cette histoire a une résonance particulière. Ces deux enfants seuls dans la nature, avec une arme à feu, dont ils ne mesurent pas la dangerosité, lui est insupportable et monopolise toute son attention...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Alex Hugo",
+      "episode_nums": {
+        "xmltv_ns": "4.0.0/1",
+        "onscreen": "S05E01"
+      }
+    },
+    {
+      "start": "2026-11-29T16:42:00+00:00",
+      "stop": "2026-11-29T17:41:00+00:00",
+      "channel": "La Une",
+      "title": "Munch",
+      "subtitle": "Destins croisés - 1",
+      "description": "Munch est prise en otage en plein Palais de justice par un homme désespéré. Accusé du meurtre d'une jeune nageuse, il crie son innocence et part en cavale avec son fils de 7 ans. Touchée par leur drame, Munch va prendre le dossier à bras le corps et accepter de garder le petit garçon au cabinet, entraînant son équipe dans une aventure complètement border-line...",
+      "category": "Drama",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Munch",
+      "episode_nums": {
+        "xmltv_ns": "1.0.0/1",
+        "onscreen": "S02E01"
+      }
+    },
+    {
+      "start": "2026-11-29T21:35:00+00:00",
+      "stop": "2026-11-29T23:10:00+00:00",
+      "channel": "France 3",
+      "title": "Commissaire Dupin",
+      "subtitle": "Les secrets de Brocéliande",
+      "description": "Lors d'une escapade dominicale dans la forêt de Brocéliande, le commissaire Dupin manque de renverser une jeune femme qui vient de trouver le cadavre de son mari, Fabien Cadiou. Quelques instants plus tard, un deuxième corps, celui d'un dénommé Paul Picard, est retrouvé non loin de là, et Dupin apprend que les deux hommes étaient meilleurs amis. Son enquête progresse rapidement, et il apparaît que Picard s'était introduit chez Cadiou pour commettre un cambriolage, avant d'être lui-même tué à son tour. Qu'est-il venu chercher chez son ami ? Les deux hommes, passionnés par la légende du Roi Arthur, s'étaient opposés à la construction d'un parc d'attractions dans la forêt de Brocéliande et étaient en conflit avec le promoteur du projet, qui devient alors un suspect idéal.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "0.6.0/1",
+        "onscreen": "S01E07"
       }
     }
   ]
