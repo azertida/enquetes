@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T20:37:25.158735+00:00",
-  "window_start": "2026-11-23",
-  "window_end": "2026-11-30",
+  "generated_at": "2026-11-24T16:10:17.568488+00:00",
+  "window_start": "2026-11-24",
+  "window_end": "2026-12-01",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,111 +13,15 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 49,
+  "count": 50,
   "programmes": [
-    {
-      "start": "2026-11-23T13:05:00+00:00",
-      "stop": "2026-11-23T13:37:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "Le dernier jour",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": "0.4.0/1",
-        "onscreen": "S01E05"
-      }
-    },
-    {
-      "start": "2026-11-23T13:25:00+00:00",
-      "stop": "2026-11-23T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Or blanc",
-      "description": "Un homme fait un malaise dans sa voiture. Ayant récemment intégré les pompiers volontaires, Thomas est le premier à intervenir. L'homme a juste le temps de lui dire qu'il a été empoisonné avant de mourir dans ses bras. Xavier Martel, la victime, dirigeait une exploitation viticole et produisait un vin des plus exclusifs : l'Or Blanc. Est-ce qu'un vigneron jaloux de son succès aurait voulu éliminer un concurrent ? Les enquêteurs découvrent rapidement des irrégularités dans les volumes des cuves, il y avait des vols sur le domaine. Xavier aurait-il découvert le voleur ? Les gendarmes apprennent également que la victime était interdite de casino, il avait eu des problèmes d'addiction aux jeux par le passé. Aurait-il replongé ? Jusqu'où l'a entrainé son addiction ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.9.0/1",
-        "onscreen": "S04E10"
-      }
-    },
-    {
-      "start": "2026-11-23T13:37:00+00:00",
-      "stop": "2026-11-23T14:05:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "La clinique",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": "0.5.0/1",
-        "onscreen": "S01E06"
-      }
-    },
-    {
-      "start": "2026-11-23T14:05:00+00:00",
-      "stop": "2026-11-23T14:36:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Maloney",
-      "subtitle": "La soirée de fête",
-      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Maloney",
-      "episode_nums": {
-        "xmltv_ns": "0.6.0/1",
-        "onscreen": "S01E07"
-      }
-    },
-    {
-      "start": "2026-11-23T14:30:00+00:00",
-      "stop": "2026-11-23T15:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Village abandonné",
-      "description": "Vincent Restier est retrouvé mort dans le bureau du maire, dont il était l'adjoint. Il a été frappé à la tête avec un presse papier et poignardé dans le dos. L'homme d'affaire était revenu après 25 ans d'absence pour redynamiser ce village abandonné avec un projet de complexe de loisir. L'aurait-on tué pour l'empêcher de mener à bien ce projet ? Vincent est-il vraiment celui qu'il prétend être ? Il n'avait aucun diplôme de commerce et tout était faux dans sa vie. C'était un imposteur ; et elle fut sa première victime.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.10.0/1",
-        "onscreen": "S04E11"
-      }
-    },
-    {
-      "start": "2026-11-23T15:25:00+00:00",
-      "stop": "2026-11-23T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "La femme aux deux visages",
-      "description": "En pleine nuit, Antonin, l'un des meilleurs amis de Paul l'appelle en panique. Sa femme Cyrielle a disparu, il est persuadé qu'elle est allée se jeter du pont. Lorsque Paul arrive en bas du pont, il aperçoit Cyrielle tomber. Il se jette à l'eau mais il est trop tard, il ne parvient pas à la sauver. Les gendarmes pensent rapidement clore l'affaire. Il s'agit d'un suicide, Paul en est témoin. Mais Léa a des doutes, pou Les gendarmes découvrent que, la veille de sa mort, Cyrielle avait sorti 5 000 euros en liquide et qu'elle avait un amant, Jérôme Lasalle.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "3.11.0/1",
-        "onscreen": "S04E12"
-      }
-    },
     {
       "start": "2026-11-24T00:35:00+00:00",
       "stop": "2026-11-24T02:10:00+00:00",
       "channel": "France 2",
       "title": "L'art du crime",
       "subtitle": "La nouvelle Olympia",
-      "description": "Viré de la PJ pour insubordination, Antoine Verlay, excellent flic mais un brin sanguin et ayant du mal à travailler en équipe, est rattaché à l'OCBC (Office Central de lutte contre le trafic des Biens Culturels) grâce à l'entremise du commandant Pardo, son ami qui devient, de ce fait, son nouveau supérieur. Enquêteur malin, mais étranger à tout ce qui touche à la culture, Antoine va devoir travailler avec Florence Chassagne, historienne de l'art réputée, qui vit, parle et respire culture, au point que – fruit de sa grande imagination – il lui arrive, dans le cadre de rêveries, de voir et de parler aux grands artistes disparus comme s'ils lui étaient familiers.",
+      "description": "Emma Wurtz, une jeune secrétaire juridique de 25 ans, est retrouvée assassinée dans un studio photo. Une de ses publications sur les réseaux sociaux, qui a été effacée deux heures après sa mort, la montre posant à côté d'un tableau, \"Chez Tortoni\", un chef-d'oeuvre d'Edouard Manet disparu il y a plus de trente ans lors du cambriolage du musée Gardner de Boston. D'après ses proches, non seulement la victime n'entretenait aucun lien avec le monde de l'art, mais elle ne portait aucun intérêt à la peinture ou aux musées. En remontant la trace du tableau volé, Antoine et Florence parviendront-ils à retrouver l'assassin ? Par ailleurs, les deux enquêteurs luttent contre les sentiments qu'ils éprouvent l'un pour l'autre...",
       "category": "Crime",
       "icon": "",
       "origine": "serie",
@@ -221,8 +125,8 @@
       }
     },
     {
-      "start": "2026-11-24T21:07:00+00:00",
-      "stop": "2026-11-24T22:44:00+00:00",
+      "start": "2026-11-24T21:09:00+00:00",
+      "stop": "2026-11-24T22:47:00+00:00",
       "channel": "La Une",
       "title": "Meurtres sur le lac Léman",
       "subtitle": "",
@@ -783,6 +687,115 @@
         "xmltv_ns": "0.6.0/1",
         "onscreen": "S01E07"
       }
+    },
+    {
+      "start": "2026-11-30T13:05:00+00:00",
+      "stop": "2026-11-30T13:35:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Ruée vers l'or",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": "0.7.0/1",
+        "onscreen": "S01E08"
+      }
+    },
+    {
+      "start": "2026-11-30T13:25:00+00:00",
+      "stop": "2026-11-30T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "La malédiction de Nostradamus",
+      "description": "Julius Suton, historien spécialisé sur la vie de Nostradamus, est retrouvé mort au pied de la tour des Pins avec un mystérieux vélin à la main. Est-ce l'une des prophéties perdues de Nostradamus? Le vélin prédit-il la mort de notre victime ou est-ce qu'il indique le lieu où se cache le crâne de Nostradamus comme semble le penser Paul?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.0.0/1",
+        "onscreen": "S06E01"
+      }
+    },
+    {
+      "start": "2026-11-30T13:35:00+00:00",
+      "stop": "2026-11-30T14:03:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "L'enveloppe",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": "0.8.0/1",
+        "onscreen": "S01E09"
+      }
+    },
+    {
+      "start": "2026-11-30T14:03:00+00:00",
+      "stop": "2026-11-30T14:35:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Maloney",
+      "subtitle": "Sale affaire",
+      "description": "Les enquêtes rocambolesques du détective Philip Maloney, un privé bourru qui mène ses investigations avec esprit et malice. D'après les pièces radiophoniques cultes de l'auteur suisse Roger Graf.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Maloney",
+      "episode_nums": {
+        "xmltv_ns": "0.9.0/1",
+        "onscreen": "S01E10"
+      }
+    },
+    {
+      "start": "2026-11-30T14:30:00+00:00",
+      "stop": "2026-11-30T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Le droit chemin",
+      "description": "Le frère François est retrouvé mort devant les portes de son abbaye. Que faisait ce novice dehors en pleine nuit ? Paul retrouve dans sa cellule une bible remplie d'annotations étranges et d'un schéma qui évoque la Larme de Saint Louis, le légendaire diamant disparu. Le jeune frère aurait-il retrouvé la relique et l'aurait-on tué pour la récupérer ? Ou son meurtre est-il lié à son passé étrange comme semble le penser Léa ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.1.0/1",
+        "onscreen": "S06E02"
+      }
+    },
+    {
+      "start": "2026-11-30T15:30:00+00:00",
+      "stop": "2026-11-30T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Esprit de corps 1/2",
+      "description": "Au sein de la brigade de gendarmerie, le couple divorcé formé par la commandante Léa Soler et le capitaine Paul Marchal poursuit ses enquêtes à Montpellier et ses environs.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.2.0/1",
+        "onscreen": "S06E03"
+      }
+    },
+    {
+      "start": "2026-11-30T23:30:00+00:00",
+      "stop": "2026-12-01T00:20:00+00:00",
+      "channel": "France 3",
+      "title": "Les invisibles",
+      "subtitle": "",
+      "description": "À Wallis-et-Futuna, le handicap a longtemps vécu dans l'ombre. Invisibles aux yeux du monde, ceux qui en étaient touchés étaient mis à l'écart, privés d'un regard authentique et d'une place dans la société. Derrière les portes closes, honte et peur du jugement se mêlaient à la douleur de familles convaincues qu'un enfant différent était une malédiction. Aujourd'hui, ces superstitions s'effacent peu à peu. Mais les blessures du passé demeurent, et le chemin vers l'acceptation et l'inclusion reste long. Sur cet archipel, il est urgent de rattraper le retard en matière de reconnaissance, d'accompagnement et de dignité pour chaque personne en situation de handicap.",
+      "category": "SocialMatters",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Les Invisibles",
+      "episode_nums": {}
     }
   ]
 }
