@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T19:44:30.424162+00:00",
-  "window_start": "2026-11-24",
-  "window_end": "2026-12-01",
+  "generated_at": "2026-11-25T15:55:43.018780+00:00",
+  "window_start": "2026-11-25",
+  "window_end": "2026-12-02",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,146 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 50,
+  "count": 51,
   "programmes": [
-    {
-      "start": "2026-11-24T00:35:00+00:00",
-      "stop": "2026-11-24T02:10:00+00:00",
-      "channel": "France 2",
-      "title": "L'art du crime",
-      "subtitle": "La nouvelle Olympia",
-      "description": "Emma Wurtz, une jeune secrétaire juridique de 25 ans, est retrouvée assassinée dans un studio photo. Une de ses publications sur les réseaux sociaux, qui a été effacée deux heures après sa mort, la montre posant à côté d'un tableau, \"Chez Tortoni\", un chef-d'oeuvre d'Edouard Manet disparu il y a plus de trente ans lors du cambriolage du musée Gardner de Boston. D'après ses proches, non seulement la victime n'entretenait aucun lien avec le monde de l'art, mais elle ne portait aucun intérêt à la peinture ou aux musées. En remontant la trace du tableau volé, Antoine et Florence parviendront-ils à retrouver l'assassin ? Par ailleurs, les deux enquêteurs luttent contre les sentiments qu'ils éprouvent l'un pour l'autre...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "L'Art du crime",
-      "episode_nums": {
-        "xmltv_ns": "4.18.0/1",
-        "onscreen": "S05E19"
-      }
-    },
-    {
-      "start": "2026-11-24T00:42:00+00:00",
-      "stop": "2026-11-24T02:13:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Chantilly",
-      "description": "Sous le dôme du théâtre équestre du château de Chantilly, le corps d'une jeune écuyère de 20 ans est retrouvé. Elle a été assassinée et son meurtre réveille une ancienne légende du château, celle de l'anneau magique de Louise de Budos qui avait le pouvoir maléfique de rendre amoureux n'importe qui... Alors en plein divorce, les deux capitaines de gendarmerie Antoine Mercier et Juliette Delambre se voient contraints de faire équipe pour résoudre au plus vite cette enquête. Si Antoine entend profiter de cette promiscuité inattendue pour reconquérir Juliette, ce n'est pas du tout le projet de cette dernière, qui a rencontré quelqu'un",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "9.3.0/1",
-        "onscreen": "S10E04"
-      }
-    },
-    {
-      "start": "2026-11-24T13:30:00+00:00",
-      "stop": "2026-11-24T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "L'eau qui dort",
-      "description": "Le corps d'Olivier Croze, un entrepreneur, est retrouvé dans la fontaine du Peyrou. A-t-on voulu l'empêcher de mener à bien son projet de centre commercial qui allait dénaturer une partie de l'aqueduc Saint-Clément ? Léa découvre que la victime a été tuée suivant un supplice ancestral, la cure par l'eau. Ce meurtre est-il lié à la légende des 3 bergers de la source du Boulidou qui ont subi le même supplice, comme Paul semble le penser ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.0.0/1",
-        "onscreen": "S05E01"
-      }
-    },
-    {
-      "start": "2026-11-24T14:30:00+00:00",
-      "stop": "2026-11-24T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Secrets sur les docks",
-      "description": "Damien Berne, docker récemment promu directeur adjoint du port de Sète, est retrouvé mort sur les quais. Léa et Paul vont apprendre que Damien était prêt à tout pour obtenir cette promotion. Qui pouvait en vouloir à cet homme qui jonglait entre satisfaire la direction du port et défendre ses anciens camarades dockers ? Paul et Léa découvrent que la victime jouait double jeu. Sa mort serait-elle liée à un trafic qui sévissait dans le port ou bien à une trahison?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.1.0/1",
-        "onscreen": "S05E02"
-      }
-    },
-    {
-      "start": "2026-11-24T15:30:00+00:00",
-      "stop": "2026-11-24T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Les larmes d'Aphrodite",
-      "description": "Henri Monin a été assassiné sur la terrasse de son restaurant « Le Ponton », au bord de l'étang de Thau. Qui pouvait en vouloir à ce touche à tout de génie, inventeur de l'huitre anti-vol et restaurateur à succès ? Léa retrouve un écrin et une perle qui n'était visiblement pas destinée à sa femme. Est-ce une sombre histoire d'adultère ? Ou serait-ce lié au nouveau projet mystérieux d'Henri Monin ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.2.0/1",
-        "onscreen": "S05E03"
-      }
-    },
-    {
-      "start": "2026-11-24T20:05:00+00:00",
-      "stop": "2026-11-24T21:35:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres en Gironde",
-      "subtitle": "",
-      "description": "Éliane Caron, militante écologique, a été assassinée. À côté du cadavre se trouve une édition rare du célèbre roman « Thérèse Desqueroux » de François Mauriac, natif de la région.",
-      "category": "Mystery",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-24T20:10:00+00:00",
-      "stop": "2026-11-24T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Cold case",
-      "description": "Après la fonte des neiges, le corps d'une femme est découvert. La victime serait morte il y a plus de 25 ans. Alex et Leblanc débutent l'enquête et retrouvent une lettre manuscrite écrite par une amie de la jeune femme, Mathilde. Recherches effectuées, Alex découvre que cette personne fait partie de la police. Prévenue, elle se saisit aussitôt de l'enquête et arrive à Lusagne. Les deux flics vont tenter de s'apprivoiser et de comprendre ce drame d'il y a presque 30 ans, quand une jeune activiste idéaliste avait débarqué à Lusagne, aux côtés d'autres \"écoguerrières\"...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "8.2.0/1",
-        "onscreen": "S09E03"
-      }
-    },
-    {
-      "start": "2026-11-24T21:09:00+00:00",
-      "stop": "2026-11-24T22:47:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres sur le lac Léman",
-      "subtitle": "",
-      "description": "Evian, sur les bords du lac Léman. A 3 jours du début du festival des Flottins, grande fête populaire de la ville, un homme d'affaires suisse est retrouvé noyé. Son corps est lesté par une sculpture de Flottins, qui symbolise un être fantasmagorique. Alors que la légende locale veut que ces Flottins aient dans le passé sauvé certains habitants d'Evian de la noyade, le meurtrier use de ce folklore pour tuer... L'origine de la victime force le gandarme français en charge de l'enquête, Louis Jolly, à faire équipe avec Sandrine Zermatten, une policière suisse. Une course contre la montre s'engage avec le tueur tandis que Louis comprend peu à peu que la présence à ses côtés de Sandrine ne relève pas seulement du hasard...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-24T21:40:00+00:00",
-      "stop": "2026-11-24T23:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Mémoire morte",
-      "description": "Suite à un accident de voiture, Alex a perdu la mémoire et ne se souvient plus des six derniers mois de sa vie. Un pistolet qui a visiblement servi est découvert à l'intérieur de son véhicule. Et dans la cuisine de son chalet, plusieurs bouteilles d'alcool vides sont retrouvées...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Alex Hugo",
-      "episode_nums": {
-        "xmltv_ns": "4.1.0/1",
-        "onscreen": "S05E02"
-      }
-    },
     {
       "start": "2026-11-25T13:05:00+00:00",
       "stop": "2026-11-25T14:37:00+00:00",
@@ -796,6 +658,160 @@
       "origine": "serie",
       "serie": "Les Invisibles",
       "episode_nums": {}
+    },
+    {
+      "start": "2026-12-01T13:30:00+00:00",
+      "stop": "2026-12-01T14:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Esprit de corps 2/2",
+      "description": "Au sein de la brigade de gendarmerie, le couple divorcé formé par la commandante Léa Soler et le capitaine Paul Marchal poursuit ses enquêtes à Montpellier et ses environs.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.3.0/1",
+        "onscreen": "S06E04"
+      }
+    },
+    {
+      "start": "2026-12-01T14:25:00+00:00",
+      "stop": "2026-12-01T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Cœur de pirate",
+      "description": "Le corps d'un homme déguisé en pirate est retrouvé sans vie sur la plage. L'homme est pieds et poings liés, visiblement mort noyé. Aurait-il subi le supplice de la planche ? Serait-il un vrai pirate ? Paul et Léa découvrent qu'il avait reçu la célèbre marque noire comme dans «L'île aux trésors»... Quelqu'un le menaçait-il ? Et sa mort est-elle liée au trésor de Gaspard Dot, que la victime prétendait avoir découvert ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.4.0/1",
+        "onscreen": "S06E05"
+      }
+    },
+    {
+      "start": "2026-12-01T15:25:00+00:00",
+      "stop": "2026-12-01T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Dernier vol",
+      "description": "William Martel, propriétaire d'un aérodrome, est retrouvé mort dans son bureau, assommé par l'un de ses trophées de voltige. Léa s'interroge sur l'emploi du temps de William, qui a menti à ses proches à ce propos. Que faisait-il de si mystérieux ? Paul découvre que le planneur de la victime a disparu... Est-ce la raison pour laquelle on l'a tué ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.5.0/1",
+        "onscreen": "S06E06"
+      }
+    },
+    {
+      "start": "2026-12-01T20:05:00+00:00",
+      "stop": "2026-12-01T21:44:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Guadeloupe",
+      "description": "La lieutenant Telumée Magloire, de retour sur sa terre natale en Guadeloupe, doit enquêter sur le meurtre mystérieux d'un puissant industriel. Sa hiérarchie l'oblige à faire équipe avec un flic réserviste, vieux loup solitaire, le piquant Jean-Baptiste Lonteau pour qui, l'île n'a pas de secrets. Alors qu'un deuxième meurtre a lieu, tout aussi étrange que le premier, ils vont devoir découvrir ensemble qui sème la terreur, entre intrigantes traditions locales comme le quimbois et la réalité sociale et culturelle du pays.Une enquête qui va également résonner douloureusement avec leur histoire intime et personnelle. Une affaire dont ils ne ressortiront pas indemnes mais qui les aidera chacun à avancer et à (se) pardonner.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.7.0/1",
+        "onscreen": "S10E08"
+      }
+    },
+    {
+      "start": "2026-12-01T20:10:00+00:00",
+      "stop": "2026-12-01T21:00:00+00:00",
+      "channel": "France 3",
+      "title": "Tom et Lola",
+      "subtitle": "Loge rouge",
+      "description": "La Muzicale de Toulon a fait le plein pour le concert très attendu d'Anna Lombardi. Après son show, la chanteuse est retrouvée sans vie dans sa loge par une journaliste venue l'interviewer.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tom et Lola",
+      "episode_nums": {
+        "xmltv_ns": "2.0.0/1",
+        "onscreen": "S03E01"
+      }
+    },
+    {
+      "start": "2026-12-01T20:15:00+00:00",
+      "stop": "2026-12-01T22:13:00+00:00",
+      "channel": "TF1",
+      "title": "Jack Mimoun et les secrets de Val Verde",
+      "subtitle": "",
+      "description": "Deux ans après avoir survécu seul sur l'île hostile de Val Verde, Jack Mimoun est devenu une star de l'aventure. Le livre relatant son expérience est un best-seller et son émission télévisée bat des records d'audience. Il est alors approché par la mystérieuse Aurélie Diaz qui va ramener Jack Mimoun au Val Verde pour l'entraîner à la recherche de l'épée légendaire du pirate La Buse. Accompagnés de Bruno Quézac, l'ambitieux mais peu téméraire manager de Jack, et de Jean-Marc Bastos, un mercenaire aussi perturbé qu'imprévisible, nos aventuriers vont se lancer dans une incroyable chasse au trésor à travers la jungle de l'île aux mille dangers.",
+      "category": "Comedy",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-12-01T21:00:00+00:00",
+      "stop": "2026-12-01T21:50:00+00:00",
+      "channel": "France 3",
+      "title": "Tom et Lola",
+      "subtitle": "A la dérive",
+      "description": "Un matin, Alexis reçoit un message troublant sur sa console : Pablo, son meilleur ami, affirme avoir été enlevé et être enfermé dans la cabine d'un bateau quelque part en pleine mer.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tom et Lola",
+      "episode_nums": {
+        "xmltv_ns": "2.1.0/1",
+        "onscreen": "S03E02"
+      }
+    },
+    {
+      "start": "2026-12-01T21:07:00+00:00",
+      "stop": "2026-12-01T22:51:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Etretat",
+      "subtitle": "",
+      "description": "Etretat, station balnéaire huppée du Pays des Hautes Falaises, vit sereinement jusqu'au jour où Gilbert Maréchal, grand notable local, est retrouvé mort après être tombé des falaises. La police retrouve une lettre de suicide sur lui, mais tout porte à croire qu'il s'agit d'un meurtre...Karine et Victor sont en charge de l'enquête alors que des secrets familiaux planent sur le clan Maréchal... Sans compter que Gilbert, fervent religieux, a légué sa fortune à une abbaye dont l'une des nonnes a disparu le jour même de sa mort...Ces deux affaires sont-elles liées ?Qui pouvait en vouloir à Gilbert Maréchal, homme apprécié de tous, généreux et dévoué ?",
+      "category": "Drama",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-12-01T21:50:00+00:00",
+      "stop": "2026-12-01T22:45:00+00:00",
+      "channel": "France 3",
+      "title": "Tom et Lola",
+      "subtitle": "En apnée",
+      "description": "Amis d'enfance, Tom et Lola sont devenus policiers tous les deux. Alors que Tom est en colocation \"provisoire\" chez Lola depuis sa séparation avec sa femme, le téléphone sonne.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tom et Lola",
+      "episode_nums": {
+        "xmltv_ns": "0.0.0/1",
+        "onscreen": "S01E01"
+      }
+    },
+    {
+      "start": "2026-12-01T22:45:00+00:00",
+      "stop": "2026-12-01T23:35:00+00:00",
+      "channel": "France 3",
+      "title": "Tom et Lola",
+      "subtitle": "Une affaire de savon",
+      "description": "Michaël, jeune apprenti dans une savonnerie artisanale, est retrouvé mort, baignant dans une marre de savon. Si tout semble indiquer qu'il a été assassiné.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tom et Lola",
+      "episode_nums": {
+        "xmltv_ns": "0.1.0/1",
+        "onscreen": "S01E02"
+      }
     }
   ]
 }
