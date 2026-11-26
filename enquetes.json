@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T18:52:01.161760+00:00",
-  "window_start": "2026-11-25",
-  "window_end": "2026-12-02",
+  "generated_at": "2026-11-26T15:36:51.129897+00:00",
+  "window_start": "2026-11-26",
+  "window_end": "2026-12-03",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,69 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 51,
+  "count": 53,
   "programmes": [
-    {
-      "start": "2026-11-25T13:05:00+00:00",
-      "stop": "2026-11-25T14:37:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Meurtres en Gironde",
-      "subtitle": "",
-      "description": "Éliane Caron, militante écologique, a été assassinée. À côté du cadavre se trouve une édition rare du célèbre roman « Thérèse Desqueroux » de François Mauriac, natif de la région.",
-      "category": "Mystery",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {}
-    },
-    {
-      "start": "2026-11-25T13:25:00+00:00",
-      "stop": "2026-11-25T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Le serment d'hippocrate",
-      "description": "Comment Quentin Brunel, étudiant en seconde année de médecine s'est retrouvé dans un des tiroirs de la morgue de la fac ? Serait-ce un bizutage qui aurait mal tourné ? Paul et Léa découvrent que cet étudiant cachait une redoutable ambition, au point de commettre l'irréparable ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.3.0/1",
-        "onscreen": "S05E04"
-      }
-    },
-    {
-      "start": "2026-11-25T14:30:00+00:00",
-      "stop": "2026-11-25T15:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Jeux de trône",
-      "description": "Lors d'un combat à l'épée, un chevalier s'effondre. Lorsqu'on lui retire son heaume, ce n'est pas un cascadeur comme prévu mais Noémie de Laurentis, la propriétaire du château, elle a été empoisonnée. Pourquoi était-elle dans l'armure ? Qui pouvait bien en vouloir à cette jeune femme qui se battait pour faire vivre son château ? Paul et Léa vont découvrir que la vie de château est bien loin de celle des contes de fées.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.4.0/1",
-        "onscreen": "S05E05"
-      }
-    },
-    {
-      "start": "2026-11-25T15:30:00+00:00",
-      "stop": "2026-11-25T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Un homme a la mer",
-      "description": "Patrick Catala, le président de la station SNSM de Port Camargue est retrouvé noyé dans le port. Qui pouvait en vouloir à ce sauveteur passionné ? Erwan apprend qu'il y a eu plusieurs plaintes contre la station pour des retards d'intervention, quelqu'un sabotait la navette de SNSM. Qui ? Patrick a-t-il découvert le saboteur qui l'aurait fait taire ? Serait-ce Jules le mécanicien de la station et ami d'enfance de Paul ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.5.0/1",
-        "onscreen": "S05E06"
-      }
-    },
     {
       "start": "2026-11-26T13:30:00+00:00",
       "stop": "2026-11-26T14:25:00+00:00",
@@ -125,8 +64,8 @@
       }
     },
     {
-      "start": "2026-11-26T19:31:00+00:00",
-      "stop": "2026-11-26T20:32:00+00:00",
+      "start": "2026-11-26T19:32:00+00:00",
+      "stop": "2026-11-26T20:30:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "La bombe écarlate",
@@ -157,8 +96,8 @@
       }
     },
     {
-      "start": "2026-11-26T20:32:00+00:00",
-      "stop": "2026-11-26T21:36:00+00:00",
+      "start": "2026-11-26T20:30:00+00:00",
+      "stop": "2026-11-26T21:39:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
       "subtitle": "Le livre de Thot",
@@ -811,6 +750,102 @@
       "episode_nums": {
         "xmltv_ns": "0.1.0/1",
         "onscreen": "S01E02"
+      }
+    },
+    {
+      "start": "2026-12-02T13:05:00+00:00",
+      "stop": "2026-12-02T14:41:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres en Guadeloupe",
+      "description": "La lieutenant Telumée Magloire, de retour sur sa terre natale en Guadeloupe, doit enquêter sur le meurtre mystérieux d'un puissant industriel. Sa hiérarchie l'oblige à faire équipe avec un flic réserviste, vieux loup solitaire, le piquant Jean-Baptiste Lonteau pour qui, l'île n'a pas de secrets. Alors qu'un deuxième meurtre a lieu, tout aussi étrange que le premier, ils vont devoir découvrir ensemble qui sème la terreur, entre intrigantes traditions locales comme le quimbois et la réalité sociale et culturelle du pays.Une enquête qui va également résonner douloureusement avec leur histoire intime et personnelle. Une affaire dont ils ne ressortiront pas indemnes mais qui les aidera chacun à avancer et à (se) pardonner.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "telefilm",
+      "serie": null,
+      "episode_nums": {
+        "xmltv_ns": "9.7.0/1",
+        "onscreen": "S10E08"
+      }
+    },
+    {
+      "start": "2026-12-02T13:25:00+00:00",
+      "stop": "2026-12-02T14:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "L'arche de Noé",
+      "description": "Cécile Bazin, directrice du zoo, est retrouvée morte dans l'enclos des guépards. Malgré les traces de morsures, ce n'est pas le guépard qui l'a tuée. Aurait-on voulu faire croire à un accident en laissant entrer le fauve dans l'enclos alors qu'il aurait dû passer la nuit dans sa loge ? Léa et Paul découvrent que Cécile ne manquait pas d'ennemis, elle a reçu des centaines de menaces suite à l'annonce de l'euthanasie d'un bébé guépard né avec une anomalie génétique. L'a-t-on tuée pour sauver l'animal ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.6.0/1",
+        "onscreen": "S06E07"
+      }
+    },
+    {
+      "start": "2026-12-02T14:25:00+00:00",
+      "stop": "2026-12-02T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Frères de sang",
+      "description": "Des pêcheurs surprennent Julien, le petit-ami d'Alice, en train de nettoyer une scène de crime sur le port. Tout l'accuse d'avoir tué son ami, Mickael. Léa tente désespérément d'obtenir des explications de Julien qui reste mutique. Pourquoi s'en est-il pris à celui qu'il considère comme son frère ? Léa tient à suivre les procédures afin que cela ne puisse se retourner contre Julien ou sa famille, mais Alice, convaincue de l'innocence de Julien, est prête à tout, quitte à se mettre en danger pour l'aider. L'affaire ne laissera pas la famille Soler-Marchal indemne.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.7.0/1",
+        "onscreen": "S06E08"
+      }
+    },
+    {
+      "start": "2026-12-02T15:25:00+00:00",
+      "stop": "2026-12-02T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "3248 km",
+      "description": "La petite Léonore est enlevée à la crèche pendant la sieste. Une vraie course contre la montre s'engage pour Léa et Paul, qui doivent retrouver l'enfant au plus vite. La situation familiale de Léonore n'est peut-être pas étrangère au rapt. En effet, les parents de la petite se disputent sa garde, le père souhaitant ramener sa fille dans son pays. L'un des deux aurait-il enlevé l'enfant, de peur que le jugement ne lui soit pas favorable ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.8.0/1",
+        "onscreen": "S06E09"
+      }
+    },
+    {
+      "start": "2026-12-02T20:10:00+00:00",
+      "stop": "2026-12-02T21:45:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Marleau à Saint-Tropez",
+      "description": "Avec l'aide d'un prêtre, la capitaine Marleau tente d'élucider le suicide d'une jeune Espagnole, qui semblait liée à une charismatique abbesse.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "4.4.0/1",
+        "onscreen": "S05E05"
+      }
+    },
+    {
+      "start": "2026-12-02T21:45:00+00:00",
+      "stop": "2026-12-02T23:20:00+00:00",
+      "channel": "France 2",
+      "title": "Capitaine Marleau",
+      "subtitle": "Brouillard en thalasso",
+      "description": "Dans la thalasso d'un hôtel de luxe, le corps d'un sexagénaire est retrouvé mort, immergé dans un bain de boue. Dépêchée sur les lieux, Marleau procède à l'arrestation d'un jeune SDF que tout semble accuser.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Capitaine Marleau",
+      "episode_nums": {
+        "xmltv_ns": "0.3.0/1",
+        "onscreen": "S01E04"
       }
     }
   ]
