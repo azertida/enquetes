@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T18:40:39.414897+00:00",
-  "window_start": "2026-11-26",
-  "window_end": "2026-12-03",
+  "generated_at": "2026-11-27T15:27:50.414695+00:00",
+  "window_start": "2026-11-27",
+  "window_end": "2026-12-04",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -13,104 +13,8 @@
   ],
   "missing_channels": [],
   "series_count": 65,
-  "count": 53,
+  "count": 54,
   "programmes": [
-    {
-      "start": "2026-11-26T13:30:00+00:00",
-      "stop": "2026-11-26T14:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Seconde chance",
-      "description": "Hervé Levers, président d'une association de chantiers de réinsertion, chute du haut d'un échafaudage. Est-ce un des détenus qui l'a frappé ? Ou serait-ce un villageois mécontent de voir arriver des détenus en semi-liberté dans le village ? Mais il y a un autre mystère, après une reconstitution, Léa s'aperçoit qu'il était impossible d'accéder à l'échafaudage sans être vu par les autres détenus. Comment le meurtrier a-t-il fait ?",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.6.0/1",
-        "onscreen": "S05E07"
-      }
-    },
-    {
-      "start": "2026-11-26T14:25:00+00:00",
-      "stop": "2026-11-26T15:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Disparition inquiétante",
-      "description": "Le corps d'un homme est aperçu par une ornithologue dans la forêt de Vigan. Mais lorsque les gendarmes arrivent sur les lieux, il a disparu. Quelques jours plus tard, Magali Montoriol, la chef d'un restaurant étoilé, vient déclarer la disparition de son mari, Fabrice. Serait-ce lui que l'ornithologue a aperçu ? Léa trouve Magali étonnement sereine face à cette disparition plus qu'inquiétante. Elle est persuadée que cette dernière a tué son mari. Mais comment le prouver sans le corps ? Un duel haletant s'annonce entre Léa et Magali.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.7.0/1",
-        "onscreen": "S05E08"
-      }
-    },
-    {
-      "start": "2026-11-26T15:25:00+00:00",
-      "stop": "2026-11-26T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Juste une illusion",
-      "description": "Alors qu'il répète son dernier tour, le célèbre magicien, Lazlo Kane est retrouvé mort au milieu de la pinède du Domaine d'O. Il a été victime d'une allergie, quelqu'un a glissé sciemment des huiles essentielles de genévrier dans son thermos. Mais comment a-t-on fait sans que Lazlo ne s'en aperçoive ? Serait-ce l'un de ses techniciens ? Pour Paul, le meurtrier est forcément un magicien. Le tandem devra user de toute sa magie pour comprendre ce tour de passe-passe.",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Tandem",
-      "episode_nums": {
-        "xmltv_ns": "4.8.0/1",
-        "onscreen": "S05E09"
-      }
-    },
-    {
-      "start": "2026-11-26T19:32:00+00:00",
-      "stop": "2026-11-26T20:30:00+00:00",
-      "channel": "La Une",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "La bombe écarlate",
-      "description": "Un tueur au visage couvert d'un masque à gaz sème la panique en abandonnant ses victimes, le visage peint en rouge. En suivant la piste d'un ancien camp de vacances, l'enquête d'Astrid et Raphaëlle fait peu à peu ressurgir une sordide machination criminelle...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "6.2.0/1",
-        "onscreen": "S07E03"
-      }
-    },
-    {
-      "start": "2026-11-26T20:10:00+00:00",
-      "stop": "2026-11-26T21:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Nancy",
-      "description": "Nancy, la capitale française de l'Art Nouveau. Une ville où il fait bon longer les façades bourgeoises du centre, flâner sur les bords de la Meurthe, au Musée des Beaux-arts ou sur la célèbre Place Stanislas... Sauf quand le cadavre d'une femme est retrouvé, lors d'une vente aux enchères d'Art Nouveau, avec l'inscription « Guenoche », synonyme de sorcière en vieux français. La capitaine de police Laurence Weber et le Lieutenant Chloé Guérin...la nouvelle compagne de son fils, mènent alors l'enquête",
-      "category": "Crime",
-      "icon": "",
-      "origine": "telefilm",
-      "serie": null,
-      "episode_nums": {
-        "xmltv_ns": "8.10.0/1",
-        "onscreen": "S09E11"
-      }
-    },
-    {
-      "start": "2026-11-26T20:30:00+00:00",
-      "stop": "2026-11-26T21:39:00+00:00",
-      "channel": "La Une",
-      "title": "Astrid et Raphaëlle",
-      "subtitle": "Le livre de Thot",
-      "description": "Une femme est retrouvée morte dans les sous-sols d'une église copte, embaumée comme une momie par un jeune homme qui réussit à s'échapper. Peu à peu, l'enquête oriente les recherches vers un mystérieux livre de l'Égypte antique qui renfermerait les secrets de l'immortalité...",
-      "category": "Crime",
-      "icon": "",
-      "origine": "serie",
-      "serie": "Astrid et Raphaëlle",
-      "episode_nums": {
-        "xmltv_ns": "6.3.0/1",
-        "onscreen": "S07E04"
-      }
-    },
     {
       "start": "2026-11-27T13:25:00+00:00",
       "stop": "2026-11-27T14:25:00+00:00",
@@ -240,7 +144,7 @@
       }
     },
     {
-      "start": "2026-11-28T13:48:00+00:00",
+      "start": "2026-11-28T13:49:00+00:00",
       "stop": "2026-11-28T15:30:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Etretat",
@@ -270,7 +174,7 @@
     },
     {
       "start": "2026-11-28T16:33:00+00:00",
-      "stop": "2026-11-28T17:32:00+00:00",
+      "stop": "2026-11-28T17:34:00+00:00",
       "channel": "La Une",
       "title": "Léo Mattéï, brigade des mineurs",
       "subtitle": "Génération libérée",
@@ -285,8 +189,8 @@
       }
     },
     {
-      "start": "2026-11-28T19:51:00+00:00",
-      "stop": "2026-11-28T21:30:00+00:00",
+      "start": "2026-11-28T19:48:00+00:00",
+      "stop": "2026-11-28T21:28:00+00:00",
       "channel": "La Une",
       "title": "Alexandra Ehle",
       "subtitle": "Faux semblants",
@@ -365,7 +269,7 @@
       }
     },
     {
-      "start": "2026-11-28T21:35:00+00:00",
+      "start": "2026-11-28T21:34:00+00:00",
       "stop": "2026-11-28T22:29:00+00:00",
       "channel": "La Une",
       "title": "Astrid et Raphaëlle",
@@ -458,7 +362,7 @@
       }
     },
     {
-      "start": "2026-11-29T16:42:00+00:00",
+      "start": "2026-11-29T16:39:00+00:00",
       "stop": "2026-11-29T17:41:00+00:00",
       "channel": "La Une",
       "title": "Munch",
@@ -846,6 +750,115 @@
       "episode_nums": {
         "xmltv_ns": "0.3.0/1",
         "onscreen": "S01E04"
+      }
+    },
+    {
+      "start": "2026-12-03T13:05:00+00:00",
+      "stop": "2026-12-03T14:40:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Poulets grillés",
+      "subtitle": "Les secrets de l'hôtel",
+      "description": "Qui a tué Sofia Popova, la femme de ménage du charmant hôtel tenu par la famille Leroy ? Une nouvelle enquête pour la 4e brigade.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Poulets grillés",
+      "episode_nums": {
+        "xmltv_ns": "1.2.0/1",
+        "onscreen": "S02E03"
+      }
+    },
+    {
+      "start": "2026-12-03T13:35:00+00:00",
+      "stop": "2026-12-03T14:35:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "En eaux troubles",
+      "description": "Des coups de feu retentissent au bord de l'étang du Méjean, une agent de la défense de la nature est retrouvée morte. Le meurtrier n'est pas loin, il faut faire vite. Les gendarmes comprennent que la victime avait manigancé pour enquêter autour de l'étang. Léa est persuadée qu'elle cherchait quelque chose dans l'étang, mais quoi ? Elle envoie des plongeurs qui sortent un deuxième corps. Qui est cette deuxième victime qui n'a visiblement pas été déclarée disparue ? Quel est le lien entre les deux victimes ? Ont-elles été tuées par la même personne ?",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.9.0/1",
+        "onscreen": "S06E10"
+      }
+    },
+    {
+      "start": "2026-12-03T14:35:00+00:00",
+      "stop": "2026-12-03T15:30:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Corpus Mortem 1/2",
+      "description": "Au sein de la brigade de gendarmerie, le couple divorcé formé par la commandante Léa Soler et le capitaine Paul Marchal poursuit ses enquêtes à Montpellier et ses environs.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.10.0/1",
+        "onscreen": "S06E11"
+      }
+    },
+    {
+      "start": "2026-12-03T15:30:00+00:00",
+      "stop": "2026-12-03T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem",
+      "subtitle": "Corpus Mortem 2/2",
+      "description": "Au sein de la brigade de gendarmerie, le couple divorcé formé par la commandante Léa Soler et le capitaine Paul Marchal poursuit ses enquêtes à Montpellier et ses environs.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {
+        "xmltv_ns": "5.11.0/1",
+        "onscreen": "S06E12"
+      }
+    },
+    {
+      "start": "2026-12-03T19:33:00+00:00",
+      "stop": "2026-12-03T20:31:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "Sainte-Honorine",
+      "description": "Un batelier est retrouvé mort assassiné sur sa péniche, le long des quais de la Seine. L'enquête oriente progressivement les recherches sur la piste d'une terrible vengeance...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.4.0/1",
+        "onscreen": "S07E05"
+      }
+    },
+    {
+      "start": "2026-12-03T20:10:00+00:00",
+      "stop": "2026-12-03T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Tandem : Retour vers le passé",
+      "subtitle": "",
+      "description": "Léa et Paul, très amoureux, partent en vacances en famille dans la nouvelle maison d'Annie et Pierre. Loin de Montpellier et de la gendarmerie, ils comptent bien profiter de ce temps en famille.",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Tandem",
+      "episode_nums": {}
+    },
+    {
+      "start": "2026-12-03T20:31:00+00:00",
+      "stop": "2026-12-03T21:30:00+00:00",
+      "channel": "La Une",
+      "title": "Astrid et Raphaëlle",
+      "subtitle": "Les survivants",
+      "description": "Le corps d'un père de famille est retrouvé en pleine forêt, tué par une flèche. L'affaire se corse pour nos enquêteurs lorsqu'ils découvrent que la victime était adepte du survivalisme...",
+      "category": "Crime",
+      "icon": "",
+      "origine": "serie",
+      "serie": "Astrid et Raphaëlle",
+      "episode_nums": {
+        "xmltv_ns": "6.5.0/1",
+        "onscreen": "S07E06"
       }
     }
   ]
